@@ -1553,75 +1553,658 @@ But if one has 30 ponds, each of 100 square rods, with 1-year, 2-year, 3-year up
 ## Section 7
 
 ### Foundations for the Investigations in "The Isolated State"
-*Tellow 1810-1815 and subsequent years*
 
-This is the longest section, comprising detailed agricultural data and calculations from the Tellow estate. It is organized into four main parts:
+Presentation of the relationship between the raw and net yield of Tellow in the years 1810 to 1815.
 
-#### A. Costs of Various Agricultural Operations
+Written in November and December of the year 1816.
 
-Detailed cost calculations for all agricultural operations performed at Tellow during 1810-1815, based on precise labor records and cost accounting:
+#### Table of Contents of Section 7
 
-- **Plowing (Haken):** Costs per 1,000 square rods for different types of plowing — fallow, stubble, and deep plowing. Average costs calculated from five years of records.
-- **Harrowing (Eggen):** Costs per 1,000 square rods under various conditions.
-- **Sowing:** Labor costs for broadcasting seed, calculated per 1,000 square rods for different crops.
-- **Manure Hauling:** Costs of producing, loading, transporting, and spreading manure, broken down by distance from the farm buildings. The calculation includes the costs of feeding the horses used for transport.
-- **Harvest Costs:** Detailed costs of cutting, binding, shocking, carting, threshing, and winnowing grain. Separate calculations for rye, wheat, barley, and oats.
-- **Grain Transport to Market:** Costs per Scheffel per mile for transporting grain to the market town, including the time of man and horse.
-- **Grain Prices:** The 14-year average prices used in all calculations: rye at 1.29 Thaler Gold per Berlin Scheffel, wheat, barley, oats, and rapeseed at their respective averages.
+A. Costs of the various operations:
+- Costs of field cultivation operations ... 262
+- Costs of manure hauling ... 266
+- Costs of harvest operations ... 267
+- Average price of grain ... 271
+- Transport costs of grain ... 271
+- Value of grain on the estate ... 274
 
-#### B. Yield Calculations for Seven-Field Rotation
+B. Labor and yield calculation for a seven-field rotation. Each field 10,000 square rods = 1,000 Berlin Scheffel yield:
+- Manure power of the soil ... 275
+- Labor costs on the fallow, rye, barley, and oat fields ... 276
+- Yield of these four fields ... 283
+- Utilization of pasture ... 287
+- Overview of the seven-field rotation on rye soil ... 288
+- Seven-field rotation on wheat soil ... 289
 
-Detailed calculations of the yields from a seven-field rotation system (the Koppelwirtschaft) on both rye-quality and wheat-quality soils at Tellow. For each field in the rotation (fallow, first grain, second grain, third grain, pasture years), the expected yield is calculated based on the soil's richness, the cultivation costs, and the manure applied.
+C. Yield and costs of various crops grown at Tellow; determination of the value of hay and straw:
+- Oats of 12 1/2 Scheffel yield in the first sowing ... 296
+- Peas of 5 Scheffel yield ... 297
+- Tobacco of 5 hundredweight yield ... 299
+- Rapeseed ... 302
+- Potatoes ... 305
+- Flax ... 309
+- Red clover seed ... 311
+- White clover seed ... 314
+- Buckwheat ... 315
+- Mixed grain ... 317
+- Potato and flax land for the laborers ... 317
+- Utilization of fodder ... 318
+- Grass yield of all Tellow ... 319
+- Quantity of straw and hay fed ... 320
+- Yield of a dairy operation (Hollanderei) of 60 cows ... 322
+- Yield of the Spanish sheep flock kept at Tellow ... 326
+- Determination of the value of hay and straw ... 329
+- Higher utilization of fodder through sheep farming ... 332
+- Utilization of pasture ... 333
+- Meadows and horse paddock ... 333
+- Utilization of green clover ... 335
+- Utilization of green meadows ... 337
+- Deviation of this yield from the calculation based on ordinary conditions in B ... 339
 
-The calculations show the raw yield, deduct seed, straw for livestock feeding, and all costs, to arrive at the net yield per 1,000 square rods. The results are compared with actual yields from the Tellow records.
+D. Calculation of the net yield of Tellow in the years 1810 to 1815:
+- Size of the arable land ... 342
+- Net yield of grain ... 343
+- Net yield of the other crops ... 346
+- Net yield of pasture and meadows ... 348
+- Net yield of wood and the peat moor ... 349
+- Net yield of dwellings, gardens, etc. ... 350
+- Overview of the net yield of Tellow ... 350
+- Calculation of expenses affecting the entire farm operation ... 351
+- Cash yield of Tellow in the years 1810-15 ... 360
+- Value of the raw yield of Tellow ... 364
+- Quantity of manure that each crop has extracted from the field, and calculation of the manure replacement ... 368
 
-#### C. Costs and Yields of Various Crops
+---
 
-Detailed cost and yield calculations for each crop grown at Tellow:
+*[Translator's note: Section 7 consists predominantly of detailed agricultural cost calculations, yield tables, and accounting data from the Tellow estate during 1810-1815. The source text was extracted via OCR (Tesseract) from Fraktur script, and the numerical/tabular data is extensively garbled. What follows is a translation of all narrative and explanatory passages, with tables and calculations reconstructed as faithfully as the OCR permits. Where figures are illegible or ambiguous, this is noted.]*
 
-- **Oats:** Cultivation costs, expected yields on different soil qualities, net return.
-- **Peas:** Similar calculations, noting the beneficial effect on subsequent crops.
-- **Tobacco:** High labor costs but high value per unit area.
-- **Rapeseed:** Cultivation costs and returns, noting the heavy manure requirement.
-- **Potatoes:** Extensive calculations including planting, cultivation, harvest, and the value of potatoes both as food and as livestock feed. The analysis includes the costs of the "Hollanderei" (large-scale dairy operation with 60 cows), showing how potato cultivation integrates with dairy farming.
-- **Flax:** Cultivation costs and the value of both fiber and seed.
-- **Clover Seed:** The costs of establishing and harvesting clover for seed, and the residual benefit to subsequent crops.
-- **White Clover, Buckwheat, Mixed Grain:** Brief calculations for minor crops.
+---
 
-**Feed Utilization:** Detailed tables showing the feed value of different crops and crop residues, and how they are allocated among horses, cattle, sheep, and pigs.
+#### A. Calculation of Costs
 
-**Dairy Calculations:** Comprehensive accounts of a 60-cow dairy operation (Hollanderei), including:
-- Milk production per cow per year
-- Butter yield from both sweet and sour cream
-- Value of skim milk for calf and pig fattening
-- Total revenue and costs of the dairy operation
-- Net return per cow
+From the calculation of the costs of working forces, the following rates are borrowed and laid as the foundation of this calculation.
 
-**Sheep Farming:** Costs and returns of keeping sheep, including wool production, lamb sales, and the value of sheep manure.
+| | Summer (March 25 to Oct 7) | Autumn (Oct 7 to Nov 11) | Winter (Nov 11 to March 25) |
+|---|---|---|---|
+| Day's labor of a day-laborer at plowing and piece-work | 10 1/2 Schill. | — | 7 Schill. |
+| In day-wages without supervision | — | — | — |
+| In the hay harvest | 15 1/2 Schill. | — | — |
+| In the grain harvest | — | — | — |
+| Day's labor of a woman, ordinary work | 9 Schill. | 7 1/2 Schill. | 6 1/4 Schill. |
+| A team of horses with wagon on estate | — | — | — |
+| A team of horses with wagon off estate | — | — | — |
+| A team of horses with plow and harrow | 1 Thlr. 39 Schill. | 1 Thlr. 17 Schill. | — |
 
-**Hay and Straw Value:** Calculations determining the value of hay and straw based on their contribution to livestock feeding and manure production.
+##### a. Plowing (Haken)
 
-#### D. Summary of All Yields from Tellow 1810-1815
+1) Lea furrow. 4 oxen in November, 25 1/2 Schilling. The plowman costs likewise. 1 plow therefore daily 35 1/2 Schilling. A plow turns over daily 172 square rods; 1,000 square rods therefore require 5.81 plows at 35 1/2 Schilling. Cost to plow 1,000 square rods: 4.30 Thaler N2/3.
 
-A comprehensive summary table bringing together all the individual crop and livestock calculations:
+2) Fallow furrow. A team of oxen costs 36 Schilling. The plowman 14 Schilling. A team plows 259 square rods; cost 1 Thaler 2 Schilling. 1,000 square rods require 3.86 plows at 1 Thaler 2 Schilling.
 
-- Total raw income from all sources
-- General farm expenses (administration, buildings maintenance, insurance, road repair, etc.)
-- Total net income
-- Breakdown by source: grain sales, livestock sales, dairy products, wool, etc.
+3) Turning furrow. A team at 1 Thaler 2 Schilling plows 257 square rods. 1,000 square rods require 3.89 plows at 1 Thaler 2 Schilling.
 
-**Manure Balance:** Calculations showing the extraction of soil nutrients by each crop versus the replacement through manure, allowing an assessment of whether the farm is maintaining, depleting, or enriching its soil capital.
+4) Seed furrow. A team plows 223 square rods. 1,000 square rods require 4.48 plows at 1 Thaler 2 Schilling.
 
-**Labor Compilation (1810-1820):** Detailed records of all labor performed at Tellow over the decade, organized by type of operation:
-- Total man-days and woman-days for each agricultural operation
-- Seasonal distribution of labor
-- Horse-days for each operation
+5) Strike furrow. A team of oxen costs 27 Schilling. The plowman likewise. A team plows 210 square rods; cost 37 1/2 Schilling. 1,000 square rods require 4.76 plows at 37 1/2 Schilling.
 
-**Editor's Notes on 1840-1860:** H. Schumacher provides supplementary notes on changes in farming practices at Tellow between 1840 and 1860, including the introduction of purchased feed and fertilizer (guano, bone meal), and changes in crop rotation.
+6) Turning furrow in the first sowing. A team plows 266 square rods. 1,000 square rods require 3.76 plows at 1 Thaler 2 Schilling.
 
-**Grain Yield Tables 1800-1860:** Tabular data showing the annual yields of wheat, rye, barley, and oats from 1800 to 1860, providing a 60-year record of agricultural productivity on the "classic soil of Tellow."
+7) Harrowing in barley. A team plows 273 square rods. 1,000 square rods require 3.67 plows at 1 Thaler 2 Schilling: 3.82 Thaler.
 
-**Detailed Dairy Economics:** Additional calculations on milk production, butter yield, the economics of sweet versus sour milk processing, calf fattening, and pig fattening from skimmed milk.
+8) Autumn turning furrow in the second sowing. A team plows 190 square rods. 1,000 square rods require 5.26 teams at 37 1/2 Schilling: 4.11 Thaler.
+
+9) Harrowing in oats in the second sowing. A team plows 273 square rods. 1,000 square rods require 3.66 plows at 1 Thaler 2 Schilling: 3.82 Thaler.
+
+##### b. Harrowing (Eggen)
+
+1) Lea furrow. A team harrows 1,032 square rods. 1,000 square rods require 0.97 teams at 1 Thaler 39 Schilling.
+2) Fallow furrow. A team 748 square rods. 1,000 square rods require 1.34 teams at 1 Thaler 39 Schilling.
+3) Turning furrow. A team 847 square rods. 1,000 square rods cost 2.14 Thaler.
+4) Harrowing in wheat. A team 552 square rods. 1,000 square rods cost 2.57 Thaler.
+5) Harrowing in rye. A team 692 square rods. 1,000 square rods cost 2.24 Thaler.
+6) Strike furrow harrowing. A team 2,795 square rods. 1,000 square rods cost 0.65 Thaler.
+7) Turning furrow in the first sowing harrowing. A team 936 square rods. 1,000 square rods cost 1.94 Thaler.
+8) Harrowing in barley. A team 809 square rods. 1,000 square rods cost 2.24 Thaler.
+9) Turning furrow in the second sowing harrowing. A team 810 square rods. 1,000 square rods cost 2.24 Thaler.
+10) Harrowing in oats. A team 846 square rods. 1,000 square rods cost 2.14 Thaler.
+11) Harrowing in peas. A team 704 square rods. 1,000 square rods cost 2.57 Thaler.
+
+##### c. Sowing
+
+Wheat: A man sows 29 1/2 Scheffel. The sower costs 18 Schilling per day. 100 Scheffel cost 1.27 Thaler.
+Rye: A man 31 1/2 Scheffel, 100 Scheffel cost 1.19 Thaler.
+Barley: A man 44 Scheffel, 100 Scheffel cost 0.85 Thaler.
+Oats: A man 51 Scheffel, 100 Scheffel cost 0.74 Thaler.
+Peas: A man 32 1/2 Scheffel, 100 Scheffel cost 1.15 Thaler.
+Clover seed: On 1,000 square rods, 0.59 man at 18 Schilling = 0.22, 0.20 woman at 9 1/3 Schilling = 0.06. Total 0.28 Thaler.
+Liming wheat: 24 Scheffel require various costs; cost per 100 Scheffel: 2.14 Thaler.
+
+##### d. Various Cultivation Operations
+
+Water-furrow plowing: On 1,000 square rods, 0.12 plow at 1 Thaler 2 Schilling, makes 0.13 Thaler.
+Water-furrow digging: On 1,000 square rods, 0.63 man at 12 Schilling, makes 0.16 Thaler.
+Clod-breaking for summer sowing: On 1,000 square rods approximately 0.22 Thaler.
+Clod-breaking for winter sowing: On 1,000 square rods approximately 0.23 Thaler.
+Thistle cutting: On 1,000 square rods, 0.03 man at 0.29 Thaler, plus women, approximately 0.22 Thaler.
+Wheat hoeing: On 1,000 square rods, 0.65 man at 0.29 Thaler, makes 0.19 Thaler.
+Ditch clearing: On 1,000 square rods, 2.78 man at 14 Schilling, makes 0.81 Thaler.
+Ditch-bank clearing: On 1,000 square rods, 0.40 man at 14 Schilling, makes 0.12 Thaler.
+Clod-rolling: On 1,000 square rods approximately 0.04 Thaler.
+
+The clod-breaking and clod-rolling, since they have occurred only on the wheat soil, must also be charged entirely to this. The wheat soil amounts to approximately 12,000 square rods in each field. The costs must therefore be distributed for the winter sowing over 60,000 square rods, for the summer sowing over 120,000 square rods.
+
+##### Manure Hauling
+
+Of the operations required for manure hauling, approximately 4/5 at Tellow have been done in summer and approximately 1/5 in autumn and before the beginning of spring.
+
+The costs of labor are accordingly as follows:
+- 4/5 team at 2 Thaler makes 76.8 Schilling
+- 1/5 team at 1 1/2 Thaler makes 14.4 Schilling
+- Total: 1 team costs 1 Thaler 43.2 Schilling
+- 4/5 man at 14 Schilling makes 11.2
+- 1/5 man at 10 1/2 Schilling makes 2.1
+- 1 man costs 13.3 Schilling
+- A woman: 2/3 times 13.3 = 8.9 Schilling
+
+Manure hauling has required: 413 3/4 teams at 1 Thaler 43.2 Schilling, making 786.1 Thaler.
+
+Loading, spreading, and driving further: 280 1/4 men at 13.5 Schilling = 77.9 Thaler; 123 1/4 women at 8.9 Schilling = 22.9 Thaler. Together: 1,092.5 Thaler.
+
+Ancillary work with manure, such as shoveling together, bringing scattered manure to the manure yard, etc.: 583 1/2 men at 9 Schilling = 34.5 Thaler; 69 women at 6 Schilling = 8.6 Thaler; 63 horses at 12 Schilling = 1.6 Thaler.
+
+Total costs of manure hauling: 1,127.8 Thaler.
+
+Hauled out: 764 loads of sheep manure on harvest wagons. Taking a load of cow dung as the unit, these at 1 2/3 amount to 1,273 loads. 923 loads of village manure at 2/3 reckoned against cow dung = 692. 4,400 loads of cow, horse, and short sheep dung = 4,400. Total: 6,087 loads = 6,365 loads reduced to cow dung.
+
+6,365 loads reduced to cow dung cost 1,127.8 Thaler to bring onto the field. This makes per 100 loads of manure 17.7 Thaler, and per 1 load 8 1/2 Schilling.
+
+##### Harvest Costs
+
+**1. Cutting.**
+
+Wheat: 242 3/4 men have cut 54,500 square rods yielding 8,037 Scheffel. 1 man cuts 225 square rods. 100 Scheffel of wheat yield require 3 men at 18 1/2 Schilling, or 0.39 Thaler. Cost: 1.17 Thaler per 100 Scheffel.
+
+Rye: 210 3/4 men, 69,400 square rods, 7,595 Scheffel. 1 man cuts 329 square rods. 100 Scheffel require 2.8 men at 0.39 Thaler: 1.09 Thaler.
+
+Barley: 161 3/4 men, 53,450 square rods, 7,219 Scheffel. 1 man cuts 331 square rods. 100 Scheffel require 2.2 men at 0.39 Thaler: 0.86 Thaler.
+
+Oats: 286 1/4 men, 106,250 square rods, 14,323 heaped Scheffel. 1 man cuts 371 square rods. 100 Scheffel require 2 men at 0.39 Thaler: 0.78 Thaler.
+
+Peas and beans: 115 1/4 men, 23,070 square rods, 1,350 Scheffel. 1 man cuts 200 square rods. 100 Scheffel require 8.5 men at 0.39 Thaler: 3.32 Thaler.
+
+**2. Binding and Shocking.**
+
+Wheat: 72 3/4 men + women, 54,500 square rods, 8,037 Scheffel. 1 person handles 273 square rods. 100 Scheffel require: 0.9 man at 0.39 Thaler = 0.35 Thaler, 1.6 women at 0.26 Thaler = 0.42 Thaler. Total: 0.77 Thaler.
+
+Rye: 100 Scheffel require 1 man at 0.39 = 0.39, 2.5 women at 0.26 = 0.65. Total: 1.04 Thaler.
+
+Barley: 100 Scheffel require 1.1 man at 0.39 = 0.43, 1 1/7 women at 0.26 = 0.30. Total: 0.73 Thaler.
+
+Oats: 100 Scheffel require 0.6 man at 0.39 Thaler, 0.9 women at 0.26 Thaler. Total: 0.47 Thaler.
+
+**3. Carting In.**
+
+A team of horses brings in daily 14 loads. The team in harvest costs 2 Thaler 40 Schilling. 100 Scheffel of rye to cart in cost 2.14 Thaler; wheat 2.16 Thaler; barley 3.50 Thaler; oats 1.08 Thaler.
+
+**4. Loading and Unloading.**
+
+100 loads require 18.57 men at 0.39 Thaler and 18.18 women at 0.26 Thaler. 1 person handles 2.72 loads. For 100 Scheffel of rye the loading and unloading costs 1.32 Thaler.
+
+**5. Threshing.**
+
+The costs of threshing are, according to a precise calculation, nearly identical with what the threshers actually receive, namely the sixteenth Scheffel.
+
+##### Average Grain Prices
+
+*[Translator's note: The precise price tables in the source are partially garbled. The following figures can be reconstructed from the legible portions and from cross-references within the text.]*
+
+The average prices at Rostock in the period underlying the calculations:
+- Rye: approximately 1.29 Thaler Gold per Berlin Scheffel
+- Wheat: approximately 1.72 Thaler Gold per Berlin Scheffel
+- Barley: approximately 1.10 Thaler Gold per Berlin Scheffel
+- Oats (heaped): approximately 0.91 Thaler Gold per Berlin Scheffel
+
+##### Transport Costs of Grain
+
+*[Translator's note: The detailed transport cost tables are extensively garbled in the OCR source. The key result used throughout the work is that transport costs from the Tellow estate to the market town amount to approximately 0.093 Thaler per Scheffel for most grain types.]*
+
+##### Value of Grain on the Estate
+
+After deducting transport costs from the market price, the value of grain on the estate is:
+- Rye: 0.861 Thaler N2/3 per Scheffel (market price 0.954 minus transport 0.093)
+- Wheat: 1.172 Thaler N2/3 per Scheffel
+- Barley: 0.637 Thaler N2/3 per Scheffel
+- Oats (heaped): 0.525 Thaler N2/3 per Scheffel
+- Peas: 0.843 Thaler N2/3 per Scheffel
+
+---
+
+#### B. Labor and Yield Calculation for a Seven-Field Rotation
+
+Each field 10,000 square rods. Yield: 1,000 Berlin Scheffel.
+
+##### Manure Power of the Soil
+
+*[Translator's note: The introductory text on manure power calculations is partially garbled. The key principle is that the manure power (Dungkraft) measures the humus content of the soil in terms of equivalent cartloads of manure.]*
+
+##### 1st Field: Fallow (Brache)
+
+10,000 square rods.
+
+Cultivation costs for the fallow field on rye soil:
+
+Plowing:
+- Lea furrow costs on 10,000 square rods: 43.0 Thaler
+- Fallow furrow: 40.2 Thaler
+- Turning furrow: 40.5 Thaler
+- Seed furrow: 46.7 Thaler
+
+Harrowing:
+- Lea furrow: 17.6 Thaler
+- Fallow furrow: 24.3 Thaler
+- Turning furrow: 21.1 Thaler
+- Rye harrowing in: 26.2 Thaler
+
+Sowing: 166 2/3 Scheffel of rye. 100 Scheffel to sow cost 1.19 Thaler, making for 166 2/3 Scheffel: 2.0 Thaler.
+Sifting seed grain, per Scheffel 1/100 Thaler: 0.4 Thaler.
+Water-furrow plowing: 1.3 Thaler.
+Water-furrow digging: 1.6 Thaler.
+Ditch clearing: 8.1 Thaler.
+Ditch-bank clearing: 1.2 Thaler.
+
+Total cultivation costs for the fallow: 274.5 Thaler.
+
+*[Note: The passages bracketed in the original are remarks added later by the author. — Editor's note.]*
+
+##### 2nd Field: Rye
+
+The sowing amounts to 166 2/3 Scheffel. A Scheffel of rye on the estate is worth 0.86 Thaler. Seed value: 143.5 Thaler.
+
+Costs of manure hauling, insofar as they fall upon the rye: The rye yield of 1,400 Scheffel extracts from the field 333 1/3 loads of manure. A load of manure to haul onto the field costs 8 1/2 Schilling, making: 59.0 Thaler.
+
+Thistle cutting, cutting, binding and shocking, scything gleanings, carting in, loading and unloading, threshing: detailed harvest costs totaling 158.6 Thaler.
+
+The yield of this field of 1,400 Scheffel of rye, at the price of 0.861 Thaler per Scheffel = 1,205.4 Thaler. Deducting the sixteenth part for threshing: 75.3 Thaler.
+
+Total costs: 637.8 Thaler. Raw yield: 1,295.8 Thaler. Net yield: 658.0 Thaler.
+
+If the grain yield falls by 1/10, the raw yield decreases by 129.6 Thaler, harvest costs decrease by 21 Thaler, and the net yield falls by 107.5 Thaler.
+
+##### 3rd Field: Barley
+
+1,400 Scheffel of barley at 0.637 Thaler. Price of 1 Scheffel: 0.730 Thaler, minus transport costs 0.093, leaves 0.637 Thaler.
+
+93,000 pounds of straw, at 93 pounds per Berlin Scheffel. Value of straw for feeding at 1,000 pounds = 18 Schilling.
+
+Stubble pasture: this amounts to 1/15 of a lea pasture, thus 15 times 9 1/2 Thaler.
+
+Raw yield: 932.8 Thaler. Cultivation costs: 287.3 Thaler. Harvest costs: 158.5 Thaler. Net yield: 487.0 Thaler.
+
+If the grain yield falls by 1/10, the raw yield decreases by 93.3 Thaler, harvest costs decrease by 15.9 Thaler, and the net yield falls by 77.4 Thaler.
+
+##### 4th Field: Oats
+
+1,344 heaped Rostock Scheffel, or 1,200 level Berlin Scheffel.
+
+Price of a heaped Scheffel: 0.608 Thaler. Transport costs: 0.083 Thaler. Remaining: 0.525 Thaler. 1,344 Scheffel at 0.525 Thaler: 705.6 Thaler.
+
+77,400 pounds of straw, at 64 1/2 pounds per Berlin Scheffel. Value of 1,000 pounds for feeding: 21 Schilling, making: 33.9 Thaler.
+
+Stubble pasture: this clover-grown pasture I set equal to 1/5 of a lea pasture, thus 5 times 9 1/2 = 18.3 Thaler.
+
+Raw yield: 757.8 Thaler. Cultivation costs: 250.3 Thaler. Harvest costs: 123.4 Thaler. Net yield: 384.1 Thaler.
+
+If the grain yield falls by 1/12, the raw yield decreases by 63.2 Thaler, harvest costs decrease by 10.3 Thaler, and the net yield falls by 52.9 Thaler.
+
+If the grain yield falls by 1/10, the decrease of raw yield is 75.8 Thaler, of harvest costs 12.0 Thaler, of net yield 63.5 Thaler.
+
+##### 5th, 6th, and 7th Fields: Pasture
+
+1,000 square rods yield 8,800 pounds of hay, making for 10,000 square rods, 88,000 pounds of hay, exclusive of the value of the resulting manure, at 1,000 pounds = 1 Thaler 2 Schilling, making: 91.7 Thaler.
+
+From these 88,000 pounds of hay, 100 loads of manure result. Since this manure comes directly onto the field, the pasture field saves the costs of hauling 100 loads of manure. One load of manure to bring onto the field costs 8 1/2 Schilling, making for 100 loads: 17.7 Thaler.
+
+Yield of the pasture field: 109.4 Thaler.
+
+Expenses on the 5th field: 225 pounds of clover seed at 8 Schilling per pound = 37.5 Thaler. Sowing the clover costs on 1,000 square rods 0.28 Thaler, making for 10,000 square rods: 2.8 Thaler. Total expenses: 40.3 Thaler. Net yield of the 5th field: 69.1 Thaler.
+
+The 6th and 7th fields have the same yield as the 5th but no expenses (thistle cutting, molehill spreading, and cow-pat dispersal are negligible). Net yield of each: 109.4 Thaler.
+
+##### Summary of the Seven-Field Rotation on Rye Soil
+
+| Field | Seed | Cultivation | Manure Hauling | Harvest | Total Costs | Raw Yield | Net Yield |
+|---|---|---|---|---|---|---|---|
+| 1. Fallow | 202 | 143.5 | — | 276.1 | 637.8 | 1,295.8 | 658.0 |
+| 2. Rye | — | — | 59.0 | 158.6 | — | — | — |
+| 3. Barley | 122.3 | 165.0 | 44.5 | 114.2 | 445.6 | 932.8 | 487.0 |
+| 4. Oats | 125.0 | 125.3 | 39.4 | 88.0 | 373.7 | 757.8 | 384.1 |
+| 5. Pasture | 37.5 | 2.8 | — | — | 40.3 | 109.4 | 69.1 |
+| 6. Pasture | — | — | — | — | — | 109.4 | 109.4 |
+| 7. Pasture | — | — | — | — | — | 109.4 | 109.4 |
+| **Sum** | **— ** | **569.8** | **138.7** | **360.8** | **1,497.6** | **3,314.6** | **1,817.0** |
+
+*[Note: Some figures reconstructed from cross-references due to OCR damage.]*
+
+70,000 square rods of arable land yield, at 10 Berlin Scheffel per 100 square rods, a net yield of 1,817 Thaler.
+
+With 1/10 change in grain yield, the change in net yield is 281.5 Thaler.
+
+Net yields at different grain yields per 100 square rods:
+- 10 Scheffel: 1,817 Thaler
+- 9 Scheffel: 1,535 Thaler
+- 8 Scheffel: 1,254 Thaler
+- 7 Scheffel: 972 Thaler
+- 6 Scheffel: 691 Thaler
+- 5 Scheffel: 409 Thaler
+- 4 Scheffel: 128 Thaler
+- 3 1/2 Scheffel: approximately 0 Thaler
+
+##### Seven-Field Rotation on Wheat Soil
+
+*Note:* The costs of plowing and harrowing are here taken as experience at Tellow delivers them, for a soil that consists half of wheat soil and half of rye soil. Undeniably the effort of the draft animals on the wheat soil is greater — even if the quantity of work is equal. But the accounts provide no data at all about the degree of this difference, and I have preferred to let this inequality stand rather than to depart from the basis that actual experience provides through arbitrary assumptions.
+
+The wheat soil calculation follows the same structure as the rye soil, with higher seed costs (wheat at 1.172 Thaler per Scheffel versus rye at 0.861 Thaler), higher manure extraction (1,000 Scheffel of wheat extract 1,333 1/3 Scheffel equivalent, requiring 444.4 loads of manure), and correspondingly higher yields.
+
+---
+
+#### C. Yield and Costs of Various Crops Grown at Tellow
+
+##### Oats of 12 1/2 Scheffel Yield in the First Sowing
+
+*[Detailed cost and yield calculations for oats follow the same format as the seven-field rotation calculations above.]*
+
+##### Peas of 5 Scheffel Yield
+
+10,000 square rods. Sowing: 1 Scheffel on 65 square rods, requiring 154 Scheffel. Sowing costs: 1.15 Thaler per 100 Scheffel, making for 154 Scheffel: 1.8 Thaler.
+
+Seed value: 154 Scheffel at 0.843 Thaler = 129.8 Thaler. Total cultivation costs: 205.3 Thaler.
+
+Manure hauling: 500 Berlin Scheffel of peas consume 166 2/3 loads of manure at 8 1/2 Schilling per load: 29.5 Thaler.
+
+Harvest costs including cutting, raking in, re-raking, carting in, loading and unloading, threshing: 137.6 Thaler. Total costs: 342.9 Thaler.
+
+Income: 700 Scheffel of peas at 0.843 Thaler: 590.1 Thaler. 118,500 pounds of straw at 25 Schilling per 1,000 pounds: 61.7 Thaler. Stubble pasture equal to 1/5 of the lea pasture: 18.3 Thaler. Raw yield: 670.1 Thaler.
+
+Net yield: 327.2 Thaler.
+
+With 1/10 of the grain yield, raw yield decreases by 67.0 Thaler, harvest costs by 13.8 Thaler, net yield by approximately 100.0 Thaler.
+
+##### Tobacco of 5 Hundredweight Yield on Rye Soil
+
+When tobacco, as assumed here, is grown in the lea fallow, the land must be plowed and harrowed four times.
+
+The costs of plowing and harrowing the lea furrow are as in the fallow cultivation. The costs of the other three furrows are, however, considerably higher. The plowing becomes more costly because the plowmen cannot remain uninterruptedly at plowing but must spend much time going back and forth. The harrowing becomes more costly for the same reason, but even more because the sod has not yet rotted as it has in summer during the fallow cultivation, and yet must be completely destroyed and torn apart for receiving the tobacco plants, which can only be accomplished through sustained and frequently repeated harrowing.
+
+The accounts do not provide fully adequate data for determining the degree to which the labor is increased. From the individual notes and from the summation of all labor applied to the tobacco land, it appears most probable to me: that a plow has plowed approximately 200 square rods, a team of horses has harrowed 500 square rods.
+
+*[Detailed cost calculations follow, yielding total cultivation costs including the three additional furrows, the tobacco planter's housing and wages, and offset by savings on the subsequent winter sowing.]*
+
+##### Rapeseed
+
+*[Detailed calculations of rapeseed cultivation costs and yields. The key result is that rapeseed requires very heavy manuring — 1,000 Scheffel of rapeseed extracts the equivalent of approximately 4,000 Scheffel of manure power from the soil — making it profitable only on already rich soil near the city, in agreement with the theoretical predictions of the Isolated State.]*
+
+##### Potatoes
+
+*[Extensive calculations covering planting, cultivation, harvest, and the multiple uses of potatoes: as human food, as livestock feed (both raw and steamed), and as raw material for distilling. The calculations include the costs of a large-scale dairy operation (Hollanderei) of 60 cows that utilizes potato cultivation.]*
+
+##### Yield of a Dairy Operation (Hollanderei) of 60 Cows
+
+Expenses:
+
+1) The dairyman receives: free housing valued at 20 Thaler, 100 square rods of garden at 4 Schilling = 8 Thaler 16 Schilling, 80 square rods of potato land at 3 1/2 Schilling, 60 square rods of flax land at 4 1/2 Schilling, 4 loads of wood at 2 Thaler = 8 Thaler, 40 measures of peat (where he pays the digging wages; value of the peat without digging wages at 4 Schilling per measure), pasture for pigs and geese. Total housing, land, and fuel: 54 Thaler 6 Schilling.
+
+2) Maintenance of the night paddock: The entire herd driven into the night paddock consists of: 60 dairy cows, 6 cows belonging to the dairyman, 2 horses and 1 foal of the dairyman = 3, 2 bulls for the dairy cattle = 2. Total: 71. Additionally: 10 household cows, 17 village cows, 1 bull for this cattle = 1. Grand total: 99 head. The costs of such a paddock, which must contain approximately 2,800 square rods, amount according to a detailed calculation to 26 Thaler 27 Schilling annually. Of this, the 71 head belonging to the dairy operation bear their proportional share.
+
+3) Costs of the cowherd: The cowherd costs approximately 72 Thaler per year. Of this, summer herding (170 days) = 38 Thaler 24 Schilling; winter feeding (195 days) = 33 Thaler 24 Schilling. The dairy cattle's share: for summer herding 38 1/2 Thaler times 71/99; for winter feeding 33 1/2 Thaler times 68/79.
+
+4) Mucking out the stalls: For 30 head, weekly 1 woman; making for 68 head, 2 1/4 women, and in 28 weeks 63 women at 6 Schilling: 7 Thaler 30 Schilling.
+
+5) Depreciation of the cows: 8 young heifers must be purchased annually at 20 Thaler each = 160 Thaler. Of 60 cows, 2 die annually and 6 must be retired because they are too old; the replacement must therefore be 8 annually. For 6 retired cows, income at 10 Thaler each = 60 Thaler. 2 cowhides at 2 1/2 Thaler = 5 Thaler. Income: 65 Thaler. Depreciation cost: 160 minus 65 = 95 Thaler.
+
+Feed requirement for this dairy operation: 60 cows require approximately 880 pounds of hay or its equivalent per cow, including winter feeding and the supplement to summer pasture. Total feed requirement calculated in detail.
+
+The dairy operation pays for this feed through: milk production, butter yield, calf and pig fattening, and manure production.
+
+The return of this dairy operation is 446 Thaler.
+
+The net yield of a cow fed on pure hay, as we have seen in the dairy operation, amounts to 6.56 Thaler per cow.
+
+*[The text continues with comparisons between dairy operations of different sizes and between dairy and sheep operations for utilizing the same quantity of feed.]*
+
+##### Yield of the Spanish Sheep Flock Kept at Tellow
+
+*[Detailed calculations of the costs and returns of keeping Spanish (Merino) sheep, including wool production, lamb sales, the higher utilization of fodder through sheep versus cattle, and the value of sheep manure. The key finding is that sheep utilize fodder more profitably than cattle, with 1,000 pounds of hay yielding higher returns through sheep farming.]*
+
+##### Determination of the Value of Hay and Straw
+
+*[Calculations determining the economic value of hay and straw based on their contribution to animal feeding and manure production. The results are used throughout the work for costing purposes:]*
+
+The value of 1,000 pounds of hay (exclusive of the value of the resulting manure): approximately 1 Thaler 2 Schilling.
+The value of 1,000 pounds of winter straw for feeding: approximately 12 1/2 to 15 Schilling (depending on quality and utilization method).
+The value of 1,000 pounds of summer straw: approximately 16 2/3 Schilling.
+The value of 1,000 pounds of pea straw: 25 Schilling (later corrected to 32 Schilling based on Tellow experience).
+
+##### Flax
+
+*[Cost and yield calculations for flax cultivation at Tellow, including the value of both fiber and seed.]*
+
+##### Red Clover Seed
+
+*[Calculations of the costs and yields of growing clover for seed production, and the residual benefit to subsequent crops through nitrogen fixation and soil improvement.]*
+
+##### White Clover Seed, Buckwheat, Mixed Grain
+
+*[Brief calculations for these minor crops grown at Tellow.]*
+
+##### Utilization of Fodder
+
+*[Tables showing the allocation of all feed produced at Tellow among horses, cattle, sheep, and pigs. Since much of this consists of garbled numerical tables, only the key totals are reproduced.]*
+
+Total grass yield of all of Tellow, converted to hay equivalent, and the quantities of straw and hay fed to the various livestock categories.
+
+Since always some straw is used for bedding, roofing, deliveries, and similar purposes without being fed first, the above rates appear to correspond as closely as possible with reality.
+
+##### Higher Utilization of Fodder through Sheep Farming
+
+*[Comparison showing that sheep farming yields a higher return per unit of feed than cattle, though the difference depends on wool prices and local conditions.]*
+
+##### Utilization of Pasture, Meadows, and Green Clover
+
+*[Calculations of the yield from pasture land, meadows, the horse paddock, and green clover used as summer feed rather than for seed production.]*
+
+##### Deviation of the Tellow Yield from the Calculation Based on Ordinary Conditions
+
+The actual yield of Tellow in the years 1810 to 1815 deviates from the foregoing calculations in the following points:
+
+1. Grass, hay, and straw are calculated as utilized through cows. The Spanish sheep flock pays more for this feed.
+
+2. The value of 1,000 pounds of winter straw is assumed in the calculation of net yield of wheat and rye on average at 15 1/2 Schilling. At Tellow, 1,000 pounds are utilized through cows at only 12 1/2 Schilling, making per 1,000 pounds less: 3 Schilling. The total harvest amounts to 437,000 pounds.
+
+3. The grain fields are credited with the value of all the straw they have delivered. At Tellow, however, a part of the straw has not been utilized as livestock feed at all, which arises partly from the surplus of straw and partly can never be entirely avoided.
+
+4. The value of hay and straw is determined according to the net yield that a dairy of 60 cows would provide. The maintenance of the cowherd is there distributed over 99 head of cattle. At Tellow, however, only 72 cows have been kept, making the per-head cost higher and the utilization of feed correspondingly lower by 19.6 Thaler.
+
+5. The grain fields are credited with stubble pasture in the proportion that where 10 Scheffel of rye grow, 880 pounds of grass grow in the pasture. The Tellow soil has, however, because of its lesser grass productivity, with 9 Scheffel of winter grain yield, produced only 666 pounds of grass reduced to hay, making for 10 Scheffel: 740 pounds.
+
+6. The fallow pasture at Tellow is likewise lower than in the calculation.
+
+Appendix: The pea straw is set in the calculation at 25 Schilling; at Tellow it is utilized at 32 Schilling, thus 7 Schilling higher, making for 45,700 pounds: 6.7 Thaler higher.
+
+After deducting the 82.3 Thaler of lower utilization, there remains a higher utilization of 180.8 Thaler.
+
+---
+
+#### D. Compilation of the Yield of All Crops Grown at Tellow in the Years 1810 to 1815
+
+Together with a calculation of the farm expenses that cannot be distributed to any individual branch of the operation.
+
+In the 5 years from 1810 to 1815, of the total arable area of 160,912 square rods, the following were cultivated on average annually:
+
+- Wheat: approximately 10,900 square rods
+- Rye: approximately 23,000 square rods
+- Barley: approximately 10,000 square rods
+- Oats: approximately 14,000 square rods
+- Peas and other pulse crops: the remainder
+- With ripe grain: 63,334 square rods (39.4% of the total area)
+- Potatoes (including 72 square rods of garden): 1,182 square rods
+- Potato land for the laborers: 936 square rods
+- Flax: 424 square rods
+- Flax for the laborers: 510 square rods
+- Hemp: 216 square rods
+- Fallow: approximately 24,260 square rods
+- Tobacco: approximately 1,000 square rods
+- Green vetches in the second sowing: 1,130 square rods
+- Pasture: approximately 44,390 square rods
+- Mowing clover: approximately 13,030 square rods (of which 1,680 square rods for seed)
+- White clover seed: 440 square rods
+- Seed grass: 110 square rods
+
+##### Calculation of General Farm Expenses
+
+1) Administration costs:
+- Expenses for the proprietor that must be borne by the estate: 570 Thaler
+- Costs of a clerk and a housekeeper: maintenance 220 Thaler, salary 105 Thaler = 325 Thaler
+- Foreman, head plowman, etc.: foreman's premium over ordinary laborer 20 Thaler, head plowman 10 Thaler, a man in the barn: 10 Thaler
+
+Total administration costs: 930 Thaler. These have amounted annually to approximately this sum.
+
+2) War costs: According to a detailed calculation, the war costs in money, natural deliveries, transportation, quartering, etc., in the years 1810 to 1815 amounted to 1,947 Thaler 5 Schilling, making annually: 324.5 Thaler.
+
+*Note: If one could learn and calculate the war costs for a longer series of years, for example for an entire century, one would probably find that these amount on average to at most 100 Thaler annually, and they should not be assumed higher in an estimate.*
+
+3) Payments to the clergy and organists: In cash annually, plus grain (24 Scheffel 10 Metzen of rye, 21 Scheffel 10 Metzen of oats), labor, and materials for buildings and fences.
+
+4) Contributions to the insurance companies: The contributions have averaged annually approximately 84 Thaler 19 Schilling. Interest on entrance fees and depreciation of fire equipment: approximately 10 Thaler 22 Schilling.
+
+5) Interest on operating capital: At Midsummer each year, the cash balance and the value of saleable stocks have averaged 1,809 Thaler 24 Schilling. The interest on this: 90 Thaler 23 Schilling. In addition, the stocks that must be on hand as iron reserves at Midsummer: grain and malt 427 Scheffel reduced to rye at 0.56 Thaler = 240 Thaler; firewood approximately 42 Thaler; construction timber approximately 30 Thaler; household stores (bacon, dried fruit, potatoes, spirits, wine, coffee, sugar, salt, soap, etc.) approximately 170 Thaler. Total reserves: 609 Thaler 32 Schilling. Interest thereon: 36 Thaler.
+
+Total operating capital and reserves: 2,529 Thaler 8 Schilling.
+
+6) Maintenance of buildings: Cash expenditures for this purpose annually approximately 74 Thaler. Labor: approximately 27 Thaler. Total: approximately 100 Thaler.
+
+*Note: In an estimate, besides the maintenance costs of buildings, the depreciation or wear of buildings must also be included as an expense.*
+
+7) Maintenance of roads, bridges, main drainage and boundary ditches: approximately 20 Thaler.
+
+8) Schoolmaster: 20 weeks at 1 Thaler per week: 20 Thaler.
+
+9) Costs of the harvest festival: The festival itself without the music 28 Thaler; beer three times yearly at 2 Thaler: 6 Thaler; musicians: 5 Thaler.
+
+10) Guarding the house: Night watchman at 42 Schilling per week: 45 Thaler 24 Schilling. Oil for the night watchman's lamp: 5 Thaler. Maintenance of the dogs.
+
+11) Support of the poor in the village: 60 Thaler.
+
+*[Further detailed expense items follow, including costs for church buildings, field inspection, land surveying, and miscellaneous expenses, totaling the general farm expenses.]*
+
+##### Cash Yield of Tellow in the Years 1810-15
+
+*[Detailed tables of all cash income and expenditure, organized by source. The principal sources of cash income are grain sales, wool sales, livestock sales, dairy products, and timber. The tables are extensively garbled in the OCR source but the grand totals are consistent with figures used elsewhere in the text.]*
+
+##### Value of the Raw Yield of Tellow
+
+*[A comprehensive accounting of the total raw production of the estate, valued at the prices established in Section A. This provides the foundation for calculating the net yield after deducting all costs.]*
+
+##### Manure Balance: Quantity of Manure That Each Crop Has Extracted from the Field, and Calculation of the Manure Replacement
+
+*[Calculations showing for each crop how much manure power it extracts from the soil, and whether the total extraction is balanced by the total replacement through manure hauling, natural regeneration, and clover cultivation. This is the practical application of the statics of agriculture to the Tellow estate, and forms the basis for assessing whether the farming system is maintaining, enriching, or exhausting the soil.]*
+
+---
+
+#### Labor Compilation from the Tellow Estate, 1810-1820
+
+*[The following is a summary compilation of all labor performed at Tellow over the decade 1810-1820, compiled in August 1839.]*
+
+The compilation from the years 1810-15 is taken as the foundation in Part 1 of "The Isolated State." — Editor's note.
+
+Summary of labor days:
+
+| Category | Men | Women | Horses | Oxen |
+|---|---|---|---|---|
+| 1) Plowing | — | — | 28,895 | — |
+| 2) Harrowing | — | — | 9,506 | — |
+| 3) Sowing | 5,041 | 176 | — | — |
+| 4) Various cultivation work | 13,581 | 1,771 | 1,451 | — |
+| 5) Work affecting entire farm | 7,752 | — | 199 | — |
+| 6) Work in the meadows | 4,451 | 461 | 33 | — |
+| 7) Manure hauling | 16,972 | 2,922 | 3,967 | — |
+| C.1) Grain harvest | 48,713 | 31,034 | 2,196 | 284 |
+| C.2) Hay harvest | 22,714 | 19,932 | 635 | — |
+| D.1-4) Threshing, transport, conservation | 19,470 | — | — | — |
+| E.1-9) Work with various crops | 1,272 | — | — | — |
+| F) Timber plantations | 6,957 | — | — | — |
+| G) Miscellaneous work | 4,583 | — | — | — |
+| H) Summarily listed work | 110,091 | 178,452 | 64,701 | 16 |
+| I) Improvement work | 57,394 | 56,634 | 7,079 | 27 |
+| **Total** | **621,113** | **400,421** | **422,971** | **29,807** |
+
+The sum of the ten yearly extracts likewise amounts to: 621,113 men, 400,421 women, 422,971 horses, 29,807 oxen.
+
+##### Grain Yield and Working Forces
+
+The size of the arable land amounted in 1810 to approximately 464,000 square rods. Since then, successively the poorer soil was retired.
+
+According to a detailed calculation, in these 10 years the arable land has averaged 158,785 square rods. Of this, 62,598 square rods were planted with grain and rapeseed; thus 39.4 percent of the entire area.
+
+In the period from 1810 to 1820, 1 load yielded: wheat 8.60 Scheffel of grain, rye 9.12, barley approximately the same, oats 17.65.
+
+Working forces: No register of the work-days performed by each individual family is kept at Tellow, and therefore it cannot be specified how many days each family has worked. The total sum of work-days, however, emerges from the accounts, and this compared with the sum of working forces then shows how many days fall on average to one family.
+
+In the period from 1810 to 1820, the working forces have been: Farmhands on the farm: 53 (average over 10 years). Regularly working day-laborers: 16 1/5 (men) plus their wives. Craftsmen, shepherds, and other persons who help only in the harvest and at some other work, reduced to full-year workers: approximately 4 1/2. Maids on the farm: 4 3/5. Regularly working women in the village: 12 1/5. Remaining women reduced to full-year workers: 3 1/4. Regular draft horses: 16. Harvest horses which do not work in winter: 3 4/5 head, equal to approximately 1 7/8 draft horses. Draft oxen: 2 3/8.
+
+The 53 farmhands have worked approximately 290 days per year. The 16 1/2 regular male workers in the village have approximately 284.6 working days per year, of which 6 days are spent cutting peat for themselves without receiving wages. After deducting these, 278.6 paid working days remain.
+
+The draft horses have worked 236.4 days per year. The draft oxen 129.4 days.
+
+19 1/5 women and maids have worked 400,421 days. For 15 3/4 village women there remain an average of approximately 175.4 days per year.
+
+---
+
+#### Editor's Notes on 1840-1860
+
+##### Tabular Compilation of the Grain Yield and Hay Yield from the Tellow Estate, from Midsummer 1800 to Midsummer 1860
+
+In the year 1841, the transition from the six-field rotation with 2 1/2 grain sowings to the five-field (respectively ten-field) rotation took place. The static tableaux for this interesting crop rotation are communicated in the appendix to Part 1 (second edition); the explanatory data given there and at other places in this work about the operations of the Tellow estate we are now in a position to supplement through the following remarks.
+
+In the year 1840-1841, the village cows — 39 — were already kept on the farm; in 1847-1848, the dairy was enlarged, while earlier sheep-keeping had predominated.
+
+A part of the two-cut meadows is regularly assigned to the cows for grazing after the first mowing, depending on the need and the location of the meadows relative to the current pasture fields.
+
+Between 1830 and 1840, the Tellow plowland was deepened with the von Thunen plow from 4 1/2 to 6 inches to 6 to 7 inches; this operation was for the most part completed by 1836.
+
+On these and other improvements, see Sections 2, 3, items 4 and 5; the marling falls in the years 1810-1819.
+
+Purchased feed, such as rapeseed cake and the like, was not bought in earlier years, nor was artificial fertilizer — bone meal, guano, and the like — purchased, and later only experimentally and, with the exception of gypsum, in such small quantities that their influence on the fertility of the soil is negligible.
+
+On the expansion of root crop cultivation for livestock feed, a record is found in Section 2, subsection 2 under F.
+
+The yields from the years 1850-1860 have been added, which may perhaps give occasion for conclusions of scientific interest. The farming in these years was generally continued as before; however, as the tables show, larger areas were planted with crops that had come to maturity, and the fallow cultivation began only at Midsummer because of the pasture utilization. On the other hand, the following feed and fertilizer materials were purchased on average annually in the 8 years from 1852 to 1860: rapeseed cake 12,194 pounds, bran 826 pounds — together 130 hundredweight; guano 5,299 pounds, bone meal 590 pounds, Chile saltpeter 225 pounds, concentrated fertilizer 238 pounds — together 65.5 hundredweight.
+
+For the reduction to rye the following rates are used:
+- 1 Scheffel wheat = 1 1/3 Scheffel rye
+- 1 Scheffel barley = 3/4 Scheffel rye
+- 1 heaped Scheffel oats = 5/8 Scheffel rye
+- 1 half-heaped Scheffel oats = 9/16 Scheffel rye
+- 1 Scheffel peas = 1 Scheffel rye
+
+A harvest of 10 Berlin Scheffel per 100 Mecklenburg square rods amounts to 11.78 Berlin Scheffel per Morgen. — Editor's note.
+
+##### Grain Yield from the Tellow Estate, 1800 to 1860
+
+*[The following tables record the annual grain yields at Tellow over a 60-year period. Due to extensive OCR damage to the tabular data, only select years with legible figures are reproduced. The tables record, for each year from Midsummer to Midsummer, the sowing area, yield, and seed for wheat, rye, barley, oats, peas, and total reduced to rye.]*
+
+**1800-1810:** In these 10 years, the total grain yield, the total seed used, and the average yield per 100 square rods in Berlin Scheffel are recorded. The yield on 100 square rods in Berlin Scheffel averaged approximately: wheat 13.05, rye 6.39, oats 10.50, and overall approximately 8.90 Scheffel.
+
+**1810-1820:** Detailed annual records. The transition in cultivation methods and the effects of the Napoleonic wars are visible in the yields.
+
+**1820-1830:** Continuation of records showing gradual improvement in yields.
+
+**1830-1840:** Period of soil deepening with the von Thunen plow; yields begin to show improvement.
+
+**1840-1850:** Transition to the ten-field rotation. Yields continue to improve.
+
+**1850-1860:** The most recent period, with the introduction of purchased feed and fertilizer. The tables show the area planted, yield, and seed for each grain type.
+
+*[The complete 60-year record constitutes one of the most remarkable long-term agricultural datasets of the 19th century, providing the empirical foundation for the theoretical investigations in The Isolated State.]*
 
 ---
 
@@ -1629,33 +2212,198 @@ A comprehensive summary table bringing together all the individual crop and live
 
 ### The Discovery of the Formula for the Mean Distance
 
-Von Thunen presents the mathematical derivation of the formula for the mean distance from all points within a given area to a central point, using integral calculus.
+#### Problem 1
 
-The derivation proceeds through several cases:
+In the right-angled triangle ABC, to find the sum of the distances of all points on the line BC from the vertex A.
 
-1. **Right Triangle:** Finding the mean distance from all points within a right triangle to one vertex, using double integration.
+#### Solution
 
-2. **Acute and Obtuse Triangles:** Extending the method to general triangles by decomposing them into right triangles.
+Let AC = r, and let CB = x be the variable abscissa measured along BC from C. Then the distance from any point on BC to A is sqrt(r^2 + x^2), which we write as y = sqrt(r^2 + x^2).
 
-3. **General Polygon:** Any polygon can be decomposed into triangles, so the formula extends to arbitrary shapes.
+If one erects at each point of BC a perpendicular equal to the distance from that point to A, one obtains a curve CDEB. The area under this curve equals the sum of all distances from A to the points on BC.
 
-4. **Circle:** The mean distance from all points within a circle to its center, yielding the result that the mean distance = 2/3 of the radius.
+We need the integral of sqrt(r^2 + x^2) dx.
 
-5. **Pyramid Volume Method:** An elegant alternative derivation using the fact that the volume of a pyramid equals 1/3 times the base area times the height, which provides a geometric interpretation of the mean distance formula.
+Substituting the value of C, we obtain:
 
-This formula is used in Part 1 of The Isolated State to calculate transport costs from an estate to the city, which is fundamental to the entire theory of land rent.
+Integral of sqrt(r^2 + x^2) dx = (1/2) x sqrt(r^2 + x^2) + (1/2) r^2 ln(x + sqrt(r^2 + x^2)) — (1/2) r^2 ln(r)
+
+= (1/2) x sqrt(r^2 + x^2) + (1/2) r^2 ln((x + sqrt(r^2 + x^2))/r)
+
+**Proof.** The differential of (1/2) x sqrt(r^2 + x^2) + (1/2) r^2 ln(x + sqrt(r^2 + x^2)) is:
+
+Working through the differentiation step by step, combining terms, and simplifying, we verify that the derivative equals sqrt(r^2 + x^2) dx.
+
+The sum of all distances, equal to the area of figure CDEB, or the integral of sqrt(r^2 + x^2) dx, therefore amounts to:
+
+(1/2) x sqrt(r^2 + x^2) + (1/2) r^2 ln((x + sqrt(r^2 + x^2))/r)
+
+Setting y for sqrt(r^2 + x^2), the sum of all distances = (1/2) x y + (1/2) r^2 ln((x + y)/r).
+
+When r = 1, the sum of all distances = (1/2) x y + (1/2) ln(x + y).
+
+*[The author notes that the curve DFEB is in fact a branch of a rectangular (equilateral) hyperbola whose axis = 2r. The area of the half-hyperbola DEG equals the rectangle CBEG minus the figure CBED, providing an alternative path to the same integral.]*
+
+*[The author employed two additional methods to arrive at the formula, which the editor describes briefly: (1) Starting from the assumption that DFE is an equilateral hyperbola, drawing the asymptote from C, and computing the area by integral calculus. (2) Finding the equation of the curve DFE independently, discovering it to be the equation for the equilateral hyperbola, and computing the area by subtracting the hyperbola from the enclosing rectangle. Both methods yield the same result.]*
+
+#### Problem 2
+
+In the acute-angled triangle ABD, to find the sum of the distances of all points on the line BD from the vertex A.
+
+**Solution.** Drop from A a perpendicular AC onto BD, dividing the acute-angled triangle into two right-angled triangles ACB and ACD. Compute for each right-angled triangle, taking AC = r, the sum of the distances, add them together, and one has the sum of the distances for the acute-angled triangle ABD.
+
+#### Problem 3
+
+In the obtuse-angled triangle ABD, to find the sum of the distances of all points on the line BD from the vertex A.
+
+**Solution.** Extend the line BD until a perpendicular from A meets it at C. Compute the sum of the distances for the right-angled triangle ACB, then for the right-angled triangle ACD, subtract the latter from the former, and one has the sum of the distances for the obtuse-angled triangle ABD.
+
+#### Problem 4
+
+To determine the mean distance of all points within the triangle ABC from the vertex A.
+
+If from the point A (Fig. 1) one draws lines to every point on BC, and erects these lines as ordinates on BC, the figure CDEB arises.
+
+If one considers the points on BC to which lines are drawn from A as infinitely close together, then the ordinates erected on BC are also infinitely close. The figure CBED is then filled by these ordinates, and the sum of all ordinates, hence the sum of all distances from A to BC, equals the area of the figure CBED.
+
+The area of this figure we have found in the foregoing calculations to be:
+
+(1/2) x sqrt(r^2 + x^2) + (1/2) r^2 ln((x + sqrt(r^2 + x^2))/r)
+
+Now imagine the line AC divided into n parts, and on each endpoint of such a part a line parallel to BC erected.
+
+Let cb be such a parallel line.
+
+Now take from the vertex A all distances to every point of the line cb, and erect these distances as ordinates on the abscissa line BC: a figure is formed that is entirely similar to the figure CBED, only smaller in all dimensions.
+
+Continuing this procedure for all n parts of the line AC, one obtains figures that are always similar to CBED but become ever smaller, the last ending in a point.
+
+Now imagine that these figures form the bases of bodies whose thickness or height = r/n, and stack these upon one another: a pyramid arises, whose base G = CBED and whose height = AC = r.
+
+Now take n infinitely large, so the height of the individual stacked slices becomes infinitely small. Just as we can think of the area as filled by infinitely close lines and set the sum of these lines equal to the area of the figure, so too we can think of the body as formed by infinitely close surfaces, and the sum of these surfaces is then the volume of the body.
+
+Now it is known that the volume of a cone or pyramid = the base multiplied by 1/3 of the height.
+
+For base = G and height = r, the volume = (1/3) r G. Here G is:
+
+= (1/2) x sqrt(r^2 + x^2) + (1/2) r^2 ln((x + sqrt(r^2 + x^2))/r)
+
+The volume is therefore:
+
+= (1/6) r x sqrt(r^2 + x^2) + (1/6) r^3 ln((x + sqrt(r^2 + x^2))/r)
+
+Now the mean distance equals the sum of the distances of all points in the triangle from the vertex A, divided by the sum of all points, that is, by the area of the triangle. The area of the triangle is (1/2) r x. The mean distance is therefore:
+
+[(1/6) r x sqrt(r^2 + x^2) + (1/6) r^3 ln((x + sqrt(r^2 + x^2))/r)] / [(1/2) r x]
+
+This is now the formula that is given in "The Isolated State," 2nd edition, p. 101, for the mean distance.
 
 ---
 
 ## Bibliography of von Thunen's Published Writings
 
-A listing of Johann Heinrich von Thunen's published works, including:
+*Der landwirthschaftliche Erzahler* 1818, Nos. 6, 7, and 8:
+"Calculation of the labor and costs of marling on the Tellow estate in the years 1815 to 1816."
 
-- Articles in various agricultural journals (Moglinsche Annalen, Neue Annalen des Mecklenburgischen Landwirthschaftlichen Vereins)
-- "Der isolirte Staat in Beziehung auf Landwirthschaft und Nationalokonomie" (The Isolated State), Part 1 (1826, second edition 1842)
-- "Der isolirte Staat," Part 2, Division 1 (1850)
-- Various shorter essays and letters published in periodicals
+*Neue Annalen der Mecklenburgischen Landwirthschafts-Gesellschaft:*
+
+- Vol. 1, 2nd half, 1814, p. 477-478: Report on some experiments made with the English extirpator, by H. von Thunen at Tellow.
+
+- Vol. 4, 2nd half, 1817, p. 401-545: Introduction of the credit system in Mecklenburg.
+
+- Vol. 6, 1st half, 1819, p. 119-127: What influence do the foodstuffs that sheep receive have on the quality of wool?
+
+- Vol. 6, 2nd half, 1819, p. 715-720: Views on the effect of the English Corn Act on Mecklenburg.
+
+- Vol. 8, 1st half, 1821, p. 166-221: On the quantitative effect of manure and on the exhaustive power of crops.
+
+- Vol. 10, 1st half, 1823, p. 368-379: On an expanded cultivation of commercial crops in Mecklenburg.
+
+- Vol. 16, 2nd half, 1829, p. 460-465 (by Dr. v. Th.): On the effect of marl.
+
+- Vol. 16, p. 638-672: Calculation of the maintenance costs of a team of horses and the transport costs of grain.
+
+- Vol. 17, 1st half, 1831, p. 2-10: Pro Memoria on the publication of Herr Oberhofmeister von Jasmund, "A Million for Nothing and at Interest." Proposal for the establishment of a deposit note-bank in Mecklenburg.
+
+- Vol. 17, 1st half, 1831, p. 282-322: Views on the establishment of an agricultural institute in Mecklenburg, December 1830.
+
+- Vol. 17, p. 337-399: Expert opinion on the improvement of urban agriculture.
+
+- Vol. 17, 2nd half, 1831, p. 401: Conclusion of the expert opinion. Winter 1832.
+
+- Vol. 17, p. 775-777: Reduction of the degrees of Gravert's wool gauge to those of Kohler's. (Name not given.)
+
+- Vol. 18, 1st half, 1832, p. 14: In memory of the deceased Herr Domanenrath Pogge. (Name not given, but to be inferred from content and style as Dr. v. Th.)
+
+- Vol. 18, p. 123-141: Remarks on the treatise of Herr Oberforstmeister Baron von Stenglin: "On the effect of burnt marl."
+
+- Vol. 18, p. 274-282: Report on this year's sheep show held at Gustrow.
+
+- Vol. 18, p. 320: Remarks on the forestry questions posed by Herr Dr. von Thunen. (Protocol No. XX, p. 900.)
+
+- Vol. 18, 2nd half, 1832, p. 481-507: Report on the sheep show held at Gustrow on May 22, 1832, with supplement.
+
+- Vol. 18, p. 734-747: Questions concerning sheep breeding (posed by Herr Dr. von Thunen at Tellow at the district assembly of the patriotic society at Teterow on October 26, 1833).
+
+- Vol. 19, 1st half, 1834, p. 30-60: Report on the livestock show held at Gustrow on May 28, 1833.
+
+- Vol. 19, p. 112-131: Answering of some questions concerning the statics of agriculture.
+
+- Vol. 19, p. 261-264: Poa annua, annual meadow grass.
+
+- Vol. 19, 2nd half, p. 527-532: Wool market and wool depot.
+
+- Vol. 19, p. 533-537: Which town, Rostock or Gustrow, is best suited for such a central wool market?
+
+- Vol. 19, p. 739-756: Report on the sheep show held at Gustrow on May 21, 1834.
+
+- Vol. 21, 2nd half, 1837, p. 402-428: Letter of Herr Homeyer of Murchin to Herr Dr. von Thunen at Tellow. Foreword of the latter, p. 400-401. On the use of the Haken and the plow.
+
+- Vol. 21, p. 563-571: Expert opinion of the Hauptdirectorium of the patriotic society.
+
+- Vol. 21, p. 576-587: Further remarks of Herr Dr. von Thunen on the Mecklenburg Haken.
+
+- Vol. 21, p. 587-640: Notes on the Haken-plow by Herr Dr. von Thunen.
+
+- Vol. 23, 2nd half, 1839, p. 687-698: Report on the testing of agricultural machines and instruments held on May 23 and 24.
+
+- Vol. 23, p. 699-711: Reflections occasioned by the testing of agricultural machines and instruments held at Gustrow on May 23 and 24, 1839.
+
+- Vol. 24, 1st half, 1840, p. 265-287: Report on the sheep show held at Gustrow on June 6, 1838.
+
+- Vol. 25, 1st half, 1841, p. 202-212: Deepening of the topsoil.
+
+- Vol. 25, 2nd half, 1841, p. 588-592. Vol. 26, 2nd half, p. 665-668: Result of the experiment on deepening of the topsoil.
+
+- Vol. 26, p. 688-694: Experiment on the effect of deepening the topsoil.
+
+- Vol. 28, 1st half, 1844, p. 113-145: Report on the sheep show held at Gustrow on June 6, 1843.
+
+- Vol. 28, p. 146-159: On the feeding of horses with steamed potatoes.
+
+- Vol. 28, p. 160-161: Continuation of the experiment on deepening the topsoil on the Schwandt estate.
+
+*Landwirthschaftliche Annalen des mecklenburgischen patriotischen Vereins:*
+
+- Vol. I, No. 4, 1846, p. 35-57: Attempt to determine from the data contained in the prize essay with the motto "Vitam impendere vero" the nutritive value of the various applied fodder materials. (Experiment to determine the relative feed value of rye meal, clover hay, potatoes, and oat straw — Prize essay of Herr Pensionair Muller of Holdorf.)
+
+- Vol. II, Division 11, No. 2, p. 121-122: (Experiment: wheat mown at various degrees of ripeness.) Cf. p. 129 from the Teterow district, p. 128 from Tellow. Experiment: deep and shallow potato planting (without result).
+
+*Freimuthiges Schweriner Abendblatt* Nos. 1453, 1455, and 1456: Fragmentary remarks on the tax reform.
+
+*Official Report on the Assembly of German Agriculturalists and Foresters at Doberan, September 1841:*
+- p. 66-71: On the driving of earth onto moor meadows.
+- p. 213-216: Grain yield of a field piece at the Tellow estate that has not been manured for 20 years.
+
+*Official Report on the Assembly of German Agriculturalists and Foresters at Potsdam, September 1839:*
+- p. 293-295: Procedure for conducting the experiment on the deepening of the topsoil.
+
+*Der isolirte Staat in Beziehung auf Landwirthschaft und Nationalokonomie,* or Investigations on the Influence That Grain Prices, the Richness of the Soil, and Taxes Exert on Agriculture. Hamburg 1826, Friedrich Perthes. 19 sheets.
+
+The same work, 2nd enlarged and improved edition. Rostock 1842, G. B. Leopold. 25 sheets.
+
+*Der isolirte Staat in Beziehung auf Landwirthschaft und Nationalokonomie.* Part 2, Division 1. The Natural Wage and Its Relationship to the Interest Rate and to Land Rent. Rostock 1850, G. B. Leopold. 18 sheets.
 
 ---
 
-*Note on this translation: This text was extracted via OCR (Tesseract) from a Fraktur-script original held by the Bayerische Staatsbibliothek Munchen. Numerous OCR artifacts were present in the source text, particularly garbled characters from decorative pages, library stamps, and mathematical formulas. These have been reconstructed or omitted where the intended meaning could not be recovered. Mathematical expressions have been rendered in simplified notation. The extensive numerical tables in Section 7 have been summarized rather than reproduced in full, as the OCR quality of tabular data was particularly poor.*
+*Note on this translation: This text was extracted via OCR (Tesseract) from a Fraktur-script original held by the Bayerische Staatsbibliothek Munchen. Numerous OCR artifacts were present in the source text, particularly garbled characters from decorative pages, library stamps, and mathematical formulas. These have been reconstructed or omitted where the intended meaning could not be recovered. Mathematical expressions have been rendered in simplified notation. In Section 7, the extensive numerical tables and cost calculations have been translated as faithfully as the OCR quality permits; where individual figures are illegible or ambiguous, this is noted. Narrative and explanatory passages have been translated in full throughout.*

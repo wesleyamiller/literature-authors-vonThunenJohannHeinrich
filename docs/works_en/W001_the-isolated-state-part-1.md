@@ -698,7 +698,15 @@ As soon as we compare different types of soil with each other, we must not consi
 
 Since, however, we have here before us only one and the same soil, the factor of soil vigor becomes a constant quantity. If one now compares the same soil at different degrees of richness, the factor of soil vigor, divided by itself, always = 1, and hence indifferent for the product. For our special purpose we may therefore omit this constant factor and bring the richness alone, as the only variable factor, into the calculation.
 
-[Tables showing fertility state of seven-field convertible husbandry and three-field system, each field at 1000 square rods]
+Fertility State
+of a seven-field convertible husbandry, each field reckoned at 1000 square rods.
+
+[TABLE]
+
+Fertility State
+of a three-field system, each field reckoned at 1000 square rods.
+
+[TABLE]
 
 In the convertible husbandry, the manure production of one pasture field was 10.1 cartloads for a richness of 265 degrees. A soil whose richness = 325 degrees, as it is after the barley harvest, would, if laid down to pasture, produce 325/265 x 10.1 = 12.4 cartloads of manure. Since it has been assumed that the manure production of a mellow fallow amounts to 1/3 of that of a pasture field, 12.4/3 = 4.1 cartloads have been reckoned here for it.
 
@@ -2148,44 +2156,362 @@ Now factory and manufactured goods can be manufactured most cheaply at the place
 §21.
 Third Circle. Crop Rotation Farming.
 
-The third circle, immediately adjoining the forest, is occupied by crop rotation farming. Here the land has a sufficiently high value — resulting from the proximity to the Town and the accordingly still considerable grain prices — to make the abolition of the fallow and the introduction of improved crop rotations advantageous.
+[176]
+We have seen in §16 that the practicability of this farming system and the extent to which it can be carried on are conditioned by the magnitude of the grain yield and by the level of grain prices.
+
+We have assumed for the isolated state a grain price in the Town of 1 1/2 thalers gold per Berlin bushel of rye, and the yield of the soil for the entire plain — with the exception of the first circle — everywhere at 8 grains.
+
+Under these conditions, however, the value of the land is still too low to make a large extension of crop rotation farming advantageous.
+
+This farming system will here occupy only a narrow circle, and only the arable land lying close to the farmsteads. 9)
+
+For a greater manuring power of the arable and for higher grain prices, the circle itself would expand, and this farming system would extend to a larger portion of the arable land of each estate.
+
+9) This was written in the year 1819. All later investigations, as well as those concerning Belgian farming, have convinced me that under the assumed conditions crop rotation farming cannot take place here at all — thus not even in the small extent indicated. I could nevertheless not strike out what is said here without creating a gap in the coherence of the whole; and then a place had to be designated here for so important a farming system, which with the increasing wealth of nations will more and more become the dominant one, and from which it is displaced in the isolated state only by our assumption of a uniform and indeed low fertility of the entire plain.
 
 §22.
 Fourth Circle. Convertible Husbandry.
 
-Beyond the region of crop rotation farming, where grain prices have fallen to the point where the costs of the more intensive cultivation can no longer be repaid, convertible husbandry takes over. This is the most extensive of the circles, since it can be profitably practiced over a wide range of grain prices.
+[177]
+Convertible husbandry begins behind the circle of crop rotation farming and ends, according to §14, at a distance of 24.7 miles from the Town, where it must give way to three-field farming, which here becomes more advantageous.
+
+Convertible husbandry will indeed take place everywhere here, but it will not have one and the same form in all parts of this very extensive circle; rather, it will undergo all the modifications of which it is capable according to §18.
+
+In the forward part of this circle, convertible husbandry will appear in its pure form, but with increasing distance from the Town and the diminished value of grain, constant changes aimed at labor savings will occur; at the outer boundary of this circle the outlying fields will perhaps no longer be manured at all, but will only be broken up from time to time for grain cultivation, and so at the transition itself the convertible husbandry will already closely resemble three-field farming.
 
 §23.
 Fifth Circle. Three-Field Farming.
 
-At still greater distances from the Town, where grain prices have fallen so low that even convertible husbandry can no longer cover its costs, the three-field system — with its lower labor requirements — still yields a positive net return.
+Three-field farming begins, according to §14, at a distance of 24.7 miles from the Town, and ends at a distance of 31.5 miles, where its land rent, when the farming is based on grain sales, equals zero.
+
+Beyond this boundary, at the price of 1 1/2 thalers per bushel of rye, no more grain can be grown for sale to the Town, and the grain surplus that these five circles deliver must therefore be in equilibrium with the grain requirement of the Town.
 
 §24.
 By What Law is the Price of Grain Determined?
 
-In the isolated state, the price of grain in the Town must be high enough that the most distant estate — whose product is still needed to feed the Town — can cover its production and transport costs. The grain price is thus determined by the production costs of that grain which is produced under the least favorable conditions, but which is still needed for consumption.
+[178]
+To be able to answer this question, we must for a moment assume that in the isolated state, after it has gained the form that we have developed in the preceding investigations, the price of rye in the Town itself falls from 1 1/2 thalers to 1 thaler per bushel.
 
-This is a law of the greatest importance. The price of grain is not set by the average costs of production, but by the costs at the margin of cultivation. All estates nearer to the Town, which produce at lower cost, receive the same price and thereby earn a surplus — the land rent.
+The estate located 31.5 miles from the Town has production costs of 0.47 thalers per bushel of rye, and the transport costs per bushel of rye to the Town amount to 1.03 thalers.
 
-[Extended discussion of grain price determination, marginal cost theory, and its implications]
+This estate will therefore, as soon as rye is worth only 1 thaler per bushel in the Town itself, no longer be able to deliver grain to the Town. In a similar situation are all estates whose production and transport costs per bushel of rye to the Town exceed one thaler, and this is the case for all estates lying more than 23 1/2 miles from the Town.
+
+Now since the entire region lying more than 23 1/2 miles from the Town delivers no more grain to the Town, the greatest shortage must arise in the Town itself — assuming that population and consumption have remained unchanged — whereby prices immediately rise again. That is to say in other words: the price of 1 thaler is here impossible.
+
+[179]
+The Town can receive its grain requirement only if it pays a price sufficient to compensate the most distant producer, whose grain it still needs, at least for the production and transport costs of the grain.
+
+Now, however, the grain requirement of the Town is so great that grain cultivation must extend to 31.5 miles from the Town for its production; and because grain can be grown at this distance only when the average price of rye is 1 1/2 thalers, no lower price can prevail.
+
+Not only for our isolated state, but also in reality, is the price of grain determined by the following law:
+
+The price of grain must be high enough that the land rent of that estate to which the delivery of grain to market — whether because it has such poor soil that the production of grain becomes very expensive, or because it lies so far away that transport costs are very high — is most costly, but whose cultivation is still necessary for the satisfaction of grain demand, does not fall below zero.
+
+The grain price is therefore neither arbitrary nor accidental, but bound by fixed rules.
+
+[180]
+If, on the other hand, a lasting change in demand were to occur, this also produces a lasting change in the grain price.
+
+If, for example, consumption were diminished so far that a circle with a radius of 23 1/2 miles could satisfy the Town's demand, then the average price of grain would also fall to 1 thaler per bushel of rye.
+
+If, on the contrary, consumption increased, then the previously cultivated plain would no longer be able to satisfy the Town's demand, and the inadequate supply of the market would produce higher prices. Through the increase in price, the most distant estates, which hitherto bore no land rent, would now yield a surplus that established a land rent; the soil lying behind these estates could still be cultivated with advantage, and the cultivated plain would expand as far as the production of grain still yielded a land rent.
+
+As soon as this had happened, production and consumption would again be in equilibrium; but the grain price would remain elevated for good.
+
+The increase in production brings about similar effects on the grain price as diminished consumption.
+
+If, for example, the yield of the soil in the isolated state were raised from 8 to 10 grains, and the demand of the Town remained the same: then a much smaller part of the plain would suffice to supply the Town with provisions; the remaining part of the plain would then be dispensable for the Town, and if at this fertility of the soil a circle with a radius of 23 1/2 miles could satisfy the Town's demand, the price of rye would fall to 1 thaler per bushel.
+
+If, on the other hand, the increase in grain yield were accompanied by such an increase in consumption that the grain price remained continuously the same: this would lead to an extraordinarily great increase in population and national wealth.
+
+If the estate whose soil yields 8 grains can deliver approximately 4 grains for the supply of the towns, then the estate with a soil yield of 10 grains will be able to deliver at least 5 1/2 grains. At the same time, according to §14, cultivation of the plain expands with the rising grain yield from 31.5 to 34.7 miles from the Town. Through this simultaneous increase in intensive and extensive cultivation, the population of the entire state could be increased by approximately 50 percent; and this larger population would be nourished just as amply as the smaller one before.
+
+[181]
+The magnitude of consumption in the Town must, if one surveys not individual years but longer periods, be in proportion with the magnitude of the income of this Town. With a constant yield of the soil, the rise or fall of grain prices will therefore depend on the increase or decrease of the income enjoyed by the consuming class of citizens.
+
+The market prices of grain seldom or almost never agree with the average price; rather, they are in constant fluctuation, standing now higher, now lower than the average price, and depend on momentary abundance or scarcity.
+
+Now since agriculture requires capital expenditures for the erection of buildings, etc., which are repaid only after a long series of years: so too the market price of a single year and the farm income resulting from it do not decide whether the investment of this capital was right or wrong.
+
+In our investigations, which have hitherto always been directed at the final outcome but never at the phenomena that appear during the transition from one state to another, we have for this reason always been able to take as our basis only the average price of grain, which results from the mean of market prices over a long series of years.
 
 §25.
 Origin of Land Rent.
 
-Land rent arises from the advantage of location or superior soil quality. The estate near the Town has lower transport costs; the estate on fertile soil has lower production costs. In both cases, the owner receives the Town market price and the surplus over his own costs constitutes the land rent.
+[182]
+When rye from the most distant region and from the nearest vicinity of the Town is brought to market at the same time: the rye grown far away cannot be sold for less than 1 1/2 thalers per bushel, because it costs the producer that much; on the other hand, the producer living nearby could sell his rye for approximately half a thaler, and he would still have all the costs expended on the production and transport of the rye repaid.
 
-Land rent is therefore not a cause of the high price of grain, but a consequence of it. If grain had no value, there would be no land rent. Land rent is the result of the fact that soil of different quality or location must be cultivated to meet demand, and that all grain sells at the price determined by the marginal producer.
+Now, however, neither can this producer be compelled, nor can it be expected of him, to sell his commodity of equal quality at a lower price than what the other receives for it.
 
-[Extended discussion of the origin and nature of land rent, its relationship to grain prices, and comparison with Ricardo's theory]
+For the buyer, the rye brought to market from nearby has just as much value as that from afar, and it does not concern him whether this or that cost more to produce.
+
+What the producer near the Town receives for his rye in excess of what it costs him is pure profit for him.
+
+Since this profit is lasting and recurs annually, the land of his estate also yields an annual rent.
+
+The land rent of an estate thus arises from the advantage that it possesses over the worst estate — whether by its location or by its soil — which must still produce products to satisfy demand.
+
+The value of this advantage, expressed in money or grain, designates the magnitude of the land rent.
+
+[183]
+Note. This definition, arising from the preceding investigations, is by no means complete and comprehensive: for other investigations, which I cannot communicate here out of context, have shown that soil of equal fertility, of equal location with respect to the sale of products, and of altogether equal value can nevertheless yield a land rent — if this soil is all distributed and has become the property of individuals.
+
+It remains, however, always remarkable that land rent can arise from two different causes, and the question arises whether a common principle can be found in both.
+
+For reality, where soil of very different quality occurs, and where as a rule poor soil that yields no land rent has already been taken into cultivation, the definition given here will almost always suffice.
 
 §26.
 Sixth Circle. Livestock Farming.
 
-Beyond the boundary of the three-field system, at the most distant fringes of the cultivated plain, the land can no longer produce grain for the Town market at a profit. But livestock products — butter, cheese, and live animals — can still be sent to Town, for their value relative to their weight is much higher than that of grain, and their transport costs are proportionally much lower.
+[184]
+We have indeed seen in §23 that the cultivation of the soil, when the farming is based on grain sales, ends at 31.5 miles from the Town; but it does not follow from this that this is the absolute boundary of cultivation: for if there are products whose transport costs in proportion to their value are less than those of grain, these can still be produced here with advantage.
 
-In this outermost circle, therefore, livestock farming predominates. The land is used almost exclusively for pasture, and only enough grain is grown for local consumption. Butter is produced and sent to the Town; live cattle are driven to market. This circle extends outward until even livestock farming can no longer cover its costs, at which point the cultivated plain ends and the uncultivated wilderness begins.
+Such products are now furnished by livestock farming; and we now turn to the calculation of the return that a so-called Dutch dairy or cattle dairy will give here. But first we must try to determine the costs that the transport of butter from here to the Town entails.
 
-[Extended calculations of livestock farming economics, butter production, cattle driving costs, and the extent of the sixth circle to approximately 50 miles from the Town]
+The freight for a load of 2,400 pounds amounts, according to §4, to [FORMULA] thalers. If we now set x = 31.5, we find that for this distance from the Town the transport costs amount to 6/10 schillings per pound.
+
+The transport of butter cannot, however, be as cheap as that of grain, for several reasons. First, the shipment of butter cannot, like that of grain, be postponed until winter, when horses are often idle anyway, but it must be sold fresh and therefore in small quantities. Thus half-loads will often have to be sent to the Town; or the transport will be done by carriers who, because they make a trade of hauling and live by it, must charge a higher freight than what transport by one's own horses costs. In the latter case, too, the sale of butter will have to be done by someone other than the producer, and to the freight are then added the costs of selling the butter. Second, the butter must be packed in barrels for shipment, the procurement of which involves costs and which by their own weight increase the freight for the butter.
+
+[185]
+For these reasons we now assume that the transport and selling costs for a pound of butter amount to 1/5 schilling for 5 miles, 1 schilling for 25 miles, and 1 1/5 schillings for 30 miles — thus approximately double what we have calculated for grain. We shall take no account of the fact that transport costs per mile change with greater or lesser distance from the Town, but shall set them equal; because the shipping costs of butter in proportion to its value are so small that the equalization can have scarcely a noticeable influence on the correctness of the calculation, which thereby, however, becomes much clearer and simpler.
+
+If now the price of butter at the marketplace is 9 schillings N 2/3 per pound:
+
+According to §4, the value of a bushel of rye on the estate 30 miles from the Town is 0.512 thalers, thus only approximately 1/3 of the market price. The value of butter at this distance from the Town is, by contrast, still 7 4/5 schillings per pound, which amounts to nearly 7/8 of the market price.
+
+The preponderance of the nearer regions, which is so significant in grain cultivation, becomes very slight with respect to livestock products; indeed, this preponderance arising from lower transport costs is directly opposed by the lower costs associated with the production of livestock products in the distant regions.
+
+[186]
+The costs of maintaining the people employed in livestock farming, the construction and maintenance costs of the buildings necessary for the livestock, as well as most other expenditures in livestock farming, are for the greater part governed by the grain price, and must be very much lower where rye is worth half a thaler per bushel than where it is 1 1/2 thalers.
+
+Whether the saving in production costs in the distant regions covers or exceeds the increase in transport costs, we shall see from the following calculation.
+
+The gross return, or the value of all products that a cow delivers, I have calculated at Tellow, where a cow gave on average 1,185 pots of milk annually in the years 1810 to 1815, at 87 1/2 pounds of butter.
+
+I reckon namely the butter yield itself at 70 pounds, and the value of the calf, the cheese, the buttermilk, etc. as equal to 17 1/2 pounds. Total: 87 1/2 pounds.
+
+The costs of the labor associated with keeping livestock, the harvesting costs of hay, the interest on the value of the livestock, etc. amount at Tellow, where the bushel of rye is worth 1.205 thalers N 2/3 or 1.291 thalers gold, for one cow to 10.13 thalers N 2/3.
+
+The value of butter amounted in the stated years on the estate itself to 8 3/5 schillings N 2/3 per pound. The return of one cow is therefore 87 1/2 pounds x 8 3/5 sch. = 15.67 thalers. The cow pays for the feed received with 5.54 thalers.
+
+[187]
+The question now arises how large the general cultivation costs of a pure livestock farm will be.
+
+Since in reality no pure livestock farms, but only such farms in which livestock raising is combined with arable farming, are known to me, I cannot solve this question from experience. It is, however, very difficult to establish a principle of division by which the general cultivation costs of a farm composed of both arable farming and livestock raising can be apportioned to each of these two branches; or how much of the general cultivation costs of an entire estate falls on arable farming alone, and how much belongs to livestock farming.
+
+This much is clear: that a pure livestock farm must have those buildings which serve as stalls for the livestock, for the storage of hay, and as dwellings for the people occupied with livestock farming, and that therefore the interest on the value of these buildings, as well as the maintenance costs of the same, must be charged to this farm's account.
+
+The remaining expenditures reckoned under general cultivation costs in §5, such as administrative costs, contributions to insurance companies, etc., also occur in a pure livestock farm; but from an equal area they are not so considerable as in arable farming, because livestock raising requires less labor and its raw product itself is not of such great value. According to the value of the raw product and according to the quantity of labor, however, the magnitude of the general cultivation costs is governed.
+
+For the conditions at Tellow I have, after a detailed estimate, assumed the general cultivation costs of a livestock farm at 20 percent of the value of the raw product.
+
+The gross return from one cow at Tellow is 15.67 thalers N 2/3. The general cultivation costs amount to 20 percent thereof, or 3.13 thalers. The labor costs amount to 10.13 thalers. These two expenditures together: 13.26 thalers N 2/3.
+
+The completely pure surplus which establishes a land rent amounts therefore for one cow to 2.41 thalers N 2/3.
+
+[188]
+We now wish to see how the land rent that the soil yields through the pursuit of livestock farming stands at various distances from the Town.
+
+According to §14, the land rent equals zero when the price of a bushel of rye = 0.47 thalers gold, or [FORMULA] thalers N 2/3. Since by this price only the labor costs and the other expenditures to be applied to grain cultivation are covered, in an even greater distance from the Town than 31.5 miles the price of rye also cannot fall below 0.45 thalers N 2/3; and we therefore assume this price for the entire circle.
+
+Grain is not an object of trade for this circle, because there is no market for it, and the entire grain cultivation is therefore limited solely to satisfying its own needs.
+
+We have above, for a situation where the prices of livestock products follow the prices of grain, expressed the expenditures partly in money, partly in grain. For this circle, in which grain and livestock products stand in an entirely different value ratio to each other, the farming expenditure — if one wants to have a universal measure — can no longer be expressed by grain and money alone, but one must express the part of the expenditure that consists in the use of livestock products also in livestock products, and not reduce it to grain.
+
+A perfectly exact distinction and calculation is not attainable here; but I believe that we approach the truth very closely if we express the general cultivation costs in livestock products, and the labor costs as before, 3/4 in grain and 1/4 in money.
+
+[189]
+The return of one cow equals 87 1/2 pounds of butter. Less 1/5 for general cultivation costs: 17 1/2. Remaining: 70 pounds of butter. The labor costs amount for one cow to 10.13 thalers N 2/3. Of which 1/4 in money makes 2.53 thalers. 3/4 in grain: 7.60 thalers. 7.60 thalers are at Tellow, where the bushel is worth 1.205 thalers N 2/3, equal to 6.3 bushels of rye.
+
+Expressed generally, the net return of one cow = 70 pounds of butter minus 2.53 thalers N 2/3 minus 6.3 bushels of rye.
+
+For a distance of 5 miles from the Town, the value of 70 pounds of butter at 8 4/5 schillings is 12.83 thalers N 2/3. The expenditure: 6.3 bushels of rye at 1.225 thalers N 2/3 = 7.72; in money: 2.53. Net return remaining: 2.58 thalers N 2/3.
+
+For 10 miles distance. Income: 70 pounds of butter at 8 3/5 schillings = 12.54 thalers N 2/3. Expenditure: 6.3 bushels of rye at 1.06 thalers N 2/3 = 6.78; in money: 2.53. Net return: 3.23 thalers N 2/3.
+
+[190]
+For 20 miles distance. Income: 70 pounds of butter at 8 1/5 schillings = 11.96 thalers N 2/3. Expenditure: 6.3 bushels of rye at 0.755 thalers N 2/3 = 4.76; in money: 2.53. Net return: 4.67 thalers N 2/3.
+
+For 30 miles distance. Income: 70 pounds of butter at 7 4/5 schillings = 11.38 thalers N 2/3. Expenditure: 6.3 bushels of rye at 0.478 thalers N 2/3 = 3.01; in money: 2.53. Net return: 5.84 thalers N 2/3.
+
+For 40 miles distance. Income: 70 pounds of butter at 7 2/5 schillings = 10.80 thalers N 2/3. Expenditure: 6.3 bushels of rye at 0.45 thalers N 2/3 = 2.83; in money: 2.53. Net return: 5.44 thalers N 2/3.
+
+For 50 miles distance. Income: 70 pounds of butter at 7 schillings = 10.21 thalers N 2/3. Expenditure: 6.3 bushels of rye at 0.45 thalers N 2/3 = 2.83; in money: 2.53. Net return: 4.85 thalers N 2/3.
+
+[191]
+The land rent that the soil utilized through livestock farming yields is therefore lowest near the Town, rises gradually with greater distance, and is highest at 30 miles distance (actually at 31.5 miles). From this point the land rent sinks again, but only so little that at 50 miles distance it is still 4.85 thalers — thus still nearly twice as high as near the Town.
+
+Since livestock farming at 50 miles distance can still be carried on with such great advantage, this will not yet be the boundary of this farming system; rather, it must extend so far until the transport costs finally devour the return and the land rent equals zero.
+
+This circle then acquires, however, an extraordinarily great extent, and so many animal products will be brought to the Town that they will be entirely out of proportion with the grain brought for sale, and can no longer be consumed.
+
+[192]
+Production can indeed momentarily, but never lastingly, exceed demand; for what is brought to market beyond demand either finds no buyer at all, or must be sold at so low a price that the production and transport costs are not compensated thereby. If now the price reduction is lasting, and if the production of a product or commodity is continuously associated with loss: then those producers for whom production is most costly must cease first, and this restriction of production must continue until at last production is again in equilibrium with demand. Of the producers, then, only those will remain who are most favored by their location or other circumstances, so that they can still survive at the reduced price.
+
+Suppose now that through the great abundance of butter brought to market, its price falls from 9 to 5 2/3 schillings per pound; in what region of the isolated state will the production of butter then have to cease?
+
+If the average price of butter falls by 3 1/3 schillings per pound, this diminishes the income from one cow by 70 x 3 1/3 = 233 schillings = 4.88 thalers, and this diminution is entirely the same for every region, whether it be 5 or 50 miles from the Town.
+
+[193]
+The labor costs and the general cultivation costs are not changed by the price reduction of butter, but remain as we have calculated them for the price of 9 schillings, and the reduced income therefore comes off the net return itself.
+
+The net return from one cow, at the price of 9 schillings and at the price of 5 2/3 schillings respectively:
+
+At 5 miles distance: 2.58 thalers / minus 2.30 thalers.
+At 10 miles: 3.23 thalers / minus 1.65 thalers.
+At 20 miles: 4.67 thalers / minus 0.21 thalers.
+At 30 miles: 5.84 thalers / plus 0.96 thalers.
+At 40 miles: 5.44 thalers / plus 0.56 thalers.
+At 50 miles: 4.85 thalers / minus 0.03 thalers.
+
+It follows from this that at the butter price of 5 2/3 schillings per pound, in the vicinity of the Town the keeping of cows for the purpose of butter production not only yields no net return, but is associated with an actual loss. With greater distance from the Town this loss gradually diminishes and finally disappears at a distance of 21 1/2 miles. From here on, the cows yield a net return that initially grows with increasing distance, reaches its highest point at 31.5 miles, then decreases again and finally at 50 miles distance entirely disappears.
+
+The result — that butter production can only be carried on with advantage in the distant regions — we could also have developed from the general formula communicated in §19, by virtue of which, for every crop whose production costs and whose yield from a given area are known, the place where it must be produced can be demonstrated. According to this formula, in §19 it was calculated for a product which, with respect to production costs, stands as 14:1 and with respect to transport costs as 2:1 relative to rye — and approximately in this ratio will butter and grain production stand to each other — that from the vicinity of the Town it can be delivered only at 9.2 schillings, but from the region 30 miles away at 5.3 schillings per pound. If now — as is the case here — the entire demand can be satisfied by the distant region, then the price at which this region can deliver such a product to the Town also determines the average price of this product in the Town itself, and it follows from this that the production of this product near the Town must be associated with loss.
+
+[194]
+It would seem, therefore, that the circles lying nearer to the Town would have to give up livestock farming entirely and devote themselves solely to the far more profitable grain cultivation.
+
+This would also undoubtedly be the case, if it were not prevented and made impossible by a remarkable law of nature.
+
+The plant nourishment that is withdrawn from the soil by the production of grain cannot be returned to the field by carting on hay, straw, or grass in their natural state; rather, these substances must be converted into manure through being fed to livestock, if they are to serve the plants again as nourishment.
+
+Livestock is therefore to be regarded as an indispensable machine by which hay and straw are converted into manure; and livestock farming must remain combined with arable farming, even if it should yield no income whatsoever.
+
+Through this circumstance, however, the question — "whether with falling prices of livestock products the nearer or more distant regions must give up livestock farming" — receives a different answer.
+
+The nearer regions can bear the loss arising from livestock farming, because grain cultivation yields a land rent; the more distant regions, which have no other income than from livestock, must give up livestock farming as soon as it no longer pays.
+
+[195]
+In order finally to be able to state the price that butter will have in the Town, the quantity required and the size of the area necessary for the production of this quantity would have to be known.
+
+The price must namely be high enough that the most distant estate, whose cultivation is still necessary for the satisfaction of the Town's demand, has all the costs expended on production and transport repaid.
+
+If, for example, the pursuit of livestock farming to 50 miles from the Town is necessary for the satisfaction of the Town's needs: then the price of butter must be high enough that the estate 50 miles away has the costs of livestock farming repaid; thus 70 pounds must be worth 5.36 thalers N 2/3 on the spot itself, the pound therefore 3 7/10 schillings, and since the transport costs amount to 2 schillings per pound, the average price of butter in the Town must be 5 7/10 schillings N 2/3.
+
+At a distance of 40 miles from the Town, the cost of producing a pound is likewise 3.7 schillings N 2/3; the transport costs to the Town amount to 1.6; together: 5.3 schillings N 2/3.
+
+If the circle of 40 miles around the Town can supply the Town's demand, the average price of butter will be 5.3 schillings N 2/3 per pound. In this case, however, the land rent disappears at 40 miles distance, instead of this region still yielding a land rent when the cultivation of the soil extends to 50 miles from the Town.
+
+At a distance of 30 miles, the production of 70 pounds of butter costs 5.54 thalers N 2/3; this makes 3.8 schillings per pound. To transport butter from this region to the Town costs 1.2 schillings. If this circle suffices for the Town's needs, the pound of butter can be bought for 3.8 + 1.2 = 5 schillings N 2/3.
+
+[196]
+Between meat and grain there exists a common measure, namely that of nutritive capacity, and we must pose the question whether the price of meat, butter, etc. is not determined solely by the costs of bringing these products to market, but also by the ratio of nutritive capacity.
+
+Now we find in reality among all civilized nations — thus with the exclusion of nomadic peoples who pursue only livestock farming — that an equal nutritive mass is paid for much more highly in meat than in bread.
+
+This higher price of meat springs from two sources:
+
+1) There exists a general preference for meat dishes, and everyone who does not live in the utmost destitution devotes a part of his income to obtaining this tasty and nourishing food.
+
+2) Vegetables and potatoes are — with the sole exception of very large cities — everywhere a far cheaper food than bread and the flour dishes prepared from grain; but the nutritive mass in them is too little concentrated for them to be the sole food of the working class. But if vegetables are combined in meals with meat, in which the nutritive mass is even more concentrated than in grain: this combination fully replaces bread and flour dishes, and the worker can now devote what he saves by purchasing vegetables instead of grain to paying a higher price for meat.
+
+[197]
+This leads us once more back to potatoes.
+
+Suppose a pound of meat contains the same nutritive mass as the bread resulting from two pounds of rye: then 14 pounds of meat + 2 bushels of potatoes equal 1 bushel of rye.
+
+If now the bushel of rye is worth 1 thaler 24 schillings, a bushel of potatoes 12 schillings, 2 bushels thus 24 schillings: then the worker saves 1 thaler, which he devotes to the purchase of 14 pounds of meat; he can therefore, without any loss arising from this, pay 3.4 schillings per pound of meat, although he could purchase the same nutritive mass in bread for 1.7 schillings.
+
+According to Campbell (see Thaer's Principles of Rational Agriculture, Volume 4, page 221), in ox fattening the feeding of 1 bushel of potatoes produces a meat gain of 3 pounds. According to Thaer (page 369 of the cited work), a fattening ox that receives 40 pounds of good hay daily gains 2 pounds daily.
+
+According to Campbell's data, the production of 42 pounds of meat, which by our assumption contain the same nutritive mass as 1 bushel of rye, would require the feeding of 14 bushels of potatoes, while before feeding, 3 bushels of potatoes already contained as much nutritive substance as 1 bushel of rye.
+
+It would follow from this, therefore, that through the conversion of potatoes into meat the absolute nutritive mass is reduced almost to 1/6.
+
+[198]
+If now 1 bushel of rye can be replaced by 14 pounds of meat + 2 bushels of potatoes, and if 4 2/3 bushels of potatoes are required for the production of 14 pounds of meat: then 4 2/3 + 2 = 6 2/3 bushels of potatoes would replace one bushel of rye.
+
+Since now from the same area where 1 bushel of rye grows, more than 6 2/3 bushels of potatoes can be harvested, the same calculation — which, however, by no means claims completeness and accuracy — shows that through the spread of potato cultivation a greater number of people than before through grain cultivation can be nourished; but by far not so much greater a number as some have maintained.
+
+Let us now imagine that in the isolated state the circle hitherto devoted solely to livestock farming gradually, extending to the boundary of the cultivable soil, be cultivated and devoted to grain growing: then on the one hand the quantity of livestock products delivered to the Town decreases considerably, and on the other hand the number of consumers increases with the expanded cultivation of the plain. The smaller quantity of livestock products must then be distributed among a greater number of consumers, and the portion falling to each individual must therefore be much smaller than before.
+
+[199]
+The question now arises what influence this change will have on the price of animal products, and how the smaller quantity of products will now be distributed among the various classes of citizens.
+
+With the inadequate supply of the market with meat, competition among buyers produces an increase in price. The poorer person can pay for meat only the price that it is worth to him in proportion to other foods. If the price rises higher, he must give up or at least restrict the consumption of it. The rich person, on the other hand, can and will pay a higher price for the more palatable meat dish than the value ratio to grain indicates. Now since the rich person, precisely through this higher price, keeps the poor from purchasing meat, his table can still be just as amply furnished with meat as before; while the working class must now content itself with the cheaper but less nourishing vegetable foods.
+
+Thus this transition to higher cultivation leads to a most unpleasant restriction of the accustomed needs for the workers.
+
+[200]
+If now, with further progress of the nation's wealth, the prices of animal products rise so high that potatoes can be grown as livestock feed with advantage: then at once a great increase in livestock products takes place, and the portion falling to each individual can now again be considerably increased.
+
+According to my calculations, an acre planted with potatoes feeds 2 2/3 times as much livestock as an acre of pasture on soil of equal richness.
+
+If now wages are high enough that the worker can pay the higher price for animal products — and this must be assumed, because without the competition of the working class the price could scarcely have risen so high — then the worker will now be able to increase the consumption of meat dishes and transition to a comfortable way of life.
+
+Such a condition of civil society offers, however, yet another very gratifying aspect.
+
+If namely in a year of crop failure the harvest does not suffice for the demand, then the potatoes destined for livestock fattening can be used directly for human nourishment, and the livestock slaughtered lean, and since thereby the nutritive mass otherwise converted into meat is almost quintupled: it is almost impossible that a nation which has once reached this level of prosperity could ever be visited by a famine.
+
+[201]
+If, on the other hand, in a state through the introduction of potato cultivation the population increases so greatly, and if as a consequence of this increase the wages sink so low that the worker can purchase only potatoes for his wages, and must live entirely or for the most part on potatoes without the aid of animal foods: then this condition of the state is one of the most lamentable.
+
+Potatoes cannot, like grain, be stored from one year to the next: the abundance of one year cannot make up for the deficiency of another.
+
+But if the potatoes fail, there is no rescue through the transition from an expensive to a cheap food — as from meat to potatoes — and the condition occurs of which Malthus says: "but if the people habitually live on the very lowest food, then there remains no refuge at all, except perhaps some bark of trees, but many must necessarily die of actual starvation."
+
+In this case, therefore, as paradoxical as it may seem, it is precisely the potato that brings on the scourge of a frequently recurring famine. Ireland perhaps already now presents the example of such a condition.
+
+Thus here too nature has left it to the will of man whether he will use the magnificent gift she gave him to his ruin or to his salvation.
+
+[202]
+Livestock Fattening.
+
+The fattened livestock can be driven to distant marketplaces without significant costs, and the fattening can be done more cheaply here than in the regions nearer to the Town, where the land yields a considerable land rent. However, since driving very fat livestock over long distances is associated with much difficulty and with considerable loss of weight by the animals: it may be that the fattening is only begun here but completed only in a region nearer to the Town.
+
+Rearing of Young Livestock.
+
+Young livestock can be driven from one place to another with little trouble and insignificant cost. Since in this circle the land rent of the soil and the value of feed are very low: young livestock can also be delivered from here so cheaply that no other region of the isolated state can withstand the competition.
+
+The circle of convertible husbandry can utilize its soil through dairying for the purpose of butter production much more highly than through rearing; and this circle will purchase its entire need for young livestock from the circle of livestock farming.
+
+[203]
+In reality, in such regions where by location and other conditions rearing is disadvantageous, it can nevertheless sometimes be expedient for individual farmers to raise their own young livestock — namely if they have the purpose of achieving a better breed than the common one. In the isolated state, however, where we assume equal intelligence for all farmers and thus also equal knowledge of good cattle breeds, the location of the estate alone decides on the expediency or inexpediency of rearing.
+
+If the Town's demand for animal products requires an extension of livestock farming to 50 miles around the Town, then, as we have seen above, the average price of butter in the Town is 5 2/3 schillings N 2/3 per pound, and with this price of butter the price of other animal products — such as wool, fat meat, etc. — will be in proportion.
+
+The net return of one cow amounts, according to our above investigations, for the region which is distant from the Town: 30 miles, 0.96 thalers N 2/3; 40 miles, 0.56; 50 miles, 0.
+
+The land rent is therefore in this entire circle extremely small, and the income of the estates consists almost solely of interest on the capital invested in the erection of buildings, in the procurement of inventory, etc.
+
+[204]
+In this circle no more grain is grown than is necessary for the nourishment of the people engaged in livestock farming. The yield of straw is therefore extremely small, and no more livestock may be kept than can be fed through the winter with this small amount of straw and with the hay from the natural meadows.
+
+The summer pasture for the livestock is, by contrast — since almost all the arable land of the estates lies in pasture — so abundant that the livestock cannot consume all the grass, and a part of the grass rots unused.
+
+Through the cultivation of fodder crops and root plants the winter feeding cannot, however, be increased, because the costs thereby incurred cannot be repaid by the very small return of the livestock.
+
+The meadows are therefore the sole measure for the number of livestock that can be kept, and one will attribute the small land rent that the farming yields entirely and solely to the meadows, because pasture is available in excess and can be utilized only through the meadows.
+
+This circle can therefore, in proportion to its great extent, bring only a small quantity of livestock products to market.
+
+The population of this circle is also extremely sparse, and an estate of equal size which near the Town supports 30 families will here scarcely give occupation and sustenance to 3 families.
+
+At 50 miles distance from the Town, the land rent from livestock farming finally ceases entirely, and because at a greater distance the interest on the capital invested in the farm can no longer be paid, this last branch of cultivation must also end here.
+
+[205]
+Behind the circle of livestock farming there can still live a few hunters scattered in the forests, who will adopt with the occupation and way of life of savages also the customs of the same. The only communication that these hunters have with the Town consists in the fact that they barter their few necessities for the skins of wild animals.
+
+This is now the last influence that the Town exerts on this plain, which farther on becomes a wilderness empty of human beings.
+
+A traveler who journeyed through the isolated state would in a few days see all currently known farming systems practically applied. The regular sequence in which he would observe the various farming systems one after another would guard him against the error that it is only the ignorance of the farmers that prevents the cultivation of the distant regions from being as good as that near the Town.
+
+[206]
+The higher farming systems have, through being more artificial, more complicated, and at the same time requiring higher insights and knowledge, something dazzling and seductive to the eye.
+
+Since now these higher farming methods undeniably give a greater return in the places where they are customary and utilize the soil more highly, the error — that one only needs to possess the necessary knowledge in order to introduce a higher farming system into a less cultivated region — is easy to excuse, but also all the more dangerous.
+
+Our investigations have shown that a convertible or crop rotation farm established on an estate in the circle of three-field farming must be swept away by time and disappear without a trace.
+
+Conversely, a three-field farm transplanted into the circle of convertible or crop rotation farming will not be able to survive; but such an experiment is too little inviting, the disadvantage too much self-evident, for it to be made often.
+
+The isolated state presents, with respect to agriculture, at the same time the picture of one and the same state in different centuries.
+
+A century ago, only three-field farming was practiced in Mecklenburg, and this alone was suited to the conditions of that time. In the earliest times, hunting and livestock farming were probably the only sources of sustenance. In the next century, on the other hand, crop rotation farming will perhaps be just as general here as convertible husbandry is now.
+
+Just as the wealth and population of a state rise, so too does a more intensive cultivation of the land become advantageous. Once conditions have ripened to the point where the application of a higher farming system becomes useful, then the work of the farmer who first introduces this new system is not subject to transience. This farming system will not only be maintained on his estate, but will spread — slowly but irresistibly — over the entire land and thus become the customary farming system.
+
+This was the case in Mecklenburg when convertible husbandry was first introduced; this was the case in England when convertible and three-field farming had to give way to crop rotation farming.
 
 Second Section.
 
@@ -2194,72 +2520,485 @@ Comparison of the Isolated State with Reality.
 §27.
 Retrospect on the Course of Our Investigation.
 
-We have now traced the formation of the isolated state from the center outward, and have found that — under the assumptions made — the following concentric circles must necessarily form around the Town:
+[207]
+In the foregoing representation of the formation of the isolated state, the conditions of the estate Tellow have been taken as a basis, as we have developed how the farming of this estate would change if it were imagined nearer or farther from the marketplace for agricultural products.
 
-1st Circle: Free farming (with manure purchased from the Town)
-2nd Circle: Forestry
-3rd Circle: Crop rotation farming
-4th Circle: Convertible husbandry
-5th Circle: Three-field farming
-6th Circle: Livestock farming
+We have assumed in §5 that the gross return of an estate can be expressed entirely in grain, and that the price of animal products stands in proportion to the price of grain.
 
-Beyond these lies the uncultivated wilderness.
+This assumption is indeed true and applicable if we have before our eyes the actual conditions of a cultivated state that is not surrounded by uncultivated countries pursuing only livestock farming. The completed representation of the isolated state shows us, however, that the estate Tellow lies in a region where the influence of the uncultivated, solely livestock-farming countries has already greatly diminished; and that in the isolated state the ratio between the prices of livestock products and grain cannot be the same as prevails at the estate Tellow.
 
-This order is not arbitrary, but follows necessarily from the laws governing grain prices, transport costs, and production costs. Each farming system prevails in precisely that zone where it yields the highest land rent.
+[208]
+We must therefore investigate to what extent the formation of the isolated state changes when the price of animal products is independent of the price of grain.
+
+For Tellow the price of butter is 9 schillings, and after deducting transport costs, 8 3/5 schillings N 2/3 per pound; in the isolated state the market price of butter can, according to our calculation, be only 5 2/3 schillings, but the value of the same on the estate itself does not decline as rapidly with the distance of the estate from the Town as that of grain. If we now take this price rather than that as the basis of our calculation, we shall find the land rent near the Town smaller, but this land rent does not decline as rapidly with increasing distance from the Town, and for the estate 25 miles away it will already be greater than we have stated — because butter, notwithstanding the lower market price, here already has a higher value than if its price followed the grain price of this region.
+
+We have furthermore in our investigations taken as our basis a standpoint where the expenditures connected with agriculture must be expressed 1/4 in money and 3/4 in grain — and we could thereby determine the net return and the farming method for the given estate at every change of grain prices.
+
+[209]
+But then we have also represented the change in grain prices through the greater or lesser distance from the marketplace — spatially, as it were — and in this way constructed the isolated state.
+
+Now, however, as we have already mentioned in §5, the ratio in which the expenditures must be expressed in money and in grain is by no means constant but changes with the standpoint itself, and this can be surveyed in the isolated state far more clearly than in reality.
+
+The price of all goods and materials that the farmer of the isolated state can obtain only from the Town is governed not by the grain price of the region where the farmer lives, but he must pay the price that the goods have in the Town and then still the freight from the Town to his region.
+
+In the price of the work-products of the craftsmen who live in the country are contained: 1) the expenditure for provisions and other necessities that they consume during work; 2) the expenditure for the raw material.
+
+If now the material that the craftsman works, for example iron, is obtained from the Town, then the price of his work-product is governed only in lesser part by the grain price of the region where the craftsman lives; if on the other hand the raw material is produced in the country itself, for example flax, then the manufacturing costs of linen stand almost entirely in proportion to the grain price, since only what the linen weaver must purchase from the Town for his dwelling, his tools, and his maintenance may be expressed in money.
+
+[210]
+We find, therefore, that of the expenditures connected with agriculture, everything that the farmer obtains directly from the Town, and everything that the craftsmen living in the country and working for the farmer purchase from the Town, must remain expressed in money.
+
+For estates of equally large operations, therefore, the sum to be paid in the Town itself for goods and materials is equally great, whether these estates lie near or far from the Town. But the farmer of the isolated state must pay for these goods not only the purchase price but also the freight for them from the Town to his region; or the price of these goods in the country is higher than in the Town by the amount of the freight including trade costs. The freight — of which, according to §4, a part must again be expressed in money — rises, however, with greater distance from the Town, and so an increased expenditure in both money and grain falls upon the more distantly situated estates.
+
+In transferring our calculation, which started from one standpoint, to the isolated state, a twofold deviation therefore occurs:
+
+1) the return from livestock farming in the distant regions is greater than our calculation indicates;
+
+2) for the distant regions the freight for necessities to be purchased from the Town must be added as an expense.
+
+Both deviations work against each other and thereby produce an approximation to the result of our calculation.
+
+[211]
+However the land rent, expressed in numbers, may thereby change, the following main results of our investigation remain entirely unaltered:
+
+Convertible husbandry must, at very low grain prices, give way to three-field farming, because the latter can produce grain with lower labor costs.
+
+At still further reduced grain prices, the land rent of three-field farming also ceases, and it can no longer deliver grain to the Town.
+
+Behind the circle of three-field farming the circle of livestock farming then forms.
+
+These main results and with them all the conclusions drawn from them remain unchanged, but the extent of the circles expressed in numbers and the boundary where two farming methods separate will change in terms of the number of miles. These numbers serve here, however, only to make the idea vivid and are by no means of an essential influence on the main laws developed: for it is in this respect immaterial whether, for example, the circle of three-field farming begins a few miles nearer or farther from the Town.
 
 §28.
 Differences Between the Isolated State and Reality.
 
-The isolated state, as we have described it, is of course an abstraction. In reality, many circumstances modify the picture:
+[212]
+The actual states and countries differ from the isolated state in the following points:
 
-1) The plain is not uniform; soils vary in quality.
-2) Navigable rivers and canals reduce transport costs along their course, distorting the circles into irregular shapes.
-3) Multiple towns exist, each with its own zone of influence.
-4) International trade allows the import and export of products, altering the price relationships.
-5) Government policies — tariffs, taxes, trade restrictions — affect agricultural decisions.
+1) There is in reality no country where the soil would everywhere contain equal richness and would throughout be of equal physical constitution.
 
-Nevertheless, the laws discovered in the isolated state remain valid; they are merely overlaid and modified by these additional factors. Where we observe deviations from the expected pattern in reality, we can often trace them to one or more of these modifying causes.
+2) There is no single large city that does not lie on a river or navigable canal.
 
-[Extended discussion of how the isolated state model applies to real-world conditions, small towns, navigable rivers, and their effects on agricultural zones]
+3) Every state of considerable extent, with a large capital, has besides this capital many smaller towns scattered over the entire country.
+
+Ad 1. Our investigations in §14 have yielded the result that low grain prices in their effect coincide with a low manuring power of the soil in that both transform convertible husbandry into three-field farming, and that both, if further diminished, finally bring the land rent down to zero.
+
+[213]
+One could now, just as we have here assumed the price of grain variable and the fertility of the soil constant, present a second isolated state in which the grain price is constant but the fertility of the soil variable, and then apply this twofold presentation to reality.
+
+This twofold presentation is, however, at least in this respect dispensable, because we can already demonstrate from what we have, the standpoint that an estate of a lower degree of fertility would occupy at the grain price of 1 1/2 thalers per bushel of rye, as will emerge from the solution of the following problems.
+
+First Problem. What land rent will an estate whose arable yields [FORMULA] grains in three-field farming afford when the bushel of rye is worth 1 1/2 thalers on the estate itself; and in what region of the isolated state does an equal land rent prevail?
+
+According to the table provided in §14, the land rent of three-field farming at [FORMULA] grains yield amounts to 240 bushels of rye minus 246 thalers. At the price of 1 1/2 thalers per bushel, 240 bushels of rye are worth 360 thalers; the land rent therefore amounts to 360 minus 246 = 114 thalers.
+
+In the isolated state, at the yield of [FORMULA] grains, the land rent = 696 bushels minus 327 thalers. The land rent of both farming systems therefore becomes equal when 696 bushels of rye minus 327 thalers = 114 thalers; thus 696 bushels of rye = 441 thalers; this makes for 1 bushel 0.633 thalers, and this price rye has on the estate approximately 26 miles from the Town.
+
+The land rent of an estate of 4.2 grains at the rye price of 1 1/2 thalers per bushel is therefore equal to the land rent of that estate which, in the isolated state, is 24 miles from the Town.
+
+[214]
+Second Problem. At what grain yield does the land rent of three-field farming equal zero, when the bushel of rye is worth 1 1/2 thalers on the estate?
+
+According to §14, for (10 - x) [FORMULA] grains the land rent is 1,000 bushels minus 152x bushels minus 381 thalers plus 27x thalers. Reckoning the bushel at 1 1/2 thalers, this gives 1,500 thalers minus 228x thalers minus 381 thalers plus 27x thalers, or 1,119 thalers minus 201x thalers.
+
+If now the land rent is to equal zero, then 201x = 1,119, therefore x = 5.57. The sought grain yield for which the land rent equals zero is therefore [FORMULA].
+
+Third Problem. At what grain yield is the utilization of the soil through convertible husbandry just as high as through three-field farming, when for both farming methods the value of the bushel of rye on the estate is 1 1/2 thalers?
+
+The land rent of both farming methods becomes equal when, according to §14: [FORMULA]
+
+For a richness of the arable at which convertible husbandry gives 10 - 4.58 = 5.42 grains, but three-field farming gives (10 - 4.58) [FORMULA] = 4.55 grains, the land rent of convertible husbandry at the price of 1 1/2 thalers per bushel of rye is therefore equal to that of three-field farming.
+
+Ad 2. When it has been determined how much cheaper the transport of grain by water is than by land, there is no difficulty in determining the standpoint of an estate which can send its grain to market by water.
+
+[215]
+Suppose the river freight amounted to 1/10 of the land freight: then an estate lying on a river, 100 miles from the marketplace, is, with respect to the value of grain on the estate and the conditions arising therefrom, equal to the estate which in the isolated state is 10 miles from the Town.
+
+An estate lying 5 miles from the river then bears the costs of 5 miles of land freight and 100 miles of river freight, and would be equal to the estate of the isolated state which is 15 miles from the Town.
+
+Ad 3. The small towns scattered over the entire country must be supplied with provisions just as much as the capital, and those estates that lie near such a small town will deliver their grain to this town — as long as it still requires some — and not to the capital. The number of estates, or the area of land, required to supply this town with the necessary provisions could be called the territory of the town. But the capital now loses this territory, since it no longer receives products from there, and the small town has the same effect on the capital, with respect to the supply of provisions, as if that territory had been transformed into a sandy desert that produces nothing. If one now imagines the great plain of the isolated state interspersed with many such sandy areas, then obviously the demand of the capital must be supplied from a greater distance, and the circles must be expanded to deliver the demand. With this greater expansion, however, the transport costs of the grain delivered from the outer edge of the arable plain to the Town grow, and such an increase in transport costs has, as we have seen, an increase of the grain price in the capital as its consequence.
+
+[216]
+In the small towns, however, the price of grain is determined by entirely different laws than if these towns with their territory lay isolated. The estates lying in this territory have the choice of delivering their grain either to this small town or of driving it to the capital. What the market price of grain in the capital amounts to, after deduction of transport costs — that is, what the value of grain on the estate is — the small town must also pay them if they are to be induced to deliver their grain to this town.
+
+Grain prices in the small towns are therefore determined by the market price in the capital; indeed, they are entirely dependent on it.
+
+We can imagine, instead of the small towns, independent states of considerable extent, and these too cannot, with free trade, escape the absolute power that the great city exercises in the determination of grain prices.
+
+The principle that gave the isolated state its form is also present in reality, but the phenomena that it produces here show themselves in altered forms, because at the same time an infinite number of other conditions and circumstances cooperate.
+
+[217]
+Just as the geometer calculates with points without extension, with surfaces without thickness, which both are not to be found in reality: so too may we strip an active force of all attendant circumstances and all that is accidental, and only thus can we recognize what share it has in the phenomena before us.
+
+Since it is possible for a single estate to find a standpoint in the isolated state that agrees with its conditions: the possibility — apart from the difficulty of execution — cannot be denied of drafting for an entire country a chart on which the circle to which a region belongs would be indicated by the illumination. Such a chart would afford a most interesting and instructive overview. The circles, however, would not follow one another regularly as in our isolated state, but would be mixed up in motley confusion: for example, the estate 100 miles from the capital, but lying on a river and endowed with a very fertile soil, could belong to the third circle, while the estate 10 miles from the Town with sandy soil belonged to the sixth circle.
+
+[218]
+We now turn to the consideration of a trade naturally connected with agriculture and of several branches of cultivation which, in the first section, were not mentioned so as not to interrupt the context, and which we can now discuss with reference to reality.
 
 §29.
 Distilling.
 
-The distillation of grain into spirits offers a means of adding value to grain before transport. The residue from distillation (distillers' grains) serves as livestock feed, and the manure from this livestock enriches the soil. Distilling therefore tends to be practiced at greater distances from the Town, where the low grain price would otherwise make grain cultivation unprofitable.
+[219]
+Grain can no longer be delivered from the circle of livestock farming to the Town because the transport costs are too high; but if the grain is converted into a manufactured product which in proportion to its value requires lower transport costs, then arable farming can still be carried on with advantage in the nearer part of this circle. Such a product is spirits, since the alcohol obtained from 100 bushels of rye scarcely weighs as much as 25 bushels of rye.
 
-[Discussion of the economics of distilling in relation to distance from Town, including calculations]
+The residue of the distillery, or the distillers' grains, is most advantageously used for livestock fattening. Since the circle of livestock farming is already directed toward livestock fattening anyway, and since here grain and firewood have the lowest possible price: everything that can make distilling advantageous unites here.
+
+Spirits can therefore be delivered from here so cheaply that no other region of the isolated state, much less the Town itself, can withstand the competition — if complete freedom of trade prevails: for it is easy to see that the production of spirits in the Town, where grain and wood cost three times as much and where wages are much higher, must also cost at least 2 to 3 times as much as this region can deliver spirits for.
+
+[220]
+If through the guild system distilling may be practiced only in the towns, this effects a reduction in national income, since a great deal of labor is wasted without any benefit on the transport of grain and fuel. Since, however, the greatest cheapness of spirits is not desirable for other reasons, the state can levy a heavy duty on its manufacture, whereby it regains the price for which the townsman formerly supplied it; and this increase in the price of spirits will have a more beneficial effect on the state than that expensiveness produced by the useless employment of labor — which can now be directed to other useful occupations and put to productive use.
+
+The subdivision of the circle of livestock farming in which distilling takes place will practice three-field farming, because through this the grain required for distilling is produced most cheaply.
+
+The farming in which distilling is combined with livestock fattening yields a much greater gain of manure than the three-field farming directed at grain sales; the former can therefore also cultivate a larger portion of the arable with grain without exhausting it.
+
+[221]
+If we now look solely at the field division of the farms, we shall have to count the subdivision practicing distilling, and in fact the entire livestock-farming circle — where, however, arable farming occupies only a small part of the field — as belonging to the circle of three-field farming. If, on the other hand, we look at the main products that the farm delivers — and I prefer this principle of division for several reasons — then we must separate the region that brings grain to the Town from the region that delivers only spirits and livestock products, and I now call that region specifically the circle of three-field farming.
+
+The land rent of the three-field farming directed at grain sales equals zero at 31.5 miles from the Town. Distilling and livestock farming, however, still yield a land rent at this point. The circles of three-field farming and livestock farming must separate where the land rent of both farming methods is equally high; the circle of three-field farming therefore cannot extend to 31.5 miles from the Town, but must end already at a somewhat shorter distance from the Town. We are, however, since we do not know the magnitude of the land rent that the soil yields through distilling and livestock farming, also unable to state this distance in numbers.
 
 §30.
 Sheep Farming.
 
-Sheep farming — particularly for wool production — occupies a distinctive place in the agricultural economy. Wool, being light and valuable, can be profitably transported from great distances. Sheep also contribute manure when folded on the fields at night.
+[222]
+Since the introduction of merinos into Germany, the profit from a sheep farm depends almost entirely on the quality of the flock, and is so little tied to region and soil that it is absolutely impossible to state in general terms what land rent the soil, utilized through sheep farming, yields.
 
-[Extended discussion of sheep farming economics, wool prices, comparison of sheep vs. cattle farming, and the conditions under which sheep farming is most advantageous]
+Once fine flocks have become so universal, and once the knowledge of higher sheep breeding has spread so widely that anyone, for the payment of the price that raising sheep costs, can gain possession of a fine flock and also knows how to manage it: then the return of sheep farms will also become return on land, or land rent. But from this condition we are still far removed, and as long as it has not been reached, the higher profit of fine sheep farming relative to cattle farming is to be regarded not as land rent, but as interest on the capital invested in the fine flock and as reward for the industry of the sheep breeder.
+
+[223]
+The introduction of fine sheep into Germany and the gradual displacement of coarse-wooled sheep has been accompanied by some interesting phenomena.
+
+The coarser sheep gave, even 30 years ago, so small a return that the soil utilized through such sheep farms yielded no land rent at all. The finest flocks, by contrast, give so high a net return that even grain cultivation is often less profitable than sheep farming, and this has thereby become, for the present moment, the pivot around which the entire farming arrangement turns. To be able to judge the expediency of a farming operation, one must now first inspect the sheep farm: for the quality of the flock decides what expenditure one may make for obtaining feed. If the flock is of the first quality, then even grain feeding pays richly, and all the more so clover and potato feeding; and an estate which otherwise by its soil richness and location would be assigned to convertible husbandry under consistent management can then with advantage transition to crop rotation farming.
+
+[224]
+The great profitability of fine sheep farming has in eastern Germany produced in almost all farmers the aspiration to acquire fine flocks. Since sheep multiply fairly rapidly, and since in addition considerable flocks of merinos have been imported from Spain and France, so that the genuine sheep themselves have increased considerably; and on the other hand almost all sheep farms have been improved by the introduction of merino rams: the production of fine wool in eastern Germany has increased in the last 30 years to an altogether extraordinary degree.
+
+It was initially believed that with this excessive increase in fine wool the price of it would very soon fall, and through oversupply of the market would soon sink below the price necessary to cover production costs.
+
+This fear has, however, been so little confirmed up to now that, on the contrary, with the falling prices of all other agricultural products, the price of fine wool has retained almost its former level, and has therefore risen very greatly in relative terms, that is, in proportion to grain. The increased production has always been accompanied by a demand keeping equal pace; and the price of fine wool still far exceeds the price at which it can be brought to market, or the natural price.
+
+[225]
+How, then, can the price of a commodity or product stand so long above the natural price, and how can such an extraordinarily increased production still find buyers and be consumed?
+
+I explain this mainly by the following two causes:
+
+1) the discoveries and improvements in cloth factories; and
+
+2) the formation of a new sheep breed in Saxony, which far surpasses the Spanish breeds in fineness of wool.
+
+In the price of cloth and other woolen goods, the manufacturing costs constitute the larger, the costs of the raw material — the wool — only the smaller component. If now through great and outstanding improvements in factories the manufacturing costs of cloth and other woolen goods are significantly reduced, this has the threefold effect: 1) that the price of woolen goods decreases; 2) that the consumption of these goods increases; and 3) that the raw material — wool — is demanded in greater quantity, and its price rises.
+
+[226]
+When the buyer has the choice between goods that can replace one another, he chooses the one that with equal usefulness is the cheapest for him. If now the price of cloth falls while the price of other clothing materials remains the same, the consumption of cloth increases and that of other clothing materials is restricted. To supply the increased demand for cloth, a greater quantity of wool than before is required, which the producer can only be induced to produce by increased prices. With the rising demand for cloth, the manufacturer too will draw a higher than ordinary profit and will thereby be prompted to expand his factory. The advantages of the new discoveries are therefore initially shared among the buyer, the manufacturer, and the producer of the raw material. The factories can, however, be multiplied and expanded in a short time so that they can satisfy the demand for manufactured goods, and then the higher profit in enterprises of this kind ceases; the increase of the raw material proceeds more slowly, and so the profit of the producer in generating this material will also last longer; but finally production must here too come into equilibrium with demand, and then ultimately the entire advantage of the discovery benefits the buyer or consumer of the goods.
+
+[227]
+In Saxony, through careful selection of breeding animals, and perhaps also through climatic and local influences, a sheep breed of high fineness of wool has arisen, of which in Spain itself only individual animals but no entire flocks exist.
+
+The superfine, very soft and supple wool of the Saxon sheep — called Electoral sheep — is now highly suited for the manufacture of fine fabrics that serve for the clothing of ladies; while the less fine, strong but harsh wool of the Spanish sheep — the Infantado breed — is not suitable for this. These fine fabrics, which formerly were not made from wool at all, now partly replace and displace silk and cotton fabrics; and so Electoral wool creates for itself a market that is perhaps still capable of great expansion.
+
+[228]
+Since Electoral wool is made into goods that formerly did not exist at all, the production of this wool cannot diminish the demand for other types of wool, and therefore the total production of wool can increase considerably without an oversupply immediately arising.
+
+A few years ago, in a large part of eastern Germany the rich-wooled Infantado sheep was still the goal of aspiration, and a sheep of this breed which, alongside a moderate fineness of wool and wool richness, showed other desirable qualities was regarded as a model, as the ideal of a sheep; and very large sums have been spent by farmers of northern Germany for the acquisition of such flocks.
+
+Now some regret their error, as one now regards the Electoral sheep with superfine wool as the ideal of a sheep, as that through which one can utilize land most highly.
+
+But was this really an error? Is there something absolutely perfect in this? Is there a wool that will for all times be the most sought after, of which one can say that the sheep bearing this wool will always be the most profitable; or is such an ideal, with the progress of sheep breeding, subject to change?
+
+[229]
+The rich-wooled Infantado sheep bears just as much wool as the common sheep with coarse wool. The transition from the latter to the former, or the improvement of the common sheep to the degree of fineness of the Infantado sheep, is therefore not associated with any reduction in the wool clip, and is highly rewarded by the rising value of the wool.
+
+Now it is, however, probably already generally recognized that the highest fineness of wool is not compatible with the highest wool richness, that from a certain point onward, higher fineness can be achieved only at the expense of wool yield.
+
+If a few years ago the price of fine wool, such as the Infantado sheep bears, was 1 thaler per pound, and this sheep bore 3 pounds of wool, then each sheep brought in 3 thalers through its wool; if on the other hand the Electoral sheep gave 1 3/4 pounds of wool at 1 1/2 thalers, the value of the fleece was 2 5/8 thalers — thus 3/8 thaler less than with the Infantado sheep; and one was therefore right to prefer the Infantado sheep to the Electoral sheep.
+
+[230]
+Now, however, precisely because it was more advantageous to produce fine rather than superfine wool, and then also because through the mere improvement of common sheep the former but not the latter wool was produced in considerable quantity, the production of fine wool has become so great that the market is amply supplied with it and its price has fallen, while the price of superfine wool has remained almost unchanged. If now, for example, the pound of fine wool is still worth 36 schillings, the Infantado sheep bears 2 1/4 thalers worth, but the Electoral sheep still 2 5/8 thalers worth of wool.
+
+One is therefore quite right to prefer the Electoral sheep now to the Infantado; but the general striving to produce Electoral wool will within a few years bring forth so great a quantity of it that the market will be amply supplied with this too and its price will fall — and one will then have to set oneself another goal to strive for.
+
+With the falling price of superfine wool, the goods manufactured from it will also fall in price, and thereby cease to be an object of luxury. With the predilection of the rich to use only such goods for clothing as are so expensive that the less well-to-do are excluded from their use, the fine woolen fabrics could, precisely through their cheapness, go out of fashion again, and silk and cotton fabrics resume their place.
+
+[231]
+Fortunately for the producer, however, a further increase in wool fineness is possible: for in the superfine sheep farms individual animals are found with a far surpassing fineness of wool, but which one does not seek to multiply because, owing to their extremely small wool yield, they are not profitable up to now.
+
+Probably, however, once superfine wool is available in sufficient quantity, the price of this most fine wool will rise so much that it will become advantageous to seek out these hitherto unregarded individuals and form entire flocks from them. The sheep bearing this most fine wool deliver a wool yield of only 1 to 1 1/2 pounds. Their production costs are therefore very high, and since the manufacture of fabrics from such fine wool is likewise very expensive: these goods will be so dear that they will always remain an object of luxury for the rich.
+
+Perhaps one day fabrics of equally unequal value as now from flax — which serves as material for coarse linen and also for the finest Brussels lace — will be manufactured from wool.
+
+[232]
+But if finally even the most fine wool is produced in sufficient quantity, if supply and demand have become equal, and the steady state has set in where neither a restriction nor an expansion of production is advantageous — according to what laws will then the price of wool and the prices of the different grades of wool among themselves be determined?
+
+With this question we must combine another, namely: "in what region of the isolated state will wool production take place?"
+
+When the steady state has set in, the laws that we have developed for the price determination of other products find their full application to wool as well.
+
+From the formulas presented in §19, upon further development it has emerged: 1) that of two products that yield equal return by weight from a given area, the one requiring the greatest production costs must be grown furthest from the Town; 2) that with equal production costs, the production of that product which yields the least return by weight from the same area must occur behind the other, that is, farther from the Town.
+
+[233]
+Now the production costs of butter, at equal weight — for example a load — are lower than those of wool, and from the same area incomparably more butter than wool can be produced: the production of wool must therefore take place behind that of butter; or in the isolated state, dairying will occupy the nearer region, sheep farming the region farther from the Town.
+
+Fine sheep bear less wool than coarser ones, but require at least as much feed and care. Since a given area devoted to sheep farming delivers less fine than coarse wool, and since at the same time the same quantity of fine wool requires more production costs than coarse wool: the finer sheep farms must also, if no other circumstances act in opposition, be carried on behind the coarser ones, or at greater distance from the Town.
+
+Since furthermore the more distant region yields a smaller land rent than the nearer one: it follows from this that the less fine sheep farms give a higher land rent, and will thus be more profitable than the fine sheep farms, although the price of fine wool, owing to the greater production costs, will always remain higher than that of coarser wool.
+
+[234]
+I must here repeat that this proposition rests on the presuppositions: 1) that all sheep breeders possess equal intelligence and knowledge; 2) that fine sheep are available in such numbers that one can purchase them, just as well as coarse sheep, for the rearing costs — and that therefore where these presuppositions do not hold, it also cannot find application.
+
+Even if in reality we are still very far from this presupposed condition: yet it cannot be denied that the result of advancing civilization is a constant approach to this condition, and that already in the general striving toward higher cultivation lies the tendency to bring about this condition more and more over time.
+
+In reality we are, with respect to sheep farming, still in the period of transition; in the isolated state we regard this transition as completed, and consider only the final outcome not bound to time.
+
+I have said above: "if no other circumstances act in opposition"; for it could be, for example, that the fine sheep on the never-plowed, steppe-like pastures of the circle of livestock farming would degenerate and again produce coarse wool. In that case, the production of fine wool would have to take place in the more distant part of the circle of convertible husbandry, and butter production would have to be deprived of as much land as is necessary for producing the demand for fine wool. The pursuit of fine sheep farming would then yield a higher land rent, and thus be more profitable than coarse sheep farming; but always in the part of the circle of convertible husbandry nearest to the Town, dairying would be more advantageous and yield a higher return than the finest sheep farming.
+
+[235]
+The question whether the quantity and quality of the feed and pasture given to the sheep affects the quality and fineness of the wool is therefore, if we look to the final outcome that our efforts in sheep breeding will have, of the utmost importance. If it were found, for example, that the production of wool of the highest quality were tied to certain regions or even to individual estates: then these regions or estates, just like the vineyards that deliver an outstandingly fine wine, would always yield a high rent, because the production of this grade of wool could not then be arbitrarily increased.
+
+Although our investigations so far have yielded the result that, once the rarity of fine flocks has ceased and wool production has come into equilibrium with demand, fine sheep farms will then give a lesser return than cows and perhaps even a smaller return than coarse sheep farms: this must nevertheless not, for several reasons, deter us from further efforts toward the improvement and refinement of our flocks.
+
+[236]
+a. Even if the present high profit of fine sheep farming occurs only during the transition period and ceases as soon as the steady state has set in: yet, as experience has already taught, this transition requires a very long period of time. Saxony has now enjoyed the fruits of this transition for 60 years, the rest of eastern Germany for approximately 30 years, and easily 30 more years may pass before this transition is entirely completed. For on the one hand, with the falling wool prices the consumption of woolen goods will still continue to increase, the demand for fine wool will therefore still grow, and will not be satisfied so soon even by the rising production; on the other hand, through the many mistakes that have been made in crossbreeding flocks, and that will probably continue in the future, the multiplication of superfine sheep will be greatly delayed.
+
+[237]
+b. Eastern Germany alone can scarcely produce so much fine wool that the price of it would fall to the natural price. This will rather happen only when Poland and Russia pursue fine sheep farming on a large scale and with success. Poland and Russia are in this respect for the European market what the circle of livestock farming is for the isolated state. If the conjecture that fine sheep degenerate on the steppe pastures and on the permanent pastures of the three-field system were well-founded, then eastern Germany would also long remain in preferential possession of fine sheep farming: for the effective transplantation of fine flocks to Poland and Russia would then be tied to the elevation of the cultivation of the soil, to the introduction of convertible husbandry in place of three-field farming, and could only proceed at a slow pace. Eventually, after a longer period of time, these countries too will undoubtedly be more highly cultivated, and then there, where the soil yields an even smaller land rent than here in eastern Germany, fine sheep farming will also be more profitable than here.
+
+[238]
+But before yet, through the gradual transition to this condition, fine wool has fallen to its natural price, fine sheep farming in the richer and more highly cultivated countries of western Europe, namely France, will long since have become unprofitable. The increase of fine sheep in the eastern states is therefore accompanied by a decrease of the same in the western countries, whereby the period of transition must necessarily be greatly prolonged.
+
+c. But if all this were not so, if wool had already now fallen to the price that with fully free trade throughout Europe could be called the natural price: we are nevertheless, given the presently prevailing system of trade barriers, absolutely directed toward the production of fine wool.
+
+The world market of London is closed to all our other agricultural products, and open only for wool. Through these barriers, all the bonds that formerly tied the nations to one another have been torn; none of the laws by which, with free trade, the price of grain is determined can become effective; each state wishes to be an isolated state for itself.
+
+[239]
+The western states have through their trade barriers forced an unnaturally high grain price, while this has become unnaturally low in the eastern, formerly grain-exporting countries. The world market of London, which formerly regulated the price of all our agricultural products, now no longer determines the price of our grain but still that of wool. Wheat now sells in London at three times what it fetches in the ports of the Baltic; the price of wool in London is higher than here only by the amount of the transport costs; and while the price of grain, meat, butter, etc. has here fallen to worthlessness, the price of wool has remained as regulated by free world trade.
+
+This is now the real reason why sheep farming is so disproportionately more profitable for us than cattle and horse farming. We are thereby not merely encouraged but compelled to direct all our strength and attention to sheep farming.
+
+[240]
+Even with fully free trade, owing to the considerable transport costs, wheat in the ports of the Baltic fetches only 2/3, at most 3/4, of the London market price. For the English farmer, grain cultivation is thereby — even without any further favoritism — far more advantageous than for us, and grain cultivation must yield a high land rent in England. This preponderance of English farming, however, becomes most insignificant in wool production: for the gross income from sheep farming — insofar as this derives from wool — is in England higher than here only by the amount the transport of wool to the London market costs less. We can therefore here utilize a pasture area or a given quantity of feed through sheep farming almost as highly as the English. The net return is, however, for the very same reasons why in the isolated state the land rent from livestock farming is negative near the Town but positive at greater distance, very much higher for us, and the English will therefore never be able to withstand the competition with us in free trade. The greater the difference in grain prices becomes, the greater the loss that sheep farming brings in England, the higher the profit it gives here, and so the system of trade barriers and the artificially created high price of grain thereby effected must inevitably cause the decline of sheep farming in England and its flourishing here.
+
+[241]
+d) Higher sheep breeding acquires a special charm from the fact that the rules to be followed here are not so clearly evident as in other branches of agricultural cultivation, and are partly still unexplored themselves. Just as the return that sheep farming delivers depends on the quality of the flock, so in turn the preservation and further improvement of the flock depends on the personality of the farmer, on his attentiveness and his more or less correct judgment. Now it is very much to be doubted whether the knowledge that belongs to the higher improvement of a flock can ever become common property, and whether the mechanical learning of rules and the imitation of a model will ever suffice here. If this does not suffice, then the return of the most excellent sheep farms will also never entirely pass into land rent, but a part of it will remain the reward of truer and deeper insight.
 
 §31.
 Cultivation of Commercial Crops.
 
-Besides grain, farmers can grow commercial crops such as tobacco, flax, hemp, rape, and hops. The profitability of these crops depends on their value relative to their transport costs and production costs.
+[242]
+We have, as was earlier stated, assumed that the arable of every estate is divided into two sections, of which the first, larger section maintains itself at equal productivity by and through itself, while the second section receives the manure from the meadows and in its manner of cultivation follows other rules than the first.
 
-[Discussion of various commercial crops and their place in the farming systems of the isolated state]
+In the first section of this work, where the formation of the isolated state was discussed and where we considered the various farming systems in their pure, simple form, we could take into account only the first section of the arable, and could make no mention of the cultivation of commercial crops.
+
+Now it is, however, perfectly compatible with our other assumptions if we imagine that the cultivation of commercial crops takes place in the second section, and we must now investigate in what region of the isolated state the cultivation of the various kinds of commercial crops that the Town requires will be pursued.
+
+[243]
+In §19 the proposition has been stated that, with equal production costs, the crop on which a greater land rent falls must be grown farther from the Town. In the application of this proposition to specific crops, the question of how, for a given crop, the land rent falling upon it can be determined must, however, come up.
+
+In the 7-shift convertible husbandry, each grain shift must be paired with a pasture shift, in order to replace the depletion caused by grain cultivation. Let us now — to simplify the question — provisionally assume that we are speaking of the region where livestock keeping, and thus the pasture shift, brings neither land rent nor loss: then the grain shift must bear the land rent of 2 shifts; or on the grain shift falls double the land rent of what it would bear by area.
+
+If one now compares with grain a crop that exhausts the soil still more strongly, for example requiring two pasture shifts instead of one as replacement for the depletion: then this crop will bear three times the land rent of the area on which it is grown. With equal yield by weight, therefore, that crop which causes the greatest depletion will always have to bear the greatest land rent, and according to the above-mentioned law, the crop most exhausting to the soil must be grown furthest from the Town.
+
+[244]
+If this occurs even when the land rent of the pasture shifts equals zero, then it must be all the more the case when the pasture shifts near the Town give a negative, but at greater distance a positive, land rent: for the more exhausting crop, grown near the Town, must then not only bear three times the land rent of the area on which it is produced, but must also take over the loss that the two pasture shifts associated with it bring; while for the same crop, grown at greater distance from the Town, from the threefold land rent the return given by the two pasture shifts is deducted.
+
+In connection with the laws established in §19, the following propositions now emerge for determining the sequence in which the various commercial crops must be grown:
+
+1) with equal production costs and equal yield by weight, the crop that most strongly exhausts the soil must be grown furthest from the Town;
+
+2) with equal yield and equal depletion, the crop requiring the highest production costs will be produced in the more distant region;
+
+3) with equal depletion and equal production costs, the crop yielding the smallest return by weight from a given area must be produced at greater distance from the Town.
+
+[245]
+We now come to the application of these propositions to individual commercial crops. Regarding the degree of depletion that these crops cause, however, there is such a difference of opinion among farmers that it almost seems as if the experience of millennia, during which agriculture has already been practiced, has been entirely lost. Under these circumstances, the numbers by which I indicate the degree of depletion of commercial crops in what follows may also be regarded only as numbers with which one is accustomed to illustrate a letter formula; but I must add that I know no more accurate ones to replace them.
+
+1) Rape. With equal richness of the soil, the yield of winter rape on soil suited to it may be approximately equal to that of rye. If the production of 1 bushel of rape costs the field 1/3 degree of richness, and if with each Berlin bushel of rape 120 pounds of straw are harvested: then, according to my calculation, 2 1/2 (more precisely 2.46) pasture shifts are required to replace the depletion caused by one shift of rape, when the rape is planted on soil whose richness equals the average richness of the three grain shifts in the 7-shift convertible husbandry.
+
+[246]
+On soil whose richness is 50 percent higher — and only on such rich arable is rape cultivation profitable — the yield and the depletion of rape are also 50 percent higher. If 2 1/2 shifts are to suffice as replacement for the depletion of such a rape harvest, the richness of the pasture must also be increased by 50 percent; but if the pasture retains its former richness, then instead of 2 1/2, now 3 3/4 pasture shifts must be associated with the rape shift.
+
+The production costs of rape stand to those of rye, according to my experience, as 731:638, or as 115:100.
+
+Since rape, in proportion to rye, 1) gives equal yield from equal area; 2) requires somewhat higher production costs; and 3) exhausts the soil significantly more strongly: the cultivation of rape must, according to the above laws, take place behind that of grain, that is, in the circle of livestock farming.
+
+2) Tobacco. Tobacco may, in respect to depletion, be approximately equal to rye, when the stalks of the tobacco and the straw of the rye are returned to the field. Also in respect to yield by weight, no significant difference will exist between the two crops. The production costs of tobacco, however, are incomparably higher, and for this reason the production of tobacco must take place behind that of grain, or in the circle of livestock farming.
+
+[247]
+3) Chicory. The production costs and the depletion of this crop are unknown to me; but the yield of roots by weight is so great that on each load only a small land rent falls, and probably also only small production costs; the production of this crop therefore takes place near the Town.
+
+4) Clover Seed. The production costs of clover seed are, since the threshing and husking of the seed costs much labor, not inconsiderable. The depletion that seed clover causes seems to me not to be significant, and is probably amply covered by the replacement that the co-harvested clover stems provide. On the other hand, the yield from a given area is so small that on a load of clover seed a very considerable land rent nevertheless falls. For this reason, the production of seed clover will take place in the more distant part of the circle of convertible husbandry, and the part of this circle nearer to the Town will find it more advantageous to buy clover seed than to produce it itself.
+
+[248]
+5) Flax. The flax harvest from a given area amounts to approximately 1/4 of what rye would have yielded by weight from the same area; or the yield of flax stands to that of rye as 1:4.
+
+If a flax harvest exhausts the soil as much as a barley harvest, then 2 (more precisely 2.07) pasture shifts are needed to replace the depletion of one shift of flax, when the flax is grown in convertible husbandry on soil of the richness of the barley shift.
+
+If from the costs associated with flax cultivation the value of the harvest of linseed is deducted, then I find according to my calculations the ratio between the production costs of flax and those of rye as 1,352:182, or as 7 1/2:1.
+
+The conditions that each individually are already sufficient to assign the cultivation of a crop behind that of grain are therefore all united in flax, and flax cultivation will therefore find its place not merely behind grain cultivation, but only behind tobacco and rape cultivation.
+
+[249]
+I refrain from citing more commercial crops, because I know the cultivation of them in part not at all, in part not sufficiently from my own experience.
+
+We find, then, that the majority of commercial crops are grown not near the Town but in the circle of livestock farming. This circle, which if it were restricted solely to livestock farming would be extremely sparsely populated, receives through distilling and through the cultivation of commercial crops a great addition to sources of income and to population. Flax cultivation especially can give occupation and sustenance to a great number of people. According to a calculation made on this subject, I find that a day-laborer's family, which in summer cultivates flax, in winter spins it and weaves it into linen, can draw its sustenance from 300 square rods of good arable with flax, even if it also pays 25 thalers rent for the field. It is also only through the extensive flax cultivation that it can be explained how in the province of East Flanders, in which besides Ghent there is no significant town, 12,000 people per square mile can find their sustenance.
+
+[250]
+The forward part of the circle of livestock farming presents the interesting spectacle of a fairly well-cultivated region that gives little or almost no land rent at all. For the price of the crops produced here cannot rise so high as to produce a noteworthy land rent, because otherwise the part of this very extensive circle lying behind it would also take up the cultivation of these crops, all of which require only slight transport costs, and would press down their price still lower. Almost all the income of this strip of land therefore consists of capital profit and wages.
+
+[251]
+We have seen in §5 that on soil of 10 grains yield, the production costs per bushel of rye amount to 0.437 thalers, and on soil of 5 grains yield 1.358 thalers — that the production of grain on rich soil is thus very much cheaper than on poorer soil. This is now also the case with commercial crops, but to an even much greater degree. Most commercial crops namely require, through careful working of the soil, through hoeing, hilling, weeding, etc., so many laborers who stand in proportion to the size of the field cultivated and not to the size of the harvest, that the larger harvest of rich soil costs little more than the small one of poorer soil, and that the cultivation of these crops can be carried on with advantage almost only on such soil as is too rich for grain — because the grain would lodge.
+
+[252]
+If we now turn, with respect to the cultivation of commercial crops, to reality: we do not find here the uniform richness of the soil as in the isolated state, but rather we find as a rule that in the highly cultivated countries with the higher grain prices a great richness of the soil is simultaneously present, and that conversely in the less cultivated countries lower grain prices and lesser richness of the soil usually coincide.
+
+If we now pose the question — in which country is the cultivation of commercial crops most advantageous with free trade? — here the advantage that the poorer country possesses through low wages and low land rent is directly opposed by the superiority that the rich country has through its rich soil. The superiority of rich soil in the cultivation of commercial crops is, however, so considerable that the saving in wages and land rent in the poorer country is thereby quite frequently not merely compensated but also outweighed.
+
+[253]
+This is now — beside the higher industry of the people and the better knowledge of how to treat these crops — the real reason why we see in the rich countries still an extensive cultivation of commercial crops not merely for their own use but even for export to other countries. Thus we still find that flax cultivation, which belongs to the less cultivated regions of eastern Europe, constitutes the main branch of cultivation in East Flanders, the garden of Europe. But as soon as the soil in the countries on the Baltic Sea has attained a higher degree of richness — and to achieve this lies in the farmer's power — this branch of cultivation in Flanders will inevitably decline, and this decline will be brought about all the more rapidly and accelerated all the more if the Dutch government continues to increase the difference in grain prices between the two regions through high import duties on grain.
+
+Also in England, despite the high wages and the high land rent, the cultivation of commercial crops is pursued and favored through duties on their import. Through the English Corn Bill, however, the difference in grain prices has risen so high that the English already find it advantageous to buy manure materials (bones, rapeseed cake, etc.) instead of grain from us. If now England persists with its Corn Bill, the farmers there will very soon perceive that manure is too expensive to devote it to the mostly very exhausting commercial crops, especially to rape, and they will very soon leave the cultivation of these crops to the distant countries with low grain prices and permit their importation.
 
 §32.
 At What Price Can Flax and Linen Be Delivered from the Various Regions of the Isolated State to the Town?
 
-The production of flax and its processing into linen involves multiple stages, each with associated costs. The question arises whether it is more economical to transport raw flax to the Town for processing, or to process it locally and transport the finished linen.
+[254]
+According to the data communicated above on flax cultivation, the depletion of one shift of flax equals the replacement that two pasture shifts provide. Of 3,000 square rods of arable, therefore, only 1,000 square rods can bear flax if the richness of the soil is to be maintained, while of this area 1,500 square rods can be planted with grain without exhausting the soil.
 
-[Detailed calculations of flax and linen production costs at various distances from the Town]
+In the regions where the land rent of the pasture shifts equals zero, a shift of flax therefore bears a land rent 1 1/2 times as high as that on grain, and since from the same area only 1/4 as much flax as rye grows by weight: on a load of flax of 2,400 pounds falls six times as much land rent as on a load of rye.
+
+Near the Town, however, the land rent of pasture is negative, at greater distance positive, and for this reason more than six times the land rent falls on flax grown near the Town, and less on flax produced far away. But we are not in a position, from the investigations so far, to state the resulting difference in numbers, and we must therefore content ourselves with assigning to flax, for the entire isolated state, six times the land rent of what the grain bears. Our calculation must then, however, state the price of flax grown near the Town somewhat too low, and that of flax produced far away somewhat too high.
+
+[255]
+If we now assume the production costs of flax at 7 1/2, the land rent at 6, in proportion to grain, then for a load of flax of 2,400 pounds: the production costs amount to [FORMULA]; the transport costs [FORMULA]; the land rent [FORMULA]. Total: [FORMULA].
+
+For x = 0 miles, the price of a load is 307 thalers, of one pound 6.1 schillings. For x = 10 miles, 245 thalers, 4.9 schillings. For x = 28 miles, 148 thalers, 3 schillings.
+
+The pound of flax can therefore be delivered from the region 28 miles away at 3.1 schillings, or approximately 52 percent cheaper than from the vicinity of the Town.
+
+It should further be noted that in all these calculations the land rent that convertible husbandry gives serves as the norm. If one wished to take the land rent that free farming yields as the basis, then the flax produced near the Town would come to stand even incomparably higher.
+
+[256]
+When coarse linen is made from the flax, then — according to the information I have been able to obtain — the costs of spinning 2,400 pounds of flax and the costs of weaving and bleaching the linen made from this flax amount together to 413 thalers. If one compares these with the production costs of a load of rye, which here amount to 18.2 thalers: it follows that the costs of converting a load of flax into linen, or the manufacturing costs of the linen, stand to the production costs of rye as 22.7 to 1.
+
+But the manufacturing costs of linen, expressed in money, cannot be equally high everywhere; rather, they change with the money price of labor and of grain. In order therefore to be able to state the manufacturing costs of linen for every region of the isolated state, we must express them through a general formula, and to do so we are enabled by the above ratio.
+
+[257]
+If, in accordance with this ratio, one multiplies the production costs for a load of rye given in §19 by 22.7, it follows that the manufacturing costs of the linen made from 2,400 pounds of flax amount to [FORMULA] thalers.
+
+Accordingly, the manufacturing costs fall on a load and on a pound respectively: for x = 0 miles, 745 thalers, 14.9 schillings; for x = 10 miles, 596 thalers, 11.9 schillings; for x = 28 miles, 363 thalers, 7.3 schillings.
+
+From the whole course of our investigation it is apparent that we assume the real wages, or the sum of necessities of life that the worker can purchase for his wages, to be equally high for all regions of the isolated state; the money price of labor, on the other hand, is very much different according to the differing price of grain and of other necessities, and this difference in money wages produces such a difference in the manufacturing costs of linen that the conversion of 2,400 pounds of flax into linen costs 745 thalers near the Town but in the region 28 miles away only 363 thalers — thus somewhat less than half.
+
+[258]
+In the conversion of flax into bleached linen, approximately 25 percent of the weight of the flax is lost; or the linen weighs 25 percent less than the flax from which it was made.
+
+The transport costs of a load of flax amount to [FORMULA] thalers. The transport costs of the linen manufactured from this flax amount to 1/4 less, thus only [FORMULA] thalers.
+
+If we now wish to determine the price at which linen can be delivered from the various regions of the isolated state, we must compile both the costs of flax cultivation and the manufacturing costs of the linen.
+
+For 2,400 pounds of flax: the production costs [FORMULA]; the land rent [FORMULA]; the manufacturing costs of linen [FORMULA]; the transport costs of linen [FORMULA]. Total: [FORMULA].
+
+For x = 0 miles, the price of the linen made from 2,400 pounds of flax is 1,052 thalers, per pound 21 schillings. For x = 10 miles, 838 thalers, 16.8 schillings. For x = 28 miles, 505 thalers, 10.1 schillings.
+
+[259]
+The inhabitants of the Town would therefore have to pay for linen more than twice as high if the cultivation of flax and the manufacture of linen had to take place near the Town, compared to what they pay if they can obtain it from the region 28 miles away.
+
+The application that we have made of the formula devised for the price determination of agricultural products to the determination of the manufacturing costs of linen and to the price determination of the same must lead to the thought whether it might not be possible to determine for the various factories and trades the region where they can be most advantageously carried on, and from which the manufactured goods can be delivered most cheaply.
+
+Whoever could penetrate the factory secrets and possessed so perfect a knowledge of all trades that he could state for each individual one the share of capital investment, wages, and trade profit falling on a given quantity of manufactured goods, would indeed be able to draft such a tableau.
+
+[260]
+It would emerge from this that not all factories and manufactures would be crowded together in the capital, but that a large part of them would take their seat in the region where the raw material is most cheaply produced — that the isolated state would therefore contain not merely the one large city but also very many smaller towns.
+
+This contradicts our first assumption; but we needed this assumption only at first, to simplify the investigation. For we have later seen in §28 that the small towns have no influence on the price determination of agricultural products, but are in this respect entirely dependent on the capital. Only the central city must remain the main marketplace, and in it all rural products must have the highest price; but that this should be the case is already sufficiently motivated by the fact that this city 1) lies in the middle of the plain, 2) is the seat of government, and 3) has all the mines in its vicinity.
+
+[261]
+Such an investigation directed at the placement of factories would, however, if it is to attain practical usefulness, have to include two points of view that did not come up in the price determination of agricultural products.
+
+1) We find in reality that in all rich countries the interest rate is very much lower than in the poorer countries — whether this is grounded in the nature and essence of the matter itself, or results from the division into different states, must here remain undecided. Now there are several factories and manufactures in which the interest on capital investment constitutes a main component, while wages and expenditure for the raw material constitute a proportionately less significant part of the annual expenditure, and all these factories will have to be operated in the richer state, even if the raw material and wages are much higher there. In this investigation, therefore, the decomposition of the price of goods into the three components — wages, capital profit, and land rent — becomes necessary.
+
+[262]
+2) On the size of the market or the sales depends the extent and scope that a factory can attain in one place, and on the size of the enterprise in turn depends the degree to which the division of labor and the replacement of human labor by machines can be carried. This, however, has, as Adam Smith has convincingly demonstrated, the most decisive influence on the price at which a commodity can be delivered.
+
+From these two causes, some factories that seem to belong to the poorer country, because the raw material is produced there, can yet be operated with greater advantage in the richer country, and the poorer country will be able to obtain these goods from there at a lower price than what they would cost it in domestic manufacture.
 
 §33.
 On the Restriction of Free Trade.
 
-If the government of the isolated state restricts the importation of certain goods — for example, if it prohibits the import of grain from beyond a certain distance, or imposes tariffs on manufactured goods — what are the consequences?
+[263]
+How will it affect the wealth of the isolated state if by forcible decrees of the government, flax cultivation and linen manufacture are transplanted to a region nearer to the Town?
 
-Restrictions on trade always reduce the total wealth of the nation. The grain price in the Town may be artificially raised, benefiting some farmers but harming consumers. The cultivated area may be artificially expanded into regions where the soil should properly be left uncultivated, or artificially contracted.
+To be able to imagine such a case as even possible, we must assume that the isolated state is split into two different states.
 
-The grain price is determined not by one cause alone but by two: the cost at which the most distant producer can deliver grain, and the ability of consumers to pay this price. When these two forces are in equilibrium, the state is in a steady state. Trade restrictions disturb this equilibrium.
+We now wish, in order to investigate the consequences of such a split, to make the following assumptions:
 
-[Extended discussion of trade policy, its effects on agriculture, grain prices, and national welfare]
+1) the central city with a circle around it of 15 miles radius forms a state A of its own;
+
+2) the remaining part of the plain, in the extent that we have hitherto considered, forms a second state B, which in contrast to the first we shall call the poorer state;
+
+3) each state looks only after its own interest, even when its own advantage can be attained only at the expense of the other state.
+
+[264]
+Suppose now that the rich state A forbids the importation of flax and linen, in order to save the money that otherwise went out of the country for it, and in order to induce its own subjects to produce flax and manufacture linen; how will this affect the wealth of 1) the rich state A that restricts imports, and 2) the poorer state B?
+
+To simplify the answer to this question as much as possible, we shall assume that in all other respects a complete freedom of trade still prevails between the two states.
+
+After the import ban, the production of flax and the manufacture of linen will have to take place at the border of state A, that is, at a distance of 15 miles from the Town. Here, however, the soil already yields a considerable land rent, and wages are — owing to the higher grain prices — significantly higher than in the region 30 miles from the Town. The linen can therefore be delivered from here only at a much higher price than before to the Town. But since linen is an indispensable necessity, the inhabitants of the Town will have to pay this higher price.
+
+[265]
+The farmer of state A who formerly produced grain and now produces flax gains no advantage from the introduction of flax cultivation, despite the increase in the flax price. For since 1) the grain price does not rise through this change, but — as we shall see further on — rather falls somewhat, the land rent arising from grain cultivation has at least not risen; and since 2) within the grain-cultivating circles the magnitude of the land rent is determined by grain cultivation — which I hope emerges convincingly from all earlier investigations — flax cultivation on the spot where it is now practiced cannot yield a higher land rent than grain cultivation. Thus through the introduction of flax cultivation only the crop through which the soil is utilized is changed, but not the utilization of the soil itself.
+
+The district in which flax cultivation is now practiced can now no longer deliver grain to the Town from the land that bears flax instead of grain; and since all the grain that this district formerly produced was necessary for the supply of the Town: a shortage of grain now arises in the Town.
+
+[266]
+Where is the missing grain to come from?
+
+The district formerly producing flax in the poorer state B cannot, owing to the great transport costs, deliver grain to the Town at the price of 1 1/2 thalers per bushel of rye. If the shortage is to be made good, the price of grain must rise, and indeed rise high enough that the district formerly practicing flax cultivation — or actually the region carrying on distilling and rape cultivation — can switch to grain cultivation and deliver the same to the Town.
+
+But is there an inexhaustible fund in the Town from which ever higher grain prices can be paid, and from what source does the money for the payment of expensive grain flow?
+
+There is in the Town a great multitude of people whose entire earnings just barely suffice to procure the most necessary provisions at the previous average prices. Just as the most distant producer cannot deliver the bushel of rye to the Town for less than 1 1/2 thalers, so too the working class can pay no higher price. Just as the fall of grain below the previous average price makes the cultivation of the outer edge of the grain-producing plain impossible, delivers the arable back to the wilderness, and forces the people to emigrate: so the rise of the average grain price produces impoverishment and emigration among the working class in the Town — if no new sources of income are opened.
+
+[267]
+But the system of trade restrictions itself has nowhere created new sources of income that could raise the wages of the worker and enable him to pay a higher grain price. On the contrary, through the increased price of an indispensable necessity — linen — the prosperity of all suffers, and the worker in particular, after having to give up a larger part of his wages for the purchase of linen, retains a smaller part for the purchase of grain; the price of grain will therefore, instead of rising, have to fall, if the worker is to continue to survive.
+
+Thus no increase in the grain price and consequently no possibility of extending the grain-cultivating circle. The district that formerly produced flax cannot turn to grain cultivation or to the cultivation of other crops, because the price of grain and of commercial crops does not make their cultivation profitable at this distance from the Town. The soil previously cultivated must remain uncultivated and be surrendered to the livestock herds, and all people who formerly lived from flax cultivation lose their livelihood and must emigrate.
+
+[268]
+With the devastation of the district that formerly carried on flax cultivation, and with the disappearance of all people who formerly drew their sustenance from it, all the needs that these people had for ironware, cloth, tools, etc., and that they formerly obtained from the Town, also cease. The mine workers, manufacturers, craftsmen, etc. who formerly supplied the goods for this district thereby lose their entire livelihood, and must just as much as the inhabitants of the district itself emigrate or perish.
+
+The final consequence of this restriction of free trade is therefore:
+
+1) that in the poorer state B the district practicing flax cultivation, with all people living from flax cultivation, entirely disappears;
+
+2) that the Town of the rich state A loses all manufacturers, craftsmen, etc. who formerly worked for this district, and thus declines in size, wealth, and population.
+
+[269]
+Thus, while the rich state through the restriction of free trade inevitably inflicts a deep wound on the prosperity of the poorer state, it wounds itself no less deeply at the same time.
+
+It deserves to be noted that even without any retaliation on the part of the poorer state, the trade barrier nevertheless has no less harmful an effect on the rich state.
+
+While in the theory of political economy it is difficult to give a correct and complete definition of national wealth, and to state with certainty the signs of its growth or decline, we have in the isolated state, in the expansion or contraction of the cultivated plain, a sensibly perceptible, infallible sign of the increasing or decreasing wealth of the state.
+
+[270]
+We have here shown the effect of the restriction of free trade on only a single agricultural product — flax; but if we take any other branch of agricultural cultivation as the subject of consideration, we must repeat the same conclusions and will then also obtain the same result. Thus the forcible transplantation of sheep farming, or of rape cultivation, to a region nearer to the Town will always produce one and the same result: "contraction of the cultivated plain and diminution of the size of the Town."
+
+Let us now cast a glance at the European states: we find between the different countries of Europe, with respect to state of cultivation, population, grain price, and land rent, no less great a difference than between the different regions of the isolated state.
+
+Between the environs of London and the provinces of eastern Russia on the banks of the Volga and the Ural River, there is in this respect perhaps an even greater difference than in the isolated state between the vicinity of the central city and the outermost edge of the circle of livestock farming.
+
+[271]
+Just as in the isolated state the restriction of trade costs the poorer state not only a part of its inhabitants and its wealth but also has a ruinous effect back upon the richer state: so too must the trade restriction between European states standing on different levels of cultivation not only depress the agriculture of the poorer country, but also deprive the rich state of a part of its power and its greatness.
+
+And yet we now see in the European states barriers and trade restrictions applied everywhere!
+
+One has given up trying to force the cultivation of crops belonging to the south in the north; one permits the exchange of products of different climates and believes that this is advantageous for the national welfare; but one has unfortunately failed to recognize in our day that the exchange of products between peoples who live under one sky but stand on different levels of cultivation is just as much commanded by nature and just as advantageous for the nations as when the difference in products is brought about by the difference in climate.
+
+[272]
+It still deserves mention that the farmer of the isolated state who correctly recognizes his standpoint also possesses thereby the recognition of what he has to do.
+
+We have, in order to develop the formation and structure of the isolated state, needed no other principle than the assumption that each person correctly recognizes his own interest and acts accordingly. Just as, from the cooperation of all — each striving after his own rightly understood advantage — the laws by which the whole acts emerge, so conversely in the observance of these laws the advantage of the individual must be contained.
+
+While man believes himself to be pursuing only his own advantage, he is the instrument in the hand of a higher power, and works — often unconsciously to himself — on the great and artful structure of the state and of civil society; and the works that men, regarded as a whole, bring forth and create, as well as the laws by which they proceed, are certainly no less worthy of attention and admiration than the phenomena and laws of the physical world.
 
 Third Section.
 
@@ -2341,11 +3080,34 @@ If the manufacturers and craftsmen cannot subsist at this price, a part of them 
 
 As a result, an indispensable commodity for the farmer — for example, wrought iron — becomes more expensive, the cultivation costs of the soil rise, the land rent of the most distant estate sinks below zero, and the same phenomena already often cited, which a tax laid on agriculture produces, then appear.
 
-[Extended discussion of how trade taxes ultimately affect agriculture, the difference between the isolated state and reality with respect to international trade, and the effects of competitive taxation between states]
+Let us now look at the change that the price of goods and of products ultimately undergoes — that is, after the completed transition period — through the introduction of the tax: we find that the tax has an entirely different effect on the price of goods and on the price of grain.
 
-In the isolated state, neither a single trade nor agriculture can be burdened with a tax without all other classes being affected by it. Just as no limb of the human body can be injured without the whole body suffering, so too in the isolated state neither a single trade nor agriculture can be burdened with a tax without all other classes being seized by it.
+The craftsman and the manufacturer recover the tax imposed upon them through the increased price of their goods, and in the price of the goods they deliver there is now contained not merely labor wages, capital profit, and land rent, but also as a fourth component the amount of the tax. By contrast — as the considerations in the preceding section have shown — the price of grain is not raised by a tax, whether it be laid directly on agriculture or whether it be laid on the trades and thereby contributes to the increase of the production costs of grain.
 
-But conditions are quite different in reality, when several states come into contact with each other. When in a European state with free trade a particular trade is too heavily burdened with taxes, the tradesman cannot compensate himself through an increase in the price of his goods, because the same goods are still manufactured just as cheaply in other countries, where no such tax exists, and can now be imported at a price for which the domestic trade cannot supply them. Here, therefore, a trade can be entirely crushed by the tax imposed upon it, while the other classes remain almost uninjured.
+[271]
+Now, however, we also know from the considerations in the preceding section that, when the national character does not change, all active citizens, including the farmers, can still earn their livelihood just as amply after the introduction of the tax and after its full effect has been realized as before; and the question now arises whence the farmers take the compensation for the tax, since this cannot happen, as with the tradesmen, through an increase in the price of their work products.
+
+Agriculture differs in this respect very essentially from the trades, in that the same human exertion, practiced on different types of soil, is rewarded with a very different quantity of products, whereas in the trades the same activity and skill always delivers an equal work product.
+
+If a tax could be laid upon the trades from which they could not escape through an increase in the prices of their goods, or if by artificial measures the grain prices could be continuously maintained above their natural level: this would affect all tradesmen equally, and the trades would, if the burden were heavy enough, all be crushed simultaneously.
+
+In agriculture, however, a tax proportional to the size of the operation can only destroy the cultivation of the poorer estate — in the isolated state, the more distant estate — but not at the same time that of the better estate, which is favored by its soil or its location; and the riddle of how the farmer can still live just as well after paying the tax as before is solved by the fact that he withdraws from the poorer soil and now restricts his activity to the cultivation of the better soil, which after payment of the tax rewards the labor of the day-laborer, the tenant, or the administrator just as well as formerly the poorer soil that was burdened by no tax.
+
+[272]
+If we now direct our attention to the influence that the tax has exerted on the extent of the trades and of agriculture in the isolated state, we find that all have suffered in equal proportion. If, for example, the extent of agriculture has decreased by 1/10, then all trades working for agriculture have likewise decreased by 1/10 in extent, capital, and number of people — and this effect of the tax remains the same, whether it be laid on a single indispensable trade, or on all trades together, or on agriculture.
+
+Just as no limb of the human body can be injured without the whole body suffering, so too in the isolated state neither a single trade nor agriculture can be burdened with a tax without all other classes being seized by it.
+
+[273]
+Conditions are quite different in reality, however, when several states come into contact with each other.
+
+When in a European state with free trade a particular trade is too heavily burdened with taxes, the tradesman cannot compensate himself through an increase in the price of his goods, because the same goods are still manufactured just as cheaply in other countries where no such tax exists, and can now be imported at a price for which the domestic trade cannot supply them. Here, therefore, a trade can be entirely crushed by the tax imposed upon it, while the other classes remain almost uninjured, and the decrease in wealth and population caused by the tax manifests itself here in a single limb of civil society. The state may thereby, in individual cases, lose perhaps no more in absolute wealth and population than if the tax had been equally distributed among all classes; but in every case the harmonious articulation of the whole is thereby destroyed.
+
+In this way, however, the prosperity of the individual classes of a state is dependent not merely on the taxes that are imposed in this state, but also on the tax system of other states with which it stands in free trade. If, for example, in two states A and B equal taxes hitherto rested on a trade, and state A abolishes this tax: then state B must likewise abolish the tax or impose import duties, if the prosperity of those who practice this trade in state B is not to be endangered.
+
+In order to maintain the harmonious articulation of the whole, state B must therefore make the heavy sacrifice of constantly changing its taxes or tariffs according to the whims of the other state.
+
+Whether, then, the maintenance of equilibrium in the prosperity of the individual classes is worth this sacrifice; whether the less wealthy state shall never attain independence in its tax system but shall always remain the plaything of the rich state — to judge this belongs to practical political economy, which lies outside my sphere.
 
 §37.
 Consumption Taxes and Poll Tax.
@@ -2450,7 +3212,68 @@ Here the yield of the soil is assumed at 10 grains, but the average price of gra
 
 This plate shows pictorially the influence that the grain price in the Town exerts on the extent of the cultivated plain. On this plate, however, only the radius of the cultivated plain and of the individual concentric circles is given. If one wishes to construct from this, for a given grain price — for example, 1.05 thalers — a representation similar to that on Plate I of the isolated state, one must measure with a compass the distance from the Town to the point where 1.05 thalers stands, and with this radius draw a circle around the Town.
 
-[Extended tables and calculations showing how different grain prices affect the radius of the cultivated plain, the extent of each farming zone, and the area of cultivated land]
+Since in the present work the influence which the changed average prices in the Town itself have on the plain of the isolated state is not mentioned at all, it is necessary here to communicate the formula according to which the dimensions on this plate are calculated.
+
+[286]
+If one assumes the price of rye in the Town at a thalers and in the country at b thalers per bushel, and proceeds in the same way as in §4 for the average price of 1 1/2 thalers: the value of a bushel of rye in the country is
+
+[FORMULA];
+or abbreviated: [FORMULA]
+From this it follows [FORMULA]
+
+Now according to §14 the land rent of the three-field system at a yield of 10 grains = 0 when a bushel of rye has a value of 0.38 thalers (more precisely 0.381 thalers) in the country. In order to find the boundary of the circle of three-field farming, b must therefore be assumed at 0.38 thalers.
+
+If we now substitute for a successively the values of 1.5, 1.35, 1.20, etc., we find from the above formula the value of x for each different magnitude of a.
+
+It follows from this that
+
+at the average price / the radius of the cultivated plain amounts to
+
+1 1/2 thalers: 34.7 miles
+1.35 thalers: 31.7 miles
+1.20 thalers: 28.6 miles
+1.05 thalers: 25.0 miles
+0.90 thalers: 20.9 miles
+0.75 thalers: 16.1 miles
+0.60 thalers: 10.4 miles
+
+According to §14, the circles of convertible and three-field farming separate in the region where a bushel of rye is worth 0.51 thalers (more precisely 0.516 thalers). If one now sets b = 0.51, a similar calculation yields the boundary of convertible husbandry for the different values of a, or for the different average prices in the capital.
+
+[287]
+The size of the cultivated plain and the sum of the foodstuffs produced necessarily stand in the closest proportion to the population of the Town, so that every contraction of the cultivated plain also entails a reduction in the size of the Town.
+
+The size of the circle of free farming, as well as that of forestry, stands in direct proportion to the size of the Town and therefore also to that of the cultivated plain. Crop rotation farming — to which, however, what was said about it in the note to §21 also applies here — has at the price of 1 1/2 thalers an extent of 9.4 miles; with falling prices this extent decreases rapidly, and at the price of 0.9 thalers it already = 0.
+
+If one takes together the circle of convertible husbandry and that of crop rotation farming, these circles have
+
+at the price / an extent / as a share of the radius of the plain
+
+1 1/2 thalers: 21.4 miles = 62 percent
+1.05 thalers: 13.4 miles = 54 percent
+0.6 thalers: 1.6 miles = 15 percent
+
+The circle of three-field farming has
+
+at the price / an extent / as a share of the radius of the plain
+
+1 1/2 thalers: 4.5 miles = 13 percent
+1.05 thalers: 5.4 miles = 21 percent
+0.6 thalers: 6.2 miles = 60 percent
+
+It is thus shown to the eye how the decrease in grain prices effects not merely a contraction of the cultivated plain (in reality a withdrawal of cultivation from the poorer types of soil) but at the same time also a decrease in the intensive cultivation of the soil.
+
+[288]
+If one sets the area that the cultivated plain has at the price of 1 1/2 thalers equal to 1000, then according to the dimensions on this plate:
+
+at the price / the area of the plain
+
+1.35 thalers: 844
+1.20 thalers: 687
+1.05 thalers: 525
+0.90 thalers: 367
+0.75 thalers: 217
+
+With the exception of the last number, the decreasing series representing the area shows a certain regularity, in that the area is almost proportional to the square of the grain prices.
 
 If we assume:
 
@@ -2477,11 +3300,11 @@ This plate represents the influence which the changed yield of the soil exerts o
 
 As on the preceding plate for the various gradations of grain prices, so here for each grain yield from 10 down to 4, only the radius of the cultivated plain and of the various concentric circles is given.
 
-[Tables showing how different yields affect the radius of the cultivated plain]
+The dimensions on this plate are based on the calculations in §14, and for the extent of the cultivated plain are as follows:
 
-The comparison of this plate with the preceding one shows that the diminution of soil yield effects an even stronger decrease in intensive cultivation than an equal diminution of the grain price.
+[TABLE]
 
-[Publisher's advertisements and errata list follow]
+The comparison of this plate with the preceding one shows that the diminution of soil yield effects an even stronger decrease in intensive cultivation than an equal diminution of the grain price. Thus, for example, at the price of 1 1/2 thalers x 5/10 = 0.75 thalers per bushel of rye, the extent of convertible husbandry still amounts to 38 percent of the radius of the cultivated plain, whereas at a yield of 10 x 5/10 = 5 grains, convertible husbandry has already entirely disappeared.
 
 Errata
 in the work "The Isolated State."
