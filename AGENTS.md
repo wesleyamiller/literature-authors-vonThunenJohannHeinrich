@@ -1442,6 +1442,106 @@ This sequence is mandatory for interpretability and auditability.
 
 ---
 
+# PART XXI: OPERATIONAL LESSONS LEARNED (Sessions 1–7)
+
+The following lessons emerged from actually executing this playbook across 7 sessions. They are concrete, empirically derived, and should inform future author-corpus projects.
+
+## 99. OCR Tool Selection for Fraktur
+
+- **Tesseract with `best_tessdata` Fraktur model** is the only reliable open-source OCR for 19th-century German Fraktur. Use it at 2x render resolution on IIIF-sourced scans. Expect FT-3 quality (~0.65–0.70).
+- **Docling / RapidOCR** is unusable on Fraktur (FT-0/FT-1). It works only on PDFs with embedded ABBYY text (e.g., Internet Archive). Use it exclusively for text extraction from born-digital or pre-OCR'd PDFs, and only on files under ~50MB (crashes on larger files).
+- **Google Books embedded OCR** (extracted via pypdfium2) yields FT-4 for Fraktur — better than Tesseract. Always check for embedded text before running OCR.
+- **Internet Archive ABBYY OCR** is excellent for Antiqua (FT-4) but produces garbage on Fraktur (FT-0/FT-1). Never use IA djvu.txt for Fraktur sources.
+- **Profile before choosing**: the gap between tools is 75x+ in quality for Fraktur. The wrong tool wastes hours producing unusable output.
+
+## 100. IIIF Is the Unlock for Gated Scans
+
+When Google Books blocks with CAPTCHAs or BSB restricts direct download, check whether the same item is available via IIIF manifest. BSB, Gallica, and GDZ all serve IIIF. A simple script that downloads page images from the manifest and combines them into a PDF bypasses all browser-gating issues lawfully.
+
+- **GDZ manifest pattern:** `https://manifests.sub.uni-goettingen.de/iiif/presentation/{PPN}/manifest`
+- **BSB:** IIIF manifests accessible via MDZ viewer URLs
+- **Gallica:** IIIF manifests via `gallica.bnf.fr/iiif/ark:/{id}/manifest.json`
+
+## 101. Printed-Page-to-Scan-Page Mapping Is Critical
+
+Journal article extraction requires mapping printed page numbers to scan page numbers. These never align 1:1 due to frontmatter, plates, and unnumbered pages. Build the mapping explicitly (scan the table of contents or page headers) and store it in the acquisition script. Without this, you will extract the wrong pages.
+
+## 102. Post-Processing OCR Is Cheap and High-Value
+
+A single post-processing pass on Tesseract Fraktur output fixes thousands of systematic errors:
+- `<` → `ch` and `>` → `ck` ligature restoration (Tesseract-specific)
+- Page-number header bleed removal (regex on short lines matching `\d+\s+\w+`)
+- Fragment/bleed-through line removal (lines under ~3 characters)
+- Library stamp removal
+
+This took minutes to implement and improved every file. Build post-processing into the pipeline, not as an afterthought.
+
+## 103. Authoritative Bibliographies Beat Catalog Metadata
+
+Catalog records (DNB, WorldCat, ZDB) frequently contain errors for obscure 19th-century periodical pieces. In this project:
+- W012's periodical title was wrong in our initial catalog-derived metadata ("Der landwirthschaftliche Calender" → actually "Landwirtschaftliche Erzähler")
+- W034's title, newspaper name, and date were all wrong ("Fragmentarische Bemerkungen" in "Schweriner Anzeblatt" ~1841 → actually "Bruchstücke aus einer Abhandlung über die Steuerreform in Mecklenburg" in "Freimüthiges Abendblatt" 1846)
+
+The corrections came from the Thünengesellschaft Tellow bibliography and from the 1863 Schumacher biography bibliography — not from catalogs. **Always cross-check catalog metadata against author-society bibliographies and contemporary biographical sources.**
+
+## 104. Digitization Status Is a Moving Target
+
+One manifestation (M042) was found to be "currently being digitized" at UB Rostock (RosDok). Create a `discovered_digitization_pending` status and record the digitization identifier (PPN, URN) so future sessions can check back. Do not treat "not yet digitized" as "will never be digitized."
+
+## 105. Parallel Agent Translation Strategy
+
+For corpus-wide translation (or any per-file bulk operation):
+- **Batch by size**: start with the smallest files to validate the pipeline, then scale up.
+- **6 parallel agents** is a practical maximum per batch for translation work. More than this risks rate limits.
+- **Split files over ~5000 lines** into halves and merge afterward. Single-agent output token limits (~32K tokens) will truncate large translations silently.
+- **Expect content misalignments**: OCR extraction from multi-article journal volumes frequently maps the wrong page ranges to work IDs. The translation pass is when these errors surface — document them rather than silently fixing.
+- **Commit incrementally**: push completed batches to the remote after each round. Do not accumulate all translations before committing — rate limits and session interruptions will cost you completed work.
+
+## 106. Fraktur Confusables in Catalog Titles
+
+Fraktur OCR produces systematic letter confusions that propagate into catalog metadata:
+- `Häfen` (harbors) ↔ `Haken` (hook plows)
+- `Calender` ↔ `Calendar` ↔ `Erzähler`
+- Long-s (`ſ`) → `f` in OCR output
+- `ch`/`ck` ligatures → `<`/`>` in Tesseract
+
+When a catalog title seems semantically wrong for the author's known interests, suspect a Fraktur-derived transcription error and check the facsimile.
+
+## 107. Canonical Text Build Should Be Scripted and Rerunnable
+
+The `build_canonical.py` script that assembles per-work text files from the best available source is one of the most valuable pipeline components. It must:
+- Accept a `--force` flag to rebuild everything
+- Write YAML frontmatter with provenance (source manifestation, extraction method, quality tier)
+- Handle multi-part concatenation (e.g., W031 from 3 journal volumes)
+- Exclude superseded sources automatically
+- Be the single source of truth for "what text do we have for each work"
+
+## 108. State Pack Is the Session Memory
+
+The `notes/state_pack.md` file is the only durable context that survives across agent sessions. It must be updated at the end of every session with:
+- What was done
+- What changed (counts, statuses, new findings)
+- What remains
+- Any corrections to prior assumptions
+
+A new session starts by reading the state pack. If it's stale, the session starts wrong.
+
+## 109. ZDB for German Periodical Holdings
+
+The Zeitschriftendatenbank (ZDB) is the authoritative source for German serial holdings. For any periodical piece:
+1. Look up the serial title in ZDB to get the ZDB-ID
+2. Check which institutions hold which volumes
+3. Check which volumes have been digitized and where
+4. Use the ZDB-ID to find digitized copies in institutional repositories (RosDok, GDZ, DigiZeitschriften)
+
+This is faster and more reliable than searching for individual articles by title.
+
+## 110. Duplicate Search Agents Can Find What the First Missed
+
+When context was restored mid-session, duplicate search agents were accidentally launched for the same targets. These duplicates found authoritative bibliographic corrections that the first-round agents missed (the Thünengesellschaft bibliography, the 1863 Schumacher bibliography). **Redundant searches from different entry points are valuable for obscure materials.** Consider deliberately running a second search pass from a different source class.
+
+---
+
 # Final Instruction
 
 If forced to choose between a corpus that is broad but blurry and a corpus that is slower but structurally correct, choose the structurally correct corpus every time.
