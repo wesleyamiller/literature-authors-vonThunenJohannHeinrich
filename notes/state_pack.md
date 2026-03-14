@@ -1,6 +1,6 @@
 # State Pack: Johann Heinrich von Thuenen Corpus Project
 
-**Last updated:** 2026-03-13 (session 6)
+**Last updated:** 2026-03-14 (session 7)
 
 ## Current Scope Flags
 - active_scope: works_by
@@ -142,5 +142,15 @@ BSB has the full "Amtlicher Bericht" series as bsb10228356-bsb10228369 (volumes 
 - **Applied:** 2026-03-13 — all 31 FT-3 canonical files post-processed
 - **W001 excluded** (FT-7 gold standard, no processing needed)
 
+## English Translations
+- **Location:** `docs/works_en/` (31 markdown files)
+- **Coverage:** 31/32 canonical works (W010 absorbed into W002)
+- **Method:** LLM translation (Claude) from German canonical texts
+- **Added:** 2026-03-14 (session 7)
+- **Notes:**
+  - OCR content misalignments discovered in W020, W024, W032, W033 (wrong journal pages in source)
+  - W028 catalog title "Häfen" (harbors) is actually "Haken" (hook plows) — Fraktur confusion
+  - Several source files truncated mid-sentence; translations end where sources end
+
 ## Next Steps
-All pipeline tasks complete. The corpus is at maximum digital coverage: 33/37 works (89%) with machine-readable text. The remaining 4 works (W005, W012, W034, W037) require physical library visits or digitization-on-demand requests to institutions in Mecklenburg-Vorpommern.
+All pipeline tasks complete. The corpus is at maximum digital coverage: 33/37 works (89%) with machine-readable text, plus 31 English translations. The remaining 4 works (W005, W012, W034, W037) require physical library visits or digitization-on-demand requests to institutions in Mecklenburg-Vorpommern.
