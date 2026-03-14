@@ -31,7 +31,7 @@
 **Searched, confirmed not digitized (3) — 2026-03-13:**
 - M017: Landwirtschaftliche Erzaehler, Gross Flottbeck 1818 (W012) — corrected title per Thuenengesellschaft; periodical not in ZDB; no digitized copy found anywhere
 - M039: Freimuethiges Abendblatt Jg. 28, 1846 (W034) — corrected from "Schweriner Anzeblatt ~1841" per Thuenengesellschaft + 1863 bibliography. ZDB-ID 13272-X. Partially digitized at RosDok (Jg. 9,12,29,30) but Jg. 28 not available. Physical/microfilm at LBMV Schwerin, UB Rostock, SBB Berlin, IfZ Dortmund
-- M042: Landw. Annalen patriot. Vereins 1846 (W037) — earlier vols on Google Books; 1846 new series not digitized. Physical at LBMV Schwerin, UB Rostock
+- M042: Landw. Annalen patriot. Vereins NF Bd. I/4, 1846 (W037) — RosDok digitization registered (ppn1799934152) but in progress. ZDB-ID 3116647-7. Original series at GDZ; Neue Folge assigned to UB Rostock. Will become available when digitization completes
 
 **Placeholder (1):**
 - M006: 1875 3rd ed (already covered by M014/M015 vols)
@@ -109,7 +109,7 @@ See `data/acquisitions/text_source_priority.csv` for per-work mapping.
 | W005 | 1803 essay (Grossen-Flottbeck) | No known digital copy. Not searched (pre-digital era) |
 | W012 | Landwirtschaftliche Erzaehler 1818 | Corrected title (was "Calender"). Not in ZDB. No digitization |
 | W034 | Freimuethiges Abendblatt 1846 | Corrected title+date. Jg. 28 not among RosDok digitized vols |
-| W037 | Landw. Annalen 1846 | Earlier vols on Google Books; 1846 new series not digitized |
+| W037 | Landw. Annalen NF 1846 | RosDok digitization in progress (ppn1799934152). Check back later |
 
 ## Key Finding: BSB Has Doberan Series
 BSB has the full "Amtlicher Bericht" series as bsb10228356-bsb10228369 (volumes 1-14, 1837-1851). The Doberan 1841 volume is bsb10228360. This bypassed the Google Books CAPTCHA problem.
