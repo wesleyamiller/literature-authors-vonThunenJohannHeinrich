@@ -29,7 +29,7 @@
 **Located (40):** All Der isolirte Staat editions (1826-1910), all 27 Neue Annalen articles, both Doberan conference papers, both French translations, English translation.
 
 **Searched, confirmed not digitized (3) — 2026-03-13:**
-- M017: Landw. Calender 1818 (W012) — periodical not in ZDB; no digitized copy found anywhere
+- M017: Landwirtschaftliche Erzaehler, Gross Flottbeck 1818 (W012) — corrected title per Thuenengesellschaft; periodical not in ZDB; no digitized copy found anywhere
 - M039: Schweriner Anzeblatt (W034) — official title "Mecklenburg-Schwerinsche Anzeigen" (ZDB-ID 1363524-4). Physical/microfilm at LBMV Schwerin, UB Rostock, SBB Berlin, IfZ Dortmund
 - M042: Landw. Annalen patriot. Vereins 1846 (W037) — earlier vols on Google Books; 1846 new series not digitized. Physical at LBMV Schwerin, UB Rostock
 
@@ -107,7 +107,7 @@ See `data/acquisitions/text_source_priority.csv` for per-work mapping.
 | Work | Reason | Search Result |
 |------|--------|---------------|
 | W005 | 1803 essay (Grossen-Flottbeck) | No known digital copy. Not searched (pre-digital era) |
-| W012 | Landw. Calender 1818 | Periodical not in ZDB. No digitization found anywhere |
+| W012 | Landwirtschaftliche Erzaehler 1818 | Corrected title (was "Calender"). Not in ZDB. No digitization |
 | W034 | Schweriner Anzeblatt ~1841 | Physical/microfilm only (4 institutions). Not digitized |
 | W037 | Landw. Annalen 1846 | Earlier vols on Google Books; 1846 new series not digitized |
 
