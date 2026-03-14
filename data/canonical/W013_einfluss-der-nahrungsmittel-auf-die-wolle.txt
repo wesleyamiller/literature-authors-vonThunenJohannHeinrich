@@ -10,13 +10,11 @@ source: "M018 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band06_M018_pp119-127_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 6/1. 9pp extracted (11KB)."
 assembled: 2026-03-13T23:11:45Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
-er
-n
 
-re
 
 Welchen Einfluß haben die Nahrungsmittel,
 welche die Schaafe erhalten, auf die Güte
@@ -26,7 +24,7 @@ Ats Beytrag zur Beantwortung dieſer Frage,
 theile ich folgende Beobachtung mit:
 
 Im Jahr 1812 wurden auf einer Auction zu
-Gahlenbe> im Streligiſchen aus der Nachlaſ-
+Gahlenbeck im Streligiſchen aus der Nachlaſ-
 ſenſchaft des verſtorbenen Oberſten von Reigew
 ſtein, vier âchte Merinos - Schaafe verkaufte
 nämlich:
@@ -122,7 +120,7 @@ daß er geglaubt habe, es ſey gar nicht daſſelbe
 —- 12 —
 
 Schaaf, was er fröher unter dieſem Namen geſehen
-habe, bis er ſ< dur das ihm wohl befannte
+habe, bis er ſch dur das ihm wohl befannte
 Ob-zeichen, ſo wie durch die genauere Betrachtung
 des ganzen Gebäudes des Schaafs , davon über-
 zeugt habe,
@@ -147,7 +145,7 @@ je Jährlinge in Dobbin geblieben, und daß das
 „nommen und nah Bäbelin auf die Weide ge-
 pbracht ſey. Nun ſey es damals allen Leuteu auf-
 ‘gefallen, daß daſſelbe Vieh, welches in Dobb in,
-‘eine nach damaliger Art ſc<hóne Wolle getragen
+‘eine nach damaliger Art ſcchóne Wolle getragen
 ‘¿habe, im folgenden Jahre, nachdem es ein Jahr
 „auf der Bäbel iner Weide gegangen, - eine ſo
 ſehr viel ſchlechtere Wolie gegeben habe, welche
@@ -236,7 +234,7 @@ Y Abſchägung vor.
 Â Here Aaron Hirſch tadelte an dem Vließe
 der Duenna die große Ungleichheit und Härte der
 Wolle; meinte aber die Härte rühre hauptſächlich
-von der Sandweide her und“ivürde-(c< etwas ver-
+von der Sandweide her und“ivürde-(cch etwas ver-
 lierett, wenn die Wolle ſtark geklopft würde.
 
 Y Ohne die jegigen hohen Preiſe zum Maaßſtab
@@ -303,8 +301,6 @@ terung der Wolle durch den Einfluß der Weide eut-
 ſtanden iſt, gegründet : ſo muß jegt bey eiuer beſe
 fern Weide die Wolle der Duenna von Jahr zu
 
-LY
-4
 
 --- Page 9 ---
 i MAN tr
@@ -318,7 +314,7 @@ gelöſt werdet,
 
 I. H. v. Thünen,
 
-NaGſ<hrift des Nedakteurs.
+NaGſchrift des Nedakteurs.
 
 Dieſe Bemerkungen ſind für die Beſiter veredeltee
 Schäfereyen von der größten Wichtigkeit und ver-

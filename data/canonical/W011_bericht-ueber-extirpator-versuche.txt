@@ -10,10 +10,10 @@ source: "M016 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band01_M016_pp477-478_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 1/2. 2pp extracted (3KB)."
 assembled: 2026-03-13T23:11:44Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
-=_=
 
 NG habe itn Feühiahr 182 ein Stück Hafer
 unit dem engliſchen zilffüßigen Exſtirpator unter
@@ -41,7 +41,7 @@ men. Jur ferneren Wuchs ‘habe ih ſo wohl ini
 Herbſt, als auch igt feinen Unterſchied bemerkt.
 
 /In' dieſem Frühjähre habe ih abermal eine
-fleine Probe mit dem Hafer gemacht / wovon ic<
+fleine Probe mit dem Hafer gemacht / wovon icch
 c/aber’ das Reſultat erſt beh der bevorſtehenden
 /Erndte genau werde überſehen können./
 
@@ -82,10 +82,3 @@ Dreeſches allerdings notwendige wie ſchädlich aber
 iG ze
 
 Li
-m
-E
-©
-hi
-A
-
-MY:

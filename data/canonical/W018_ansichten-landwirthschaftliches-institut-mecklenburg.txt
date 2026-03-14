@@ -10,10 +10,10 @@ source: "M023 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band17_M023_pp282-322_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 17/1. 41pp extracted (60KB)."
 assembled: 2026-03-13T23:11:45Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
-282
 
 Juteit
 Anſichten über die Errichtung eines landwirth- || eigene
@@ -22,7 +22,7 @@ Anſichten über die Errichtung eines landwirth- || eigene
 Um ein Urtheil darüber zu fällen, ob die Errich: |} di da
 
 tung eines landwirthſchaftlichen Jnſtituts in Mecklen:
-burg zwe>mäßig ſei oder nicht, muß man zuvor die
+burg zweckmäßig ſei oder nicht, muß man zuvor die
 beiden Fragen aufſtellea :
 
 1) ob die bereits in Deutſchland vorhandenen Aca-
@@ -45,15 +45,10 @@ und namentlich wird in Jena und Göttingen dieſe
 tend
 würde
 Y Einfo
-H
-tng
 wir 1
 ftelite
-Te
 
-|
 
-Bl
 Inſti
 daß è
 werd
@@ -77,13 +72,10 @@ den:
 r die
 
 Aca:
-die
 
-ect
 ieht?
 lin,
 
-tre
 ülfs:
 i
 
@@ -94,7 +86,6 @@ rth:
 dung
 iter
 
-und
 dort
 
 emanrin 283
@@ -187,9 +178,7 @@ iſſen:
 erfah:
 rſeits
 
-das
 virth:
-nge
 chen
 
 nee 255
@@ -205,7 +194,7 @@ aber für‘den jungen gebildeten Mann große Schwie:
 rigfeiten. Nur wenige Landwirthe befaſſen ſich mit
 dem Unterricht junger Leute, und die Verhältniſſe,
 unter denen dies geſchieht, ſind für vornehme und
-reiche junge Männer häufig fo abſchre>end , daß ſte
+reiche junge Männer häufig fo abſchreckend , daß ſte
 die Erwerbung practiſcher Kenntniſſe oft ganz aufge-
 ben, und îm richtigen Vorgefühl, daß ohne dieſe
 Kenntniſſe der Beſuch der landwirthſchaftlichen Jn-
@@ -247,7 +236,7 @@ auch ihres Wohlſtandes, ſcheint mir in dem gegen
 wärtigen Angenblict die Anlegung von Muſterwirth-
 ſchaften das wirkſamſte Mittel. zu ſein. So leicht
 es aber auch iſt, das Mangelhafte unſerer Bauern
-und Büdnerwirthſchaften zu erkennen, ſo ſ{<wieriz
+und Büdnerwirthſchaften zu erkennen, ſo ſ{chwieriz
 iſt es doch, ein Jdeal dafár aufzuſtellen. Die zwe
 máßige Organiſation ſolcher Wirthſchaften iſt weit
 weniger wiſſenſchaftlich entwicfeit, als die der größern
@@ -266,22 +255,18 @@ Bodi
 werd
 L
 licher
-Nus
 enthe
 aufw
 gebil
-F
 tigfei
 Ausb
 Lehra
-Man
 ſcafi
 der b
 demn
 ſend
 ſein,
 ſhes
-D
 6b es
 
 --- Page 6 ---
@@ -297,7 +282,6 @@ anden
 muß,
 erricht
 cht in
-n.
 
 ſomit
 gegen:
@@ -464,18 +448,15 @@ wenn ſie ſchon die Direction der Wirthſchaft hätten,
 
 der Y
 die A
-Daß
 Nacht
 
 einen Plan zu deni am folgeiden Tage vorzunehmen:
 
 --- Page 10 ---
-die
 ener
 tuts:
 ders
 
-dem
 Bild
 
 ngel,
@@ -491,14 +472,10 @@ gen,
 öchſt
 fluß
 
-Ge:
 hein
-Hin
 
 itute
-als
 ten,
-net
 
 ama 291
 
@@ -508,7 +485,7 @@ entwerfen,“ und dieſen dann ſchriftlich dem Director
 des Juſtitus übergeben. Der Director ſagt dant,
 
 ührung der Gránde, jedem Schüler, was in
-ſeinen Plan mangelhaft oder unzwec>mäßig iſt. Dies
+ſeinen Plan mangelhaft oder unzwecckmäßig iſt. Dies
 muß den Schüler nothwendig zum Nachdenken über
 den Gang der Wirthſchaft führen, und da eine ſolche.
 Correction ſeiner Anſicht, während eines ganze
@@ -517,7 +494,7 @@ Sommers, täglich wiederholt wird: fo muß eine
 Wirthſchaftösführung, — ihn weiter fördern, als ein
 mehrjähriges eigenes Wirthſchaften. Jn dieſen Ent-
 
-wúrfen winde ſ< zugleich der Grad von Kenntniß
+wúrfen winde ſch zugleich der Grad von Kenntniß
 
 und Urtheilsfraft der einzelnen Schüler klar aus:
 
@@ -540,7 +517,6 @@ Daß in diefen Anordnungen , die ein Gegenſtand des
 Nachdenkens und der Belehruig, für die Schüler ſein
 
 fallen, eine vollkommene Conſequenz herrſchen müſſe,
-10*
 
 --- Page 11 ---
 292 =
@@ -581,15 +557,12 @@ unfeit
 er Di:
 alten
 
-Der
 ränke
 
 r Di:
 
 ſeine
-wor
 enden
-ſet
 nicht
 - Da
 ndere
@@ -599,7 +572,6 @@ Land:
 
 hrend
 n ihn
-Auf
 zwei
 
 — 293
@@ -676,7 +648,7 @@ tung des Vortrags, erlaube ich mir nun nachſtehend: |}
 
 Bemerkungen.
 
-Forſtwirthſ<aft. Um den geſammten Hol}
+Forſtwirthſchaft. Um den geſammten Hol}
 
 bedarf eines Guts zu befriedigen, werden 10 pCt.,
 und bei ſchlechter Forſtcultur 15 bis 20 pCt. des gan
@@ -686,15 +658,8 @@ zen Gut8-Areals dem Holzanban gewidmet werden
 müſſen. Der Neinertrag des Grund und Bodens
 hängt bei der Forſtcultur , faſt noch mehr als bein|
 
-Ak
-Beh
 ren.
 
-in
-Beh
-gem
-Bev
-Urw
 funf
 cult
 
@@ -705,10 +670,7 @@ wire
 wirt
 tiche
 ſcha
-ub
-Zuſ
 
-Io
 
 --- Page 14 ---
 Äeſent
@@ -798,21 +760,14 @@ dem Landbau nüglich zu verbindenden techniſchen Ge:
 werben vorgetragen, ſondern auch überall, wo ſich
 «ine Gelegenheit dazu darbietet, practiſch angewandt
 
-wer
 fenn
 werd
 Viel
-auf
 
 Erſd
-Vor
 gena
-Wid
-Wir
 
-wen
 Fläct
-fim
 Wirt
 
 --- Page 16 ---
@@ -852,12 +807,12 @@ Wirthſchaft die Größe der jeder Production gewidme-
 
 ten Fläche, nicht wie in den Privatwirthſchaften durch
 die Ausſaat, oder durch ſchwankende Schäbungen,
-ſondern dur< genaue Meſſungen ausgemittelt und
+ſondern durch genaue Meſſungen ausgemittelt und
 beſtinimt werden, — weil die Schüler ſonſt zu feiner
 beſtimmten Kenntniß des Ertrags des Ackers gelan-
 gen fönnen. .
 
-Buch ſtabenre< nung und Algebra. Beim
+Buch ſtabenrech nung und Algebra. Beim
 Vortrage dieſer Wiſſenſchaften múßte der Lehrer ſtets
 bemäht ſein, die Anwendung derſelben beim prakti:
 ſchen Betrieb der Landwirthſchaft zu zeigen. Die
@@ -884,7 +839,6 @@ mittelbar die Civiliſation der Völker mehr gefördert,
 dureh
 gen,
 
-und
 einer
 elan:
 
@@ -892,17 +846,13 @@ Bein
 ſtets
 cafti:
 
-Die
 ‘and:
 hren
 irth
 „und
-wen
 ſind:
 egen:
-Ste
 
-FN
 die:
 ‘and:
 
@@ -1042,39 +992,28 @@ wo er die Wirthſchaft erlernt hat, richtig wirthſchaf-
 ten. Sobald er dieſen Fleck verläßt, iſt er, gleich
 dem ſtenerlofea Schiff, dem Zufalle Preis gegeberi,
 
-A
-des
 ſes e
 wirth
 verja
-mit
-des
 trieb
 der l
-und
 liche
 ntiſat
 
-Y
 andei
 oder
 Geſe
 ſo wi
 Arbe
-Dek
 
-9
 
 den f
-und
 
 niſi
 
-mit
 tine!
 
 --- Page 22 ---
-auf
 all:
 rga:
 raus
@@ -1082,10 +1021,8 @@ afts:
 
 and?
 Ver:
-ner
 aus:
 nde,
-haf
 leich
 beni
 
@@ -1158,10 +1095,8 @@ einrichten; ſo wie dies auch. in der That der Rgulator
 
 der'l
 hung
-aus
 entne
 ren e
-bar
 vera
 
 feine
@@ -1170,11 +1105,9 @@ Gebr
 preis
 Vern
 
-E
 rinde
 der Y
 
-H
 preis
 
 V
@@ -1257,21 +1190,15 @@ Das Studium der National Oekonomie wird
 ferner den Landwirth zu der Ueberzengung führen,
 daß er, nach einem ihm fremden Lande verſebt, nicht
 
-mit
-egi
-den
 der 1
-und
 verſe
 Kent
 freie
 haft
-wen
 alſo
 fomi
 gebli
 ſpar:
-(
 nicht
 des ©
 der]
@@ -1291,7 +1218,6 @@ if ſein
 d un:
 ihren,
 tr deit
-Der
 andes
 he Er:
 i Prei:
@@ -1341,7 +1267,6 @@ touomiſche Gegeuſtánde mit der ihm eigenen
 Klarheit und Umſicht abgehandelt , und, namentlich
 
 in ſeinem Leitfaden zur laudwirthſchaftlicheu Gewerbs-
-20+
 
 --- Page 27 ---
 308 EA
@@ -1385,7 +1310,6 @@ ausf;
 dieſes
 Ueber
 geben
-D
 einen!
 fiitut
 nicht
@@ -1400,7 +1324,6 @@ eine
 betvac
 entbel
 Lande
-gen
 ſen B
 Zweck
 den L
@@ -1416,7 +1339,6 @@ d oft
 unde
 atur:
 nom:
-von
 urch:
 feine
 rung
@@ -1504,29 +1426,22 @@ H) im Sommer
 Botanik,
 reine und angewandte Geometrie;
 
-A
 mit 2
 miede
 ſo fd
 Prive
 fällen
 
-Ps
 
 Lehre
 unbeſ
 richtu
-Som
 Wint
 
 auch
 
 --- Page 30 ---
-von
-das
-und
 : die
-und
 
 igen,
 peint
@@ -1534,7 +1449,6 @@ irthe
 
 ann,
 ſein,
-für
 
 triche
 ß in
@@ -1587,7 +1501,7 @@ mer vortragen.
 
 Die Wirth ſchaft des Gutes, auf welchem
 das Inſtitut beſteht, ſoll eine Muſterwirth ſchaft
-fein, das heißt, ſie ſoll in der Zwe>mäßigkeit der
+fein, das heißt, ſie ſoll in der Zweckmäßigkeit der
 Einrichtung, in der Güte der Ackerbeſtellung , in der
 Ordnung, womit ſie betrieben wird u. \. w. den Ver-
 gl.ich mit den beſten mecklenburgiſchen Wirthſchaften
@@ -1614,8 +1528,6 @@ ir dieſe Wiſſenſchaften zu erhalten / der ſie mit
 gleichem Geiſt, wie Doctor Sprengel in Göttingen,
 auf den Landban auwendete.
 
-Et
-Zwe
 Zeit u
 fie vo
 Dage
@@ -1624,7 +1536,6 @@ unerfi
 
 und z
 feiner
-D
 
 | faltig
 
@@ -1633,30 +1544,23 @@ Wirt!
 Gewi
 des 9
 
-E
 bloß e
 Reine
 
 --- Page 32 ---
-für
 orie
 
-als
 Som:
 
 chem
-aft
-der
 1 der
 Ver:
 ften
 afts:
-Mu:
 gte,
 fah:
 Miß:
 halb
-der
 elbſt
 icht,
 chon
@@ -1665,7 +1569,6 @@ caf:
 Ent:
 Lehe
 
-mit
 
 igen;
 
@@ -1756,7 +1659,6 @@ nung
 
 u bei
 nter:
-gar
 
 Kör-
 trage
@@ -1930,22 +1832,16 @@ ring verſchont, aber er muß die Nechnungen #0
 
 genau
 gen f
-5
 die V
 von il
 er Mi
-M
 theile
 Vorle
-dem
-D
 dieW
 und \
 trole
-Y
 Publi
 Recht
-Nue
 dadur
 einzel
 große
@@ -2057,12 +1953,10 @@ wird
 gehen
 ſo zu
 
-D
 dieſe 2
 Entw
 und \
 
-D
 Guts
 das 1
 ganzer
@@ -2074,17 +1968,14 @@ mache
 dieſen
 lung ?
 
-NA
 
 --- Page 40 ---
 erſten
-ude
 ſe im,
 idern
 reiſe,
 id fli:
 wohl
-en.
 
 g der
 nkanf
@@ -2093,7 +1984,6 @@ nders
 Wich:
 aatei
 aber
-E
 x auf
 rund:
 Tay:

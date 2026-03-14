@@ -10,6 +10,7 @@ source: "M033 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band21_M033_pp587-640_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 21/2. 54pp extracted (76KB)."
 assembled: 2026-03-13T23:11:45Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
@@ -20,7 +21,6 @@ Theil geworden iſt.
 Tellow, im Yanuar 1837.
 J. H. v. Thünen, Dre.
 
-M.
 Notizen úber den Haken- Pflug.
 
 Lom Herrn Dr. von Thúnen auf Fellow.
@@ -141,7 +141,7 @@ Haken nehmen ſolle, da keiner von ihnen freiwillig
 damit arbeiten wollte, und es wurde deshalb noch
 ein Hakenpflug angeſchafft.
 
-Seitdem iſt hier nur no< ein über beide Hände
+Seitdem iſt hier nur noch ein über beide Hände
 gehender Haken mit Vordergeſtell im Gebrauch ge-
 brauch geblieben, mic welchem
 
@@ -181,7 +181,6 @@ entſteht nun aber eine Umdrehung des Erdſtreifens
 um ſeine eigene Achſe, und ſo wird hier durch das
 
 --- Page 6 ---
-592
 bloße Herabfallen von einer- geneigten Ebene das
 Umtwenden der Erde bewirkt, wozu die engliſchen
 Bſlúge durch das übergebogene Streichbrett ſo viele
@@ -216,16 +215,10 @@ die Erde nicht bloß locker zu liegen, ſondern wird
 beim Herunterfallen vom Streichbrett auch ſehr zer-
 bröckelt. Jm feuchten Zuſtande iſt aber auf lehmigem
 
-BV
-del
 
-hie
-tic
 
 * auſ
 
-da!
-au!
 
 --- Page 7 ---
 Boden der Zuſammenhang der Erde zu ſtark, um durch.
@@ -311,7 +304,7 @@ Schleifſtein ſcharf geſchliffen werden.
 Der Hakenpflug legt in den Wieſen die Furche
 nicht ſo gut um, als der Smallſche Pflug, auch
 fallen einzelne Naſenſtücke in die Furche zurück, (was
-jedo<h, wenn nicht ein ſehr geſchickter Führer da iſt,
+jedoch, wenn nicht ein ſehr geſchickter Führer da iſt,
 beim Smallſchen Pflug ebenfalls ſtattfindet,) und es
 muß deshalb jedem Pflüger eine Frau folgen, die
 
@@ -323,7 +316,7 @@ pflug mit nicht größerer Anſtrengung der Pferde eine
 Smallſchen Pflug. Die durch den Hakenpflug um-
 gewendeten Naſenſtreifen bleiben hohl liegen , ſind in
 dieſer Lage dem Angriff der Eggen ſehr ausgeſebt,
-und ſeit 2 Jahren ſind ſtark bénarbte Wieſen dur<
+und ſeit 2 Jahren ſind ſtark bénarbte Wieſen durch
 4 Fahren in einem eiñzigen Braachjahre mürbe und
 zur Beſäung mit Rapps geſchickt gemacht.
 
@@ -374,7 +367,7 @@ Weit mehr entſcheidet hierüber der Zuſtand der
 Zugthiere, wenn ſie unausgeſeßt mit einen Jnſtru-
 mente arbeiten.
 
-In dieſer Beziehung hat ſ< tun auf dem hie-
+In dieſer Beziehung hat ſch tun auf dem hie-
 figen hügeligen, zum Theil aus Lehmboden beſtehen:
 den Felde în den Sommern 1835 und 1836 ergeben,
 daß die Pferde, welche täglich vor dem Pflughaken
@@ -393,7 +386,7 @@ wohl hauptſächlich aus folgenden Urſachen entſpringt:
 
 1) Aus der Beſchaffenheit des Feldes: ob der Bo:
 den lehmig oder ſandig, hügelig oder eben, mit
-vielen Gräben dur<ſchnitten iſt oder nicht, viele
+vielen Gräben durchſchnitten iſt oder nicht, viele
 Steine enthält oder frei davon iſt u. f. w.
 
 2) Aus der Art, wie gehakt wird: ob. man breite
@@ -414,7 +407,7 @@ Vei der Anwendung des erſten Verfahrens wer-
 den ſchon, um das Ausmeſſen zu erleichtern, regel-
 mäßige Stücke mit langen Wendungen gewählt , die
 Arbeiter durch die Vorrichtungen davon unterrichtet,
-daß eine Nachmeſſung ſtattfinden wird, werden dur<
+daß eine Nachmeſſung ſtattfinden wird, werden durch
 den Wetteifer und die häufige Gegenwart des Auf:
 ſehers angetrieben, die Pferde ſtark anzuſtrengen,
 und zugleich möglichſt breite Fahren mit Balken zu
@@ -431,7 +424,7 @@ Da és aber nicht lauter lange Wendungen giebt,
 gehakt werden müſſen, der Boden öfters erhärtet
 und das Haken erſchwert, Wetteifer und Aufſicht in
 der Regel fehlen, die Pferde auch niht dauernd ſo
-angeſtrengt arbeiten können, da dur< das Umziehen
+angeſtrengt arbeiten können, da durch das Umziehen
 
 --- Page 13 ---
 anvicnios 599
@@ -482,7 +475,7 @@ nicht ohne Werth und Jutereſſe ſein.
 
 Zuvor muß aber noh bemerkt werden, _daß in
 jener Zeit faſt immer rein abgehakt iſt, d. î. keine
-Balken ſtehen geblieben ſind, weshalb denn an<
+Balken ſtehen geblieben ſind, weshalb denn anch
 ſelbſt in der Strek-, Braach- und Wendefahre die
 Fahren nicht über 12 Zoll Lübecker Maaß breit ge:
 nommen ſind.
@@ -531,13 +524,13 @@ Hafer unterhaken « «“ 266
 Tiefe 42 Zoll, Breite 102 Zoll.
 
 Ju dem Zeitraume, wovon hier die Rede iſt,
-wurden in Tellow noh Ochſen gehalten, jedo< nicht
+wurden in Tellow noh Ochſen gehalten, jedoch nicht
 alles Haken durch dieſe, ſondern zum Theil auch
 durch Pferde verrichtet. Nach den einzelnen darüber
 angeſtellten Beobachtungen brachte der Ochſen be-
 
 *) Es if ein Uebelſtand am Haken, daß man damit uicht
-ſo fla aern kann, als der Zwe> es in manchen
+ſo fla aern kann, als der Zweck es in manchen
 Zállen, z. B. beim Unterbringen der Saat, beim Um=
 bruch des Dreeſches u. ﬅ. w. erheiſcht.
 
@@ -680,7 +673,7 @@ härtet iſt, als in dieſem Jahre.
 Auch kommt hier noch ein Umſtand in Betracht,
 daß nämlich das Feld ſelbſt eine Veränderung erlitten
 hat, Jn dem Zeitraum von 1810 — 20 waren die
-Lehmhügel no< im rohen Zuſtande, ſehr hart beë
+Lehmhügel noch im rohen Zuſtande, ſehr hart beë
 der Trockniß und ſchwer zu haken; jet ſind ſte größ:
 tentheils ſtarf mit Modde befahren und dadurch milde
 geworden. So weit ſh dies durch eine Schäßung
@@ -764,7 +757,7 @@ Es iſ merkwürdig, daß dies in. Mecklenburg ſo
 wenig beachtet wird, daß man auch ſelbſt da, wo
 
 --- Page 22 ---
-man mit Pferden hakt, ſich no< häufig des Bauch:
+man mit Pferden hakt, ſich noch häufig des Bauch:
 hakens — bei welchem das eine Pferd auf dem gehak-
 ten Acker geht — bedient. YJrrt aber Neferent nicht,
 ſo liegt grade in dem Gebrauch dieſes Jnſtruments
@@ -785,7 +778,7 @@ man in die Furche, welche die frühere Aerung zu- :
 rücgelaſſeu, zieht, und dort den Mittelrücken des
 neuen Stücks anlegt.
 
-3) Der me>lenburgiſhe Haken wird von den
+3) Der mecklenburgiſhe Haken wird von den
 Stellmachern auf den Gütern, die an feine Genauig-
 keit gewöhnt ſind, nicht nach beſtimmten Dimenſio-
 nen, ſondern nah dem Augenmaaß verfertigt ; wenige
@@ -801,10 +794,10 @@ fein beſtimmtes Maaß, und der Schmied ertheilt
 ihm Größe und Form nah Belieben, Bei dieſer
 Enkſtehungsart iſt es natürlich , daß die von demſel,
 ben Meiſter verfertigten Haken ſehr ungleich gerathew
-und zuweilen gut, häufiger aber ſhle<ht gehen. Nun
+und zuweilen gut, häufiger aber ſhlecht gehen. Nun
 hat der Haken das Eigenthümliche, daß der Führer
 eine große Gewalt über ihn hat, und daß der fehler:
-haft gebauete Haken vermittelſt der Führung no<
+haft gebauete Haken vermittelſt der Führung noch
 eine erträgliche Arbeit liefert; da dies aber mit un-
 ausgeſeßter Anſtrengung für den Häker verbunden
 iſt, ſo ſucht dieſer ſich derſelben durch fortgeſeßte
@@ -827,7 +820,6 @@ beträgt dies die Tagesarbeit von 30 Mann und
 N. Anual, 21, Jahrg. 2te Hälfte, 40
 
 --- Page 24 ---
-610
 
 Der Hakenpflug iſt dagegen weit wenkger in. der
 Gewalt des Häkers, unrichtig geſtellt geht er gar
@@ -869,7 +861,7 @@ nur einmal im Jahre, nämlich im Früßjahre, ver:
 platet, und da durch den Gebrauch eine ſtete Ab-
 nubung des Eiſens ſtattfindet, ſo wurden die Hak-
 eiſen im Laufe des Sommers immer ſ{maler, ſo daß
-im Herbſt in der Saat- und Dreeſchfahre nur no<
+im Herbſt in der Saat- und Dreeſchfahre nur noch
 Fahren von 103 Zoll Breite genommen werden konn-
 ten, wenn feine Balken ſtehen bleiben ſollten. Die
 Eiſen des Hakenpflugs werden dagegen zweimal,
@@ -891,12 +883,11 @@ alſo, ob die Pferde, wenn ſie jenes Quantum Arbeit
 mit dem Hakenpflug vollführen, nicht ſtärker ange:
 
 griffen werden, als früher beim Gebrauch des Hakens.
-40*
 
 --- Page 26 ---
 612 eaamamnazo
 
-Jn dieſer Beziehung hat ſ< nun hier în den
+Jn dieſer Beziehung hat ſch nun hier în den
 beiden Sommern 1835 und 1836, nach meinen
 Beobachtungen und nach dem Zeugniſſe aller Häker,
 das Reſultat ergeben, das die Pferde, die den Som-
@@ -919,7 +910,7 @@ die hier im Frühling 1835 mit dem Kraftmeſſer ange-
 ſtellten Verſuche, daß ſowohl der Mortonſche als der
 Smallſche Pflug bei gleichem Profil der Fahre bedeu-
 tend mehr Zugkraft erforderten, als der gewöhnliche
-Pferdehaken. Dieſe Verſuche ſind jedo<h wegen Un-
+Pferdehaken. Dieſe Verſuche ſind jedoch wegen Un-
 vollkommenheit des angewandten Kraftmeſſers nicht
 entſcheidend.
 
@@ -928,7 +919,7 @@ ken kommen, Holz mit einem Keil, der die Geſtalt
 der engliſchen Pflüge hat „ ſpalten zu wollen, weil
 
 --- Page 27 ---
-ſ<htlich eine größere Kraft dazu erforderlich iſ, als
+ſchtlich eine größere Kraft dazu erforderlich iſ, als
 bei der Anwendung des Keils mit ‘ebenen Seiten-
 flächen. Sollte nun niht bei der Spaltung eines
 Erdſtreifens ein ähnlicher Unterſchied zu Gunſten des
@@ -948,7 +939,7 @@ Außer dem keilförmigen Eindringen hat der Ha:
 kenpflug noch folgende, auf Verminderung des Wider-
 ſtandes wirkende Eigenſchaften :
 
-1) Der Pflugkörper ſteht mit der'Erde nur dur<
+1) Der Pflugkörper ſteht mit der'Erde nur durch
 zwei ſ{male, $ Zoll breite Streifen Eiſen in
 Verührung, wodurch die Friction in Vergleich
 mit dem Pfluge, welcher der Erde eine ‘weit
@@ -965,7 +956,7 @@ erfordert deshalb auch weniger Zugkraft.
 ſeiner Lage gegen das Höft und den Pflugkörper
 unwandelbar, während das Pflugmeſſer leicht
 verrückt und die Erde dann zwiefach , einmal
-durch das Meſſer und das andere Mal dur<
+durch das Meſſer und das andere Mal durch
 den Pflugkörper ſelbſt geſpalten wird.
 
 Bei den deutſchen Pflúgen bildet das Streichbrett
@@ -988,7 +979,7 @@ und Entſchiedenheit. Bei genauerer Beobachtung findet
 man aber, daß die mehrſten Berechnungen auf den
 Sas geſtú6t ſind, der Pflugſtreifen ſei eine unbiegſame,
 zueiner feſten Maſſe verbundene Scholle, welche, wie der
-Mauerſtein, keinen Dru> mehr auf das Streichbrett
+Mauerſtein, keinen Druck mehr auf das Streichbrett
 ausübt, ſobald der Shwerpunkt deſſelben unterſtüßt iſt.
 Dies kommt jedoch in der Wirklichkzit faſt nie vor, und
 geſtattet deöhalb keine Anwendung auf die gewöhnlichen
@@ -1030,7 +1021,6 @@ aufwande ſtattfindet‘, durch den mathematiſchen Calcul
 zu lóſen, iſ nicht eiumal verſucht worden.
 
 --- Page 30 ---
-ES
 
 ——————————————————
 
@@ -1102,7 +1092,7 @@ am Streichbrett und an der Sohle des Hakens oder
 Pflugs entſteht, iſt weſentlich abhängig von der meh-
 reren oder minderen Rauhigkeit der Theile, welche
 mit der Erde in Berührung fommen. Jſt die Erde
-völlig tro>en , ſd mag die Friction auf glatt gehobel:
+völlig trocken , ſd mag die Friction auf glatt gehobel:
 tem oder durch den Gebrauch glatt geriebenem Holze
 nicht beträchtlich größer ſein, als auf Gußeiſen.
 Sobald aber die Erde feucht iſt, ſebt ſie ſich auf dem
@@ -1137,7 +1127,7 @@ iſt, als die des Hakens, und die um 2 vergrößerte
 Erdmaſſe mîndeſtens eine um + vermehrte Zugkraft
 erfordert, ſo reichen die beiden angeführten Urſachen
 allein zur Erklärung des größern Arbeitsquantums
-des Hakenpflugs nicht aus, ſondern es müſſen no<
+des Hakenpflugs nicht aus, ſondern es müſſen noch
 andere günſtig wirkende Umſtände vorhanden ſein.
 
 Ein ſolcher günſtigér Umſtand iſt nun, daß die
@@ -1154,7 +1144,7 @@ gefunden, und er muß deshalb annehmen, daß der
 zulegt angeführte Umſtand von größerem Einfluß iſt,
 als man gewöhnlich glaubt. Auch legen die Arbeiter,
 die dies am beſten beobachten können, hierauf vielen
-Werth, und ein verſtändiger Knecht, dem ich no<
+Werth, und ein verſtändiger Knecht, dem ich noch
 kürzlich die Frage vorlegte, ob er, wenn er bloß auf
 ſeine Pferde Rückſicht nehme, lieber mit dem Haken
 er mit dem Hafkenpſluge arbeite? - ‘antwortete:
@@ -1177,7 +1167,7 @@ kurzen Joch an einer Kette ziehend vor dem Haken
 mit Vordergeſtell, ſo wie vor dem Pflug în der Furche,
 gehen können, leidet wohl keinen Zweifel,
 
-Das Vordergeſtell kann aber nicht bloß dur<
+Das Vordergeſtell kann aber nicht bloß durch
 den în das Joch gelegten Hakenbaum, ſondern auh
 durch eine ähnliche Einrichtung, wie die engliſchen
 Pflúge haben, entbehrlich gemacht werden.
@@ -1219,7 +1209,7 @@ Auflegung eines langen Baums in einen Jochhaken
 umzugeſtalten, bisher immer mißglückt. „Jedoch
 muß ich geſtehen, daß ih dieſer Anſpannungsweiſe
 wenig Aufmerkſamkeit geſchenkt habe. Das Expe-
-ximent hatte hier nur den Zwe>, den Hakenpflug
+ximent hatte hier nur den Zweck, den Hakenpflug
 auch zum Unterhaken der Kartoffeln anwendbar und
 dadurch den Haken ganz überflüſſig zu machen.
 
@@ -1271,12 +1261,12 @@ auf vielen Feldern, die bloß mit dem Haken be-
 arbeitet ſind, der Braachacker ebenfalls nicht rein
 geworden iſt.
 
-Allemal hat ſi< aber ergeben, daß die hier ge:
+Allemal hat ſich aber ergeben, daß die hier ge:
 bräuchlichen Eggen nicht im Stande ſind, die breiten
 flach niederliegenden Dreeſchſtreifen zu durchdringen
 Und zu zerſtücken, Referent läßt jeht. deshalb drei:
 eckige Eggen mit vorwärts gekrümmten ſchneidenden
-Zinken, die dur< Schraubeu befeſtigt und zu jeder
+Zinken, die durch Schraubeu befeſtigt und zu jeder
 Zeit geſchärft werden föôunen, anfertigen, und hofft,
 daß dieſe das Zerſchneiden und Zerſtücken des Raſens
 bewirken werden.
@@ -1295,7 +1285,7 @@ werben und im Landbau. -
 
 --- Page 38 ---
 624 -
-Jm mürben Acker bieten ſ< beim Eggen andere
+Jm mürben Acker bieten ſch beim Eggen andere
 Erſcheinungen dar. Die Eggen greifen in den ge-
 lockerten Boden tief ein und bringen die Kluten (Erd-
 flôße) und was ſich ſonſt noh an Wurzelwerk in der
@@ -1309,19 +1299,12 @@ il Zuſtande mit dem Hakenpfluge umgebrochen, o er:
 N hâlt der Aker ein faſt gartenmäßiges Anſehen, die
 H Arbeit des Eggens beſchränkt ſich dann auf das bloße
 | _ Ebnen und ſinkt bis zur Unbedeutenheit herab.
-|
 
-j
 
-|
 
-N
 
-H
 
-2)
 
-3
 
 Jſﬅ der Aer im trockenen Zuſtande mit dem )
 
@@ -1329,7 +1312,7 @@ Jſﬅ der Aer im trockenen Zuſtande mit dem )
 
 in-den ſehr gelockerten Boden tiefer ein, als nach der
 
-A>erung mit dem Haken, wodurch die Arbeit des
+Ackerung mit dem Haken, wodurch die Arbeit des
 Eggens für die Pferde ermüúdender wird.
 
 Bei der Vergleichung zwiſchen Haken und Haken
@@ -1342,7 +1325,6 @@ Oberfläche darbietet, auch zu einem höhern
 Grade von Thätigkeit gelangen und deshalb in
 der erſten Ernte bei gleichem Neichthum des
 
-4
 
 --- Page 39 ---
 mn 625
@@ -1392,7 +1374,7 @@ maßungen, aber keine Thatſachen angeben können,
 und ſo muß die Erörterung dieſes Gegenſtandes einer
 fünftigen Zeit anhäm geſtellt bleiben,
 
-Wenn eine an ſich tro>ene Materie hier mit
+Wenn eine an ſich trockene Materie hier mit
 ſolcher Umſtändlichkeit abgehandelt iſt, ſo kann dies
 nur in der Wichtigkeit des Gegenſtandes ſeine Ent-
 ſuldigung finden. Nun macht aber in jedem Lande
@@ -1408,7 +1390,7 @@ und 28,895 Ochſen, auf einen Tag gerechnet. Es
 ſind alſo im Durchſchnitt jährlich gebraucht 904,3
 Haken auf einen Tag.
 
-Nach der în den me>lenburgiſchen Annalen (16ter
+Nach der în den mecklenburgiſchen Annalen (16ter
 Jahrgang S. 667) mitgetheilten Berechnung betra-
 gen beim Haken die Koſten eines Geſpanns von vier
 Pferden, inc). des Knechts :
@@ -1447,7 +1429,6 @@ von 15 Zoll breit nimmt , kaun der Hakeupflug natür-
 lich keine größere Fláche als der Haken umbrechen,
 ſondern nur, beſſere Arbeit liefern.
 
-41.
 
 --- Page 42 ---
 628 unc
@@ -1460,7 +1441,7 @@ beſaamungen ſucceſſive verändert iſt) betrug in jenem
 Zeitraume im Durchſchnitt 158,800 (IR. Die Koſten
 des Hakens betrugen demnach pr. Laſt Acker (von
 
-6000 me>lenb. ORuthen = 51 Magdeb. Morgen)
+6000 mecklenb. ORuthen = 51 Magdeb. Morgen)
 T4118 X = 28,F, und die durch deit
 Hakenpflug bewirkte Erſparung 4 X 28=4,# 32 8.
 
@@ -1554,7 +1535,7 @@ des Hakenpflugs zur Beſtellung der Sommerſaat
 --- Page 45 ---
 UT 631
 ſowohl die Wend- als Saatfahre nicht tief zu haken,
-indem bei einer tiefen A>erung — ſelbſt wenn keine
+indem bei einer tiefen Ackerung — ſelbſt wenn keine
 Vertiefung der Krume ſtattfindet — éin zu großer
 Theil der untern wenig Humus enthaltenden Acker:
 frume an die Oberfläche gebracht wird, und bis zur
@@ -1595,7 +1576,7 @@ von 3 Fuß 2 Zoll gegeben; dies iſt jedoch kein be: _
 gers verändert werden muß, wenn dieſem diè Füh-
 rung bequem ſein ſoll.
 
-Das Zaxflo<h im Krümmel, worin der Zapfen
+Das Zaxfloch im Krümmel, worin der Zapfen
 des Hakenbrects faßt, muß în der Höhe angebracht
 werden, daß ein Perpendikel von dem Punkt, wo
 oberwärts das Hakenbrett den Krümmel berührt, auf
@@ -1638,7 +1619,7 @@ rizont trifft, ſo bildet ſie mit demſelben einen Winkel
 von 180° — (76° 4- 67°) = 37°, alſo grade denſel-
 ben Winkel, den Streichbrett und Höft mit einander
 machen, Vei dieſem Neigungswinkel habeu die Seiten
-des rechtwinklichten Dreie>s, welches entſteht, wenn
+des rechtwinklichten Dreiecks, welches entſteht, wenn
 man vom Endpunkte der ſchiefen Ebene. ein Perpendikel
 fillt, das rationale Verhältniß, 3: 4: 5.
 
@@ -1652,7 +1633,7 @@ erſt die Gróße der Neigungswinkel aufgeſucht wurde z
 beide Neigungen des Hakenbretts — nach vorne und
 nah der linken Seite — ſich ein und derſelbe Winkel
 ergiebt, uud daß dieſer Winkel grade derjenige iſt, bei
-welchem die Seiten dès rechtwinklichten Dreie>s ein
+welchem die Seiten dès rechtwinklichten Dreiecks ein
 rationales Verhältniß gegen einauder haben,
 
 --- Page 48 ---
@@ -1661,12 +1642,12 @@ rationales Verhältniß gegen einauder haben,
 __ Jf der Zapfen des Hakenbretts in den Krümmel
 
 eingelaſſen, ſo wird das untere Ende des Streich:
-bretts dur< einen Nagel mit dem Höft verbunden;
+bretts durch einen Nagel mit dem Höft verbunden;
 dieſer Nagel muß aber ſtark und lang ſein, denn
 wenn er los läßt, bricht der Haken. Eine Schraube
 mögte hier noch zweckmäßiger ſein.
 
-Das gußeiſerne Streichbrett wird dann durh<
+Das gußeiſerne Streichbrett wird dann durhch
 4 Schrauben an das Hakenbrett feſtgeſchroben.
 
 Die Form und die Dintenſionen des Streichbretts,
@@ -1694,13 +1675,13 @@ und 6 Zoll breit ausgeſchnitten wird.
 
 Das Haëeiſen , mit dem Kopf deſſelben 142 Zoll
 hoch, ragt, wenn es auf die 10 Zoll lange Z
-geſte>t wird, 42 Zoll über das Hakenbrett
+geſteckt wird, 42 Zoll über das Hakenbrett
 Lâge es nun gleich Aufangs platt an daſſelbe, 0
 
 *) Es iſ merkwürdig, wie ſenſible das Inſtrument für
 jede Aenderung der Breite des Streichbretts iſt, Das
 zuerſt gegoſſene breitere Streichbrett warf die Erde zu
-weit wag und erſchwerte den Zug, ein zweites ſ<mä-
+weit wag und erſchwerte den Zug, ein zweites ſchmä-
 leres ließ die Erde zu frúh fallen und gab keine offene
 Furche, und erſt das nach einem vierten Modell gegoſz
 ſene *Streichbrett erfüllte die gemachten Forderungen,
@@ -1801,7 +1782,7 @@ für das Hakfeiſen, 167 T u 458 .. 1f24-6
 für 1 Baumſticken .
 - 7 Nagel durch das Hafenbrett .
 (Eine Schraube fatt des Nagels wäre
-haltbarèr und deshalb-zwe>mäßiger.)
+haltbarèr und deshalb-zweckmäßiger.)
 2) Für Holz:
 der Hakenkrümmel PEAS
 - Hafenbaum ..
@@ -1841,7 +1822,6 @@ Latus S123 6;
 nona
 ECTS
 
-[I
 va 25
 
 --- Page 52 ---
@@ -1942,7 +1922,7 @@ dies einen jährlichen Verluſt von beinahe 10 FF.
 640 - mE
 
 Jti Nordamerika werden die Pflüge tiach den beſten
-Muſtern fabrikmäßig im Großen verfertigt, wodur<
+Muſtern fabrikmäßig im Großen verfertigt, wodurch
 neben der Güte und Gleichmäßigkeit des Fabrifats zu:
 gleich auch der g1öglichſt niedrigſte Preis bewirkt wird.
 
@@ -1984,4 +1964,4 @@ Nicol at? ſhe Buchhandlung und durch den Secretair des
 Vereins, Kriegsrath Hey nich, in Berlin.
 EEE EEA EEE TERE,
 
-Ro ſto > 1837, gedru>t bei Adler’s Erben.
+Ro ſto > 1837, gedruckt bei Adler’s Erben.

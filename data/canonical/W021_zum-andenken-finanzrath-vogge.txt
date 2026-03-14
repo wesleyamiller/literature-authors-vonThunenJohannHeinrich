@@ -10,6 +10,7 @@ source: "M026 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band18_M026_pp123-141_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 18/1. 19pp extracted (31KB)."
 assembled: 2026-03-13T23:11:45Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
@@ -65,7 +66,7 @@ fo regelmáßig Statt, als die Auffuhr des animali:
 ſchen Düngers..
 
 Im vorigen Sommer hatte ich das Vergnügen,
-die mir ſehr ſc<ägbare perſnliche Bekanntſchaft des
+die mir ſehr ſcchägbare perſnliche Bekanntſchaft des
 Herrn Oberforſtmeiſters, Baron von Stenglin,
 ¿u machen, und von ihm nach Gelbenſande einge:
 laden, fuhr ich, im Anfange Auguſt's, mit dem Hèrrn
@@ -118,7 +119,7 @@ auf ſich dièſe Zahlen beziehen. e
 --- Page 4 ---
 126 n
 
-beſten Boden ſo ſ{<dnen Hafer geſehen zu haben.
+beſten Boden ſo ſ{chdnen Hafer geſehen zu haben.
 Anch der daran ſtoßende Rocken war ſehr ſtark im
 Halm, hatte aber, wie in dieſem Jahre faſt allge:
 mein, feine vollgeladenen Aehren. Bei'm Weiter:
@@ -264,7 +265,7 @@ beliebige Frucht zu tragen, gab uns von ſeiner natür:
 lichen Beſchaffenheit keine günſtige Meinung. Der
 eingeſäete Hafer war nämlich vergangen, und Statt
 feiner waren die aus der vorigjährigen Buchweizen:
-rute zurü> gebliebenen Körner aufgelaufen.
+rute zurück gebliebenen Körner aufgelaufen.
 
 Am aidern Morgen beſahen wir zuerſt die Beat-
 fon’ ſchen Acferwerkzeuge, über deren Werth und
@@ -315,7 +316,6 @@ Gefäll's und zu großer Näſſe, zum Getreidebau un:
 tauglich hält ; welche aber durch dieſe Culturmethode
 
 in fruchtbares Ackerland umgewandelt werdeu tdun-
-o.
 
 --- Page 10 ---
 132 ——
@@ -382,7 +382,7 @@ märgeltem Acker findet, — obgleich hier früher beide
 Theile mit rohem Märgel befahren ſind. Dér Hafer
 nach Dung war nämlich der Reife ſchon nahe und
 zeigte überall eine gelbliche Farbe , während der nah
-gebranntem Märgel no< viele grüne Halme und
+gebranntem Märgel noch viele grüne Halme und
 Rispen hatte. Der Hafer war im Ganzen gut zu
 nennen / obgleich lange nicht ſo ſtarf als der, den wie
 zu Grefenhorſt geſehen hatten.
@@ -486,7 +486,7 @@ iſt ſchon allein hinreichend, Dieſe können wohl
 Yauch mit Beihülfe vielen und kräftigen Miſtes er:
 ‘elt werden; allein die Erfahrung hat es immer
 ‘bewährt, daß mit Anwendung kalkiger Subſtan-
-‘zen zur Erreichung des nämlichen Zwe>s eine uw
+‘zen zur Erreichung des nämlichen Zwecks eine uw
 ‘gleich geringere Quantität animaliſcher und vege-
 abiliſcher Subſtanzen erfordertich wurde,“
 S'274 fügtaber Sinclair die warnende Regel hinzu:
@@ -509,7 +509,7 @@ Märgels im Großen nicht zur Erſchöpfung des Bo:
 dens führen, ſondern nur wohlthätig wirken. Jedoch
 finder ſich in der Nähe des Hofes ein höher gelegenes
 ſehr ſandiges, mit wenig humöſen Theilen verſehenes
-Ackerſtü>, — und wenn der Herr Oberforſtmeiſter
+Ackerſtück, — und wenn der Herr Oberforſtmeiſter
 
 ütigſt fortfährt; ſeine Erfahrungen dem Publicunt
 miczutheilen : ſo wird dieſes Stück uns zuerſt Beleh-
@@ -546,8 +546,6 @@ gleich für die arbeitende Klaſſe neue Ernährungsquel:
 --- Page 15 ---
 i
 
-y
-:
 
 — 137
 
@@ -637,7 +635,7 @@ Trägheit, Unordnung, Trunkenheit u, , w. der Un-
 “) Dieſe Notizen, o wie die, über dieGelbenſänder Wirth-
 ſchaft mitgetheilten, — auf einer flüchtigen Reiſe ge-
 ſammelt und aus der Erinnerung niedergeſcrieben,
-Eónnen natürlich weder auf Genauigkeit no< auf Voll
+Eónnen natürlich weder auf Genauigkeit noch auf Voll
 ſtändigkeit Anſpruch machen. Sie erfüllen ader ihren
 
 Zwe, wenn ſie den Herrn Oberforſtmeiſter, Baron
@@ -672,7 +670,7 @@ der Verſorgungsanſtalt ſei, muß ich bezweifeln; denn
 wenn ich auch die wohlthätigen Wirkungen dieſer An-
 falt auf die Moralität der Menſchen in vollem Maße
 anerfenne: ſo fann ich doch nicht glauben , daß dieſe
-Anſtalt \<on bei ihrem Entſtehen eine #0
+Anſtalt \chon bei ihrem Entſtehen eine #0
 {wer zu erzielende Frucht hervorbringen könne.
 Meinen disherigen Beobachtungen über den Charäcter
 der Arbeiter zu Folge, muß ich zur Erklärung jener

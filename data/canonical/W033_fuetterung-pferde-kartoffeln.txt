@@ -10,10 +10,10 @@ source: "M038 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band28_M038_pp160-161_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 28/1. 2pp extracted (2KB)."
 assembled: 2026-03-13T23:11:45Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
-160
 
 XI
 Fortſebung des Verſuchs über die Ver-
@@ -36,14 +36,13 @@ Erndte des Jahres 1843.
 vom Noggen nac vorangegangenen Erbſen.
 Stroh Korn Summe
 pſd, pſd. Pſd.
-Utes Feld 10zöllige A>erkrume W 11 31
+Utes Feld 10zöllige Ackerkrume W 11 31
 Aes Feld 8 y 0) 1881 Wt
 Ztes Feld 6 a0 WS0 00
 tes Feld Azöllige Krume d, i,
 der natürliche Acer 16 B
 
 --- Page 2 ---
-161
 
 Stroh Korn Summe
 Pſd. -Pfo. Pſd.

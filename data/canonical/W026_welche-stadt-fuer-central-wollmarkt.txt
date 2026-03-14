@@ -10,6 +10,7 @@ source: "M031 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band19_M031_pp739-756_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 19/2. 18pp extracted (21KB)."
 assembled: 2026-03-13T23:11:45Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
@@ -114,12 +115,6 @@ für 365 Tage, | Feinheitsgrad
 der Woll
 
 Grad Köhlet.
-27
-275
-2
-2
-2
-2
 
 --- Page 4 ---
 Herr Po gge-Roggow hatte eingewilligt , daß
@@ -147,7 +142,7 @@ Von Herrn Dörſchlag wurde der Bock geſtellt,
 aber nac längerer Verhandlu:g zwiſchen beiden
 Herren Concurrenten die Wette dahin verändert, daß
 die Wolle auf dem Körper möglichſt rein gewaſchen,
-und, nachdem ſie wieder getroc>net , geſchoren und
+und, nachdem ſie wieder getroccknet , geſchoren und
 gewogen werden ſolle.
 
 Von der Committe wurden, unter Zuſtimmung
@@ -156,7 +151,6 @@ Roggow und Lan ge zu Jürgenshof mit der Wäſche,
 Trockuung und Wägung des Vließes beauftragt,
 
 --- Page 5 ---
-743
 
 und unterzogen ſich dieſelben der Ausrichtung dieſes
 Auftrags.
@@ -200,7 +194,7 @@ er unter 5 ZF Wolle habe.
 
 Nachdem der Bock in ſcharfer Seifenlauge ſehr
 rein gewaſchen, und beim Trocknen vor dem Ein:
-ſ<muhen ſorgfältig bewahrt war, wurde die Schur
+ſchmuhen ſorgfältig bewahrt war, wurde die Schur
 am 24ſten Maï, wo die Wolle vóllig troen war,
 vorgenominen.
 
@@ -235,7 +229,7 @@ zahlt alſo Neugeld.
 
 Wette A? 3.
 um 2 Louisd'or Einſaß, 2 Reugeld; auf denjenigen
-Merino ¿Bo>, deſſen einjähriges Vieß pr. 100 F
+Merino ¿Bock, deſſen einjähriges Vieß pr. 100 F
 Körpergewicht den höchſten Geldwerth hat,
 
 Die Vließe werden fabrikmäßig gewaſchen und
@@ -257,11 +251,11 @@ Staudinger: Wüſienfelde
 
 Held - Kl. Noge +
 
-Bo>kfiſch: Tenſe . .
+Bockkfiſch: Tenſe . .
 
 Domainenrath Denker
 
-Mirendorf… «= «L>
+Mirendorf… «= «Lck
 
 Pogge! Noggow « « = 1s
 Herr Flügge-G. Helle hat keinen Bock geſtellt und.
@@ -343,7 +337,6 @@ des Bocks D zu 65 # pr, Centner geſchähe,
 
 A AL CLE!
 
-4.
 
 --- Page 10 ---
 Folgende Wetten zur Entſcheidung auf der nächſt
@@ -411,7 +404,7 @@ tino: Bo, deſſen einjähriges Vließ, im Verhältniß
 zu ſeiner Körpergröße den höchſten Geldwerth hat.
 
 --- Page 12 ---
-Herr Amtmann Erbre<t-Bülow „ . 2 Bde,
+Herr Amtmann Erbrecht-Bülow „ . 2 Bde,
 + Berkholz- Vogelſang . . . . 1 Vock,
 » Pogge: Zierſtorf . . „1e
 
@@ -461,7 +454,7 @@ Verlegenheit geſeßt. Ein Aufſchub der Wäſche bis
 zum nächſten Herbſt war nicht thunlich, weil es dann
 an Sachketmern zur Abſchäbung der Vließe fehle
 würde — und ſo mußte das gütige Anerbieten des
-Herrn Engelbrecht: „die Vließe von Noſto> ab-
+Herrn Engelbrecht: „die Vließe von Noſtock ab-
 holen und în Nidfenow în möglichſter Eile waſchen
 zu laſſen“ mit Dank angenommen werden, obgleich
 vorauszuſehen war, daß in ſo furzer Zeit die Wäſche
@@ -480,13 +473,13 @@ blieb fein anderes Mittel, al3 die Herren Taxatorett
 zu erfuchen: bei der Taxe nicht bloß die Güte der
 
 --- Page 14 ---
-Wolle an ſ<, ſordern auch die Wäſche und den
+Wolle an ſch, ſordern auch die Wäſche und den
 Grad der Trockenheit zu berückſichtigen, und ſomit
 den Werth der Vließe in dem gegebénen Zu-
 ſtande zu beſtimmen.
 
 Wenn nun auch die Herren Wellhändler die höchſt
-ſ<wierige Aufgabe, jedes Vließ in einer dre
+ſchwierige Aufgabe, jedes Vließ in einer dre
 Beziehung richtig zu ſchäßen, wirklich gelöſt hätten,
 und fomit die Wette Nr. $ richtig entſchieden wäre:
 fo fann doh aus der Taxe der Werth der Wolle an
@@ -552,7 +545,7 @@ welchen einzelne Böcke 8 bis 10 F geſchoren haben,
 nicht in Zweifel zichen ; wenn nun aber die Wolle in
 der Fabrifwäſche 60 pCt. verliert, fo bleiben von
 10 F Vließgewicht nur 4 F reine Wolle übrig.
-Scheert dagegen ein anderer Bo> bei guter Wäſche
+Scheert dagegen ein anderer Bock bei guter Wäſche
 6 Z, und verliert diefe Wolle in der Fabrifwäſche
 20 pCt. am Gewicht, ſo har der erſtere Bock das
 doppelte Schurgewicht g"liefert , und dennoch geben

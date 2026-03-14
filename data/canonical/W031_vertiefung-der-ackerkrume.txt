@@ -10,18 +10,18 @@ source: "M036 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band25_M036a_pp202-212_tesseract-fraktur.txt; neue-annalen_band25_M036b_pp588-592_tesseract-fraktur.txt; neue-annalen_band26_M036c_pp665-668_tesseract-fraktur.txt"
 notes: "Multi-part across Bands 25+26. 20pp extracted in 3 parts (22KB total)."
 assembled: 2026-03-13T23:11:45Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
-202
 
-no zu Modellen dienen könnten, berü>-
+no zu Modellen dienen könnten, berück-
 fichtige ih gar nicht, denn ohne feſten Glauben an
 die Vortrefflichfeit eines Werkzeugs wird nicht leicht
 Jemand nach demſelben ſich ein anderes machen
 laffen, und wenn es in einzelnen Fällen ja geſchieht,
 wird dies doh nie von Einfluß auf das Gauze
-ſeinz wenn aber die Zwe>mäßigfeit eines Werk-
+ſeinz wenn aber die Zweckmäßigfeit eines Werk-
 geugs in jeglichem Betrachte erſt außer Zweifel ge
 felt iſt, ſo daß ſich um deswillen zahlreiche Lieb-
 haber dazu finden, kann es ja keine nüblichere Ver-
@@ -39,14 +39,13 @@ IX.
 Vertiefung der AÆerkrume.
 
 Herr Dr. von Thünen auf Tellow machte
-der Hauptverſammlung des me>lenb. - patriot. Ver-
+der Hauptverſammlung des mecklenb. - patriot. Ver-
 eins vom I. 1837 nachſtehende Propoſitio
->Die Entſcheidung der wichtigen Frage: ob es
+ckDie Entſcheidung der wichtigen Frage: ob es
 
 --- Page 2 ---
-203
 
-vortheilhaft ſei, die A>erkrume dur Heraufbrin-
+vortheilhaft ſei, die Ackerkrume dur Heraufbrin-
 gung eines Theils des rohen Untergrundes zu vere
 tiefen: erfordert die’ Anſtellung zweier, etwa auf
 nachſtehende Weiſe auszuführender Verſuche;
@@ -56,9 +55,9 @@ wird eine Stelle ausgeſucht, wo der Untergrund ſo
 hart und unfcuchtbar iſt, daß keine Pflanzenwurzeln
 in denſelben eingedrungen ſindz dann wird die
 Aerkrume von dieſer Stelle weggeſchafft, der ent-
-brößte Untergrund in vier Viere>e, jedes von etwa
+brößte Untergrund in vier Vierecke, jedes von etwa
 2 (Ruthen mit Zwiſchenräumen von einem Fuß
-eingetheilt, das erſte Viere> genau 10 Zoll, das
+eingetheilt, das erſte Viereck genau 10 Zoll, das
 weite 8 Zoll, das dritte 6 Zoll, das vierte 4 Zoll
 tief ausgegraben und die Erde weggekarrt. Hier-
 auf werden die entſtandenen Vertiefungen mit der
@@ -66,18 +65,17 @@ zuerſt bei Seite gebrachten Ackererde, — und wenn
 dieſe nicht ausreicht, mit Erde von gleicher Beſchaf-
 fenheit von dem umgebenden Aer, — genau wie-
 der ausgefüllt und“ endlich werden zur gehörigen
-Zeir die Viere>e ungedüngt mit der Frucht, welche
+Zeir die Vierecke ungedüngt mit der Frucht, welche
 der umgebende Acker trägt, beſäet.
 
 Zweiter Verſuch. Auf einer, in Lage und
 Böden hnlichen Stelle, vielleicht unmittelbar an
 die erſte ſtoſiend, wird die Afererde ebenfalls weg-
 gebracht und auf dem rohen Untergrunde abermals
-4 Quadrate oder Viere>e abgezeichnetz dann das
-erſte Viere> mit einer Quantität Dung, die gleich
+4 Quadrate oder Vierecke abgezeichnetz dann das
+erſte Viereck mit einer Quantität Dung, die gleich
 
 --- Page 3 ---
-204
 
 30 Fudern auf 100 {"Nuthen iſ, das zweite mit
 2 Fudern und das dritte mit 10 Fudern Dung
@@ -85,7 +83,7 @@ per 100 ["Muthen befahren, das vierte aber nicht
 gedüngt und. dann nah wiederholtem Umgraben;
 um der Erde die gehörige Lockerheit zu geben, gleich-
 zeitig mit dem umgebenden Aer beſet. In der
-Erndte würde dann der Ertrag jedes Viere>3 ge-
+Erndte würde dann der Ertrag jedes Viereck3 ge-
 nau gêwogen und aufgeſchriebenz über die Zeit
 der Saat, der Erndte und der übrigen dabei vor
 kommenden Arbeiten wäre ein Diarium zu führen.
@@ -107,10 +105,9 @@ gien und England hervorgeht, iſt es ſehr wahrſchein-
 lich, daß wenn ein Land bei einer fünfzölligen
 Aerkrume Subfiſtenzmittel für eine Bevölkerung
 von 4000 Menſchen auf der Quadratmeile liefert,
-dieſes Land einer zehnzölligen ‘A>erkrume, unter
+dieſes Land einer zehnzölligen ‘Ackerkrume, unter
 
 --- Page 4 ---
-25
 
 ſonſt gleichen Umſtänden, mindeſtens 6000 Menſchen
 auf der Quadratmeile ernähren kann. Der künftige
@@ -146,7 +143,6 @@ und nachdem die Verſuche ausgeführt waren von
 N. Annal, 25. Jahrg, Ute Hälfte. 14
 
 --- Page 5 ---
-206
 
 ihm ſelbſt zu Tellow, vom Hrn. Grafen v. Sch lief-
 
@@ -161,7 +157,7 @@ hagen, ſtattete er der Haupt- Verſammlung: d. I.
 richt ab.
 
 Zuſammenſtellung der Reſultate, welche der
-Verſuch über Vertiefung der A>erkrume
+Verſuch über Vertiefung der Ackerkrume
 im Sommer 1839 gegeben hat.
 
 1. Mandelshagen| [Die Abtheilungen von 2
@@ -172,7 +168,6 @@ reiner Brache: b. Kornſd,Strohſdas Kaff
 Abtheilung. di) 24 Ve.) dis Vat) 21
 
 Gar:
-ben
 il.
 
 Ar. 1. 10 zöll. Krum|
@@ -200,7 +195,6 @@ rend die 10zóllige Krume fich wieder günſtiger zeigte,
 gen mit humoſer Erde, läßt kaum eine andere Er-
 
 --- Page 6 ---
-207
 
 flärung zu, als daß hinter dem ſhüßenden Zaun
 der Schnee fich aufgehäuft und die Weizenſaat aller
@@ -217,7 +211,6 @@ Das Verſuchsfeld trug Noggen
 nah reiner Brache
 
 Korn
-und
 [Strb.|
 
 Davon betr.
@@ -246,14 +239,12 @@ Pfd.
 Herr Graf v. Schlieffen auf Schwandt be-
 merkt in ſeinem Berichte Folgendes:
 
->Der Winter 18%8/,, war zwar nicht ſehr
+ckDer Winter 18%8/,, war zwar nicht ſehr
 ſtrenge, aber ein Schneetreiben im Márz hatte den
 Nachtheil, daß in den beiden ſüdlichen Feldern Nr, 1
 
-14“
 
 --- Page 7 ---
-208
 
 und Nr. 5 unter dem Schuh der nahen Ei
 nungen Schneeanhäufungen entſtanden, die, viel
@@ -276,7 +267,6 @@ beſtanden dem im Jahr 1838 orn | Davon ug
 
 Kartoffeln vorangegangen waren Sl pas : Aaſi
 
-A
 
 3. Liepen.
 
@@ -294,8 +284,6 @@ her zu Kartoffeln in Nr.
 G u. 7 gedüngt, dieſe gaben]
 « ‘5: zu Kartoffeln mit 60 K.F.|
 
-|
-N
 
 Kuhmiſt gedüngt .. . . [N
 . zu Kartoffeln mit 40 KF.
@@ -304,19 +292,16 @@ do. mit 0 F191,
 do.  ungedüngt * 9%) 24
 
 5 [13
-6 4
 
 ETES
 
 --- Page 8 ---
-H
 
-209
 
 Herr Berlin bemerkt in ſeinem Bericht Nah-
 ſtehendes:
 
->Der im Winter gefallene Schnee ſ{<molz in
+ckDer im Winter gefallene Schnee ſ{chmolz in
 der Mittte der Verſuchöſtüke bald hinweg, während
 er ſich in der Nähe des Zaunes ſehr lange hielt,
 wodurch die Roggenpflanzen faulten und der Stand
@@ -352,7 +337,6 @@ Das Verſuchsfeld hatte glücklicherweiſe eine ge-
 fung von aufgehäuftem Schnee wahrgenommen.
 
 --- Page 9 ---
-210
 
 Vielmehr zeigte ſich, vom Beginn der Vegetation
 an bis zur Erndte, in der Ueppigkeit des Pflanzen-
@@ -384,7 +368,6 @@ Auf der Herbſtverſammlung des Teterower Di
 ſtricts, am 10. November 1840, hatte Herr Dr.
 
 --- Page 10 ---
-211
 
 v. Thünen noch die Güte, den nachſtehenden Be-
 richt über den, auch in dieſem Jahre fortgeſebten
@@ -392,7 +375,6 @@ Verſuch mitzutheilen:
 
 Abtheilung:
 1. Ertrag der 4zölligen Krume an Kartoffeln
-4
 
 ‘5 rohe Erde, 6/3oll fief gegraben|
 
@@ -420,7 +402,6 @@ mit Vermehrung des zugeführten Humus fortzu-
 Humus die tiefere Krume verarmen würde.
 
 --- Page 11 ---
-212
 
 Hiebei wurde die Bemerkung gemacht, daß das
 Gedeihen der Kartoffeln mit geringerer Maſſe von
@@ -449,7 +430,7 @@ vember 1840 zu Malchin.
 
 Vom Herrn Pogge auf Zierſtorſf.
 
-Dieſe Auction mögte vielleicht zwe>mäßiger zu
+Dieſe Auction mögte vielleicht zweckmäßiger zu
 einer andern Zeit und mehr mitten im Lande, etwa
 
 ========================================================================
@@ -458,7 +439,7 @@ einer andern Zeit und mehr mitten im Lande, etwa
 XLII.
 
 Reſultate der ferneren Verſuche über -
-Vertiefung der A>erkrume im Som-
+Vertiefung der Ackerkrume im Som-
 mer 1840.
 
 Mitgetheilt vom Herrn Dr. v. Thänen auf Tellow.
@@ -469,7 +450,7 @@ rus vem Gute | N Abtheilungen von
 1) Auf dem Gute | 21/, (N. groß ga
 ) Auf dem @ Bla (IN. groß gaben
 
-Das Verſuchóſtü> trug | # | 2
+Das Verſuchóſtück trug | # | 2
 Eßfartoffeln nah vorauf- | È | 22
 gegangenem Roggen, | # | 28
 
@@ -511,7 +492,7 @@ Aterkrume.
 
 Liepen, 2/4 [IR. groß gaben
 
-Das Verſuchöſtü> trug Dada betrag
+Das Verſuchöſtück trug Dada betrag
 Hafer nach voraufgegan- | Hafer- ſdas Stroh.
 genem Roggen, “| garben. [bas a
 
@@ -543,7 +524,6 @@ im Jahre 1838 auf den beiden zuleßt genannten
 N, Unnal 25. Jahrg, Ue Hälſte 39
 
 --- Page 3 ---
-590
 Gütern gebraaht wurde, während es auf dem Gute
 Liepen ſcon mit Kartoffeln beſtellt war.
 3) Auf dem Gute Tellow.  |Cartoſſcl-
@@ -576,7 +556,6 @@ in man auf jedem Gut und bei jeder Frucht
 °) 106 Hamburger K.F. ſind ungefähr 80 rheil, K.F.
 
 --- Page 4 ---
-591
 
 den Ertrag der Abtheilung mit 4zölliger Krume
 zur Norm nimmt, und dieſen Ertrag = 400 ſebt,
@@ -605,21 +584,19 @@ Y it 20 KB, dio +170 G0] 75
 Auffallend groß zeigt ſih hier auf dem Gute
 Schwandt der Ertrag der Abtheilungen mit roher
 Erde. Vielleicht iſt hier der ſandige Untergrund.
-als Verſuchöſtü> nicht ganz von Humus entblößt.
+als Verſuchöſtück nicht ganz von Humus entblößt.
 Vielleicht haber ſich aber auch, wie Herr Graf v.
 Sgh liefen vermuthet, die im Dung enthaltenen
 im Waſſer löslichen Salze, die dem Boden keine
 Färbung geben, in den durdhlaſſenden Untergrund
-herabgeſenft, und komwen nun na< Wegräumung
+herabgeſenft, und komwen nun nach Wegräumung
 der obern Erde den Pflanzen zu Nugen.
 
 MWáre Lehteres der Fall, ſo könnte man mit
 Wahrſcheinlichkeit daraus ſchließen, daß man den
 
-39*
 
 --- Page 5 ---
-692
 
 Aer mit ſandigem, durchlaſſenden Untergrund ver-
 tiefen fönne, ‘ohne “ſelbſt in den erſten -Saaten
@@ -627,7 +604,7 @@ einen Nachtheil davon zu verſpüren.
 
 Jedenfalls zeigt ſich hier das Bedürfniß, Acer-
 frume und Untergrund der verſchiedenen Verſuchs
-felder <emiſ< unterſuchen zu laſſen.
+felder chemiſch unterſuchen zu laſſen.
 
 XLIV.
 
@@ -661,7 +638,7 @@ der Ackerkrume,
 vom Herrn Dr. von Thünen auf Tellow.
 
 A. Im Jahr 1841.
-1. Auf dem Gute S{<hwandt.
+1. Auf dem Gute S{chhwandt.
 
 Das Verſuchsfeld trug Hafer nach“ Kartoffeln.
 Der Ecträg war
@@ -679,14 +656,13 @@ Mr. Sungedüngk 13
 Jede Abtheilung = 24 ["M.
 
 --- Page 2 ---
-666
 2. Auf dem Gute Tellow.
 
 Das Verſuchsfeld trug Hafer nach Kartoffeln.
 
 Der Ettrag war Aua Laia
 
-von Nr. 1 10zöllige A>erkrume 59
+von Nr. 1 10zöllige Ackerkrume 59
 
 > Nr 28> » 50% 142
 
@@ -721,17 +697,13 @@ humoſe/Aeererde der Abtheilungen Nr. 1—4
 zu werden. Der diesjährige-Eitrag kanides-
 
 --- Page 3 ---
-is
-gs
 
-ig
 
 ETT TEE TZ
 
-667
 
 halb für! das Verhältniß" der Ertragöfähigkeit
-zwiſchèn A>ererde und rohem Lehm nicht zur
+zwiſchèn Ackererde und rohem Lehm nicht zur
 Norm dienen.
 
 2. Auf der-Süd- und Weſtſeite des Verſuchsfelbes
@@ -754,13 +726,13 @@ Weiſe und in gleichem Grade genoſſen haben.
 B, Reſultat des Verſuchs auf dem Gute
 
 Tellow im Sommer 1842.
-Das Verſuchsſtä> trug rothen Klee, der erſte
+Das Verſuchsſtäck trug rothen Klee, der erſte
 
-Schnitt hat an grünen aber völlig abgetroc>neten
+Schnitt hat an grünen aber völlig abgetrocckneten
 
 Klee geliefert: Ertrag f, Verhältniß
 
-Nr. 1 10zöllige A>erkrume 56% 140
+Nr. 1 10zöllige Ackerkrume 56% 140
 Nr. 2 8» >» 54h 134
 Nr. 3 6 >» > 46% 115,5
 Nr. 4 41> » 40y, 100
@@ -768,7 +740,6 @@ Nr. 4 41> » 40y, 100
 N. Annal, 26, Jahrg, 2, Hälfte. 4“
 
 --- Page 4 ---
-668
 
 Nr. 5—S8 rohe Erde im Herbſt 1837 gedüngt.
 Ertrag {&, Verhältniß

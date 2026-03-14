@@ -10,6 +10,7 @@ source: "M025 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band18_M025_pp001-004_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 18/1. 4pp extracted (5KB)."
 assembled: 2026-03-13T23:11:45Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
@@ -39,11 +40,10 @@ nicht Einer, der nicht unmittel: oder mittelbar durch
 Ihn im Wiſſen gefördert und durch Jhn zu höherer
 Geiſtesthätigfeit angeregt worden wäre.
 Bewundernswürdig groß war die Productivität
-ſeines Geiſtes, die ſ<affende Kraft ſeines Ver:
+ſeines Geiſtes, die ſchaffende Kraft ſeines Ver:
 N, Annal, 18, Jahrg. 1ſte Hilfte. 1
 
 --- Page 2 ---
-2 —
 
 ſtandes, — eine Kraft, die vielleicht um ſo ſeltenér
 wird, je mehr unſere jegige Erziehungs und Unter:
@@ -75,7 +75,6 @@ tretens. Indem nun aber die Geſchichte, — 6:
 züglich die ältere, == hierüber {weigt, und Ha!
 
 --- Page 3 ---
-— 3
 
 lungen erzählt, wovon die Urſachen verborgen bleiben,
 wird ſie oft räthſelhaft, und die ernſte Belehrung, die
@@ -108,10 +107,8 @@ Für Ihn, für den verehrten Hingeſchiedenen
 ſelbſt, bedarf- es alſo feines irdiſchen Denkmals.
 Aber die Zeitgenoſſen eines verdienten Mannes ehren
 
-1%
 
 --- Page 4 ---
-4 —
 
 ſic ſelbſt, wenn ſie ſein Andenken ehreti, und was
 vor allem wichtig ift, in ‘der äußern Anerkennung

@@ -10,6 +10,7 @@ source: "M011 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band08_M011_pp166-221_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 8. 56pp extracted (71KB)."
 assembled: 2026-03-13T23:11:44Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
@@ -22,7 +23,7 @@ Vorwort.
 Da dieſer erſte Abſchnitt einer Schrift — die ich
 vielleicht erſt nach eiñigen Jahren vollenden kana —
 gewiſſerniaßen ein für ſich abgeſchloſſenes Ganze
-ausmacht: ſo erlaube i< es mir, den Leſern der
+ausmacht: ſo erlaube ich es mir, den Leſern der
 Annalen dieſes Bruchſück zur Prüfang und zur
 Beurtheilung vorzulegen.
 
@@ -48,13 +49,11 @@ ihn ſeines náhrenden Stoffes zu berauben,
 uder
 eine
 r zu
-er,
 iner
 
 ent;
 iner
 ente
-das
 d. hy
 
 _— R
@@ -116,7 +115,7 @@ ten daß das Verhältniß der feſten Theile zum
 Waſſer in dem Humus eben fo ſeyn ſollte, als im
 friſch aufgefahrnen Dung. Dieſer Boden enthält
 in 100 Quadrat Nuthen x0 Fuder Dung *), heißt:
-die Wirfung des im Boden ſie>enden
+die Wirfung des im Boden ſieckenden
 Humus, iſt der Wirkunz vou 10 Fuder
 Dung gleich.
 
@@ -125,17 +124,12 @@ heu Qugdratratt A‘ d, Verf.
 
 --- Page 4 ---
 uder
-wer
-Ope
-und
 ſeyn,
 fein
 6 der
-das
 fort;
  vott
 war-
-zum
 s im
 châle
 
@@ -207,25 +201,14 @@ Bei der immerwährenden Mitwirkung einer ſo
 unbeſtändigen Kraft, könnte man leicht verſucht
 werden zu glauben es ſey eine vergebliche Arbeit,
 
-di
-be
 
-lie
-ei
 
-E
 
 --- Page 6 ---
 jung
 chen
-mit
 eine
-t.
 liner
-von
-des
-Fu
-ung
 
 die Geſeße, wodurch ‘die Größe der Kornerndten
 bedingt wird, aufſuchen zu wollen.
@@ -257,11 +240,9 @@ gleichbleibenden Kraft, wodurch allein eine wiſſen-
 ſchafcliche Behaudlung dér Landwirthſchaft möge
 
 lih wird;
-Ls.
 Die in ihrer ganzen Sceuftur ib hnlichen
 
 --- Page 7 ---
-R e
 
 Extreidearten , Weizen, Rocken, Gerſte und Hafer,
 werden, der Analogie uad der Beobachtungen nache
@@ -297,7 +278,6 @@ im Boden befindlichen Dungs zu bemächtigen, dei
 
 --- Page 8 ---
 ache
-in
 nder,
 igfeit
 reide:
@@ -307,7 +287,6 @@ enau
 ¡und
 n ſie
 
-PE
 
 den verſchiedenen Getreidearten gegen einander
 ſteht ergiebt ſich :
@@ -352,16 +331,12 @@ Fâr einen Boden, der durch die Produktion
 einer Rockenerndre { oder 20 pCt. ſeines Dungge-
 halts verliert" iſt hiernach die ausſaugende Kraft
 
-13:
 des Weizens
 
-Y 9
 der Gerſie —s 18 pCt.
 
-87
 des Hafers — TZ” >< 20 = 173 pCt,
 
-CT
 
 Wenn man in einer Wirthſchaft das geerndtete
 Korn und das Stroh, woraus dieſes Korn gedre
@@ -378,7 +353,6 @@ Verſuchen, — angegeben worden. Karbe fand,
 daß auf einen Berliner Scheffel Rocken 152 Pfund
 Stroh kommen.
 
-$8.
 
 Dém Oberkommiſſair Meyer verdanken wir
 ebenfalls die erſten Angaben über die Quanticät
@@ -406,9 +380,7 @@ Pfund
 
 1 wir
 iticät
-vou
 
-SL
 
 Nach ſeinen Verſuchen und Beobachtungen
 erfolgen auê x Pfund Stroh 27 Pfand Dung;
@@ -418,7 +390,7 @@ Thaer nimmt die Gewichtsvermehrung úe
 Heu und Stroh gleich hoch an, und ¿war zu 2
 
 So mannigfaltig nun auch das Verhältniß zwi-
-ſchen Korn und Stroh dur< Boden und Wirthe
+ſchen Korn und Stroh durch Boden und Wirthe
 ſchaftsform modificirt wird, und ſo ſehr das Ver-
 hältniß zwiſchen Futter und Dung durch die Art
 des Viehes, dur die Stärke der Einſtreuung und.
@@ -495,7 +467,7 @@ fo betrágt der Erſaß.aus dem Stroh 66,74; Fuder.
 Die Ausſaugung ift 100 Fuder; alſo verliert der
 Afer, wenn ihm der'Dung aus dem Stroh zurück-
 gegeben wird, durch die Produktion von 300 Schfl,
-Nocken doch no< 33 Fuder,
+Nocken doch noch 33 Fuder,
 
 Ueber den Werth uad die Bedeutung der hier
 gebrauchten Zahlen glaube ic hier eine Erklärung
@@ -548,7 +520,7 @@ der Fruchtbarkeit durch Dreeſchliegen um ſo größer
 iſt, je größer der Gras- und Kleè-Ertrag des
 Dreeſches war, da nun für einen gegebenen Boden
 und bei’ übrigens gleichen Umſtänden, der Gras
-und Klee- Ertrag ſ< aber ſowohl als der Korn-
+und Klee- Ertrag ſch aber ſowohl als der Korn-
 Ertrag nach der im Boden befindlichen Dungkraft
 richtet, ſo dúrfen wir annehmen; daß die Er-
 höhung der Dungkrafe, welche das
@@ -556,8 +528,6 @@ höhung der Dungkrafe, welche das
 --- Page 14 ---
 Forn
 fraft
-Er-
-das
 
 + 299
 
@@ -567,7 +537,7 @@ worin der Aer beim Niederlegen zur
 Weide war.
 
 Um den Grasertrag, den ein Feld liefert, zu
-erfahren, muß man erf dur< Verſuche ausmitéeln,
+erfahren, muß man erf durch Verſuche ausmitéeln,
 wie viel Gras eine Kuh täglich verzehrt, und dann
 bemetfen wie viele Tage die Kuh auf dem Dreeſch
 Nahrung findet.
@@ -593,7 +563,6 @@ fraft des Bodens, die Größe des Ertrags doch mit
 jedem Jahr mehr abnimmt, rührt hauptſächlich von
 den beiden folgenden Urſachen her:
 
-12
 
 --- Page 15 ---
 — 180 —-
@@ -618,45 +587,29 @@ faſt ganz fonſumirt werden; aber dies iſt mehr
 eine Verwandlung des Humus als eine wirkliche
 Erſchópfung, indem die ganze Ackerkrume nun
 mit einem Gewebe von Graswurzeln durchdrun-
-gen iſt, welche, wenn ſe dur< Umbruch des
+gen iſt, welche, wenn ſe durch Umbruch des
 Akers zur Fäulniß gebracht ſind, wiederum
 eine vortreffliche Nahrung für alle Gewächſe
 abgeben.
 
 #) Je älter eine Weide wird, deſto dichter und feſter
-ſenfkc ſi< die A>erkrume zuſammen und deſto.
+ſenfkc ſich die Ackerkrume zuſammen und deſto.
 undurcblaſſender wird ſte für die Feuchtigkeit,
 Die alten Dreeſche leiden deshalb gêwöhnlich an
 
 --- Page 16 ---
 tide
-ird
-zue
 ide;
-Sh.
 icht
 ird,
-ern
-un
-in
-wie
-mt,
 eine
-auf
 par;
-ehr
 iche
-nu
-une
 
-des
-um
-ſe
 
 ſter
 eſto
 eit,
-an
 
 <— agr —
 
@@ -701,7 +654,7 @@ zeln erſegt und fompeuſirtz aller
 --- Page 17 ---
 —_ 182 —
 
-Dungaber, der aus den auf dem Dreeſc<h
+Dungaber, der aus den auf dem Dreeſcch
 gewachſenen Pflanzen, dur Abwei-
 dung vom Vieh entſteht, if reiner
 Gewinn und erhöht die Dungkraft
@@ -771,7 +724,7 @@ beſäer: ſo wird der Ertrag des Braachroens den
 --- Page 19 ---
 — 184 —
 
-des Stoppelro>ens bedeutend, vielleicht um 2 Schſl
+des Stoppelrockens bedeutend, vielleicht um 2 Schſl
 auf 100 Quadrat - Ruthen , überſteigen. Wollte
 man nun, wie in 5 2, aus dem Ertrag auf die
 Daungfcafe ſchließen und ſagen: die Braache ver-
@@ -801,34 +754,19 @@ famfeit fähig ſey.
 Unter allen Vorbereitungen zum Winterkorn
 bewirft die Braache die höchſte Wirkſamkeit des
 
-in
-de
-de
 vi
 li
 
-di
-fel
-di
-du
 
-fol
 
 --- Page 20 ---
-df
 olite
 f die
 vere
-ae,
 nach
-Zp
 llen,
-ur<
-vun
-en
 eſes
 l die
-dem
 udet
 egen.
 ben,
@@ -866,7 +804,7 @@ Erzeugung des Extraftivſioffs wird alſo um ſo volle
 Eommner und in ſo grôßerm Maafße ſtatt finden,
 je länger der gelocerte Boden der Luft ausgeſett
 ity und je mehr dies in der warmen Jahrözeit die
-den <emiſcheu Prozeß befördert , geſchieht.
+den chemiſcheu Prozeß befördert , geſchieht.
 
 Wahrſcheinlich wird der größte Theil des im
 Boden befindlichen Extraftivſtofîs durc die Pro-
@@ -906,65 +844,36 @@ durch eine tüchtige Bearbeitung des Bodens der
 Dung, bei jedem Wirthſchaftsſyſten, gleich wirkſam
 
 geit
-als
 terf
 
-mu
-hen
 deit
-eit
 
-Ext
-nid
-die
 
-gto
-tun
-mò
-EN:
-bal
-int
-und
-wo
 
-wer
 
-das
-im
 
-and
 
-Ve
 
 --- Page 22 ---
-aun
 vor:
 were
 ihet.
-die
 ente
 
-der
 inen
-tan
 
 aber
 unt,
 wird
 vere
 
-des
-und
 auch
 
 ches
 eitig
-und
-von
 pern
 bete
 
-der
 fſam
 
 E TL
@@ -1050,7 +959,6 @@ vendig
 hten
 | dant
 
-Auf
 jaftor,
 nſtand
 dant
@@ -1127,7 +1035,6 @@ gedüngt werden mic
 
 Die Braache ſelbſt ver-|
 mehrt die Dungfraft
-um
 
 AmEndedesUmlaufs iſt
 
@@ -1179,7 +1086,6 @@ auf einander folgen laſſen; ich füge jezt noch einigt
 Bemerkungen hinzu , und werde die Einwürfe, dit
 ſich mir zuerſ aufdrängten zu beautworten ſuchen,
 
-1.
 Gegen die Annahme, daß die Ausſangung des
 Bodens von der Größe der darauf gewonnenen
 Erndte abhänge, kaun man folgenden Einwurf
@@ -1199,11 +1105,8 @@ bejahende Antwort erhalten, und nur zwei Laud-
 wirthe haben inir eine eutgegengeſehte Erfahrung
 mitgetheilt.
 
-zum
 unge
-nen
 
-2
 
 --- Page 28 ---
 Sâgt
@@ -1218,7 +1121,6 @@ uwurf
 
 n ſtär
 ite dit
-cle
 endte;
 wenn
 athen,
@@ -1227,7 +1129,6 @@ ob die
 beſſer
 r eint
 Land/
-hun
 
 = 203
 
@@ -1260,7 +1161,7 @@ neu ein andres Reſultat geben:
 1) Ein Boden der ſehr voll Unfrautſaamen licat,
 trágt gewöhnlich an den -Srellen, wo der
 Nocken fehlt , audre Gewächſe, Anſtatt daß
-fonſi-der Ro>en hier den Dung kouſumirt
+fonſi-der Rocken hier den Dung kouſumirt
 hâte, geſchieht dies jeßt durch das Unkraut,
 
 N, Annal, gn Jahrg, rite Húlfte, 33
@@ -1285,7 +1186,7 @@ Extraftioſtoffs befördert werden.
 Wenn dieſer Fall auf einem ſehr reihen Bodet,
 der z. B. 200 Fuder Dung auf 1000 Quadrat
 Muthen enthält eintritt , ſo kann die ſärkere Er:
-ſ<dpfung durch die höhere Wirkſamkeit des übrig
+ſchdpfung durch die höhere Wirkſamkeit des übrig
 bleibenden Humus überwogen werden.
 
 Geſeht dies Feld gebe anſtatt ſeines gewöhn-
@@ -1302,7 +1203,6 @@ Die Erſchöufung des Bodens kann alſo ſtärker
 ſeyn 7 wenn auch die unmittelbar folgenden Saaten
 
 --- Page 30 ---
-Miß
 
 deſto
 um ſo
@@ -1311,11 +1211,9 @@ nivire
 dicht
 fann
 rſicﬀ
-des
 
 odeit,
 idrat-
-e
 
 übrig
 
@@ -1337,7 +1235,6 @@ das Gegentheil zu beweiſen ſcheinen. Die Wirkung
 der Erſchöpfung zeigt ſich ſpäter, daun aber auch
 deſto auffallender.
 
-11,
 
 ¡Man ſtecke zwei Körner Weizen, oder pflanze
 wei Kartoffeln, die den Auſchein nach von gleicher
@@ -1365,10 +1262,8 @@ I antworte hierauf?
 Der Haſſelburger Rocken gibt von derſelben
 Ráhrungömaſſe im Boden einen größern Ertrags
 
-13
 
 --- Page 31 ---
-AO
 
 aber dieſer Ertrag ſteht wieder in Verhältniß mit
 der Dungfrafe, Ein Boden von 150 Fuder Dunge
@@ -1384,7 +1279,6 @@ Dung enthält.
 Es werden alſo die Zahlen geändert, aber die
 Geſehe bleiben ſich gleich,
 
-HL.
 
 Bei einem ſehr großen Reichthum des Bodens
 an Humus kaun das Verhältniß zwiſchen der Dunge
@@ -1403,18 +1297,12 @@ loer/ und der Humus wird dann nicht bloß une
 wirkſau/ ſondern auch nachtheilig,
 
 --- Page 32 ---
-mit
 unge
-der
 teirt
-enn
 rgee
 
-ſo
-ſl.
 uder
 
-die
 
 — 19 =
 
@@ -1492,17 +1380,12 @@ drate
 
 ) vor
 
-der
 rung.
-qué
 | der
 dieſe
-der
 hfeit
 : Er-
-auf
 eine
-von
 
 —199 —
 
@@ -1520,7 +1403,7 @@ Lagerſiellen ſind dann immer in den Niederungen,
 die entweder eine viel größere Dungfrafc als der
 umgebende Boden haben, und für ſi geerndtet
 einen viel größern Mittelertrag geben würden, odex
-die aus einem ſ<wammigen Wieſcuboden beſteheite
+die aus einem ſchwammigen Wieſcuboden beſteheite
 in welchem die Pflanzen feine Haltung haben.
 Hier iſt aber nur von einem feſten, in ſeiner Textur
 ganz gleichförmigen und auf jeder Stelle in gleicher
@@ -1569,28 +1452,11 @@ fehlte, fo blieb mir nichts anders übrig, als den
 erſten Weg zu wählen, und die Zahlen hypothetiſch
 anzunehmen, Ich durfte zwar nicht erwarten, eine
 
-dll
 erre
 
-Kor
 
-um
-erh
-mei
-ih
-der
-mu
-mei
 geni
-wäh
-auf
-Ric
-une
-pra
-mid
 eher
-die
-prü
 fahr
 
 --- Page 36 ---
@@ -1659,10 +1525,8 @@ habe, von meinem individuellen Standpunkte aus,
 das Zahlenverhältuiß weiter vervolfounnuen zu
 
 tönt
-das
 
 fern
-Nus
 
 gegel
 Zahl
@@ -1674,23 +1538,9 @@ einig
 --- Page 38 ---
 feit
 
-uu
 iche
-die
 
-ine
-auf
-zue
-tut
-ehr
-pes
-ehe
-ind
 
-es
-âw
-ten
-en
 
 —.203
 
@@ -1729,7 +1579,7 @@ die auóſaugenden Gewächſe niche ganz fonſumictz
 --- Page 39 ---
 —_ 24 —
 
-ein Theil deſſelben blieb im Boden zurü> und be-
+ein Theil deſſelben blieb im Boden zurück und be-
 wirkte die ſteigenden Erndten.
 
 3) Bleibt aber auf einem ſolchen Gute der Er-
@@ -1751,8 +1601,8 @@ durch die Produftion eines Scheffels Nocken kon
 $. 16.
 Le h'r°fah.
 
-Eine Wirthſchaft, deren Fruchtfolge an ſ<
-ausſaugend iſt, d. h. die in ſ< ſelbſt uicht ſo viel
+Eine Wirthſchaft, deren Fruchtfolge an ſch
+ausſaugend iſt, d. h. die in ſch ſelbſt uicht ſo viel
 Dung erzeugt , als die ausſaugeuden Kräfte konſuw-
 niiren, die daun aber dur Wieſenheu einen jähr
 lichen Dungzuſchuß von beſtimmter Größe erhält, —
@@ -1766,18 +1616,14 @@ mit |
 
 Anfay
 aſien
-ten
 aten
 aten
-ten
-+1
 
 --- Page 40 ---
 d be
 
 t Er-
 
-und
 dtete
 nzige
 flan
@@ -1788,7 +1634,6 @@ râfte
 nden
 Guder
 Dung
-fow
 
 ° — 2095 —
 
@@ -1863,7 +1708,6 @@ ten Umlauf hervorbringt oder:
 mlauf
 uſte,
 
-a)
 x-a)
 
 x-a)
@@ -1874,7 +1718,6 @@ licher
 8 eint
 H die
 inlauf
-Pro
 Dung
 indert
 rmine
@@ -1937,25 +1780,18 @@ bleiben 122,9
 Dungjuſchuß 10
 Der 5te Umlauf beginne mit 332,9
 
-Det
 
-die
-ſcr
-tel
-Dui
 Vi
 ſelb
 
 --- Page 44 ---
 nache
-Die
 inem
 
 jede
 
 uder,
 
-lac
 
 Weittt man die Rechnung auf dieſe Weiſe fort-
 ſedt, ſo wird ſich eine immer mehr verminderte
@@ -2031,11 +1867,8 @@ tfolge
 Boden
 if in
 
-und
-und
 uthen
 Birthe
-1000
 e von
 ) hei
 ft go
@@ -2050,7 +1883,6 @@ bracht
 uter,
 ultur,
 ; dem
-ler
 eſe,
 
 —_ 201 —
@@ -2082,11 +1914,10 @@ zur Kraft von 10 >< 15 = 150 Fuder erhebt,
 und dann éinen Ertrag von 9 Körner liefert.
 
 Die Hôhe des Ertrags und der Dungfraft, bis
-in welchem’ ein Gut ſteigt, wird allein durc< das
+in welchem’ ein Gut ſteigt, wird allein durcch das
 Verhältniß, welches in der Fruchtfolge zwiſchen
 den ausfaugenden und den erſegenden Kräfcey ſict
 
-14+
 
 --- Page 47 ---
 findet, bedingt. Da wir nun durch Verminderung
@@ -2100,7 +1931,7 @@ größern Koſten verknupft ift / als auf den Gütern
 die viel Wieſeuhen beſiben.
 
 Ui, Welches ſiud die Folgen des Mere
-gelns, wenn wir die dur< den Mer-
+gelns, wenn wir die durch den Mer-
 get bewirkte Erhöhung: der Frucht-
 barkeit fo anſehen, als fey dieſe
 durc eine neu hinzugekommene
@@ -2130,9 +1961,7 @@ chen;
 1 und
 ütern
 
-Ner
 Ner-
-ut
 
 dieſt.
 nene
@@ -2141,7 +1970,6 @@ s aufe
 velche
 7 die
 jelus.
-die
 d die
 “noh
 1 zum
@@ -2229,7 +2057,6 @@ oben
 jeden
 8 zu
 ſchaft
-den
 
 ſchaft
 rgeli
@@ -2239,7 +2066,6 @@ jrend
 dunige
 erden
 
-dei
 bauet
 
 tals
@@ -2316,7 +2142,6 @@ ganze Ackerfläche der regelniäßigen Dreifelderwirch-
 --- Page 52 ---
 Fuder
 
-7
 
 geſest
 ndern
@@ -2331,7 +2156,6 @@ eine
 erden,
 fd ein
 
-ANE
 
 Dieſe vergrößerte Kornausſaat erklärt nun znr
 Genñge/ warum das Mergely der Dreifelderwirthe
@@ -2359,7 +2183,7 @@ Vierter Fall, man vermindert na dem
 Mergeln die Kornauófaat wud vergrößert
 die Weide,
 
-Geſest / man hätte dadurc< die Ansſaugung ſo
+Geſest / man hätte dadurcch die Ansſaugung ſo
 bermindert, daß der Verlyſt in einem Umlauf
 fatt 7 nur F beträgt: ſo iſi fr eiue Dunge
 
@@ -2403,14 +2227,12 @@ da nach ‘dem Lehrſaß im vorigen $, jeder Boden,
 ndert
 inem
 rgeln
-ten
 urch?
 ſtens
 
 ihrer
 
 ihrer
-gu
 
 gute
 
@@ -2450,7 +2272,7 @@ Verechnung finden wir dann, daß auf dieſen Stellen
 ein Fuder Dung nur zue Nahrung für 2 Scheffel
 Rocken hitigereicht hat.
 
-Ans dieſer Erfahrung ergibt ſ< nun das merk-
+Ans dieſer Erfahrung ergibt ſch nun das merk-
 würdige Faftum: daß auf dem einen Boden dieſelbe
 Kornerndte mehr Dung verzehrt als auf dem andern,
 und daß der eine Boden, durch die Hingabe ciner
@@ -2475,38 +2297,27 @@ Vergleichung ganzer Güter. Das Gut, welches
 einen ſandigen Nockenboden hat wird bei gleicher
 Fruchtfolge und gleichem Dungzuſchuß ſc nie ¡u
 dem Körnerertrag erheben , den das Gut mit einen
-<dnen Gerſtenboden erlangt, Derſelbe Dungzu-
+chdnen Gerſtenboden erlangt, Derſelbe Dungzu-
 ſchuß wird dort von einer geringern , hier von einer
 
-grö
 bezel
 dens
-fúr
 viell
 liegt
 lice
-Sod
 in ei
-der
 gena
 Feni
 ſeyn
-mal
 gebu
-uud
 seha
 jeder
 
 ein |
 
-daß
-Bod
 rung
 Chet
-uns
-wel
 heco
-Te
 
 --- Page 56 ---
 ieſelbe

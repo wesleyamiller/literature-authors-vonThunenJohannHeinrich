@@ -11,38 +11,31 @@ source_files: "thuenen_w002_e003_m003_1850_part2-1_bsb_tesseract-fraktur.txt"
 alternative_source: "M003 (1850 BSB Tesseract Fraktur)"
 notes: "Canonical uses per-work BSB Tesseract file (FT-3). Waentig 1910 (M007, FT-4) covers all parts but cannot be split per-work. Original: Waentig covers Part 2.1. BSB 1850 original now has Tesseract Fraktur extraction (453KB)."
 assembled: 2026-03-13T23:11:44Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 3 ---
-<36603114870018
 
-<36603114870018
 
-Bayer. Staatsbibliothek
 
 --- Page 5 ---
-Der
 
 iſolirte Staat
 
 i in Beziehung
 
-auf
 
 Landwirthſchaft und Nationalökonomie,
 
 DEAT fDufio
 
-5
 
 --- Page 6 ---
 C
 
-Der
 iſolirte Staat
 in Beziehung
 
-auf
 
 Landwirthſchaft und Nationalökonomie.
 
@@ -54,23 +47,19 @@ G, BS. Leopolds Univerſitäts-Kuchhandlun
 --- Page 7 ---
 Spr te
 
-und
 
 deſſen Verhäſtniß
 
 “zum Zinsfuß und zur Landrente,
 
-Von
 Johann Heinrich von Thünen
 auf Tellow in Meklenburg.
 Bayer, Sfaatsminisferfum
 
 nur uro, Tercia cet E Fersfen
 Ministerialforstabtellung
-Bücherei
 
 Erſte Abtheilung. 4
-UV
 
 --- Page 9 ---
 ZAE ; i Seite
@@ -99,7 +88,6 @@ Tabelle A ee a rere 410
 in 1ßÿ der Fruchtbarkeit des Bodens und des Klimas auf
 © des Arbeitslohns und des Zinsfußes.……. 111
 
-TIL
 
 --- Page 10 ---
 y Seite
@@ -120,7 +108,7 @@ $18. Die Nutzung des zulegt angelegten Kapitaltheilchens * be-
 
 ſtimmt-die Höhe ‘des Zinsfußes. ... «+ re reee 162
 
-$19. Der Arbeitslohn iſ glei< dem Mehrerzeugniß, was dur
+$19. Der Arbeitslohn iſ gleich dem Mehrerzeugniß, was dur
 den, in einem großen Betrieb, zulezt angeſtellten Arbeiter
 hervorgebracht wird. Le re Cre Ed Vee 174
 $ 0. Die Produktions{ſten des Kapitals und der Kapitalrente 193
@@ -145,9 +133,7 @@ E E E
 À Lig
 
 --- Page 11 ---
-Der
 
-N
 
 --- Page 13 ---
 Einleitung.
@@ -155,7 +141,6 @@ Ueberſicht und Kritik der im erſten Theile dieſes
 Werkes angewandten Methode nebſt Plan dieſes
 zweiten Theils.
 
-—
 
 Adam Smith war in der National - Oekonomie, Thaer
 “in der wiſſenſchaftlichen Landwirthſchaft mein Lehrer.
@@ -181,13 +166,11 @@ N Mefriévigte, und mich dadurch zur eignen Forſchung fortriß,
 ag, wenn auch nicht erſchöpfend, doch überſichtlich ſich in
 
 H Y | Fengepinfie zuſammen drängen laſſen.
-1
 
 --- Page 14 ---
-2
 
 1) Wie muß ſich bei konſequenter Bewirthſchaftung mit
-der Aenderung der Kornpreiſe der A>erbau ändern?
+der Aenderung der Kornpreiſe der Ackerbau ändern?
 
 2) Durch welche Geſeze wird der Preis des Getreides
 und des Holzes regulirt ?
@@ -195,7 +178,7 @@ und des Holzes regulirt ?
 3) Hat das höhere Wirthſchaftsſyſtem, hat namentlich die
 Fruchtwechſelwirthfchaft einen abſoluten Vorzug vor der Koppel-
 und Dreifelderwirthſchaft, oder iſt der Vorzug des einen Wirth-
-ſchaftsſyſtems vor dem - andern dur<h die Höhe des Preiſes
+ſchaftsſyſtems vor dem - andern durch die Höhe des Preiſes
 der landwirthſchaftlichen Erzeugniſſe bedingt ?
 
 4) Aus welcher Urſache entſpringt die | Landrente, und |
@@ -213,7 +196,7 @@ iſt der dem Arbeiter von der Natur beſtimmte Antheil an
 beſtimmt, und welche Verbindung findet zwiſchen Zinsfuß und
 Arbeitslohn ſtatt ?
 
-8) Wie wirkt die Größe des Geldſto>s auf den Jinoſns
+8) Wie wirkt die Größe des Geldſtocks auf den Jinoſns
 und auf den Preis der Waaren ?
 
 9) Welchen Einfluß üben bedeutende Verbeſſerungen im
@@ -222,14 +205,13 @@ bei ihrem erſten Auftreten aus, und welches iſt die endliche
 Wirkung derſelben?
 
 Schon in früher Jugend, als ig im Jnſtitut des Herrn
-Staudinger zu Flottbe> den Landbau in der Nähe Ham-
+Staudinger zu Flottbeck den Landbau in der Nähe Ham-
 burgs kennen “lernte, faßte ich die erſte Idee des iſolirten
 Staats auf, und ſeitdem habe ich mich ſtets gedrungen gefühlt,
 die ſih mir darbietenden land - und ſtgatswirthſchaftlichen
 Probleme der Anſchauungsweiſe, welche dem iſolirten Staate
 zum Grunde liegt, zu unterwerfen, indem ſich mir nur in der
 
--
 
 --- Page 15 ---
 “Befreiung des Gegenſtandes von allem Zufälligen und Un-
@@ -243,24 +225,23 @@ Nachdem dieſe Data aus einer fünfjährigen Rechnung zuſammen
 getragen und zu einer Ueberſicht vereinigt waren, wurden, auf
 dieſe Grundlage geſtüßt, die Unterſuchungen begonnen, welche
 im erſten Theil mitgetheilt ſind. i
-Da es hier nun Zwe> iſt, die bei dieſen Unterſuchungen
+Da es hier nun Zweck iſt, die bei dieſen Unterſuchungen
 angewandte Methode der Prüfung und Kritik zu unterwerfen,
 ſo erlaube ih mir den Gang der Unterſuchung und einigé
 der dadurch gewonnenen Reſultate der Erinnerung des Leſers
 
 wieder vorzuführen.
 
-WIe
 
 Die im erſten Theil enthaltenen, auf die Verhältniſſe des
 
 Guts Tellow ſich ſtüßenden Berechnungen ergeben $. 5, 6,
 
-daß auf Boden von 8 Körnern Ertrag im No>en nach Brache
+daß auf Boden von 8 Körnern Ertrag im Nocken nach Brache
 
 PA die Landrente der Koppelwirthſchaft verſchwindet oder gleich
 
-Ge Null wird, wenn der Werth des Berliner Scheffels Ro>en
+Ge Null wird, wenn der Werth des Berliner Scheffels Rocken
 
 Y auf 0,549 Thaler Gold herabſinkt — und mit dem Ver-
 
@@ -270,23 +251,20 @@ Durch eine Aenderung in der Form der Wirthſchaft laſſen
 
 ſich aber Erſparungen in den Wirthſchaftskoſten machen und
 
-der Boden kann dann, wenn der Werth des Ro>ens auch
+der Boden kann dann, wenn der Werth des Rockens auch
 
-unter 0,549 Thaler per Scheffel herabſinkt, no< angebauet
+unter 0,549 Thaler per Scheffel herabſinkt, noch angebauet
 O “werden, und ſelbſt noch einige Landrente geben. Durch die
 
 auf Koſtenerſparung gerichtete Aenderung in der Form der
 
-4
 
 i
-[4
 
 --- Page 16 ---
-4
 
 Wirthſchaft entſpringt ein Wirthſchaftsſyſtem, was "mit der
-reinen Dreifelderwirthſ<aft übereinſtimmt.
+reinen Dreifelderwirthſchaft übereinſtimmt.
 
 Es ergibt ſih hier alſo das Reſultat, daß beim Sinken
 des Getreidepreiſes es einen Punkt gibt, wo die Dreifelder-
@@ -296,7 +274,7 @@ Aber auch die Landrente der Dreifelderwirthſchaft muß
 zuleßt verſchwinden, wenn die Kornpreiſe immer tiefer herab-
 gehen, und dies iſt nach $. 14 a. der Fall, wenn der Scheffel
 Rocken den Werth von 0,470 Thaler Gold erlangt — und
-hier muß dann der Anbau des Bodens zum Zwe> des
+hier muß dann der Anbau des Bodens zum Zweck des
 Kornverkaufs enden.
 
 Betrachten wir aber andererſeits die Wirkung ſteigender
@@ -324,9 +302,7 @@ preiſes auf den Landbau ausübt, auh xäumlih darſtellen,
 ‘hervorgegangen.
 
 --- Page 17 ---
-—
 
-5
 
 “Durch dieſe Auffaſſung des Gegenſtandes wird mit der
 urſprünglichen Aufgabe zugleich die andere verbunden:
@@ -338,7 +314,7 @@ walten, nicht unmittelbar entnehmen, denn in der Wirklichkeit
 treten uns überall Ungleichheit des Bodens, ungleicher Reich-
 thum deſſelben, Einwirkung ſchifbarer Flüſſe 2c. entgegen,
 und in den Wirthſchaften, die wir in verſchiedenen Entfer-
-nungen von den großen Handelsſtädten erbli>en, ſpricht ſich
+nungen von den großen Handelsſtädten erblicken, ſpricht ſich
 — die Konſequenz der Bewirthſchaftung vorausgeſeßt — der
 Einfluß aller dieſer Potenzen vereint aus.
 Um die Wirkſamkeit der einen Potenz — der Entfernung
@@ -375,7 +351,6 @@ muß nothwendig ein Punkt ſich finden, wo die Produktions-
 CTN und Transportkoſten des Korns dem Preiſe, der in der Stadt
 
 --- Page 18 ---
-6
 
 dafür bezahlt wird , gleich kommen, und hier iſt der Punkt,
 wo die Landrente verſchwindet, und die Kultur des Bodens,
@@ -390,7 +365,7 @@ haben, entſpringt die Landrente ; und die Größe dieſes Vor-
 zugs beſtimmt nach $. 25 den Betrag der Landrente.
 
 Jenſeits der Grenze, wo die - Kultur des Bodens zum
-Zwe> des Kornverkaufs nach der Stadt aufhört, bildet ſich
+Zweck des Kornverkaufs nach der Stadt aufhört, bildet ſich
 der Kreis der Viehzucht, welche hier noch mit einigem Vor-
 theil betrieben werden fann, weil die Transportkoſten der
 Viehprodukte, wie Butter, Fettvieh, Wolle u. ﬅ. w., im Ver-
@@ -398,7 +373,7 @@ hältniß zum Werth derſelben ungleich geringer ſind, als die
 des Getreides. i |
 
 Jenſeits des Kreiſes der Viehzucht geht dann die Ebene
-in eine menſchenleere Wildniß über, dur<h welche der iſolirte
+in eine menſchenleere Wildniß über, durch welche der iſolirte
 Staat von der übrigen Welt geſchieden wird. Den Boden
 dieſer Wildniß ſelbſt nehmen wir aber von gleicher Beſchaffen-
 heit und gleicher natürlicher Fruchtbarkeit mit dem der übrigen
@@ -419,12 +394,9 @@ Mit der zunehmenden Entfernung von der Stadt mindern
 
 duktionskoſten der Vieherzeugniſſe, wogegen ſich die Trans-
 
-E C
 
 --- Page 19 ---
-——
 
-7
 
 portkoſten derſelben mehren. Da nun, wie im $. 26 nach-
 gewieſen iſt, mit der zunehmenden Entfernung von der Stadt
@@ -441,7 +413,7 @@ Ebene verlaſſen wird, die Bodenkultur ſich auf einen engern
 Kreis um die Stadt herum beſchränkt, und die Zahl der
 Bewohner des Staats ſich vermindert.
 
-“ “Dies iſ in einem kurzen Ueberbli> der Gang und das
+“ “Dies iſ in einem kurzen Ueberblick der Gang und das
 Ergebniß der Unterſuchungen des erſten Theils.
 
 Die Reſultate ſind dort nicht durh Räſonnements gefun-
@@ -497,7 +469,7 @@ daſelbſt auch die Getreidepreiſe ſein mögen.
 
 2) Die Sorgfalt in der Beſtellung des Aers , in der
 Einerntung der Früchte, dem reinen Ausdruſch u. |. w. bleibt
-überall gleich, der Scheffel Ro>en mag 1/ oder 114 Thaler
+überall gleich, der Scheffel Rocken mag 1/ oder 114 Thaler
 gelten. Nun haben wir die Konſequenz der Bewirth-
 ſchaftung als die höchſte und unabweisliche Forderung
 obenan ſtellen und dieſer alles unterordnen müſſen.
@@ -507,12 +479,11 @@ beiden Vorausſezungen mit der Konſequenz der Bewirthſchaf-
 tung verträglich ? ‘“
 
 --- Page 21 ---
-9
 
 Ich muß hierauf antworten: „Nein.“
 Die Gründe für dieſe Antwort werden weiterhin näher
 
-_ entwi>elt werden.
+_ entwickelt werden.
 
 Von dieſer Seite hätte der erſte Theil, der hierüber keine
 Nechtfertigung gibt, angegriffen werden können und müſſen
@@ -526,7 +497,7 @@ der Grundlage das ganze Gebäude des iſolirten Staats
 zuſammen? Wir wollen, um dieſe Frage zu erörtern , einen
 analogen Fall anführen und in Betracht ziehen.
 
-“Geéſeßt, man könne fruchtbare A>ererde zu einem gegebenen
+“Geéſeßt, man könne fruchtbare Ackererde zu einem gegebenen
 Preiſe ankaufen und geliefert erhalten und es ſtände in unſerer
 Willkühr, die Aerkrume bis zu jeder beliebigen Mächtigkeit
 zu erhöhen: ſo würden wir uns die Aufgabe ſtellen, zu ermit-
@@ -538,7 +509,7 @@ Um hierüber auf's Klare zu kommen, würde man zuerſt
 Verſuche anſtellen, um zu erforſchen, wie und in welchem
 Verhältniß der Ertrag an Früchten mit der zunehmenden
 Mächtigkeit der Krume ſteigt. Bei einem ſolchen Verſuch
-würde man unſtreitig alle A>erſtü>e mit verſchiedener Krum-
+würde man unſtreitig alle Ackerſtücke mit verſchiedener Krum-
 tiefe gleich ſtark beſäen — weil man ſonſt zwei heterogene
 Gegenſtände mit einander vermiſchte, und über keinen von
 beiden durch den Verſuch eine reine Antwort erhielte. Den-
@@ -547,16 +518,11 @@ Moment; denn es iſ ſehr wahrſcheinlih, daß die 10zöllige
 Krume ein anderes Einſaatsquantum erfordert, als die Ázöllige,
 
 i “wenn beide den höchſten Ertrag an Früchten geben ſollen,
-Man wird alſo einen zweiten Verſuch anſtellen, die A>er-
-_ ſtú>e mit verſchiedener Krumtiefe in mehrere Abtheilungen
+Man wird alſo einen zweiten Verſuch anſtellen, die Acker-
+_ ſtúcke mit verſchiedener Krumtiefe in mehrere Abtheilungen
 
 --- Page 22 ---
-|
-|
-|
-|
 
-10
 
 zerlegen und dieſe in verſchiedener Stärke beſäen, um zu
 ermitteln, welche Stärke der Einſaat für jede Krumtiefe die
@@ -577,17 +543,17 @@ menwirkenden Potenzen erſt die Eine als allein wirkend
 betrachten, und dann die Andere auf gleiche Weiſe, als allein
 wirkſam der Betrachtung unterziehen dürfen?
 
-Gewiß läßt ſich dur< Analogien die Richtigkeit dieſes
-Verfahrens bis zur Wahrſcheinlichkeit erheben; aber {hwerli<
+Gewiß läßt ſich durch Analogien die Richtigkeit dieſes
+Verfahrens bis zur Wahrſcheinlichkeit erheben; aber {hwerlich
 dürfte es auf dieſem Wege gelingen, einen ſtrengen Beweis,
 der keine entgegengeſeßten Anſichten zuläßt, dafür zu liefern.
 
 Auf die abſolute Richtigkeit kömmt hier aber alles an.
 
-Glü>licherweiſe finden wir den Beweis dafür in der
+Glücklicherweiſe finden wir den Beweis dafür in der
 Wiſſenſchaft, die nicht trügt — in der Mathematik.
 
-Jn der Differentialre<hnung wird nämlich, wenn man von
+Jn der Differentialrechnung wird nämlich, wenn man von
 einer Funktion, die mehrere veränderliche Größen enthält, das
 
 Marimum des Werths ſucht, bei der Differentiation zuerſt
@@ -614,10 +580,10 @@ Marimum zu finden ſtreben, und zum Gegenſtand unſerer
 Unterſuchung machen.
 
 Jn der Landwirthſchaft beſigen wir durch: vermehrte Sorg-
-falt in der Beſtellung. des A>ers, der Einerntung der Früchte
+falt in der Beſtellung. des Ackers, der Einerntung der Früchte
 u. ſw. durh Ankauf von Dung, Gyps, Knochenmehl,
-Guano 1c., dur< Auffahren von Mergel und Moder, durch
-Zuführung einer dem A>er mangelnden Erdart u. ſ. f. eine
+Guano 1c., durch Auffahren von Mergel und Moder, durch
+Zuführung einer dem Acker mangelnden Erdart u. ſ. f. eine
 Menge Mittel nicht bloß den momentanen, ſondern auch den
 dauernden Ertrag des Akers zu ſteigern.
 
@@ -647,7 +613,6 @@ bis zu dem Punkt getrieben werden, aber auch da aufhören,
 in's Gleichgewicht treten.
 
 --- Page 24 ---
-12
 
 Jmmer wird der auf dieſe Weiſe erlangte Mehrertrag
 durch einen Aufwand von Kapital und Arbeit erkauft, und
@@ -675,7 +640,7 @@ im erſten Theil angewandten Methode nachgewieſen.
 Aber im erſten Theil iſ die Frage: „Welchen Einfluß
 übt die Höhe der Kornpreiſe auf den Landbau aus?“ erſt
 theilweiſe, erſt nach einigen Seiten hin unterſucht und verfolgt.
-Die Einwirkung der Kornpreiſe erſtre>t ſich aber auf viele
+Die Einwirkung der Kornpreiſe erſtreckt ſich aber auf viele
 andere Gegenſtände, wovon wir hier nur die auf den Boden-
 reihthum und auf die Sorgfalt der Arbeit anführen wollen —
 und ſomit iſ der erſte Theil nur der Beginn der Arbeit zur
@@ -687,13 +652,9 @@ tung über die Einwirkung des Kornpreiſes auf die beiden
 
 Potenzen; Bodenreichthum und Sorgfalt der Arbeit, folgen. -
 
-|
-|
 
 --- Page 25 ---
-e
 
-13
 
 Weiterhin aber ſollen dieſe Punkte Gegenſtand einer eigenen
 Unterſuchung werden.
@@ -719,7 +680,7 @@ Theil des iſolirten Staats die rachBor irh eigentlich
 ‘ausgeſchloſſen bleiben müſſen.
 
 Werfen wir nun in Beziehung auf die Verbindung zwi-
-ſchen Kornpreis und Bodenreichthum einen Bli> auf die
+ſchen Kornpreis und Bodenreichthum einen Blick auf die
 Wirklichkeit, ſo finden wir in der Regel in den Ländern mit
 dichter Bevölkerung und hohen Kornpreiſen einen höhern
 Bodenreichthum als in den dünnbevölkerten Ländern mit nie-
@@ -734,7 +695,6 @@ praktiſchen Landwirthe längſt ausübt, von der Wiſſenſchaft im
 x Beweiſes die Erfahrung , daß die Bodenbereicherung der
 
 --- Page 26 ---
-14
 
 Erhöhung der Getreidepreiſe folgt , als auf Vernunftgründen
 beruhend, anſehen, und dieſen Saß auf den iſolirten Staat
@@ -775,7 +735,6 @@ Zur eigentlichen Löſung der Aufgabe gehört, daß, nachdem
 die erſte Unterſuchung über den Einfluß der Entfernung an
 
 --- Page 27 ---
-15
 
 fich beendigt iſt, eine zweite Unterſuchung über den Einfluß
 der Entfernung auf den angemeſſenſten Bodenreichthum begon-
@@ -815,12 +774,9 @@ Kornpreis und Bodenreichthum gefunden ſein, ehe dieſer Theil
 “Unſerer Aufgabe mit derſelben Schärfe und Genauigkeit unter-
 ſucht und behandelt werden kann, wie der erſte.
 
-ls
 
-Te»
 
 --- Page 28 ---
-16
 
 B. Wenn auf einem Gute, wo bisher alle Arbeiten dukch 29
 
@@ -844,13 +800,13 @@ aber ſteigt und. fällt, ſelbſt wenn der reelle Arbeitslohn der-
 ſelbe bleibt „niht im direkten Verhältniß mit dem Kornpreis,
 ſondern ein Theil deſſelben wird — wie im erſten Theil aus-
 führlich erörtert iſt — von dem Kornpreis nicht affizirt, und
-muß deshalb in Geld ausgedrü>t bleiben.
+muß deshalb in Geld ausgedrückt bleiben.
 
 Geſeßt nun, die Koſten einer Arbeiterfamilie betragen jähr-
-lih 60 Scheffel Ro>en plus 30 Thlr.; der durch die zulegt
+lih 60 Scheffel Rocken plus 30 Thlr.; der durch die zulegt
 angeſtellte Familie * erlangte Mehrertrag des Guts betrage
-100 Scheffel Ro>en: ſg bleibt dem Grundbeſizer ein Gewinn
-von 40 Scheffel minus 30 Thlr. Bei dem Preiſe des Ro>ens
+100 Scheffel Rocken: ſg bleibt dem Grundbeſizer ein Gewinn
+von 40 Scheffel minus 30 Thlr. Bei dem Preiſe des Rockens
 von11/,Tlr.pr.Schfl. beträgt dennoch derGewinn60—30—30 Tlr.
 
 1 4 LLE | BPA 1 "n n n 40-——30=10 n
@@ -864,7 +820,6 @@ Es ergibt ſih hieraus, daß bei dem Kornpreiſe von
 11/, Thlr. noh mehr als 24 Arbeiter mit Bortheil angeſtellt
 
 --- Page 29 ---
-17
 
 werden können, während bei dem Preiſe von !/% Thlr, ſchon
 der zwanzigſte Arbeiter Verluſt bringt. i
@@ -903,7 +858,7 @@ Der 2MUſte Arbeiter...» 73 Schfl., nach Abzug des Lohns
 
 bleiben. ……. 13 Sehfl. à 114 Thlr. — 30 =— 1014 Thlr.
 “Bei dem Preiſe von 11/4 Thlr. für den Scheffel bringt
-alſo ‘die Anſtellung des 22ſten Arbeiters no< Gewinn, bei
+alſo ‘die Anſtellung des 22ſten Arbeiters noch Gewinn, bei
 der Aufnahme des 23ſten Arbeiters kompenſiren ſich Nugen
 i und Koſten, während die Anſezung eines 24ſten Arbeiters
 
@@ -914,7 +869,6 @@ u _Schfl.' hervor. Nach Abzug des Lohns bleiben hiervon
 : fes Schl, "minus 30 Thlr. Die 51. Scheffel haben ‘einen
 
 --- Page 30 ---
-18
 
 Werth von 2514 Thlr. , Der 20ſte Arbeiter bringt alſo
 41/, Thlr. Verluſt. Der 19te Arbeiter liefert ein Erzeugniß
@@ -930,7 +884,7 @@ erlangen.
 Vergleichen wir nun zwei Güter des iſolirten Staats mit
 einander, wovon das Eine an -der Grenze — wo der Scheffel
 Roken circa "/% Thlr. Werth hat — das Andere in der
-Nähe der Stadt — mit einem Ro>enpreiſe, von 114, Thlr. —
+Nähe der Stadt — mit einem Rockenpreiſe, von 114, Thlr. —
 liegt, und nehmen an, daß beide nicht bloß gleichen Boden-
 reichthum haben, ſondern auh demſelben Wirthſchaftsſyſtem
 unterworfen ſind, ſo würde doch, bloß wegen der größern
@@ -955,7 +909,6 @@ nur 71, Körner zu gewinnen, ſo folgt daraus, daß die Pro-
 ductionsfoſten des Korns niedriger zu ſtehen kommen, wenn
 
 --- Page 31 ---
-19
 
 nur 7% Körner, als wenn 8 Körner — der Normalertrag
 der Ebene — durch vermehrten Arbeitsaufwand gewonnen
@@ -965,7 +918,7 @@ wird folglih auh bei Berüſichtigung dieſes Moments die
 Meilenzahl, bei welcher der Anbau der Ebene aufhört, etwas
 größer werden, als im erſten Theil berechnet iſt. Auch mag
 die Grenze zwiſchen Koppel - und Dreifelder-Wirthſchaft etwas,
-jedoch nicht erheblich, verrü>t werden. Auf die Meilenzahl
+jedoch nicht erheblich, verrückt werden. Auf die Meilenzahl
 fommt es hier aber nicht an, da dieſe das Weſen der Unter-
 ſuchung nicht berührt, ſondern nur zur Verſinnlichung der
 Jdee dient. Die Einwirkung dieſes Moments iſ nur quan-
@@ -992,12 +945,10 @@ geſunken, wo nach dem iſolirten Staat die Dreifelder - Wirth-
 ſchaft vortheilhafter wird, als die Koppelwirthſchaft. Aber
 
  aauns jener Zeit ſuchten und is ihre Rettung
-2%
 
 Ut Stre:
 
 --- Page 32 ---
-20
 
 in einer Wirthſchaft mit vermehrter Erzeugung von Viehpro-
 
@@ -1042,7 +993,6 @@ Bekleidung und vermehrten Genuß animaliſcher Speiſen ſtatt
 der vegetabiliſchen verwandt. Bedarf und Nachfrage nach
 
 --- Page 33 ---
-21
 
 animaliſchen Erzeugniſſen, als Wolle, Fleiſch, Butter u. ﬅ. w.,
 wurden dadurch gar ſehr vermehrt; Fleiſch und Butter behiel-
@@ -1052,12 +1002,12 @@ fuhr in England, erhielt ſih auf einem unnatürlich hohen
 Preis. Niemals hat vielleicht ein ſolches Mißverhältniß in
 den Preiſen zwiſchen Korn und animaliſchen Erzeugniſſen
 ſtattgefunden wie “damals. Während früher der Berliner
-Scheffel Ro>ken ungefähr den Werth von 9 Pfund Butter
+Scheffel Rockken ungefähr den Werth von 9 Pfund Butter
 und von 6 Pfund Wolle hatte, galten zu der Zeit 3 bis 4
-Pfund Butter ſo viel als ein Scheffel Ro>en und der Preis
+Pfund Butter ſo viel als ein Scheffel Rocken und der Preis
 eines Pfundes veredelter Wolle Überſtieg häufig den des
-Scheffels Ro>en und die hochfeine Wolle erreichte ſogar pr.
-Pfund den. doppelten Werth des Scheffels Ro>ken.
+Scheffels Rocken und die hochfeine Wolle erreichte ſogar pr.
+Pfund den. doppelten Werth des Scheffels Rockken.
 
 Zwiſchen den Productionskoſten — die ſonſt den Preis
 reguliren — und den Marktpreiſen ſchien jedes Band zerriſſen
@@ -1082,9 +1032,7 @@ Leivi Preis der animaliſchen Erzeugniſſe hoch genug iſ, um
 * nid ‘Viehzucht eine Rente vom Bodèn zu gewinnen,
 
 --- Page 34 ---
-E
 
-22
 
 Nichts führt aber ſo entſchieden zur Fruchtwechſel - Wirth-
 ſchaft, als ein hoher Preis der Viehprodukte, und das Preis-
@@ -1094,8 +1042,8 @@ Fruchtwechſel - Wirthſchaft anfängt vortheilhafter zu werden als
 die Koppelwirthſchaft. Y
 
 Jn dem erſten Theil des iſolirten Staats konnten die deut-
-ſchen Verhältniſſe nicht berü>ſichtigt, noh weniger zum Grunde
-gelegt werden, weil dadur<h das Streben nah Erforſchung
+ſchen Verhältniſſe nicht berückſichtigt, noh weniger zum Grunde
+gelegt werden, weil dadurch das Streben nah Erforſchung
 allgemeiner Geſeße in ein Suchen nah Vorſchriften, die für
 ein Land, eine Provinz gültig, für alle anderen Länder aber
 unbrauchbar und unanwendlich ſind, umgewandelt wäre. “Jn
@@ -1120,10 +1068,8 @@ Ausdehnung dex Forderung der Konſequenz auf
 alle Verhältniſſe des iſolirten Staats.
 Das Verfahren bei der Konſtruktion des iſolirten Staats
 iſt, daß wir ‘ein gegebenes Gut aus der Wirklichkeit zum
-Th
 
 --- Page 35 ---
-23
 
 Grunde legen, dieſes Gut im Gedanken ſucceſſive nah ver-
 ſchiedenen Entfernungen von der Stadt — dem Marktplagz
@@ -1139,7 +1085,7 @@ Guts ‘aus -der- Wirklichkeit auf den iſolirten Staat übertragen.
 
 Das in der Wirklichkeit auf dieſem Punkt der ‘Erde be-
 ſtehende Verhältniß zwiſchen Arbeitslohn und Zinsfuß; dieſe
-me>lenburgiſchen Landſtraßen; dieſe Größe der Güter und ſo
+mecklenburgiſchen Landſtraßen; dieſe Größe der Güter und ſo
 vieles andere liegt alſo der Konſtruktion des iſolirten Staats
 zum Grunde.
 
@@ -1165,9 +1111,8 @@ Kritif unterwerfen, das Geſezmäßige aufzuſuchen ſtreben, und
 dies — inſofern ‘es gefunden wird — ſtatt des Beſtehenden
 
 --- Page 36 ---
-24
 
-inden “iſolirten Staat übertragen. Damit wird dem Bli>
+inden “iſolirten Staat übertragen. Damit wird dem Blick
 die Ausſicht ‘auf eine unabſehbare Reihe von Unterſuchungen
 geöffnet, wovon folgende — in Verbindung mit den ſchon
 früher angedeuteten —'als'die hervorragendſten ſich dem Auge
@@ -1207,23 +1152,21 @@ gleicher Größe ‘und! in“ gleicher Entfernung ‘voneinander in
 der Ebene des iſolirten Staats' jerſey liegen, ‘und'in' ees
 
 --- Page 37 ---
-—
 
-25
 
 Vérbindung ſteht hier der Gd der Sorgfalt der Arbeit mit
 
 deit Koörttpreiſen ?
-4) Welchen Einfluß übt die Größe des Geldſto>s auf
+4) Welchen Einfluß übt die Größe des Geldſtocks auf
 
 die Höhe des Zinsfußes aus?
 
 5) Den Berechnungen über die Größe der Transportkoſten,
 welche der Wirklichkeit entnommen ſind, liegen die ſehr ſchlechten
-Wege, wie ſie im Anfang dieſes Jahrhunderts in“ Me>leñ-
+Wege, wie ſie im Anfang dieſes Jahrhunderts in“ Meckleñ-
 burg beſtanden, zum Grunde. Sicherlich iſ es aber ‘nicht
 vernünftig, ſo ſchlechte Wege zu halten — wie ſte denn auch
-in Me>lenburg dur<h Anlegung zahlreicher Chauſſeen ſchon
+in Mecklenburg durch Anlegung zahlreicher Chauſſeen ſchon
 ſehr vermindert ſind — und wenn wir uns den iſolirten
 Staat anfangs mit ſo ſchlechten Wegen verſehen denken, fa
 ſeine Geſtaltung und Ausdehnung darnach beſtimmt haben :
@@ -1239,7 +1182,7 @@ und ‘dem Nationalxeichthum vor ?
 6) Aus der Art, wie der iſolirté Staat konſtruirt iſt,
 ergibt ſich" ſchon, daß für die ganze Ebene Gleichheit des
 
-“_Klima's "angenommen iſt, und dem Zwe> der Unterſuchung
+“_Klima's "angenommen iſt, und dem Zweck der Unterſuchung
 gemäß im ‘erſten Theil angenommen werden mußte.
 “Auch bietet der iſolirte Staat ‘des erſten Theils wegen
 ſeiner geringen Ausdehnung keinen Stoff zu Betrachtungen
@@ -1247,12 +1190,11 @@ gemäß im ‘erſten Theil angenommen werden mußte.
 “Dénken wir uns aber “ dieſen von einer unbegrenzten
 Wildniß umgebenen Staat mit einem Eiſenbahnnez bis ‘zu
 der entlegenſten Gegend, aus welcher mit Hülfe der Eiſen-
-“bahnen no<“ Kori! nah der Stadt geliefert werden“ kann,
+“bahnen noch“ Kori! nah der Stadt geliefert werden“ kann,
 
 x bürehſchnitten : 0 erlangt der Staat eine folien Aüsdehnung,
 
 --- Page 38 ---
-26
 
 daß durch die bloße Verſchiedenheit des Klima's der Landbau
 im Süden des Staats einen ganz andern Character gewinnt
@@ -1283,7 +1225,7 @@ Boden, bei gleicher Lage?
 
 7) Um den iſolirten Staat konſtruiren zu- können, mußte
 nothwendig der Preis. des Getreides als bekannt angenommen
-und in einer beſtimmten Zahl ausgedrü>t werden. Dieſer
+und in einer beſtimmten Zahl ausgedrückt werden. Dieſer
 Preis kann aber weder willkührlich noch zufällig ſein. -Nach-
 dem nun der iſolirte Staat. ſeine Geſtaltung gewonnen, und
 wir uns die Auſgabe geſtellt haben , die gemachten Voragus-
@@ -1292,16 +1234,13 @@ tuiren, müſſen wir die Frage aufwerfen:
 
 Warum kann die Stadt keinen höhern als den ange-
 
-nommenen Preis von 114 Thlr. pr.“ Scheffel Ro>en
+nommenen Preis von 114 Thlr. pr.“ Scheffel Rocken
 
 + gahlen, und welches ſind die Urſachen und Bedingungen,
 
 --- Page 39 ---
-r
 
-4
 
-27
 
 daß gerade dieſer und kein anderer Preis gezahlt wer-
 den kann? tio!
@@ -1325,7 +1264,7 @@ In der Wirklichkeit iſt die Entſtehung der Städte oft
 vom Zufall abhängig geweſen. Neben der Hütte des erſten
 Anſiedlers {lug ein zweiter ſeine Hütte auf, weil die gegen-
 ſeitige Dienſtleiſtung Beiden nüßlih war. Aus gleichem
-Grunde ſ{loß ſi<“ dieſen ein dritter, vierter u. ﬅ. w. an, bis
+Grunde ſ{loß ſich“ dieſen ein dritter, vierter u. ﬅ. w. an, bis
 
 zuleht eine Stadt entſtand.
 
@@ -1346,7 +1285,6 @@ Dieſem Princip aber wird entſprochen, wenn die Gewerbe
 und Fabriken da lie Sig haben, wo ſie ‘am wohlfeilſten
 
 --- Page 40 ---
-28
 
 fabriziren und ihre Erzeugniſſe zu" den niedrigſten Preiſen an
 die Konſumenten gelangen laſſen können.
@@ -1392,7 +1330,6 @@ zu ‘bringenden Opfers; und "andererſeits iſt ‘der Nußen, den
 --- Page 41 ---
 X
 
-29
 
 die Bereicherung des Bodens gewährt, von der Höhe des
 Getreidepreiſes und des Preiſes der Viehprodukte abhängig,
@@ -1438,17 +1375,16 @@ Mirliplas einen Einfluß auf- die wedmäſigſte Größe der
 Güter?
 ec) Welchen Einfluß hat das Steigen des Boden-
 
-y “ Neichthums auf die zwe>mäßigſte Größe der Güter ?
+y “ Neichthums auf die zweckmäßigſte Größe der Güter ?
 
 --- Page 42 ---
-30
 
 12) Jn dem erſten Theil iſt nachgewieſen, ‘wie mit der
-größern Entfernung des A>ers vom Hofe die Koſten des
+größern Entfernung des Ackers vom Hofe die Koſten des
 Landbaues wachſen und die Rente des Bodens abnimmt.
 
 Dort mußte, um die Unterſuchung nicht zu verwirren,
-vorausgeſezt werden, daß der A>er vom Hofe bis zur Grenze
+vorausgeſezt werden, daß der Acker vom Hofe bis zur Grenze
 gleichen Reichthum enthalte und einem und demſelben Wirth-
 ſchaftsſyſtem unterworfen ſei.
 
@@ -1456,7 +1392,7 @@ Jezt, wo wir die gemachten Vorausſezungen eine nach
 der andern wieder aufheben, indem wir ſie ſelbſt zum Gegen-
 ſtand der Unterſuchung machen, drängen ſich die Fragen auf:
 
-a) Jſﬅ es zwe>mäßig, den A>kèr vom Hofe an bis zur
+a) Jſﬅ es zweckmäßig, den Ackkèr vom Hofe an bis zur
 Gutsgrenze in gleichen Reichthum zu verſeßen, und wenn
 dieſe Frage verneint wird, welche Abſtufung muß dann ſtatt-
 finden?
@@ -1485,7 +1421,6 @@ rung des Holzwerths vorgehen, wenn das Holz mit den
 mindeſten Koſten erzeugt werden ſoll ? Í
 
 --- Page 43 ---
-31
 
 14) Aus der Art, wie der iſolirte Staat konſtruirt ift,
 geht hérvor, daß für die landwirthſchaftlichen Gebäude in
@@ -1515,7 +1450,7 @@ bei welchem die Summe dieſer Koſten ein Minimum iſt.
 Die Konſequenz in der Bewirthſchaftung eines Guts for-
 dert das Marimum der Landrente. Dieſes Marimum kann
 aber nur erlangt werden, wenn die Baukoſten, bei vollſtän-
-diger Erreichung des Zwe>s der Gebäude, den möglichſt
+diger Erreichung des Zwecks der Gebäude, den möglichſt
 geringſten Theil vom Gutsertrage hinwegnehmen. Die Erfor-
 ſchung der Bauart, bei welcher die auf den jährlichen Ertrag
 zu ‘repartirenden Baukoſten das Minimum betragen, bildet
@@ -1531,12 +1466,9 @@ __Þ) Da die Produktionskoſten des Bauholzes mit der
 zunehmenden Entfernung von der Stadt ſchon deshalb, weil
 e. die Landrente — ein Beſtandtheil des Holzpreiſes — ſo ſehr
 
-/
 
 --- Page 44 ---
-S
 
-32
 
 abnimmt, immer geringer werden, und ſomit auch das Preis-
 verhältniß zwiſchen den verſchiedenen Baumaterialien, als
@@ -1579,13 +1511,12 @@ Jahre in allen Gegenden des iſolirten Staats cau glee
 Weiſe? |
 
 --- Page 45 ---
-EN
 
 33 |
 
 b) Bei reichen, wie bei ſchlechten Ernten hören die Pro-
 duktionskoſten auf, Regulator des Kornpreiſes zu ſein. Nach
-welchen Geſeßen richtet ſi<h nun in ſolchen Jahren der
+welchen Geſeßen richtet ſich nun in ſolchen Jahren der
 Kornpreis ? |
 
 Eine befriedigende Beantwortung der leßten Frage würde
@@ -1598,7 +1529,7 @@ gangsſtufe zu einem unerreichten noch fernen Ziel.
 Im iſolirten Staat haben wir dagegen ſtets den endlichen
 Erfolg, alſo das erreichte Ziel, vor Augen gehabt. Mit dem
 erreichten Ziel tritt Ruhe und damit der beharrende Zuſtand
-ein — und hier erbli>en wir Geſezmäßigkeit, während in der
+ein — und hier erblicken wir Geſezmäßigkeit, während in der
 Vebergangsperiode Manches uns als ein unentwirrbares Chaos
 erſcheint. Der beharrende Zuſtand kann aber aus folgenden
 Gründen in der Wirklichkeit nicht ſtattfinden.
@@ -1610,23 +1541,21 @@ Menſchengeſchlecht ſelbſt iſt noh im Ringen nach einem fernen,
 nicht-klar erkannten, kaum erſt geahnten Ziel begriffen.
 
 2) Was auch von der lebenden Generation ſchon als
-Zwe> und Ziel erkannt iſ , erfordert doh zu ſeiner Verwirk-
+Zweck und Ziel erkannt iſ , erfordert doh zu ſeiner Verwirk-
 lichung eine Zeitdauer, die die Lebenszeit des Menſchen oft
 
 weit überſteigt. — H
 3) Jn die Natur ſind Eigenſchaften und Kräfte gelegt,
-deren Entde>ung und richtige Benußzung eine der höchſten
+deren Entdeckung und richtige Benußzung eine der höchſten
 — Aufgaben des menſchlichen Geiſtes zu ſein ſcheint , indem
 dadurch die menſchliche Arbeit lohnender und fruchtbringender
 “ gemacht, und ſomit das Wohl der Menſchheit im hohen
 Grade gefördert wird. Aber die Natur enthüllt dem Menſchen
-it ihre Geheimniſſe nur allmälig, und da jede große Entde>ung
+it ihre Geheimniſſe nur allmälig, und da jede große Entdeckung
 SE 3
 
-*
 
 --- Page 46 ---
-34
 
 eine Aenderung oder ‘gar Umwandlung in dem Leben der
 bürgerlichen Geſellſchaft hervorbringt, ſo iſt auh das Streben
@@ -1634,7 +1563,7 @@ und das Ziel derſelben in gewerblicher Beziehung ſelbſt dem
 Wandel unterworfen. Aber troß dieſer Wandelbarkeit liegt
 in dem Einzelnen, was wir der Betrachtung unterziehen , der
 Keim zu einer beſtimmten — nicht zufälligen, nicht willkühr-
-lichen Entwi>elung, und wie wir wiſſen, welcher Baum aus
+lichen Entwickelung, und wie wir wiſſen, welcher Baum aus
 der in die Erde gelegten Eichel einſt hervorgehen wird, ſo
 fönnen wir auh hier die aus der Entwickelung des Keims
 entſproſſende Frucht — den endlichen Erfolg — unter der
@@ -1644,28 +1573,27 @@ liegt die Berechtigung bei unſern Unterſuchungen, den behar-
 renden Zuſtand in's Auge zu faſſen und zum Grunde zu legen.
 Die durch dieſe Methode erlangte Erkenntniß kann aber
 weſentlich dazu beitragen, über die verwirrenden Erſcheinungen
-während der Entwi>elung und des Uebergangs Licht zu verbreiten.
+während der Entwickelung und des Uebergangs Licht zu verbreiten.
 Wenden wir dies auf den iſolirten Staat an, ſo finden
 wir uns aufgefordert, die Wirkungen, welche die Erfindung
 neuer Maſchinen, neuer Kommunikationsmittel u. #. w. bei
 ihrem erſten Auftreten auf den Wohlſtand der bürgerlichen
 Geſellſchaft ausüben, mit den Folgen, die ſich ſpäter daraus
-entwi>eln, zu vergleichen — ſomit alſo das geheimnißvolle
+entwickeln, zu vergleichen — ſomit alſo das geheimnißvolle
 Werden — zum Gegenſtand der Betrachtung zu machen.
-Veberbli>en wir nun die Vielſeitigkeit und Mannigfaltigkeit
+Veberblicken wir nun die Vielſeitigkeit und Mannigfaltigkeit
 der aufgeſtellten Fragen, und erwägen wir, daß mit der
 
 Forderung der Konſequenz an die aus der Wirklichkeit in
 
 den iſolirten Staat übertragenen Verhältniſſe, neben den an-
-geführten Punkten no< faſt alle übrigen Verhältniſſe der
+geführten Punkten noch faſt alle übrigen Verhältniſſe der
 bürgerlichen Geſellſchaft zur Unterſuchung gezogen werden
 müſſen, daß damit ſtatt des Beſtehenden das Vernunftmäßige
 
 erforſcht, und ſomit das Ziel ſelbſt aufgeſtellt werden ſoll: ſo
 
 --- Page 47 ---
-35
 
 ergibt ſich von ſelbſt, daß die Löſung der Aufgabe nicht das
 Werk des Einzelnen, nicht einmal das Werk einer Generation
@@ -1673,7 +1601,7 @@ Werk des Einzelnen, nicht einmal das Werk einer Generation
 die das, was von der geſammten Menſchheit in mehreren
 Geſchlechtern vollbracht wird, ſammelt — und ſo kann es erſt
 einem ſpäteren Forſcher, der die Materialien vorfindet, gelin-
-gen, Grund und Zwe> der ſtattgefundenen Bewegung in ſich
+gen, Grund und Zweck der ſtattgefundenen Bewegung in ſich
 zum Bewußtſein zu bringen, und aus den Bruchſtücken ein
 
 ſyſtematiſches Ganze zu bilden.
@@ -1694,7 +1622,7 @@ Aufführung des großen Gebäudes werden kann.
 “Bei den Leſern, die in dieſe Anſicht eingehen, und die
 ganze Größe der Aufgabe erfaßt haben, glaube ih kaum der
 Entſchuldigung zu bedürfen, wenn hier überhaupt nur Bruch-
-ſtü>e geliefert werden, wenn die Ausführung der einzelnen
+ſtücke geliefert werden, wenn die Ausführung der einzelnen
 Kapitel höchſt ungleich wird, indem der Verfaſſer bei ſolchen
 Punkten, die* längere Zeit Gegenſtand der Betrachtung für
 ihn geweſen ſind, verweilt und in's Detail geht, andere Punkte
@@ -1705,12 +1633,10 @@ befriedigt fühlt, wenn er Andere us zur Forſchung an-
 
 y regen fann.
 
-3*
 
 --- Page 48 ---
 GGG GAGA ÉS
 
-36
 
 Erſter Abſchnitt.
 
@@ -1722,7 +1648,7 @@ Unklarheit des Begrifs vom natürlichen Arbeitslohn-
 (Geſchrieben im Jahr 1842.)
 
 Alle nationalökonomiſchen Studien führten mich immer
-auf die Frage zurü>: Jſﬅ der geringe Lohn, den die gewöhn-
+auf die Frage zurück: Jſﬅ der geringe Lohn, den die gewöhn-
 lichen Handarbeiter faſt überall erhalten, ein naturgemäßer,
 oder iſt dieſer durh Uſurpation, der ſich die Arbeiter nicht
 wieder entziehen können, entſtanden ?
@@ -1737,24 +1663,23 @@ Arbeitserzeugniſſes zwiſchen Arbeiter, Kapitaliſten und
 Grundbeſißer naturgemäß geſchehen ſoll ?
 
 --- Page 49 ---
-37
 
 Die-Erforſchung dieſes Geſetzes bietet nicht blos ein national-
 öfonomiſches Jntereſſe dar, ſondern hat auch eine ſehr ernſte,
 moraliſche Beziehung. '
 
 Man kann von dem redlichſten Willen, ſeine Pflicht zu
-erfüllen, beſeelt ſein, und do< Andern großes Unrecht thun
+erfüllen, beſeelt ſein, und doch Andern großes Unrecht thun
 — wenn man nicht weiß und nicht erkennt, was Pflicht iſt.
 
 Jn dem Begrif von dem, was Pflicht gegen die Arbeiter
 iſt, was dem Arbeiter als Lohn zukommt, welche Forderungen
-des Arbeiters man als ungerecht zurü>weiſen darf — in
+des Arbeiters man als ungerecht zurückweiſen darf — in
 allen dieſen herrſcht die freieſte Willkühr, und jeder kann ſich
 dies beantworten, wie es ihm bequem iſ; denn ſelbſt die
 Wiſſenſchaft giebt hierüber keine andere Aufklärung als dieſe :
 „Die Höhe des Arbeitslohns wird durch die Konkurrenz der
-Arbeiter, dur<h das Verhältniß zwiſchen Begehr nah Arbeit
+Arbeiter, durch das Verhältniß zwiſchen Begehr nah Arbeit
 und Angebot derſelben , beſtimmt,“ in welcher durch eine
 Begrifsverwechſelung das Faktiſche für eine Erklärung =
 das, was geſchieht, für den Grund der Erſcheinung genommen
@@ -1777,14 +1702,9 @@ Am verderblichſten aber wirkt die Unklarheit der Anſicht
 Die Ständeverſammlungen der konſtitutionellen Staaten
 ſtreben mit aller Kraft dahin, ſih gegen Fürſtenwillkühr zu
 
--
 
 --- Page 50 ---
-j
-1
-|
 
-38
 
 ſichern und zu verwahren. Aber die Mitglieder der ſtändiſchen
 Verſammlungen gehören ſämmtlih den gebildeten und wohl-
@@ -1792,7 +1712,7 @@ habenden Klaſſen der Geſellſchaft an, während die zahlreichſte
 Klaſſe, die der gemeinen Arbeiter, überall nicht vertreten iſt
 — und ſo kann es geſchehen, daß dieſelbe Verſammlung, die
 ſo kräftig gegen Fürſtenwillkühr auftritt, gegen das Volk
-ſelbſt Willkühr ausübt, und dur< Bewilligung von Abgaben,
+ſelbſt Willkühr ausübt, und durch Bewilligung von Abgaben,
 durch Geſeßesvorſchläge u. ﬅ. w. zum Unterdrücker der Arbeiter
 wird. Es bedarf hiezu nicht des böſen Willens, nicht einmal
 der Triebfeder des Eigennuzes, es bedarf nur der Anſicht,
@@ -1825,7 +1745,6 @@ dadurh nur das, was in der Wirklichkeit geſchieht, ausge-
 ſprochen. "TH
 
 --- Page 51 ---
-39
 
 Wenn dagegen die Arbeiter behaupten, daß das, was in
 der Wirklichkeit geſchieht, ein Unrecht ſei: ſo hat jenes ver-
@@ -1868,7 +1787,6 @@ Realiſation noh weit entfernt — und es iſ niht abzuſehen,
 __ welche Stürme der Zukunft noh bevorſtehen.
 
 --- Page 52 ---
-40
 
 Aber jenſeits dieſer Kämpfe lauſcht ſchon ein anderer, der
 in dem Ringen nach konſtitutioneller Freiheit ſhon als Keim
@@ -1901,7 +1819,7 @@ Wurzel ſ{hlagen, zumal wenn dieſe Anſichten von gewandten
 und beredten, aber ungründlichen Schriftſtellern verkündigt
 und veröffentlicht werden.
 
-Sollten in fernerer Zukunft die Kommuniſten unglü>licher-
+Sollten in fernerer Zukunft die Kommuniſten unglücklicher-
 weiſe in Frankreich jemals zur Herrſchaft gelangen, und ihre
 Heere, gleichzeitig bewaffnet mit dem Schwerdt und mit Pro- “
 flamationen, die unſern Soldaten Theilung des Eigenthums
@@ -1910,13 +1828,12 @@ und Gleichheit des Vermögens verheißen, unſere Grenze über-
 iſt dann die Grenze der Umwälzungen und Verheerungen — —?
 
 --- Page 53 ---
-41
 
 Sicherlich aber liegt es nicht in dem Plan des Welt-
 geiſtes oder der Vorſehung, daß jeder Fortſchritt in der
 Ausbildung des Menſchengeſchlechts erſt nah unzähligen Rü-
 
-| ſchritten zur That werden, und dur<h Ströme von Blut und
+| ſchritten zur That werden, und durch Ströme von Blut und
 dem Jammer mehrerer Generationen erkauft werden ſoll. Jn
 der Erkenntniß der Wahrheit und des Rechten, in der Be-
 zähmung des Egoismus, vermöge welcher der Bevorzugte
@@ -1927,7 +1844,7 @@ Beſtimmung friedlih und, heiter entgegenzuführen.
 Wo aber Jrthum und Egoismus die Herrſchaft führen,
 da tritt, wie die Weltgeſchichte zeigt, die Nemeſis furchtbar
 rächend auf. Die hohe und hehre Aufgabe der Wiſſenſchaft
-aber iſt es, niht durh die Erfahrung, dur<h den Verlauf
+aber iſt es, niht durh die Erfahrung, durch den Verlauf
 der Geſchichte, ſondern durch die Vernunft ſelbſt die Wahrheit
 und das Ziel, wonach wir ſtreben ſollen, zu erforſchen und
 
@@ -1950,10 +1867,9 @@ Unternehmers (z. B. des Fabrikanten, des Pächters und
 des Handarbeiters.
 “Warum wird dies Misverhältniß aber nicht ausgeglichen
 
-“durch den Uebertritt der geſchi>teſten Handarbeiter zu der
+“durch den Uebertritt der geſchickteſten Handarbeiter zu der
 
 --- Page 54 ---
-42
 
 Klaſſe der Unternehmer, da doch hier eine freie Konkurrenz
 ſtattfindet ?
@@ -1977,7 +1893,7 @@ immer ſtärker iſt, als die Nachfrage nach denſelben — wo-
 durch der Lohn ſo tief herabſinkt, daß dadurh gerade nur
 die allernothwendigſten Lebensbedürfniſſe beſtritten werden
 fönnen. Ja es iſt leider wahr, daß eine noh größere Ver-
-mehrung blos durch den Hinbli> auf das Elend, was unter
+mehrung blos durch den Hinblick auf das Elend, was unter
 einem Theil dieſer Klaſſe herrſcht, zurückgehalten wird.
 
 So ſind alſo die Arbeiter an der geringen Belohnung,
@@ -2000,20 +1916,19 @@ können, wenn fie ſo leben und ihre Kinder ſo erziehen woll-
 = a ttidiA ALD aud | LA rai
 
 --- Page 55 ---
-43
 
 ten, wie die Tagelöhner: aber ſte opfern das Glück, was die
 Ehe gewähren kann (niht immer gewährt), für eine Zeit
 lang auf, weil in ihren Augen ein ärmliches Leben und
 eine ſchlechte Erziehung ihrer Kinder ſo große Uebel ſind,
-daß ſie durh das Glü>k der Ehe nicht kompenſirt werden.
+daß ſie durh das Glückk der Ehe nicht kompenſirt werden.
 Der Arbeiter dagegen heirathet, wenn er nur eine Wohnung
 befommen fann, ſobald er das 20. Jahr überſchritten hat,
 und nichts als die Kraft ſeiner Arme mitbringt, um eine
 Familie zu unterhalten. Für ihn hat alſo die Ehe mehr
 Reiz, als alles Elend, was ſeiner im Hintergrunde wartet,
 als die Ausſicht, ſeine Kinder ohne genügenden Unterricht
-aufwachſen zu laſſen, Abſchre>endes für ihn haben könnte.
+aufwachſen zu laſſen, Abſchreckendes für ihn haben könnte.
 Jhm genügt es, ſeine Kinder blos phyſiſch aufzuziehen —
 die geiſtige Ausbildung derſelben iſ für ihn kein Bedürfnis.
 Welche Folgen würde es aber haben, wenn der Volks-
@@ -2027,7 +1942,7 @@ beitslohn würde die erſte unmittelbare Folge davon ſein.
 Wie ſoll aber der Tagelöhner dahin gelangen, eine geiſtige
 Ausbildung ſeiner Kinder zu den Nothwendigkeiten des Lebens
 zu rechnen, wenn er ſelbſt niht den Trieb zur geiſtigen Ent-
-wi>elung in ſi< fühlt? Denn ſo lange ihm dieſer Trieb
+wickelung in ſich fühlt? Denn ſo lange ihm dieſer Trieb
 fehlt, wird er den erſparten Thaler zur Befriedigung ſinnlicher
 Genüſſe, und nicht zum beſſern Unterricht ſeiner Kinder ver-
 
@@ -2040,16 +1955,10 @@ beſſere Erziehung zu geben, künftig das Opfer bringen ſollen,
 ſich der Ehe“ länger zu enthalten: ſo muß in der jebigen
 
 --- Page 56 ---
-'
-|
-|
-N
-y
 
-44
 
 jüngern Generation das Bedürfniß nach geiſtiger Entwickelung
-gewe>t werden. Dies kann aber nur durch beſſeren Schul-
+geweckt werden. Dies kann aber nur durch beſſeren Schul-
 unterricht erreicht werden — und da die jeßigen Arbeiter
 weder das Vermögen, noch den Willen haben, die Koſten des
 beſſern Unterrichts zu bezahlen: ſo müſſen die Unterrichts-
@@ -2085,18 +1994,15 @@ der körperlichen Anſtrengung faſt erliegt und ſeines Lebens
 faum froh werden kann, der andere Theil aber ſich der
 
 --- Page 57 ---
-45
 
-\
-|
 
 Arbeit ſchämt, den Gebrauch ſeiner Körperkräfte verlernt und
-dafür dur<h Mangel an Geſundheit und Frohſinn büßt —
+dafür durch Mangel an Geſundheit und Frohſinn büßt —
 werden dann vielleicht die mehrſten Stände ihre Zeit zwiſchen
 geiſtiger Beſchäftigung und mäßiger körperlichen Arbeit thei-
 len, und der Menſch ſo wieder zu dem naturgemäßen Zuſtand
 und zu ſeiner Beſtimmung — der Uebung und Ausbildung
-aller ſeiner Kräfte und Anlagen — zurü>geführt werden.
+aller ſeiner Kräfte und Anlagen — zurückgeführt werden.
 
 Wenn auch in einem ſolchen Zuſtand der Geſellſchaft nicht
 alle Leidenſchaften der Menſchen zum Schweigen gebracht
@@ -2106,7 +2012,7 @@ entſpringen, ſeltener werden, ja faſt ganz aufhören.
 
 Erwägt man nun, daß mit der größern Verbreitung der
 geiſtigen Ausbildung auh die Zahl derer wächſt, welche
-befähigt ſind, Entde>kungen und Erfindungen im Maſchinen-
+befähigt ſind, Entdeckkungen und Erfindungen im Maſchinen-
 weſen und Landbau zu machen, daß jede ſolche Erfindung
 die Arbeit des Menſchen wirkſamer maht und durch ein
 größeres Produkt lohnt, daß alſo mit der ſteigenden geiſtigen
@@ -2119,7 +2025,7 @@ und Körper Übenden, Geſundheit und Frohſinn ſtärkenden,
 Thätigkeit hinbrächte.
 
 | So wäre alſo das Paradies das Ziel, was das menſch-
-liche Geſchlecht erſt na< langem Ringen und Streben
+liche Geſchlecht erſt nach langem Ringen und Streben
 erreichen fann, während die Tradition ſchon die erſten Menſchen
 
 in ein Paradies verſegt.
@@ -2128,7 +2034,6 @@ in ein Paradies verſegt.
 im Herbſt 1826, als ih beim Studium der national-
 
 --- Page 58 ---
-46
 
 öfonomiſchen Werke von Say und Ricardo mich durch das,
 was darin vom Arbeitslohn geſagt iſ, unbefriedigt fühlte,
@@ -2169,15 +2074,11 @@ Jrthum und Unwiſſenheit ſind überall verderblich, aber
 wohl bei keinem andern Gegenſtand in ſo hohem Grade, als
 
 --- Page 59 ---
-1
 
 c ROR
-\
-Ï
 
-47
 
-bei dieſem; denn hier wird dadurch die Nuhe und das Glü>
+bei dieſem; denn hier wird dadurch die Nuhe und das Glück
 von Millionen Menſchen zerſtört. -
 
 Noch drängt ſich mir hier eine andere Betrachtung auf.
@@ -2219,20 +2120,18 @@ Wie wohlthuend aber auch die in dem Traum enthaltene
 
 E‘: Auffaſſung von der Zukunft des Menſchengeſchlechts dem
 
-+
 
 --- Page 60 ---
-48
 
-Gefühl ſein mag, indem ſie uns mit dem Schi>kſal verſöhnt
+Gefühl ſein mag, indem ſie uns mit dem Schickkſal verſöhnt
 und in der fortrollenden Geſchichte uns eine der Menſchheit
-wohlwollende Vorſehung erbli>en läßt — immer iſ dieſer
+wohlwollende Vorſehung erblicken läßt — immer iſ dieſer
 Traum nur eine Utopie, ſo lange die Möglichkeit ver Ver-
 wirklichung deſſelben nicht nachgewieſen iſt. ;
 
 Zur Verwirklichung aber gelangt nur, was “aus der
-Organiſation der Menſchheit ſi<h mit Nothwendigkeit ent-
-wi>elt.
+Organiſation der Menſchheit ſich mit Nothwendigkeit ent-
+wickelt.
 
 Was helfen nun die frommen Wünſche von höherem Lohn
 und größerer Ausbildung der Arbeiter, wenn niht nachge-
@@ -2241,7 +2140,7 @@ gelegten Eigenſchaften und Kräften verträglich iſt ?
 
 Sehen wir nicht, daß Fabriken ſtille ſtehen, wenn der
 Arbeitslohn ſteigt; wird nicht bei einem höhern Lohn der
-Anbau ganzer Stre>en minder fruchtbaren Bodens aufhören,
+Anbau ganzer Strecken minder fruchtbaren Bodens aufhören,
 und dieſer wüſt liegen bleiben — und wird dann das Loos
 der Arbeiter nicht noh trüber werden, als es jeßt iſt ?
 
@@ -2258,7 +2157,6 @@ der Nationalökonomie, um zu ſehen, wie weit durch ihn die
 uns vorliegende Aufgabe gelöſt iſt.
 
 --- Page 61 ---
-49°
 $. 3.
 
 Adam Smith's Anſichten über Arbeitslohn, Zinsfuß,
@@ -2274,7 +2172,7 @@ beſtimmter hervortreten.
 Da’ ſich Adam Smith's Anſichten viel leichter auffaſſen
 und überſchen laſſen, wenn man aus ſeinem Buch die Zwi-
 ſchenſäße und zufällig eingemiſchten Reflexionen ausſcheidet :
-ſo habe i< zur Bequemlichkeit der Leſer aus dem erſten
+ſo habe ich zur Bequemlichkeit der Leſer aus dem erſten
 Band von Smiths Werk über den Nationalreichthum *) die
 wichtigſten und entſcheidendſten Säße über die oben angege-
 benen Gegenſtände, theils wörtlich, theils abgekürzt, in Nach-
@@ -2298,10 +2196,8 @@ Rents, aus welchen der Arbeitslohn bezahlt wird, die Ein-
 Aus dem Engliſchen der vierten
 luege n neu überſest von Garne, Breslau 1794.
 
-4
 
 --- Page 62 ---
-50
 
 fünfte und das Kapital ſämntlicher Einwohner ſein mögen;
 ſo wird, wenn beide mehre Jahre hindurch unverändert geblieben
@@ -2342,12 +2238,11 @@ daß der Zuſtand des arbeitenden Armen oder der zahlreichſten
 Volksklaſſen, in der Zeit, wo die bürgerliche Geſellſchaft ſich
 
 --- Page 63 ---
-51
 
-dem Punkt ihres höchſten Flors nähert, glü>licher und. er-
+dem Punkt ihres höchſten Flors nähert, glücklicher und. er-
 wünſchter zu ſein ſcheint, als in der, wo ſie dieſen Punkt
 erreicht hat. Steht die Geſellſchaft in ihrem Wohlſtande ftill,
-ſo lebt der gemeine Arbeiter kümmerlich; geht ſie zurü>, ſo
+ſo lebt der gemeine Arbeiter kümmerlich; geht ſie zurück, ſo
 
 lebt er elend.“
 
@@ -2376,7 +2271,7 @@ vorhanden ſein muß.
 
 “Der beharrende Zuſtand aber iſt der Zuſtand des Still-
 ſtandes, in welchem nah Adam Smith der Arbeiter küm-
-merlich lebt, und der Lohn ſo weit herabgedrü>t wird, daß
+merlich lebt, und der Lohn ſo weit herabgedrückt wird, daß
 der Arbeiter dadurch nur für ſich die unentbehrlichſten Bedürf-
 
 niſſe befriedigen kann, ſo daß der Mangel einen großen Theil
@@ -2385,7 +2280,6 @@ der erzeugten Kinder wieder um's Leben bringt.
 : 4 *
 
 --- Page 64 ---
-52
 
 Sterben aber — aus Mangel an den nothwendigen
 Lebensbedürfniſſen, iſt ein gräßliches Loos, und es wäre ent-
@@ -2393,7 +2287,7 @@ Lebensbedürfniſſen, iſt ein gräßliches Loos, und es wäre ent-
 Volksklaſſe einem ſolchen Schickſal entgegen gehen ſollte. Denn
 es läßt ſich niht verkennen, daß in dem Maas, als alle
 Erdtheile bevölkerter werden, der fruchtbare Boden in Beſig
-genommen iſt, und die Entde>ungen neuer, der Produktion
+genommen iſt, und die Entdeckungen neuer, der Produktion
 und Fabrikation dienender Naturkräfte ſeltener werden, wir
 uns dem Zuſtand des Stillſtandes mehr und mehr nähern.
 
@@ -2418,7 +2312,7 @@ theilig. Da aber nah Adam Smith (S. 161) die Ge-
 “ winnſte ſich aus der- Höhe der Geldzinſen beurtheilen laſſen,
 
 beide alſo gewiſſermaßen proportional ſind, ſo läßt ſich auch
-aus dem, was er über die Größe der Gewinnſte ſagt, rü>-
+aus dem, was er über die Größe der Gewinnſte ſagt, rück-
 wärts auf die Höhe des Zinsfußes ſchließen.
 
 Advam Smith's Unterſuchung über den Kapitalgewinn
@@ -2427,7 +2321,6 @@ verſchiedenen Ländern und zu verſchiedenen Zeiten, aber nur
 Weniges und Unzulängliches über die Geſeße, wodurch die
 
 --- Page 65 ---
-53
 
 Höhe der“ Gewinnſte und der Zinſen beſtimmt wird. Die
 wichtigſten Säge in dieſer Beziehung dürften folgende ſein :
@@ -2438,7 +2331,7 @@ vieler Kaufleute in demſelben HandelszwBeig angelegt werden,
 ſo muß nothwendig die daraus entſtehende Konkurrenz den
 Erfolg haben, ihre Gewinnſte kleiner zu machen, und wenn
 ‘dieſe Zunahme der Kapitalien ſich über alle Zweige der Ge-
-werbe und des Handels eines Landes erſtre>t, ſo muß auch
+werbe und des Handels eines Landes erſtreckt, ſo muß auch
 der Gewinn aller Kapitaliſten ſich vermindern.“
 
 S. 172. „Jn einem Lande, welches zu dem vollen
@@ -2469,7 +2362,6 @@ lichen Gewinnſte der Kapitaliſten ſteigen können, iſt, wenn ſie
 ſo groß ſind, daß ſie. in den Preiſen der Waaren, den Theil,
 
 --- Page 66 ---
-54
 
 welcher dem Grundeigenthümer zukommt, verſchlingen, und für
 den Arbeiter nur einen ſo kleinen Theil übrig laſſen, als
@@ -2507,9 +2399,7 @@ Ueber den Urſprung und die Begrünoungi der Landrente
 ſagt Adam Smith: j |
 
 --- Page 67 ---
-55
 
-/
 
 S.1-89. „Sobald als in einem Lande Grund und Boden
 Privateigenthum geworden iſt, wandelt auh die Gutsbeſizer
@@ -2537,7 +2427,7 @@ Pächter ſchließt, ſo iſt er gewiß bemüht, ihm an den Erzeug-
 niſſen ſeines Bodens keinen größern Antheil zu laſſen, als
 ſchlechterdings nöthig iſ, (um dem Pächter theils die Fonds,
 woraus er die Anſchaffung des Samens beſtreitet, die Arbeiter
-bezahlt, und Vieh und A>ergeräth ankauft und unterhält,
+bezahlt, und Vieh und Ackergeräth ankauft und unterhält,
 theils von dieſen Fonds den Gewinn zu ſichern, den in dieſer
 
 Gegend Pächter gewöhnlicher Weiſe von ihren Kapitalien
@@ -2549,13 +2439,10 @@ geneigt ihm zu laſſen. Was nun von dem Produkt
 eines Landguts, oder (welches einerlei iſ) von
 dem Preiſe dieſes Produkts, nah Abzug jenes
 
-e
 a i i
 
-nee
 
 --- Page 68 ---
-56
 
 Theils noch übrig bleibt, das eignet ſih der
 Grundherr unter dem Namen der Rente zu.“
@@ -2583,18 +2470,17 @@ Verpachtung giebt, „Landrente“ nennt, daß alſo (wie im
 erſten Theil, zweite Auflage, $ 5 a. ausführlich gezeigt
 iſt) ‘in Adam Smith?s Landrente der Ertrag “des
 Grund und Bodens an ſich mit den Zinſen des in den
-Gutsgebäuden 2c. ſte>enden Kapitals vermengt ſind,
+Gutsgebäuden 2c. ſteckenden Kapitals vermengt ſind,
 
 laſſen wir hier unberückſichtigt, weil ſie nicht zum Gegenſtand
 unſerer gegenwärtigen Betrachtung gehören.
 
-Dagegen muß ſi< hier unſere ganze Aufmerkſamkeit dar-
+Dagegen muß ſich hier unſere ganze Aufmerkſamkeit dar-
 auf richten, daß nah Adam Smith die Höhe der Land-
 rente und überhaupt das Vorhandenſein derſelben ganz und
 gar von dem Preiſe der ländlichen Erzeugniſſe abhängig "iſt.
 
 --- Page 69 ---
-57
 
 ita Preis.
 
@@ -2636,10 +2522,8 @@ die Wiſſenſchaft gewonnen ?
 Ögd *) Dies heißt das Leben abſchreiben, aber Vernunft ift nict
 darin,‘ ſagte ein Freund, dem ih dieſe Säge ttpellte, If
 
-TA
 
 --- Page 70 ---
-58
 
 Die Konkurrenz, das Verhältniß zwiſchen Angebot und
 Nachfrage, iſt ſo wenig ſtetig, iſt ſo CRE und veränder-
@@ -2683,7 +2567,6 @@ bringen — nah den an jedem Orte, zu jeder Zeit gewöhn-
 lichen Taxen — zu bezahlen: ſo wird dieſe Waare für den
 
 --- Page 71 ---
-59
 
 Preis verkauft, welchen man ihren“ natürlichen nennen
 fann.“ | NICH ENEE
@@ -2720,7 +2603,6 @@ lohn beſtimmt, ſo lautet die Antwort: Durch die Konkurrenz:
 _Kapitalgewinnſtes, ſo iſt dieſer abermals die Konkurrenz.
 
 --- Page 72 ---
-60
 
 Die Entfernung der Konkurrenz aus den Be-
 _ ſtimmungsgründen für den natürlichen Preis iſt
@@ -2748,7 +2630,7 @@ Der natürliche Preis des Getreides iſt der, durch welchen
 das gewöhnliche Maas von Arbeitslohn, Kapitalgewinn
 
 und Landrente, was in den Produktionskoſten des Ge-
-treides enthalten iſ, genau gede>t wird.
+treides enthalten iſ, genau gedeckt wird.
 
 Fragen wir nun ferner: „welches iſt die natürliche
 
@@ -2770,7 +2652,6 @@ der Landrente wird dagegen der natürliche Preis n
 des Getreides als bekannt angenommen.
 
 --- Page 73 ---
-61
 
 "Dies iſ ein Zirkelſchluß, der beim oberflächlichen Leſen
 wohl einſchläfern und beruhigen kann, durch den aber Nichts
@@ -2784,7 +2665,7 @@ bleiben beide unbeſtimmt.
 Unglülicherweiſe treffen dieſer Zirkelſchluß und jene Jllu-
 ſion, in Betref der Entfernung der Konkurrenz aus den Be-
 ſtimmungsgründen des natürlichen Preiſes grade ein Funda-
-mentſtü> des ganzen Lehrgebäudes.
+mentſtück des ganzen Lehrgebäudes.
 
 Wenn hiernah nun die Landrente vom Preiſe der länd-
 lichen Erzeugniſſe abhängt, der Preis aber abhängig iſt vom
@@ -2812,7 +2693,6 @@ Keiftrezg zukommen läßt, "das EA auf das Beſtehende an-
 gewieſen.
 
 --- Page 74 ---
-62
 
 In der That ſagt A. Smith (S. 99) ſelbſt: „dasjenige
 Maas des Arbeitslohns, das an einem gewiſſen Orte, zu
@@ -2853,7 +2733,6 @@ matiſcher dargeſtellt ſind, be geſchieht dies aus den beiden
 Gründen: ih:
 
 --- Page 75 ---
-63
 
 H weil meine Unterſuchungen. in dem Smit h'ſchen Werk
 ihre Wurzeln haben, und zu einer Zeit begonnen ſind, wo
@@ -2894,23 +2773,22 @@ Re vollendet haben.
 ab vgs das große Herſchel’ſche Teleskop wurden die dem
 
 --- Page 76 ---
-64
 
-bloßen Auge ſichtbaren Nebelfle>e am Firmament in Stern-
+bloßen Auge ſichtbaren Nebelflecke am Firmament in Stern-
 gruppen d. i. in Weltſyſteme ‘aufgelöſt, aber es zeigten ſich
-nun andere bisher nicht geſehene Nebelfle>e. Durch" das in
+nun andere bisher nicht geſehene Nebelflecke. Durch" das in
 unſern Tagen konſtruirte Rieſenteleskop ſind die Herſchelſchen
-Nebelfle>e wieder in Sterngruppen aufgelöſ\t, aber zugleich
-auch wieder Nebelfle>e enthüllt, die für Herſchel noh unſicht-
+Nebelflecke wieder in Sterngruppen aufgelöſ\t, aber zugleich
+auch wieder Nebelflecke enthüllt, die für Herſchel noh unſicht-
 bar waren. y
 
 Wie viele Weltſyſteme mögen nun noch jenſeits der Grenze
 liegen, bis zu welchen das Rieſenteleskop das Auge führt!
 
 Unendlich aber wie das Weltall iſt auch die Wiſſenſchaft.
-Wie dort die Verſtärkung der Sehkraft zur Entde>ung neuer
+Wie dort die Verſtärkung der Sehkraft zur Entdeckung neuer
 Weltſyſteme, aber auch zu neuen Geheimniſſen führt: ſo ent-
-hüllen ſich auh mit den Entde>ungen in der Wiſſenſchaft
+hüllen ſich auh mit den Entdeckungen in der Wiſſenſchaft
 dem geiſtigen Auge neue bisher nicht geahnte Probleme.
 
 Nachdem A. Smith über ſo viele Gegenſtände des bür-
@@ -2923,23 +2801,21 @@ in den Geſichtskreis zu bringen.
 g. 4.
 Arbeitslohn.
 
-Wenn man auf die ungleiche Vertheilung der Glü>sgüter
-bli>t, und erwägt, wie geringe die mühſamen körperlichen Arbeiten
+Wenn man auf die ungleiche Vertheilung der Glücksgüter
+blickt, und erwägt, wie geringe die mühſamen körperlichen Arbeiten
 des Tagelöhners, die doch zugleich die unentbehrlichſten ſind,
 bezahlt werden: ſo drängen ſich wohl Jedem, der die Geiſtes-
 freiheit erlangt hat, die mit der Muttermilch eingeſogenen
-Eindrü>e und Vorurtheile einer Prüfung zu unterwerfen, und
+Eindrücke und Vorurtheile einer Prüfung zu unterwerfen, und
 nach dem Grund derſelben zu forſchen, die Fragen auf:
 
 1) Warum bezieht der Gutsbeſizer ohne Mühe und Arbeit
 eine Rente von ſeinem Boden ; warum kann der Arbeitslohn
 
 --- Page 77 ---
-(4
 
 ————
 
-65
 
 micht ſo hoch ſteigen, daß ‘die bisherige Landrente unter
 
@@ -2975,7 +2851,7 @@ uns liegen.
 
 “An der Grenze der kultivirten Ebene des iſolirten Staats,
 wo der Boden keine Rente gibt, und der Gutsertrag auf die
-Zinſen des in den Gebäuden 2c. ſte>enden Kapitals beſchränkt
+Zinſen des in den Gebäuden 2c. ſteckenden Kapitals beſchränkt
 iſt, muß durch eine Erhöhung des Arbeitslohns die Landrente
 
 negativ “werden, d. i. unter Null herabſinken.
@@ -2986,15 +2862,13 @@ feine neuen Gebäude mehr errichten, ſondern das Gut ver-
 laſſen, ſobald die alten Gebäude ' den Einſturz drohen. Der
 Boden bleibt ‘dann wüſt liegen, und der Anbau des‘ Bodens
 
-zieht ſich bis ‘auf die Entfernung ‘von der Stadt zurü>, [wo
+zieht ſich bis ‘auf die Entfernung ‘von der Stadt zurück, [wo
 
-5
 
 --- Page 78 ---
-66
 
 die«bisherige Landrente den Betrag des erhöhten Arbeitslohns
-zu de>en vermag.
+zu decken vermag.
 
 Die Arbeiter aus dem jeßt verlaſſenen Kreiſe müſſen in
 den der Stadt nähern Gegenden, wo auf Koſten der Land-
@@ -3002,7 +2876,7 @@ rente ein höherer Lohn gezahlt werden kann, Arbeit und: Un-
 terhalt ſuchen. Aber auf den Gütern in dieſen Gegenden
 ſind ſchon ſo viele Menſchen beſchäftigt, daß das Arbeits-
 produkt des zulezt angeſtellten Arbeiters nur gerade noh den
-Lohn de>t, den er erhält. Sollen noh mehr Arbeiter ange-
+Lohn deckt, den er erhält. Sollen noh mehr Arbeiter ange-
 ſtellt werden, ſo müſſen Culturmethoden angewandt werden,
 die weniger einträglih ſind, und ſih bei dem bisherigen
 Arbeitslohn- nicht bezahlt machen. Es können alſo auch. die
@@ -3010,7 +2884,7 @@ hinzukommenden Arbeiter nur dann Beſchäftigung finden, wenn
 ſie für einen noch niedrigern Lohn als den bisherigen arbeiten
 wollen.- Die Noth wird ſte zur Annahme des geringern Lohns
 zwingen, und durch die Konkurrenz wird dann auch der Lohn
-der dort ſchon länger anſäſſigen Arbeiter herabgedrü>t:
+der dort ſchon länger anſäſſigen Arbeiter herabgedrückt:
 
 Der Verſuch den Arbeitslohn zu erhöhen, bewirkt alſo
 das Gegentheil, und die Lage der Arbeiter wird dadurch nur
@@ -3035,12 +2909,9 @@ Wurzeln hat ſchlagen können.
 
 überſegt von Buß, 2. Band. S, 162) ſagt von Say:
 
-4.
 
 --- Page 79 ---
-F
 
-67
 
 „Er folgte dem Vorurtheil der Zeitgenoſſen, welche dèn
 Lohn als genügend anſahen, nicht weil er leben ließ,
@@ -3077,26 +2948,24 @@ Die Höhe des" Zinsfußes kann aber auh nicht willkühr-
 lich, ‘nicht blos“ zufällig ſein, ſondern es muß auch hierin
 Geſeßmäßigkeit walten.
 
-Wir werden hiedur< unmittelbar darauf geführt, daß die
+Wir werden hiedurch unmittelbar darauf geführt, daß die
 Beſtimmung des naturgemäßen Arbeitslohns abhängig iſ von
 der Kenntniß der Geſeße, wodurch die Höhe des Zinsfußes,
 und’ das Verhältniß deſſelben zum Arbeitslohn beſtimmt wird.
 
 “Damit betreten wir nun die ‘Schwelle einer ſchwierigen
 
-und verwi>elten Unterſuchung.
+und verwickelten Unterſuchung.
 E gs
 
-LS
 
 ——> rr ————
 
 --- Page 80 ---
-68
 
 Da ein ſchon im Jahre 1826 niedergeſchriebènes Frag-
 ment, den Zinsfuß betreffend, das aufgeſtellte Problem und
-die zu löſenden Fragen näher entwi>elt, ſo theile ich dies
+die zu löſenden Fragen näher entwickelt, ſo theile ich dies
 Fragment hier zunächſt mit.
 
 $ 5.
@@ -3132,11 +3001,8 @@ bleibt konſtant beim ſtillſtehenden, und feigh beim abnehmen-
 den Nationalreichthum. E e ditu
 
 --- Page 81 ---
-—E-
 
-_
 
-69
 
 A. Dies ſind aus der Erfahrung entnommene Säte, die
 als ſolche. ihren Werth haben; aber ‘ſte geben wiederum nur
@@ -3182,7 +3048,6 @@ und Verfaſſung wären in beiden Ländern gleich — folgt
 hieraus, daß der relative Nationalreichthum, d. i. der auf
 
 --- Page 82 ---
-70
 
 einèn Kopf fallende Theil des Geſammt-Reichthums, und der
 Zinsfuß in beiden Ländern gleich hoch ſein müſſen ?
@@ -3251,7 +3116,7 @@ __pCt., oder noch höher verzinſen. Jſ aber der reiche Boden
 erſt’ ſämmtlich in Beſiß genommen, nnd wendet ſich die Ur-
 barmächüng dem Boden von minderer Güte zu, ſo ſinkt nach
 und! nah die Nuzung des verwandten Kapitals auf 5, 4
-“oder gar 3 pCt. zurü>.
+“oder gar 3 pCt. zurück.
 
 Die Höhe des Zinsfußes, in Zahlen ausgeſprochen, hängt
 alſo davon ‘ab, welche Güte der noch niht in Kultur genom-
@@ -3271,7 +3136,6 @@ zwiſchen Zinsfuß und Arbeitslohn geſtalten, und welche Höhe
 wird der Zinsfuß erlangen, wenn dieſe Ebene urbar gemacht wird ?“
 
 --- Page 84 ---
-n
 
 Jene Erklärung, die ſich auf dén- Vorzug des ‘einen Bo-
 dens vor dem andern gründet, wird ‘hier, wo gar kein Vor-
@@ -3313,10 +3177,9 @@ Ueberfluſſes, der nun Preiſe erzeugt, die zu niedrig ſind. Auf
 dieſe Weiſe bleiben die Marktpreiſe im ſteten Schwanken; aber
 
 --- Page 85 ---
-73
 
 der Produktionspreis iſt — wie A. Smith ſich treffend aus-
-drü>t — der Mittelpunkt, gegen welchen die Marktpreiſe ſtets
+drückt — der Mittelpunkt, gegen welchen die Marktpreiſe ſtets
 gravitiren. Stimmen aber Marktpreis und Produfktionspreis
 einmal überein, ſo iſ weiter keine Urſache, weder zu einer zu
 großen noch zu geringen Hervorbringung, und Angebot und
@@ -3346,13 +3209,12 @@ und wiſſenſchaftlich begründen wollen, die äußere Erſcheinung
 ſelbſt-als Grund ein, und drehen uns ſo in einem Zirkelſchluß
 herum, der zu keinem Reſultat führt.
 
-B. “Es frägt ſi< aber, ob eine ſolche Beſtimmung des
+B. “Es frägt ſich aber, ob eine ſolche Beſtimmung des
  Zinsfußes, wie Du ſie wünſcheſt, möglich iſ, und ob eine
 Verbindung zwiſchen Zinsfuß und Arbeitslohn wirklich ſtattfindet.
-(nA. Veberall, wohin wir bli>en, ſchen wir Zinsfuß und
+(nA. Veberall, wohin wir blicken, ſchen wir Zinsfuß und
 
 --- Page 86 ---
-74
 
  Arbeitslohn in beſtimmten Zahlen ausgeſprochen. Der Zins-
 fuß, der ſih ſo gebildet hat, iſ aber niht das Werk des
@@ -3363,7 +3225,7 @@ die Bienen am Bau der Zelle — an einem großen Werk
 arbeiten. Da hier der Eigennuß durch den Verſtand geleitet
 wird, ſo muß auch das, was der Eigennug hervorgebracht
 hat, wiederum durch den Verſtand begriffen werden können.
-Es handelt ſich alſo nicht darum, ‘neue Geſeze zu ‘entde>en,
+Es handelt ſich alſo nicht darum, ‘neue Geſeze zu ‘entdecken,
 fondern es ſoll nur das, was ſchon geſchehen iſt, begriffen
 und dadurch klar werden, wie es geſchehen iſt.
 
@@ -3391,28 +3253,26 @@ anderes, als ſeine Erzeugniſſe, wofür er die Waaten, deren=
 
 S ZOE
 
-. Y
 « A M
 _- z À 4 rA E
 
 --- Page 87 ---
-75
 
 er bedarf, eintauſchen kann. Das Geld dient hier blos als
 Mittel zum Tauſch.
 
 Die Summe des für Korn in einem Jahre eingenomme-
 nen Geldes, verglichen mit der Summe des verkauften Korns,
-ergibt den Preis eines Scheffels Ro>en, wenn alles Korn
+ergibt den Preis eines Scheffels Rocken, wenn alles Korn
 auf Rocken reduzirt iſ. Die für irgend ein Bedürfniß,
 z. B. Schmiedearbeit ausgegebene Geldſumme, dividirt durch
 den Preis des Scheffels Rocken, ergibt die Zahl der Scheffel
-Ro>en, die man zur Erlangung dieſes Bedürfniſſes hat
+Rocken, die man zur Erlangung dieſes Bedürfniſſes hat
 hingeben müſſen, Auf dieſe Weiſe ließe ſich die Rechnung
 über Einnahme und Ausgabe eines Gutes ganz in Scheffel
 Rocken führen. |" Eine ſolche Rechnung würde, beiläufig
 geſagt, ein helleres Licht über manche Punkte verbreiten: es
-würde ſich mit einem Bli>k überſehen laſſen, wie bei fallenden
+würde ſich mit einem Blickk überſehen laſſen, wie bei fallenden
 Getreidepreiſen und gleichbleibenden Abgaben an den Staat,
 dieſe einen weit größern Theil vom Ertrage des Guts hin-
 wegnehmen, alſo in der That erhöht ſind; ferner wie das
@@ -3420,7 +3280,7 @@ Sinken des Getreidepreiſes bei gleichbleibendem Geldlohn der
 Arbeiter den reellen Lohn erhöht,- und dem Arbeiter einen weit
 größern Antheil am Gutsertrage verſchafft u. ﬅ. w.
 
-“ Für unſere Unterſuchung nehmen wir nun den Ro>en
+“ Für unſere Unterſuchung nehmen wir nun den Rocken
 als Werthmeſſer und einen Berliner Scheffel dieſer Kornart
 ‘als Einheit an.
 | 2. Lohn der Arbeit.
@@ -3435,7 +3295,6 @@ beſizt, und umfaßt alſo den Lohn für die Arbeit an Ld und
 die Zinſen des Éiiieczi N
 
 --- Page 88 ---
-76
 
 Hier iſt unſer Beſtreben aber darauf gerichtet, ‘den Lohn
 für die Arbeit an ſich zu ermitteln, und was ih in der Folge
@@ -3470,20 +3329,18 @@ zu erhalten, faſſe ih das, was der Arbeiter mit ſeiner Frau
 ‘und ſeinen unerwachſenen Kindern bis zum Alter von 14
 Jahren für die Arbeit während eines ganzen Jahrs
 an Geld und Emolumenten erhält, zuſammen, ziehe hievon
-die Zinſen des im Hausgeräth, in den Werkzeugen 2c. ſte>en-
+die Zinſen des im Hausgeräth, in den Werkzeugen 2c. ſtecken-
 “ den Kapitals ab, “und nenne das Uebrigbleibende „den Lohn
 für die Jahresarbeit einer Arbeiterfamilie.“ Zur Abkürzung
 ſeze ih dafür aber im Verfolg Hen Schrift: „Lohn für -
 1 J. A. eines Mannes.“ ‘idr, dra n
 
 --- Page 89 ---
-[FF
 
-TT
 
 Den Betrag des ſo ‘ermittélten: Lohns, dem Werth nach
-auf Berliner Scheffel Ro>en reducirt und in Scheffeln
-Rocken ausgedrü>t, bezeichne ich mit „A.“
+auf Berliner Scheffel Rocken reducirt und in Scheffeln
+Rocken ausgedrückt, bezeichne ich mit „A.“
 
 3. Arbeitsprodukt.
 
@@ -3504,7 +3361,7 @@ Arbeitsprodukts eines Mannes, welches ih mit „p“ bezeichne.
 Bei Gewerbsunternehmungen wird das reine Arbeitsprodukt,
 welches übrig bleibt, nachdem der Unternehmer Adminiſtrations-
 foſten und Gewerbsprofit bezogen hat, zwiſchen dem Beſiger
-des in dem Gewerbe ſte>enden Kapitals und den Arbeitern
+des in dem Gewerbe ſteckenden Kapitals und den Arbeitern
 
 getheilt,
 4. Die Arbeiter.
@@ -3521,7 +3378,7 @@ nungen, Bei einem ſolchen Kalkül gehört die große Ver-
 
 ſchievenheit zwiſchen den Individuen in Bezug auf Fähigkeiten
 und Leiſtungen nicht zum Gegenſtand der Betrachtung. Die
-Leiſtungen der Geſammtheit werden dur<h das Durchſchnitts-
+Leiſtungen der Geſammtheit werden durch das Durchſchnitts-
 Reſultat repräſentirt, und erhalten darin ihr Maas.
 
 In dieſem Sinne iſ es nun auh erlaubt, von der Un-
@@ -3539,7 +3396,7 @@ wendig bedarf, hängt gar ſehr von der Zahl der Kinder, die
 ſie erzielt, ab, und läßt, wenn hierüber nichts beſt “o wird,
 ſelbſt keine Beſtimmung zu.
 
-Da es unſer Zwe> iſt, die Geſeße, welche den Arbeitslohn
+Da es unſer Zweck iſt, die Geſeße, welche den Arbeitslohn
 und Zinsfuß reguliren, für den beharrenden Zuſtand“ der
 bürgerlichen Geſellſchaft zu erforſchen, ſo müſſen wir auch die
 Zahl der Arbeiter als gleichbleibend anſehen, und “annehmen,
@@ -3551,7 +3408,7 @@ als eine ſih niht abnußende, unveränderliche Größe. |
 Die Summe der Subſiſtenzmittel, welche eine Arbeiter-
 familie — únter dieſer Beſchränkung — zur Erhaltung
 ihrer Arbeitsfähigkeit nothwendig bedarf, ſeze ih für
-jede Familie im Werth gleih a Scheffel No>en jährlich.
+jede Familie im Werth gleih a Scheffel Nocken jährlich.
 
 Dieſe mit „a“ bezeichneten Unterhaltsmittel betrachten wir
 als eine durch: die Erfahrung gegebene, bekannte Größe.
@@ -3560,10 +3417,9 @@ Was wir hier als“zum Unterhalt nothwendig betrachten,
 darf nicht verwechſelt werden mit dem, was nah Blanqui?s"
 
 --- Page 91 ---
-79:
 
-Ausdru> hinreicht, um am Sterben zu hindern: denn es ſoll
-dur< dieſe Unterhaltsmittel dem Arbeiter nicht blos das
+Ausdruck hinreicht, um am Sterben zu hindern: denn es ſoll
+durch dieſe Unterhaltsmittel dem Arbeiter nicht blos das
 Leben, ſondern auch die Arbeitsfähigkeit erhalten werden.
 Andererſeits bleiben alle Genußmittel, die hiezu nicht abſolut:
 erforderlich ſind, von dem, was wir mit „a“ bezeichnen, - aus-
@@ -3601,7 +3457,6 @@ den erſten dieſer beiden Beſtandtheile. -
 nur an den: Zinſen, welche für die, gegen erſte Hypothek aus-
 
 --- Page 92 ---
-80"
 
 ‘geliehenen, und für unverlierbar gehaltenen Kapitalien gezahlt
 werden, ih zeigen und zur Kenntniß kommen.
@@ -3651,9 +3506,7 @@ wirthſchaftliche Unterſuhungen“/, p. 145—265. München 1832. a ta
 O OE!
 
 --- Page 93 ---
-81
 
-#
 ſo bleibt in der Regel für den Unternehmer noch ein Ueber-
 ſchuß — und dies iſt der Unternehmergewinn. *
 
@@ -3698,7 +3551,6 @@ ANS _Akftieninhaber nur einen Theil ſeines Vermögens aufs
 ( D ſeht, und dem | Unternehmer, der ſein ganges Ver-
 
 --- Page 94 ---
-82
 
 mögen dem Verluſt ausſeßt, liegt der Grund, warum ein
 Unternehmergewinn ſtattfinden muß.
@@ -3710,7 +3562,7 @@ Mißbehagen beim Verluſt. Sett er aber ſeine 10,000 Thlr.
 ſämmtlih auf eine Karte, ſo kann die Verdoppelung feines
 Vermögens im günſtigen Fall ſeinem Glück nimmermehr fo
 viel zuſeßen, als ihm im ungünſtigen Fall durh den Verluſt
-ſeines ganzen Vermögens an Genuß und Lebensglü>k ent-
+ſeines ganzen Vermögens an Genuß und Lebensglückk ent-
 zogen wird.
 
 Wer das Vermögen beſitzt, die Koſten zu beſtreiten, welche
@@ -3734,9 +3586,9 @@ des Verluſtes.
 
 In dem Maas, als der Verluſt eines Theils, oder des -
 
-ganzen Vermögens empfindlicher iſt, dem Glü> und der
+ganzen Vermögens empfindlicher iſt, dem Glück und der
 Zufriedenheit mehr raubt, als eine gleiche Vergrößerung des
-Vermögens dem Lebensglü> hinzufügen kann — in dem
+Vermögens dem Lebensglück hinzufügen kann — in dem
 Maas muß ‘auh bei Gewerbsunternehmungen die Wahr-
 ſcheinlichkeit des Gewinns größer ſein, als die des Verluſtes.
 
@@ -3745,10 +3597,8 @@ Adam Smith, und mit ihm die mehrſten engliſchen Schrift-
 
 e tte
 
-E
 
 --- Page 95 ---
-83
 
 Unternehmergewinn unter der Benennung „Gewinn“ zu-
 
@@ -3760,13 +3610,13 @@ Bei dieſer Vermengung zweier aus ſo verſchiedenen Quellen
 entſpringenden Potenzen wird die Erkenntniß des Zuſammen-
 hanges zwiſchen Arbeitslohn und Zinsſaß faſt unmöglich.
 Say hat, ſo viel ich weiß, dieſen Mangel des Smith'ſchen
-Syſtems zuerſt aufgede>t.
+Syſtems zuerſt aufgedeckt.
 
 b. Jnduſtriebelohnung.
 
 Für die Anordnung und Leitung der Geſchäfte bei einen
 Gewerbe, ſo wie für die Beaufſichtigung der dabei ange-
-ſtellten Arbeiter ſcheint, dem erſten Anbli> nach, dem Unter-
+ſtellten Arbeiter ſcheint, dem erſten Anblick nach, dem Unter-
 nehmer nur eine Vergütung zuzukommen, welche gleich iſt dem
 Gehalt, den er einem Adminiſtrator, Buchhalter oder Auf-
 ſcher, der ihm dieſe Mühe und Beſorgung abnimmt, zu geben
@@ -3777,11 +3627,11 @@ Unternehmers und des beſoldeten Stellvertreters ſind, wenn
 auch beide gleiche Fähigkeiten und Kenntniſſe beſißen, dennoch
 ſehr verſchieden.
 
-In ſolchen Zeiten, wo dur<h die Wechſelfälle der Kon-
+In ſolchen Zeiten, wo durch die Wechſelfälle der Kon-
 junktur das Geſchäft große Verluſte bringt, und das Ver-
 mögen, wie die Ehre des Unternehmers auf dem Spiele
 ſtehen, iſt der Geiſt deſſelben von dem einen Gedanken, wie
-er das Unglü> von ſich abwenden kann, erfüllt — und der
+er das Unglück von ſich abwenden kann, erfüllt — und der
 Schlaf flieht ihn auf ſeinem Lager.
 
 Anders verhält es ſich in einem ſolchen Fall mit dem
@@ -3791,13 +3641,11 @@ er mit dem Bewußtſein erfüllter Pflicht ruhig ein.
 
 Aber die ſchlafloſen Nächte des Unternehmers ſind nicht
 
-6*
 
 --- Page 96 ---
-84
 
 Hier faßt er Pläne und kömmt auf Gedanken zur Ab-
-wendung ſeines Mißgeſchi>s, die dem beſoldeten Adminiſtrator,
+wendung ſeines Mißgeſchicks, die dem beſoldeten Adminiſtrator,
 wie ernſtlih derſelbe auh ſeine Pflicht zu erfüllen ſtreben
 mag, doch verborgen bleiben — weil ſie erſt aus der höchſten
 Anſpannung aller auf einen Punkt gerichteten Geiſteskräfte
@@ -3805,7 +3653,7 @@ hervorgehen.
 
 Die Noth iſ die Mutter der Erfindungen, und ſo wird
 auch der Unternehmer durch ſeine Bedrängniß zum Erfinder
-und Entde>er in ſeiner Sphäre.
+und Entdecker in ſeiner Sphäre.
 
 Wie der Erfinder einer neuen nüßlichen Maſchine mit
 Recht den Ueberſchuß bezieht, den die Anwendung derſelben
@@ -3834,7 +3682,6 @@ moraliſchen Zwang, den er ſich ſelbſt auflegt, bekämpfen muß,
 weit eher ermattet, und bei gleicher Kraft und Tüchtigkeit ein
 
 --- Page 97 ---
-85
 
 geringeres Tagewerk zu Stande bringt als der Verdung-
 arbeiter.
@@ -3853,7 +3700,7 @@ c, Gewerbsprofit.
 Was der Unternehmer mehr bezieht, als die Zinſen des
 verwandten Kapitals, und die Adminiſtrationskoſten, nämlich
 den Unternehmergewinn und die Jnduſtriebelohnung, faſſe ich
-zur Vereinfachung des Ausdru>s unter der Benennung
+zur Vereinfachung des Ausdrucks unter der Benennung
 „Sewerbsprofit“/ zuſammen.
 
 Das Kapital kann nur dann eine Nußung gewähren, und
@@ -3880,7 +3727,7 @@ Naps. wird es. erlaubt ſein, in den Puhiinit tn
 ) y 86
 
 von ¡dein Unternehmer ſelbſt zu abſtrahiren, und dieſen
-gleichſam als den dur<h den Gewerbsprofit gelohnten Ge-
+gleichſam als den durch den Gewerbsprofit gelohnten Ge-
 ſchäftsführer des Kapitaliſten zu betrachten; wobei aber der
 Unternehmer durch ſein eigenes Jntereſſe getrieben wird, die
 höchſte Kapitalnuzung zu erſtreben.
@@ -3892,7 +3739,7 @@ der Vertheilung des Arbeitsprodukts nur Arbeiter, Kapitaliſten
 und Landbeſiger in Betracht.)
 
 g 8.
-Bildung des Kapitals dur< Arbeit.
+Bildung des Kapitals durch Arbeit.
 
 Die erſten Menſchen, welche die Erde betraten, hätten
 umkommen müſſen, wenn nicht die vorſorgende Natur eine
@@ -3920,13 +3767,12 @@ Fleiſh und werden in Oſt- und Weſtindien zur Speiſe, theils roh,
 theils in vielfachen Zubereitungen -gebrauht und dienen ſtatt des
 
 --- Page 99 ---
-87
 
 Südfrüchten zur Ernährung der Menſchen ausreichen; wo
 eine jährlich zu erneuernde Hütte von Baumſtämmen, mit
 
-Brodes. Die Früchte liefern auh dur<h Abkohung ein Getränk, und
-dur<h Gährung einen Wein. Aus dem Stamm kann eine Art Flachs
+Brodes. Die Früchte liefern auh durch Abkohung ein Getränk, und
+durch Gährung einen Wein. Aus dem Stamm kann eine Art Flachs
 bereitet werden, und die Blätter dienen zu Tafeltühern und zur
 Deekung der Häuſer. ‘
 
@@ -3943,7 +3789,7 @@ Die Kokosmilch in den ausgewachſenen Früchten iſt ein beſonderes
 Erfriſchungsmittel , und eine Kokosnuß liefert wohl für zwei Perſonen
 hinlänglihen Saft zur Löſchung des Durſtes.
 
-Von âltern Früchten, in denen der innere Kern ſih ſhon verdi>t
+Von âltern Früchten, in denen der innere Kern ſih ſhon verdickt
 hat, dient ſolcher theils zum Speiſen, theils zur Bereitung einer Milch,
 welche ſich rahmt und ein Oel liefert. Die harten Schalen des Kerns
 ſind vor der Reife weih und eßbar. Von den reif gewordenen Nüſſen
@@ -3960,23 +3806,22 @@ Flechtwerk, Sonnenſchirmen und zu Papier.
 3) Der Brodfruchtbaum (Artocarpus incisa L.). Aus dem
 fleiſhigen Mark der Frucht des Brodbaums wird, nachdem daſſelbe in
 Gruben gebraht und dort in ſaure Gährung übergegangen iſt, Brod
-geba>en. Dieſes ſaure Brod iſt die vorzüglihſte Speiſe der Taheitier,
-und dient ihnen au<h zum Proviant auf ihren Reiſen. Häufiger iſ aber
+gebacken. Dieſes ſaure Brod iſt die vorzüglihſte Speiſe der Taheitier,
+und dient ihnen auch zum Proviant auf ihren Reiſen. Häufiger iſ aber
 noch der Genuß der friſchen Brodfrucht, die man vor ihrer völligen
-Reife abnimmt, abſchâlt, in Blätter wi>elt und auf heißen Steinen
-ba>t. Aus dem Splint der 2- dis 3jährigen Stämme werden Zeuge
+Reife abnimmt, abſchâlt, in Blätter wickelt und auf heißen Steinen
+backt. Aus dem Splint der 2- dis 3jährigen Stämme werden Zeuge
 und muſelinartige Tücher verfertigt. Die Blätter des Brodbaums
 dienen zum Einwickeln beim Backen der Frucht und auh als Teppiche
 zur Belegung des Bodens beim Speiſen. Die abgefallenen männlichen
 Kolben dienen als Zunder.- Der nah gemachten Einſchnitten aus dem
 Stamme hervordringende Saft liefert mit Kokosmilch eingekocht, einen
-Vogelleim, und mit Sagomehl , Zu>ker und Eiweiß wird er zu einem
+Vogelleim, und mit Sagomehl , Zuckker und Eiweiß wird er zu einem
 ſehr feſten Kitt,
 
 --- Page 100 ---
-88
 
-den Blättern des Piſang gede>t, hinreichenden Schuß gewährt ;
+den Blättern des Piſang gedeckt, hinreichenden Schuß gewährt ;
 und wo die Piſangblätter zur Bekleidung genügen.
 
 „Seit der früheſten Kindheit menſchlicher “Kultur findet
@@ -3987,27 +3832,27 @@ boldt in ſeinen Anſichten der Natur.
 Die drei genannten Baumarten bringt dort die Natur
 ſelbſt, ohne Zuthun des Menſchen hervor. Dagegen werden
 Bataten und Mais des Anbaues, alſo der menſchlichen Arbeit
-bedürfen. Auf dem humusreichen lo>ern Boden werden hiezu
-das Ausreißen der die Erde bede>enden Pflanzen, und das
+bedürfen. Auf dem humusreichen lockern Boden werden hiezu
+das Ausreißen der die Erde bedeckenden Pflanzen, und das
 Aufrißen des Bodens mit einem Stabe ſchon genügen, und
 alſo keine Geräthſchaften, in welchen Kapital enthalten fl
 angewandt werden brauchen.
 
-Die allmälige Entwi>elung eines in die Tropenländer
+Die allmälige Entwickelung eines in die Tropenländer
 verſeßten Volks können wir uns unter zwei verſchiedenen
 Geſichtspunkten denken.
 
 a) Wir betrachten dies Volk nicht blos als arm an
 Kapital, ſondern auh als arm an Kenntniſſen und unbekannt
-mit den Erfindungen und Entde>ungen, wodur< in unſern
+mit den Erfindungen und Entdeckungen, wodurch in unſern
 Tagen die Fabrikation und Produktion ſo ſehr gefördert iſt
 
 Die Kapitalbildung kann dann nur ſebr langſam vor ſich
 gehen, iſt abhängig nicht blos von der Arbeit, ſondern auch
 von dem Fortſchritt der Jntelligenz, und ſomit das Werk
-zweier verſchiedener Potenzen. Die Entwi>elung, die hier
+zweier verſchiedener Potenzen. Die Entwickelung, die hier
 ſtattfindet, gehört der Kulturgeſchichte an, und liefert für
-den Zwe> unſerer Unterſuchung keine Reſultate.
+den Zweck unſerer Unterſuchung keine Reſultate.
 
 b) Wir denken uns ein mit allen Fähigkeiten, Kenntniſſen
 und Geſchilichkeiten der ziviliſirten europäiſchen Nationen
@@ -4015,7 +3860,6 @@ ausgerüſtetes Volk nach einem Tropenlande verſet, welches
 aber kein Kapital, alſo auh keine Werkzeuge beſißt, und
 
 --- Page 101 ---
-89
 
 fragen, wie ſich hier bei gleichbleibender Jntelligenz des Volks
 die Kapitalbildung geſtaltet.
@@ -4060,7 +3904,6 @@ Unterſchied iſt Arbeiter und muß durch Arbeit ſich ſeinen
 Unterhalt erwerben.
 
 --- Page 102 ---
-90
 
 “Hier haben wir alſo die einfachſten Zuſtände vor Augen,
 und wenn wir dieſe der Betrachtung unterwerfen, dürfen wir
@@ -4071,7 +3914,7 @@ Indem wir nun aber den Schauplaz unſerer Betrachtungen
 in Gedanken nach den Tropenländern verlegen, wo unſere
 Getreidearten nicht gedeihen und nicht die vorzüglichſte Nah-
 rung der Menſchen ausmachen, fällt es ſogleith in die Augen,
-daß der Ro>en hier nicht Werthmeſſer und niht Maasſtab
+daß der Rocken hier nicht Werthmeſſer und niht Maasſtab
 für die Subſiſtenzmittel, die die Menſchen bedürfen, ſein kann.
 
 Hier müſſen wir die Subſiſtenzmittel ſelbſt, die der Arbeiter
@@ -4084,7 +3927,7 @@ hundertſten Theil derſelben mit „c“/, ſo daß $ = 100 c iſt.
 Geſegt nun, der Arbeiter kann, wenn er fleißig und ſpar-
 ſam iſ, durch ſeine Hände Arbeit 10 pCt. mehr als er zu
 ſeinem nothwendigen Unterhalt bedarf, alſo 1,1 5 oder 110 c
-im Jahr hervorbringen: ſo erübrigt er na<h Abzug deſſen,
+im Jahr hervorbringen: ſo erübrigt er nach Abzug deſſen,
 was er zu ſeinem Lebensunierhalt verwenden muß, 110 e ——
 100 c= 10 c.
 
@@ -4104,12 +3947,11 @@ Stande. Die Unterſuchung iſ aber leihter zu führen und zu über-
 raths abſirahiren, Î
 
 --- Page 103 ---
-91
 
 Mit einem zerſchlagenen Feuerſtein bearbeitet er das. Holz
 zu Bogen und Pfeil; eine Fiſchgräthe dient dem Pfeil zur
 Spize. Aus dem Stamm des Piſangs, oder der faſerigen
-Schale der Kokosnuß werden Stri>ke und Bindfaden gemacht,
+Schale der Kokosnuß werden Strickke und Bindfaden gemacht,
 und erſtere zur Sehne des Bogens, leßtere zur Verfertigung
 von Fiſcherneßen verwandt.
 
@@ -4138,7 +3980,6 @@ wenn er das geliehene“ Geräth im Ate Werth erhält. und
 wiedertabliefert WW). 0. 4 Fees Ceed e cieli e deiii e 150 c.
 Das Mehrerzeugniß vermittelſt des Kapitals beirägt alſo. 40 c.
 
-\
 
 *) Vie kann aber der verliehene Gegenſtand in gleicher Beſchaffen-
 heit und gleihem Werth erhalten und wieder abgeliefert werden? Dies
@@ -4149,7 +3990,6 @@ jemand z. B. 100 Gebäude von hundertjähriger Dauer vermiethet unter
 “ der Bedingung, daß der Miether jährlich ein neues Gebäude errichtet z
 
 --- Page 104 ---
-92
 
 Dieſer Arbeiter kann alſo für das geliehene Kapital eine
 Rente zahlen von 40 c, welche der kapitalerzeugende Arbeiter
@@ -4161,7 +4001,7 @@ und auf ihr Verhältniß zum Kapital.
 Wie ſich der Lohn der Arbeit verhält, zu
 der Größe der Rente, die dieſelbe Arbeit
 ſchafft, wenn ſie auf Kapitalerzeugung ge-
-richtet wird: ſo verhalten ſi<h Kapital
+richtet wird: ſo verhalten ſich Kapital
 und Zinſen.
 
 In dem vorliegenden Fall iſt der Lohn für 1 J. A.=110c;
@@ -4197,7 +4037,6 @@ gung, die gleichzeitig in der ganzen Nation vor ſich geht, anſchaulich
 gemacht werden ſoll.
 
 --- Page 105 ---
-93
 
 1) was der Arbeiter zu ſeinem Unterhalt verwenden muß,
 : um arbeitsfähig zu bleiben; und
@@ -4243,13 +4082,12 @@ wird, daß ihm alſo in ſeiner Kuh die Frucht der Anſtrengung von
 _und fordert das Mitgefühl zur Unterſtüzung auf.
 
 --- Page 106 ---
-94
 
 einem Stab aufwühlt, der das Holz mit einem Beik, ſtatt
 
 mit dem zerſchlagenen Feuerſtein bearbeitet: ſo finden wir bei
 
-gleicher Geſchi>lichkeit, gleichem Fleiß, gleicher Anſtrengung
+gleicher Geſchicklichkeit, gleichem Fleiß, gleicher Anſtrengung
 und Körperkraft. Beider doh einen ſehr verſchiedenen Erfolg
 der Arbeit. Der zweite mit Spaten und Beil verſehene Arbeiter
 wird am Ende des Jahrs ein weit größeres Produkt ſeiner
@@ -4265,7 +4103,7 @@ der einzelne Arbeiter nicht der Hülfe anderer. Bei der Ge-
 winnung und Verarbeitung des Eiſens muß aber ſchon eine
 Theilung der Arbeit ſtattfinden, und wir müſſen hier die
 fapitalerzeugenden Arbeiter als eine Geſellſchaft anſehen, die
-ſich zu einem gemeinſchaftlichen Zwe> verbunden hat, und die
+ſich zu einem gemeinſchaftlichen Zweck verbunden hat, und die
 den Geſammtertrag ihrer Arbeit unter ſich vertheilt.
 
 Nehmen wir nun an, daß das ganze Volk nah und
@@ -4285,13 +4123,9 @@ mehr und mehr wachſen.
 
 Hier drängt ſich nun die Frage auf:
 
-> G
 
 --- Page 107 ---
-ï
-\
 
-95
 
 Wird die Vergrößerung des Arbeitsprodukis mit der Ver-
 größerung des Kapitals gleichen Schritt halten, alſo im
@@ -4326,7 +4160,7 @@ gar keine Rente mehr abwerfen.
 
 Wie nützlich auh ein Inſtrument oder eine Maſchine ſein
 mag, immer gibt es eine Grenze, wo die Vervielfältigung
-derſelben aufhört, nügli<h zu ſein und eine Rente abzu-
+derſelben aufhört, nüglich zu ſein und eine Rente abzu-
 werfen. -
 
 Jt dieſe Grenze einmal erreicht, ſo muß die kapitaler-
@@ -4337,7 +4171,6 @@ zeugende Arbeit ſich auf die Hervorbringung anderer Werth-
 eine geringere Rente tragen, als die früher hervorgebrachten.
 
 --- Page 108 ---
-96
 
 Der fkapitalerzeugende Arbeiter wird alſo, ſein eigenes
 Intereſſe berüſichtigend und verfolgend, ſeine Arbeit zuerſt
@@ -4357,15 +4190,15 @@ einer Unternehmung oder einem Gewerbe neu
 angelegte, hinzukommende Kapital geringere
 Renten trägt, als das früher angelegte.
 
-Dieſe Erſcheinung zeigt ſich au< überall im praktiſchen
+Dieſe Erſcheinung zeigt ſich auch überall im praktiſchen
 Leben, wo nicht die Jahresarbeit, ſondern das Geld Maasſtab des
 Kapitals iſt. Sehr klar läßt ſich dies bei Meliorationen
 auf einem Landgut wahrnehmen, wo die erſten zu Verbeſſe-
 rungen, z. B. zum Mergeln verwandten Tauſend Thaler
 15 pCt. bringen fönnen, während die zweiten Tauſend Thaler
-vielleicht nur 10 pCt., die dritten nur no< 5 pCt. tragen;
+vielleicht nur 10 pCt., die dritten nur noch 5 pCt. tragen;
 und wo man bei weiter fortgeführten Kapitalanlagen, z. B,
-bei Vertiefung der A>erkrume über einen . gewiſſen Punkt
+bei Vertiefung der Ackerkrume über einen . gewiſſen Punkt
 hinaus nur 3, 2 oder gar nur 1 pCt. Zinſen erhält.
 
 Ein „Detailhändler, oder auch ein Fabrikant“, der ſeine
@@ -4376,11 +4209,8 @@ wenden, wenn ſein Abſaß ſich vergrößert, wenn er die Waaren
 in einem weitern Kreiſe um ſeinen Wohnſiß herum abſeßt.
 
 --- Page 109 ---
-“.
 
-É
 
-97
 
 Dies kann" ér aber bei ſonſt" gleichbleibenden Umſtändèn
 nur dadurch erreichen, daß er den Preis ſeiner Waaren herab-
@@ -4393,7 +4223,7 @@ Bildung des Arbeitslohns und des Zinsfußes.
 Gibt man das Kapital in Jahresarbeiten an, ſo wird
 der Aufwand an menſchlichen Kräften, der die Hervorbrin-
 gung des Kapitals erfordert hat, zum Maasſtab genommen.
-Drü>t man das Kapital in Geld aus, welches ſelbſt ein
+Drückt man das Kapital in Geld aus, welches ſelbſt ein
 Erzeugniß der menſchlichen Arbeit und des Kapitals iſ, ſo
 werden die aus der Arbeit hervorgegangenen Gegenſtände
 Maasſtab des Kapitals. Welchen von beiden Maasſtäben
@@ -4466,9 +4296,7 @@ etacisy28
 raum rut
 
 --- Page 111 ---
-WS
 
-99
 
 Die der zweiten Klaſſe angehörigen werde ich „Arbeiter ‘
 ohne weitern Beiſaß nennen. Was dieſe nah Abzug der
@@ -4506,11 +4334,9 @@ Kapitale ‘ihm dann aber ganz nußlos ſind, ſo wird er ‘ſich
 bequemen müſſen, ſowohl das erſte als das yrite Kapital
 für 36 c Rente Ole verleihen: :
 
-7e
 4 71s : Y d
 
 --- Page 112 ---
-100
 
 Man kann zwar einwenden, daß das, aus der ‘erſten
 J." A.» hervorgegangene “ Kapital in Geräthſchaften anderer
@@ -4530,7 +4356,7 @@ viele Arbeiter zuwenden, daß das Gleichgewicht - hergeſtellt
 würde.
 
 So wie der Preis. einer Waare nichr für die verſchiedenen
-Käufer verſchieden ſein, niht na< dem individuellen Werth,
+Käufer verſchieden ſein, niht nach dem individuellen Werth,
 den ſie für die einzelnen Käufer hat, beſtimmt werden kann,
 ſondern für Alle gleich geſtellt - werden muß: ſo kann auch
 der Preis des Kapitals, d. i. die dafür zu zahlende Rente,
@@ -4550,7 +4376,6 @@ Nach der obigen Skala erwirbt der Arbeiter, ver: vit
 einem geliehenen Kapital von 2 J, A. arbeitet
 
 --- Page 113 ---
-101
 
 = durch ſeine bloße Arbeit is 110 c
 Anwendung des 1ſten Kapitals. 40 c
@@ -4598,7 +4423,6 @@ der die Arbeit ſo _ ſehr fördernden Maſchinen, das Loos der
 : | cates aſſes der Geſellſchaft um ſo drückender werden
 
 --- Page 114 ---
-102
 
 ſollte, je mehr gleichzeitig ihre Arbeit dadurch wirkſamer und
 lohnender wird.
@@ -4640,22 +4464,18 @@ n 3 n 1 RO 121,2 32,4c ' 67 Sia
 
 +4 ne ce 130Se 7 2920023
 
-|
-fl
 
 --- Page 115 ---
-103
 
-È
 
 Beim Wachſen ‘des Kapitals ſinkt der Zinsfuß in einem
 viel ſtärkern Verhältniß als die Rente, weil gleichzeitig der
 Arbeitslohn ſteigt und die Rente dividirt durch den Arbeits-
 lohn den Zinsfuß ergibt.
 
-Hier iſt die Arbeit, dur< welche das Kapital ſetborge:
+Hier iſt die Arbeit, durch welche das Kapital ſetborge:
 bracht iſt, Maasſtab des Kapitals. Jn der Wirklichkeit wird
-in der Regel das Kapital in Geld ausgedrü>t und angegeben,
+in der Regel das Kapital in Geld ausgedrückt und angegeben,
 und es iſt ungewöhnlich, die Größe eines Kapitals nach der
 Zahl“‘der Jahresarbeiten eines Tagelöhners, über die man
 vermittelſt dieſes Kapitals zu gebieten hat, oder die man dafür
@@ -4667,7 +4487,7 @@ in Geld.
 
 Bei der Beſtimmung des Zinsfußes macht es übrigens
 feinen Unterſchied, wenn das Kapital ſtatt in J, A. in
-Geld ausgedrü>t wird.
+Geld ausgedrückt wird.
 
 Es''ſei z.B. c= 1 Thaler, ſo iſt ww Lohn-für 1 J. A.
 =/110 Thlr., das Kapital von 1 J. A. auh = 110 Thlr.
@@ -4689,11 +4509,10 @@ haben, Me jedes. Neugeſchaffne, ber) dR bisherigen Bevarf
 :H9019
 
 --- Page 116 ---
-104
 
 hinausreichende Kapital eine immer geringere Rente erhält,
 und wenn derſelbe durch dies neugeſchaffene Kapital zugleich
-den Werth ſeiner ältern Kapitale, dur<h das Sinken der
+den Werth ſeiner ältern Kapitale, durch das Sinken der
 Einnahmen von denſelben, vermindert, ſo entſteht die Frage :
 was“ kann ‘ihn denn bewegen, mit der Hervorbringung von
 Kapital fortzufahren ?
@@ -4721,7 +4540,7 @@ foſtet die Erbauung! des Hauſes 10 >< 200 ce = 2000 c, und
 
 um 2000 c zu erübrigen, müſſen AN = ==:200 Mann vereint
 
-ein Jahr hindur< arbeiten. Die Erwerbung des Hauſes
+ein Jahr hindurch arbeiten. Die Erwerbung des Hauſes
 foſtet alſo die Jahresanſtrengung von 20 Mann.
 Beträgt dagegen der“ Lohn nur 110 ©, der Ueberſchuß
 10 ec, ſo koſtet die Errichtung des Gebäudes 10 >< 110 c
@@ -4732,7 +4551,6 @@ Beträgt dagegen der“ Lohn nur 110 ©, der Ueberſchuß
 Anſtrengung von Ta 110 Mam erworben 1 werden,
 
 --- Page 117 ---
-105
 
 Die Produktionskoſten des Kapitals können
 alſo angegeben und gemeſſen werden durch die
@@ -4746,7 +4564,7 @@ Arbeitslohn bei gleichbleibender Konſumtion iſt.
 Hoher Arbeitslohn vermehrt die Produktionskoſten der
 Waaren, vermindert aber die Produktionskoſten des Kapitals.
 
-Der Zwe> des kapitalerzeugenden Arbeiters iſt, für ſeine
+Der Zweck des kapitalerzeugenden Arbeiters iſt, für ſeine
 Jahresarbeit die möglichſt höchſte Rente zu erlangen. " Nun
 fällt einerſeits mit dem vermehrten Kapital der Zinsſaß,
 alſo die Einnahme aus dem Kapital; andererſeits aber ſteigt
@@ -4776,7 +4594,6 @@ TT - Beſigt. der kapitalerzeugende Arbeiter - ſelbſt Os Kapital,
 womit er arbeitet, ſo muß er doch die Zinſen davon in An-
 
 --- Page 118 ---
-106
 
 rechnung bringen, weil er durh- Ausleihen daſſelbe ſo hoch
 hätte nuzen können.
@@ -4804,7 +4621,6 @@ Um ein Kapital zu ſammeln, was gleich dem Lohn für
 5,72:M. erfordert. Die Rente für das Kapital von LJ: A. beträgt
 32,4 c. Ein Arbeiter erhält alſo für ſeine Jahresanſtrengung
 
-3247
 5 9,66 c Rente.
 
 Für 4. J. .A. Kapital / z
@@ -4823,13 +4639,11 @@ Ms 12d 19 Tori
 1 J. A. iſ, wird die Jahresanſtrengung von
 
 --- Page 119 ---
-107
 
 13080 {95 M. Ein Mann erwirbt alſo durch feine
 
 30,8 c
 Jahresanſtrengung eine Rente von Le = 6,37 C.
-1
 
 Die’ Rente des kapitalerzeugenden Arbeiters, welche bei der
 Anwendung von 2 J. A. Kapital nur 4,42 c beträgt, ſteigt
@@ -4845,7 +4659,7 @@ gleich dadurch - das Produkt ihrer Arbeit, d. i. das Kapital,
 durch das Sinken des Zinsſagzes, einen geringern Preis erhält.
 
 Wollte: man hiegegen einwenden, ‘daß zwar die kapital-
-erzeugenden Arbeiter dur< die Vermehrung des Kapitals
+erzeugenden Arbeiter durch die Vermehrung des Kapitals
 ſich eine größere Rente verſchaffen, daß aber déren Jnteréſſe
 erfordern, das größere Kapital nur ‘bei ihrer eigenen Arbeit
 anzuwenden, den übrigen Arbeitern aber nichts davon zukom-
@@ -4865,7 +4679,6 @@ A hoch gelohnt 'wérden.
 ſhaſtijen Maasſtab gibtes für die Gtleinmng: beider’iGat-
 
 --- Page 120 ---
-108
 
 tungen von Arbeit, da die für die eine Gattung in einer
 dauernden Rente, die für die andere aber im Erzeugniß ſelbſt
@@ -4912,7 +4725,6 @@ ten ſtatt, undes iſt dann: kein Grund zum -Uebertreten der
 Arbeiter“ von einer Klaſſe in: die-andere vorhanden. 116
 
 --- Page 121 ---
-109
 
 Die Rente des kapitalerzeugenden Arbeiters beträgt, wenn
 gearbeitet wird, mit einem Kapital
@@ -4932,8 +4744,6 @@ ihr Marimum erreicht, Um hierüber auf's Klare zu fommen,
 iſt die begonnene Nechnung weiter fortgeführt, und das Re-
 ſultat in nachſtehender Tabelle zuſammengetragen.
 
-.
-|
 
 --- Page 122 ---
 + “Tabelle A.
@@ -4958,9 +4768,7 @@ S 43. A. | 247,6 | 116,8 |130,8 | 30,8 | 22,3 | 292 1308 — 4,25 y 4 687
 103. A. | 371,0 | 156,0 | 215,0 | 115,0 | 1,25 (156 | 187 „(834
 
 --- Page 123 ---
-111
 
-&
 
 Folgerung. Die Rente, die der fkapitalerzeugende
 Arbeiter für ſeine Jahresarbeit erhält, ſteigt mit dem wachſen-
@@ -5000,7 +4808,6 @@ bei einem Lohn von 1% >< 142,4—= 106,8 einen Ueberſchüß
 von 6,8, welcher zur Kapitalbildung verwandt werden kann.
 
 --- Page 124 ---
-112
 
 Es ‘muß alſo das Kapital dem Menſchen vorangehen,
 wenn ‘dieſer überhaupt nur ſubſiſtiren ſoll:
@@ -5043,7 +4850,6 @@ tals, oder! gar bis“ Null, d. ‘i.-'bis zum Urſprung deſſelben
 fortgeführt, ſo zeigt ſich“ abermals derſelbe Widerſpruch.
 
 --- Page 125 ---
-113
 
 Das Arbeitsprodukt p iſt eine Funktion von q, wenn q
 die Größe des angewandten Kapitals bezeichnet ; - aber keine
@@ -5082,10 +4888,8 @@ bedürfenden Wilden nicht leben können, die alſo an ſich unbe-
 wohnbar ſind, begeben, und dort doch einen völlig genügenden
 
 Unterhalt finden.
-E s
 
 --- Page 126 ---
-114
 
 Ja, wir können weiter ſchließen, daß Länder, die wir jeßt
 noh wegen ihres unfruchtbaren Bodens, oder wegen ihres
@@ -5100,7 +4904,7 @@ Auch Europa gehört zu den Ländern, die nur durch Ein-
 wanderung von Menſchen, die mit Kapital verſehen waren,
 bevölkert werden konnten.
 
-Die Unlöslichkeit der obigen Aufgabe erklärt ſi< nun
+Die Unlöslichkeit der obigen Aufgabe erklärt ſich nun
 dadurch,
 
 daß das uranfängliche Kapital nicht in Europa geſchaffen
@@ -5109,7 +4913,7 @@ Kapitalbildung herrſchen als hier.
 
 Das urſprüngliche Kapital in Europa iſ ein eingewan-
 dertes, und folgt niht den Geſeßen, die wir von unſerm
-Standpunkt aus überbli>ken. j
+Standpunkt aus überblickken. j
 
 Mit dieſer Erkenntniß hört aber zugleih der Widerſpruch
 auf, indem wir es nun aufgeben, für die Entſtehung der
@@ -5125,7 +4929,6 @@ gehört, zum Theil aber nicht blos einem andern Welttheil,
 ſondern ſelbſt einer andern Welt entſproſſen ſcin mag?
 
 --- Page 127 ---
-115
 
 Anwendung.
 
@@ -5141,7 +4944,7 @@ nehmen.
 
 Hier in dieſen von der Natur ſo reihbegabten Ländern
 lebten die Menſchen ſo lange im Ueberfluß, als ſich für die
-wachſende Bevölkerung no< immer herrenloſes Land fand.
+wachſende Bevölkerung noch immer herrenloſes Land fand.
 Nachdem aber alles fruchtbare Land in Beſiß genommen, und -
 zum Eigenthum Einzelner geworden, mußte bei weiter ſtei-
 gender Bevölkerung ein Theil des. Volks ſich verdingen und
@@ -5154,12 +4957,12 @@ fruchtbaren, und von der Natur minder begünſtigten Ländern,
 dort mit Hülfe des erworbenen und mitgebrachten Kapitals
 den Boden zu bebauen.
 
-Dieſer Gang der Entwi>elung iſt in allen geiſtigen An-
+Dieſer Gang der Entwickelung iſt in allen geiſtigen An-
 lagen des Menſchen, in dem von der Natur dem Menſchen
 als Inſtinkt mitgegebenen Streben nah Förderung ſeines
 Wohlſeins, und endlich auh in der Beſchaffenheit der phyſi-
 ſchen Welt ſo feſt bégründet, und iſt ſo naturgemäß, daß wir
-die dur<h Auswanderung bewirkte, allmälige Verbreitung des
+die durch Auswanderung bewirkte, allmälige Verbreitung des
 Menſchengeſchlehts über die ganze Erde als, dem Weltplan
 entſprechend betrachten dürfen.
 
@@ -5171,7 +4974,6 @@ _freulih. Der Staat verliert dadurch die produktive Kraft
 ; g*
 
 --- Page 128 ---
-116
 
 der Auswanderer; er verliert das Kapital, was auf deren
 Erziehung verwandt iſt; er verliert das Kapital, was dieſel-
@@ -5214,13 +5016,12 @@ gerichteten Streben entſagen, das Wohl des Staats- zum Ziel
 ihrer Handlungen machen, und durch tieferes Erkennen ihrer
 
 --- Page 129 ---
-117
 
 höhern Beſtimmung- ſih ſelbſt freiwillig die Schranken
-ſte>en, die der Staat durch ſeine auf das Wohl des Ganzen
+ſtecken, die der Staat durch ſeine auf das Wohl des Ganzen
 gerichteten Geſeße als Zwang auflegt. /
 Gibt es nun für die Staaten und ihre Lenker keine ſolche
-Verſöhnung mit dem Geſchi>, keine ſolche Erhebung zur
+Verſöhnung mit dem Geſchick, keine ſolche Erhebung zur
 Freiheit wie den Jndividuen geſtattet iſt, müſſen ſte fort und
 fort im Zuſtande des Zwanges und des Entgegenſtrebens
 
@@ -5247,7 +5048,7 @@ trauen gewonnen, daß ſie auf dieſer Bahn beharrlich fort-
 ſchreiten werde, würde ſich die andern Völker geiſtesunter-
 
 than machen, und dadurh an Einfluß und Macht mehr
-gewinnen, als dur< Vermehrung der Volksmenge und des
+gewinnen, als durch Vermehrung der Volksmenge und des
 Reichthums oder durch Gebietsvergrößerung gewonnen wer-
 den kann. ;
 
@@ -5266,7 +5067,7 @@ aber ſein geiſtiges iti gad eine He iN Steves GM
 v
 
 “Nach dieſer Unterbrechung kehren wir zu unſerer niere
-ſuchung zurü> und geben in nachſtehender Tabelle eine Ueber- :
+ſuchung zurück und geben in nachſtehender Tabelle eine Ueber- :
 ſicht der Reſultate für ein Verhältniß, wo das Arbeitöprodukt
 a deſſen beträgt, was wir in der Tabelle A ($ D zur
 
@@ -5274,7 +5075,6 @@ Grundlage genommen haben.
 
 |, ;
 ' Ks : q 1
-“4
 
 MYA HUIonN 7
 Vda es adi: ¡ibn
@@ -5291,7 +5091,6 @@ riga SuäiagO, alle AAG
 uE 20151914901 CAU rà
 
 --- Page 131 ---
-119
 
 Ser |“ ge =2R 6 | py
 rA gee =225 cor {609
@@ -5302,35 +5101,27 @@ er |“ zoe =| ver | 16
 ere | “ 197 =2E (01 | 921
 Iz L= gu | ger
 "eT | wa va =| 161 | pg
-—
 
 €'F8
 £'eL
 
-19
 £'T9
 9'6F
 F'8E
-C10
 F‘9T
 
 CFST
 CELTI
-L9T
 €'T9F
 9'6FT
 F'SET
-TLT
 F'9TT
 
-FTI
-C'e
 C'9TT
 O‘LTT
 O'LTT
 T'CTI
 
-IT
 8'907
 
 £862
@@ -5345,12 +5136,10 @@ T'ETT
 989 [28'907 |99'86 lo F‘coz
 
 $434139216
-SC
 8nipl2392n
 
-4 3113g9vz>
+4 3113g9vzck
 
-14018112936
 4191216
 
 ualu1E
@@ -5364,14 +5153,8 @@ u09av@g;
 RG TT
 16'S cor
 6°S 07
-Ls
-ws
-GSL
-69
-6e
 
 --- Page 132 ---
-120
 
 Vergleichung der Reſultate in den Tabellen-
 A und B.
@@ -5416,22 +5199,17 @@ Antheil, den jede dieſer Potenzen an dem gemeinſamen Pro-
 dukt hat, ſich erkennen und ausſcheiden laſſe.
 
 --- Page 133 ---
-/
-|
-|
-}
 
-121
 
 Zur Löſung dieſer Frage ſtellen wir nachſtehende Be-
 trachtungen an.
 
-Wenn das Kapital Q in Scheffel Ro>en, oder in Thaler
+Wenn das Kapital Q in Scheffel Rocken, oder in Thaler
 oder irgend einem andern Werthmaas angegeben iſt, und der Ar-
-beitslohn a+ y in eben dem Werthmaas ausgedrü>t, als bekannt
+beitslohn a+ y in eben dem Werthmaas ausgedrückt, als bekannt
 angenommen wird: ſo ergibt ſich, wenn man mit a + y in
 Q ‘dividirt, wie groß das Kapital in Jahresarbeiten einer
-Arbeiterfamilié ausgedrü>t iſt, oder über wie viele J. A. einer
+Arbeiterfamilié ausgedrückt iſt, oder über wie viele J. A. einer
 Familie der “Kapitaliſt mit dem Kapital Q zu: gebieten hät.
 
 Dieſe Arbeiterzahl ſei — nq; #0 iſt = nq, únd
@@ -5456,14 +5234,13 @@ den Arbeiter, der mit einem Kapital von q J. A. arbeitet,
 mit „p“ bezeichnet haben.
 
 "¡Es iſ gleichgültig, in welchem Werthmaas p angegeben
-wic, ob in Ro>en oder Geld u. ﬅ.-w., nur muß das Werth--
+wic, ob in Rocken oder Geld u. ﬅ.-w., nur muß das Werth--
 maas daſſelbe ſein, worin Q und a + y angegeben ſind.
 
 Dieſes Arbeitsprodukt p iſt das gemeinſchaftliche Erzeugniß
 von Arbeit und Kapital, ¿und kommt, -da | jede andere
 
 --- Page 134 ---
-122
 
 Gewerbsausgabe bereits abgezogen iſt, einzig und allein zwi-
 ſchen dem Kapitaliſten und dem Arbeiter zur Theilung.
@@ -5477,7 +5254,7 @@ verbleibt dem Kapitaliſten eine Rente von n (p— [a + YD.
 
 Das verwandte Kapital beträgt nq (a + Y).
 
-Die Rente dividirt dur< das angewandte
+Die Rente dividirt durch das angewandte
 Kapital ergibt den Zinsſat,. den wir mit 2 be-
 zeichnen.
 
@@ -5485,13 +5262,12 @@ zeichnen.
 
 4 La = TATE y (a+)
 
-Dieſer Ausdru> für den Zinsſaß iſ (bei dem Begrif, den
+Dieſer Ausdruck für den Zinsſaß iſ (bei dem Begrif, den
 wir mit den Symbolen p, q und a —+ y verbinden) von
 allgemeiner, abſoluter Gültigkeit. Eben ſo entſchieden gültig
 müſſen aber auh die Folgerungen ſein, die ſich aus dieſer
 Gleichung mathematiſch ableiten laſſen,
 
-1p:
 
 Mus f= SGT
 folgt qz (a+ Y=p— (a+)
@@ -5501,7 +5277,7 @@ alſo a Y=T2a
 
 Alſo der Arbeitslohn iſ gleich dem Arbeitsprodukt, dividirt
 dur Eins plus dem mit dem Zinsſaß multiplizirten, in
-Jahres - Arbeiten ausgedrü>ten Kapital. :
+Jahres - Arbeiten ausgedrückten Kapital. :
 
 “Die Rente, die der Kapitaliſt bezieht, ergibt ſich, wenn
 man von dem “Arbeitsprodukt den Arbeitslohn abzieht; die
@@ -5514,7 +5290,6 @@ D — = PPP PaS
 --- Page 135 ---
 —— _ — _
 
-123
 
 Das Verhältniß, in welchem die Bélohnung der Arbeit
 
@@ -5537,7 +5312,7 @@ der Arbeit durch hinzukommendes Kapital erſeßt werden kann:
 Lohnarbeiter in Konkurrenz tritt. Nun ſteht es aber in der
 Macht des Unternehmers, der mit dem Kapital Q eine Arbei-
 terzahl = n arbeiten läßt, dem relativen Kapital q, womit
-ein Mann arbeitet, dur<h Vergrößerung oder Verringerung
+ein Mann arbeitet, durch Vergrößerung oder Verringerung
 von n jede beliebige Größe zu ertheilen. Der Unternehmer,
 ſein Intereſſe kennend und verfolgend, wird das relative
 Kapital g grade ſo weit erhöhen, bis die Koſten der Arbeit
@@ -5557,7 +5332,6 @@ in dem Verhältniß von z zu 1 ſtehen — und die Belohnung
 1: 4Z
 
 --- Page 136 ---
-124
 
 des Kapitals durch die dafür zu zahlenden Zinſen iſt alſo
 weder zufällig noch ungerecht.
@@ -5570,7 +5344,7 @@ arbeit eines Mannes, gemeſſen werden,
 der Zinsſaß z der Faktor iſt, durch welchen
 das Verhältniß der Wirkſamkeit des Kapi-
 tals zu der der menſchlichen Arbeit au sget
-drü>t wird.
+drückt wird.
 
 Dadurch ſind wir nun in den Stand geſeßt, die Mitwir-
 fung des Kapitals bei der Produktion eines Tauſchguts #)
@@ -5578,11 +5352,11 @@ auf Arbeit zu reduziren.
 
 Durch dieſe Reduktion iſt es dann möglich, die Produk-
 tionsfoſten eines Erzeugniſſes, inſofern keine Landrente darin
-enthalten iſ, ganz in Arbeit auszudrü>en, und die Arbeit
+enthalten iſ, ganz in Arbeit auszudrücken, und die Arbeit
 wird dadurch wahrhaft zum Werthmeſſer für die Tauſchgüter.
 
 Wir können nun aber auh umgekehrt ein in Erzeugniſſen
-¿. B. Ro>en angegebenes Kapital auf J. A. reduziren, indem
+¿. B. Rocken angegebenes Kapital auf J. A. reduziren, indem
 wir dies Kapital mit dem Lohn für eine Jahresarbeit, welcher
 
 Lohn hier den Werth der Arbeit gleich iſt, nämlich mit ——— E RETTE Las
@@ -5590,7 +5364,7 @@ Lohn hier den Werth der Arbeit gleich iſt, nämlich mit ——— E RETTE Las
 *) Die Landwirthe verſtehen unter dem Wort „Gut“ ſtets ein
 Landgut. Die Nationalökonomen dagegen nennen alles, was den
 Menſchen ein Bedürfniß befriedigen kann, ein Gut, und wenn dies
-Gut neben dem Gebrauchswerth no<h einen Tauſchwerth hat, ein
+Gut neben dem Gebrauchswerth noch einen Tauſchwerth hat, ein
 wirthſhaftlihesGut. In einem Buch, welches ſowohl für Landwirthe
 als Nationalökonomen geſchrieben wird, iſ es für den Verfaſſer ſehr
 unbequem, daß ein und daſſelbe Wort in zwei Wiſſenſchaften verſchiez
@@ -5603,17 +5377,16 @@ unterſuhungen//. München, 1832.  (S. 1, 4 und 70.) Ta'uſch=
 güter, oder auh Werthsgegenſtände.
 
 --- Page 137 ---
-125
 
 dividiren. So iſt 8 B. das Kapital Q = Q : TE E fs
 
-2d +) (+4) IJ. A., wenn nämlich p das in Ro>ken aus-
+2d +) (+4) IJ. A., wenn nämlich p das in Rockken aus-
 
 geſprochene Arbeitsprodukt eines mit dem Landbau beſchäftigten
 Arbeiters iſt.
 Iſt das Kapital Q in Silber angegeben, ſo muß, um
 
-daſſelbe in J. A. auszudrü>ken, Q ebenfalls mit Tp divi-
+daſſelbe in J. A. auszudrückken, Q ebenfalls mit Tp divi-
 
 dirt werden; wo dann aber p das in Silber beſtehende Arbeits-
 produkt eines in einer Silbermine angeſtellten Arbeiters bedeutet.
@@ -5664,8 +5437,6 @@ vergütet werden müſſen.
 
 Ueberhaupt iſt bei Ricardo das Kapital vom Werth
 ungemein {wer verſtändlich. Bei genauerer Analyſe findet
-|
-j
 
 ſich aber, daß der Grund davon darin liegt, daß Ricardo
 ſich ſelbſt nicht treu bleibt; denn während er S. 21 ſeines
@@ -5688,9 +5459,8 @@ völlig richtig ſei, und ſomit das, was er als allgemeine Ge-
 merkungen von Say, überſest von Schmidt. Weimar, 1821.
 
 --- Page 139 ---
-127
 
-Von einem Maasſtab, worna< Kapitalnußzung auf Arbeit
+Von einem Maasſtab, wornach Kapitalnußzung auf Arbeit
 zu reduziren ſei, kann hiernah bei Ricardo nicht die
 Rede ſein. Dies iſt aber überhaupt auh nicht möglich, ſo
 lange man Gewerbsprofit mit Kapital3zinſen zuſammen wirft,
@@ -5700,7 +5470,7 @@ Hausgeräth , Wohnung 2c. enthaltenes Vermögen empfängt.
 
 Zur Erläuterung der vorſtehenden Säße mag es dienlich
 ſein, ein Beiſpiel in Zahlen hinzuzufügen.
-= Zu dieſem Zwe> nehmen wir einſtweilen, und da dies
+= Zu dieſem Zweck nehmen wir einſtweilen, und da dies
 mit unſerer frühern Vorausſezung nicht übereinſtimmt, nur
 für den vorliegenden Fall an, daß die Silberminen in dem
 iſolirten Staat zerſtreut liegen, und daß das mindeſt ergiebige
@@ -5708,10 +5478,10 @@ Silberbergwerk, deſſen Ausbeutung zur Befriedigung des Be-
 dürfniſſes noh nothwendig iſt, an der Grenze der kultivirten
 Ebene gelegen iſ. Denken wir uns nun, daß Silberminen
 “von gleicher Ergiebigkeit mit der Legtern ſih noch tiefer in
-die Wildniß hinein erſtre>en, daß dieſe Minen aber nicht
+die Wildniß hinein erſtrecken, daß dieſe Minen aber nicht
 bearbeitet werden: ſo kann dieſe Nichtbenußzung keinen andern
 Grund haben, als den, daß der Werth des aus denſelben zu
-gewinnenden Silbers die Ausbeutungskoſten nicht mehr de>t.
+gewinnenden Silbers die Ausbeutungskoſten nicht mehr deckt.
 
 Die Ausdehnung des Bergbaues findet alſo eben ſo, wie die
 des Getreidebaues dort eine Schranke, wo der Werth des Erzeug-
@@ -5728,7 +5498,6 @@ Bergbau als dem Landbau zuwenden können : ſo müſſen auch in bei-
 --- Page 140 ---
 A ttt ia
 
-128
 
 Nach der Formel a +y = Ca ſpricht ſich der Arbeits-
 
@@ -5742,14 +5511,13 @@ alſo die BVildungsſtätte für den Tauſchwerth zwiſchen Silber
 und Getreide.
 
 Nun ſei das Arbeitsprodukt eines Mannes beim Bergbau
-= 71/, Pfd. Silber, beim Landbau = 240 Schfl. Ro>en,
+= 71/, Pfd. Silber, beim Landbau = 240 Schfl. Rocken,
 ſo iſt der Ane des Arbeiters, der deſſen Lohn bildet, im
 
-240
 erſten Fall Pfd. Silber, im zweiten Fall iE
 
 1 LE qz
-Schfl. Ro>en.
+Schfl. Rocken.
 
 Der Zinsfuß 2, welcher bei beiden Anwendungen des Ka-
 pitals gleich hoh ſein muß, betrage 1/6 oder 5 pCt.
@@ -5766,7 +5534,7 @@ Arbeit beim m Bexgbant PEST FETT 33/, Pfd. Silber,
 
 beim Landbau = TOCA Nx LG = 150 Schfl.
 
-Ro>en*).
+Rocken*).
 Hier ſind alſo 32 Pfd. Silber ein Aequivalent für 150
 
 Schfl. Roden, d. h. mit 33% Pfd. Silber kann der Arbeiter
@@ -5777,20 +5545,19 @@ Tüchtigkeit vor Augen haben, die gleich befähigt für hen, WVergbau,
 wie für den Landbau ſind.
 
 --- Page 141 ---
-129
 
 durch Austauſch ‘eben ſo vielé Bedürfniſſe befriedigen, als mit
 
-150 Schfl. Ro>en. Mithin haben 3/, Pfd.“ Silber ‘gleichen
+150 Schfl. Rocken. Mithin haben 3/, Pfd.“ Silber ‘gleichen
 
-Tauſchwerth mit 150 -Schfl." Ro>en. “Den “in Gold, oder
+Tauſchwerth mit 150 -Schfl." Rocken. “Den “in Gold, oder
 
-edlen Metallen ausgedrü>ten Tauſchwerth eines Erzeugniſſes
+edlen Metallen ausgedrückten Tauſchwerth eines Erzeugniſſes
 
 pflegt man den Preis deſſelben zu nennen. Demnach iſt der
 3,75
 
-Preis eines Scheffels Ro>en == 9 0,025 Pfd. Silber.
+Preis eines Scheffels Rocken == 9 0,025 Pfd. Silber.
 
 Dieſes an der Grenze der kultivirten Ebene ſich bildende
 
@@ -5810,7 +5577,7 @@ wir ſie gleich Null ſehen dürfen.
 
 “Dagegen ſind die Transportkoſten des Getréides auf 30
 Meilen“ im Verhältniß zum Werth Höchſt bedeutend.
-Im erſten Theil $ 4 ſind ‘die Säge entwi>elt, wornach
+Im erſten Theil $ 4 ſind ‘die Säge entwickelt, wornach
 
 ‘dieſe Transportkoſten zu! berehnen ſind, und dié Anwendung
 
@@ -5818,9 +5585,9 @@ derſelbén auf den vorliegenden Fall gibt folgende Reſultate.
 
 Für eine Ladung von 2400 Pfd. = =28, 6 Berl.
 
-Sas Roden betragen , nach $ 4 ‘auf einer Stre>e von
+Sas Roden betragen , nach $ 4 ‘auf einer Strecke von
 
-41 x Sehfl. Ro>ken + 26 x Thlr
+41 x Sehfl. Rockken + 26 x Thlr
 80 — x
 
 Nach ‘$ 23 endet ‘dèr Anbau des Bodens bei einr Ent-
@@ -5828,33 +5595,31 @@ Nach ‘$ 23 endet ‘dèr Anbau des Bodens bei einr Ent-
 fernung von 31,5" Meilen. von der Stadt. Seht inan nun
 
 ii HUSS AG 381 N
-y 9
 
 x Meilen die Transportfoſten
 
 --- Page 142 ---
-130
 
 31,5 für x in obige Formel, ſo betragen die Frachtkoſten für
 eine Ladung von 28,6 Schfl. Roten
 tis + 819 Thlr.__5 5 14Sdhfl—4-16/89 Thlr.
 
-Hiernach betragen für 150 Schfl. Ro>ken auf 31,5 ‘Mei-
-len die Frachtkoſten 131,9 Schfl. Ro>en + 78,6 Thlr.
+Hiernach betragen für 150 Schfl. Rockken auf 31,5 ‘Mei-
+len die Frachtkoſten 131,9 Schfl. Rocken + 78,6 Thlr.
 
 Der Geſammtaufwand beträgt alſo j
 
-150 + 131,9 Schfl, =281,9 Schfl; No>en
+150 + 131,9 Schfl, =281,9 Schfl; Nocken
 und 78,6 Thlr.
 
-Die Produktion des ‘Ro>kens am Ort der - Erzeugung
+Die Produktion des ‘Rockkens am Ort der - Erzeugung
 foſtet à Schfl. 1/5 Pfd. Silber
 
 dies macht für 281,9 Schfl. 7,05 Pfd. Silber
 78,6 Thlr. haben einen Silberwerth von 3,93 „ y
 s zuſammen. . . 10,98 „Pfd. Silber.
 
-Die Lieferung von 150 Schfl. Ro>ken nach der . Stadt
+Die Lieferung von 150 Schfl. Rockken nach der . Stadt
 foſtet alſo 10,98 Pfd. Silber, und da das Getreide aus -der
 31,5 Meilen entfernten Gegend zur Befriedigung des Bedürf-
 niſſes der Stadt nach nothwendig iſt, ſo muß auch der Preis
@@ -5877,15 +5642,14 @@ Silbèr unſtreitig weit mehr Getreide ankaufen als in. London;
 aber in London erhält man für daſſelbe Quantum Silber ein
 
 --- Page 143 ---
-431
 
 größeres Quantum an Kolonial -, Fabrik- und Manufaktur-
-waaren als in Moskau. Eben ſo ſind au< im iſolirten
+waaren als in Moskau. Eben ſo ſind auch im iſolirten
 Staat die Preiſe der mehrſten Fabrikwaaren in Silber ange-
 geben in der Stadt niedriger als an der Grenze.
 
 Die obige Berechnung der Frachtkoſten gründet ſich auf
-die ehemaligen ſehr ſ{hle<hten me>lenburgiſchen Landſtraßen.
+die ehemaligen ſehr ſ{hlechten mecklenburgiſchen Landſtraßen.
 Auf ‘Chauſſeen, Eiſenbahnen und Kanälen kommen die Fracht-
 foſten natürlich ſehr viel niedriger zu ſtehen. Auf das Mehr
 oder Weniger kömmt es hier aber niht an, ſondern nur
@@ -5894,7 +5658,7 @@ Silber und Getreide hervorgeht. So viel leuchtet aber von
 ſelbſt ein, daß in dem Maas, als die Kommunikationsmittel
 ſich vervollkommnen, auch die Differenzen, die in dem Werths-
 verhältniß“ zwiſchen Silber und Getreide an verſchiedenen
-Orten ſtattfinden, ſi< mindern.
+Orten ſtattfinden, ſich mindern.
 
 Veber die Theorie des Preiſes ſind ganze Bücher geſchrie-
 ben, ohne daß dadurh eine Einſtimmigkeit der Anſichten er-
@@ -5918,10 +5682,8 @@ S. 66— 136 des angeführten Werks.
 "**) Jn der Note zu Ricardo? s e-Grundſähe der politiſchen Oeco-
 „nomie‘/‘S. 95 der Ueberſegung.
 
-9%
 
 --- Page 144 ---
-132
 
 und hält die Konkurrenz oder das Verhältniß zwiſchen Ange-
 bot und Nachfrage für den- einzigen Regulator des Preiſes.
@@ -5965,7 +5727,6 @@ es ſich mit dem Getreide, wo der Mangel oder UVeberfluß von
 ‘der geringern oder - größern Jahres -Fruchtbarkeit abhängt.
 
 --- Page 145 ---
-133
 
 Faßt man aber längere Perioden, in welchen die Einwirkung
 der Witterung auf die Vegetation faſt als eine konſtante
@@ -6009,7 +5770,6 @@ _duktionskoſten wie für Gewinn und Verluſt.
 Landrente als: Elemente des Preiſes enthalten ſind, ändert an
 
 --- Page 146 ---
-134
 
 dieſem Saß im Weſentlichen nichts; denn wenn man Land=z
 rente und Kapitalszinſen als Auslagen in Abzug bringt, ſo
@@ -6028,7 +5788,7 @@ verfertigt, darf auf eine Vergütung ſeiner Arbeit nicht rechnen,
 weil der Gebrauchswerth ſeiner Fabrikate weit unter deñ
 Fabrikgtionsfoſten ſteht. Aber Kurioſitäten dieſer Art kommen
 nie dauernd auf den Markt, und nur ſolche Waaren, deren
-Gebräuchswerth die Produktionskoſten mindeſtens de>t, können
+Gebräuchswerth die Produktionskoſten mindeſtens deckt, können
 Gegenſtände des regelmäßigen Handels werden.
 
 Waaren und Geräthſchaften, deren Produktion mit gleich-
@@ -6049,7 +5809,6 @@ in größerer Menge hervorgebracht werden können, wie ‘z.B.
 Getreide, ſteigt der Preis ſo hoh, bis Produktionskoſten
 und Gebrauchswerth im Gleichgewicht ſind."
 
-—
 
 --- Page 147 ---
 Hierin ‘liegt, beiläufig ‘geſagt, ein Grund, warum mit der
@@ -6058,14 +5817,14 @@ Fabrikate ſtetig ſteigen muß.
 
 "Die Gold- und Silberminen gehören in dieſer Beziehung
 titit dem Getreide in eine Kategorie. Denn wenn nicht neue,
-reichhaltige Minen entde>t werden, und der Bedarf an Gold
+reichhaltige Minen entdeckt werden, und der Bedarf an Gold
 und Silber nur aus den ſchon länger bebaueten Bergwerken
 erlangt werden kann, ſo iſ die Gewinnung dieſer “ edlen
 Metalle, da ſie aus immer- größerer Tiefe genommen werden
 müſſen, auh" mit ſtets wachſenden Koſten verknüpft. Der
 Bergbau muß dann, ebenſo wie der Bau des Getreides, ſeine
 Grenze finden, wenn die Gewinnungskoſten der edlen Metalle
-den dur< die Zahlungsfähigkeit der Käufer bedingten Ge=
+den durch die Zahlungsfähigkeit der Käufer bedingten Ge=
 brauchswerth derſelben erreichen.
 
 In der als“ Thatſache angenommenen Vorausſezung, daß
@@ -6087,15 +5846,10 @@ beim Getreide ſind Produktionskoſten und Gebrauchswerth im
 Gleichgewicht.
 
 --- Page 148 ---
-|
-Y
-|
 
-|
 
 -- > ad
 
-136
 
 Durch die vorſtehenden Betrachtungen haben wir über das
 Weſen des Zinsfußes 1 und des Ariglealalns tiniges a
@@ -6105,14 +5859,13 @@ erhalten, indem wir
 ‘der Wirkſamkeit des Kapitals zu der Wirkſamkeit“ der
 gegenwärtig vollbrachten Arbeit bezeichnet; und
 
-2) für: den SES den allgemein gültigen Ausdru>
+2) für: den SES den allgemein gültigen Ausdruck
 
 ay = gefunden haben.
 
-1 E
 
 Damit ſind wir aber doch erſt an die Pforten aine
-eigentlichen Unterſuchung gelangt. Denn in jenem Ausdru>k
+eigentlichen Unterſuchung gelangt. Denn in jenem Ausdruckk
 iſta 4 y von z abhängig, ſo daß wir ſtets z: als bekannt
 annehmen müſſen, wenn wir a + y beſtimmen wollen. Nun
 iſt aber auh p feine fonſtante Größe, ſondern wächſt und
@@ -6129,12 +5882,11 @@ thun , die in einer ſteten Wechſelbeziehung zu einander ſtehen
 und wovon keine Einzige als gegeben angenommen werden darf.
 
 Dadurch aber wird unſere Unterſuchung \o ſchwierig ‘und
-verwi>elt — und es frägt ſich, ob ſo viele Gleichungen ge-
+verwickelt — und es frägt ſich, ob ſo viele Gleichungen ge-
 funden werden können, als zur Beſtimmung der unbefaunien
 Größen erforderlich ſind. '
 
 --- Page 149 ---
-137
 $ 414.
 
 In dem iſolirten Staat iſt an der Grenze deſſelben die
@@ -6149,7 +5901,7 @@ Fall, wo das ganze Arbeitsprodukt zwiſchen dem Arbeiter und
 
 Kapitaliſten getheilt wird, und wo der dritte Faktor bei der
 Preisbeſtimmung, die Landrente, die Aufgabe nicht noch ver-
-wi>elter macht, unſern Betrachtungen zum Grunde: legen.
+wickelter macht, unſern Betrachtungen zum Grunde: legen.
 
 Dies nun iſ der Fall an der Grenze der kfultivirten Ebene
 des iſolirten Staates, wo jenſeits des Kreiſes der Dreifelder-
@@ -6159,14 +5911,14 @@ tivirten Ebene umſonſt zu haben iſt.
 Zwar gibt das Land im Kreiſe der Viehzucht, jenſeits der
 angebaueten Ebene, noch einige Rente; aber dieſe iſt ſo geringe,
 daß ſie als verſhwindend zu betrachten iſt — und da deren
-Berüdſichtigung die Unterſuchnng wohl verwid>elter | machen,
+Berüdſichtigung die Unterſuchnng wohl verwidckelter | machen,
 aber im Reſultat doch nichts ändern würde: ſo abſtrahiren
 wir ganz davon, uud ſehen die Landrente des Bodens jenſeits
 des Kreiſes der Dreifelderwirthſchaft gleich Null.
 
 1" An: der Grenze der kultivirten Ebene - iſt es in ‘die Wahl
 des Arbeiters geſtellt, ob er ferner für Lohn arbeiten, oder
-mit Hülfe. der angeſammelten Erſparniſſe ein Stü>k Land urbar
+mit Hülfe. der angeſammelten Erſparniſſe ein Stückk Land urbar
 machen, Gebäude 2c. errichten, und ſich ein Eigenthum- erwer-
 ben will, auf welchem er künftig für eigene Rechnung: arbeitet.
 + Sollen ‘die Arbeiter in dieſer Gegend von der Anlegung
@@ -6175,7 +5927,6 @@ werden, noch ferner bei ihren bisherigen Herrn für Lohn zu
 arbeiten, ſo muß dieſer Lohn nebſt den Zinſen, die ſte durch
 
 --- Page 150 ---
-138
 
 Ausleihen für ein zur Anlegung ‘der Koloniſtenſtelle erforder-
 
@@ -6187,8 +5938,8 @@ Iſt nun der Lohn... =a— y Schfl. Roden,
 das Arbeitsprodukt.…....... “=p x
 das zur Anlegung des Gütchens
 erforderliche Kapital... =1@4:Z.A.
-welches in Scheffel Ro>ken ‘aus-
-gedrü>t 4 e Ur, =q(a + Y S4 iſt,
+welches in Scheffel Rockken ‘aus-
+gedrückt 4 e Ur, =q(a + Y S4 iſt,
 und endlich der Zinsfuß... ="2 pCt;
 
 ſo muß, wenn hier ein Gleichgewicht ſtattfinden ſoll
@@ -6211,7 +5962,7 @@ Der Verſuch zur Löſung dieſer Aufgabe ſoll im nichje
 $ gemacht werden.
 
 Um dort aber ven Zuſammenhang nicht, zu" oft und zu
-lange’ dur< Erhebung von “ Zweifeln und? Einwürfen gegen
+lange’ durch Erhebung von “ Zweifeln und? Einwürfen gegen
 die Richtigkeit des Verfahrens unterbrechen zu“ (müſſen, wollen
 wir die aus der“ Vergleichung mit der Wirklichkeit ſich er-
 hebenden Bedenken im Voraus anführen: und zu" beſeitigen
@@ -6220,9 +5971,7 @@ uro : . 1454-6 422320
 3 1994 Dui e Adin
 
 --- Page 151 ---
-|
 
-139
 
 (I. |
 
@@ -6238,7 +5987,7 @@ Summe der Lebensbedürfniſſe und Genußmittel, die der Ar-
 beiter ſih für ſeinen Lohn verſchaffen kann, muß durch den |
 ganzen iſolirten Staat gleich hoch ſein; denn wäre an einer
 Stelle dieſer reelle Arbeitslohn höher als an einer andern, ſo
-würde dur< das Zuſtrömen der Arbeiter aus den Gegenden
+würde durch das Zuſtrömen der Arbeiter aus den Gegenden
 mit geringerm Lohn das Gleichgewicht ſich gar bald herſtellen.
 
 An der Grenze der fultivirten Ebene des iſolirten Staats,
@@ -6266,7 +6015,6 @@ Dieſe Hemmungen der Ausgleichung ‘ſind dagegen im:
 iſolirten Staat’ überall niht vorhanden.
 
 --- Page 152 ---
-140
 
 B. Zinsfuß.
 
@@ -6283,7 +6031,7 @@ Arbeitslohn. |
 Während in England und Holland der gewöhnliche Zins-
 ſag 3 bis 4 pCt. beträgt, iſt dieſer in Rußland und“ mehre-
 ren -nordamerikaniſchen Staaten 6 bis 7 pCt. Daß dieſe
-Differenz ſih niht dur<h das Ueberſtrömen der Kapitalien
+Differenz ſih niht durch das Ueberſtrömen der Kapitalien
 yon ‘einem Lande nach dem andern ausgleicht, erklärt“ ſich
 
 leicht, wenn man erwägt, daß die Kapitaliſten nicht geneigt
@@ -6311,10 +6059,8 @@ Hier möchte es ſchwer ſein, zu entſcheiden, ob der höhere
 Zinsſag in Oſtpreußen Folge “einer höhern Kapitalnugung
 oder einer mindern Sicherheit - für die Gläubiger ſei imi
 
-j
 
 --- Page 153 ---
-|
 | 144
 
 wenn- niht der Kurs der Pfandbriefe hierüber Aufſchluß gäbe.
@@ -6337,7 +6083,7 @@ furmärkiſchen Pfandbriefe bei gleichem Zinsſaß nur ein uner-
 | heblicher Unterſchied, nämlich - der von 962% bis 98'/ ſtatt-
 findet, während in dem Zinsſaß bei Privatanleihen ſich eine
 ſo bedeutende Abweichung zeigt, ſo müſſen wir ſchließen, daß
-der hohe Zinsfuß in Oſtpreußen dur<h Unſicherheit der An-
+der hohe Zinsfuß in Oſtpreußen durch Unſicherheit der An-
 leihen auf dortige Güter hervorgerufen und erhalten wird.
 Ob dieſe größere Unſicherheit der Privatanleihen in ‘Oſt-
 preußen, verglichen mit andern Provinzen, von dem National-
@@ -6393,7 +6139,6 @@ Analyſis des Unendlichen añglog, und kann Va e ruf
 gerechtfertigt werden u 6 AH Sd Hr RS
 
 --- Page 155 ---
-143
 
 Verwandelt ſich nämlich x in x+ dx, ſo: wird dieſe Größe
 im Werth noh immer = x, alſo dx == 0 gerechnet. Das -
@@ -6433,14 +6178,13 @@ die: Landrente „der neu „angelegten Güter unter Null herab.
 Der. endliche Erfolg des Herabſinkens der Landrente unter
 
 --- Page 156 ---
-144
 
 Null‘‘aber* iſt, daß die Anſiedelungen wieder SOLENT Eden,
 wenn die Gebäude verfallen ſind.
 Damit wird die kultivirte Ebene wieder auf ihren frühern
 Umfang beſchränkt; und: der beharrénde Zuſtand tritt wieder ein.
 Sobald aber“ die Gutsbeſizer verſuchen, den Lohn unter
-das Maas ‘herabzudrü>en, “ was die Arbeiter dur<h Arbeit
+das Maas ‘herabzudrücken, “ was die Arbeiter durch Arbeit
 auf eigene’ Nehnung ‘in der Wildniß verdienen können, “be-
 
 “ ginnt ‘daſſelbe Spiek - von ‘Neuem. Da“ dies abér' für die
@@ -6459,12 +6203,12 @@ auf dieſe Weiſe bildenden normalen Arbeitslohn ſtattfinden.
 IV.
 
 Wir “gründen: unſere nachfolgende Unterſuchung über die
-Kapitalerzeugung dur< “Arbeit ‘auf “die Annahmèé; ‘daß ‘die -
+Kapitalerzeugung durch “Arbeit ‘auf “die Annahmèé; ‘daß ‘die -
 Arbeiter ihren Ueberſchuß, oder den Theil des Lohns, welchen
 ſie nah’ Abzug der nothwendigen Subſiſtenzmittel übrig " bé-
-halten, zudem angegebenen Zwe> verwenden.
+halten, zudem angegebenen Zweck verwenden.
 
-Véi dem Vli> auf die Wirklichkeit kann mat välegét
+Véi dem Vlick auf die Wirklichkeit kann mat välegét
 einwenden, ‘daß der Lohn der Arbeiter in dem größten“ Theil
 von Europa nicht mehr beträgt ‘als was ſie zum Unterhalt
 ihrér Familien nothwendig bedürfen, daß“ ihr Ueberſchuß gleich
@@ -6476,7 +6220,6 @@ Dieſer Einwurf verliert aber aus nachſtehenden ivetveigie
 denenGründen für die gegenwärtigeUnterſuchung ſeineBedeutung:
 
 --- Page 157 ---
-445
 
 V'Bei-der Konſtruktion des iſoliften-Staätes! iſt èin Ar-
 beitslohn ‘zum Grunde gelegt; dex dè Arbéiter “aller:
@@ -6503,7 +6246,7 @@ Wir haben in“ 1. geſchen, ‘daß um die Anléguñg neuer
 . Koloniſtenſtellen und damit die Auswanderung der Arbeiter
 
 au'verhüten, a 4+=y +—q (a + Y) Z= p ſein muß. Jn Worten
-ausgedrü>t lautet'dies ſo: - der Arbeitslohwn nebſt den Zirtſeñ
+ausgedrückt lautet'dies ſo: - der Arbeitslohwn nebſt den Zirtſeñ
 des zur: Anlegung: einer Koloniſtenſtelle erforderlichêèn Kapitals
 muß gleich ſein dem Arbeitsprodukt dès mit. einen Kapitäl
 von 4 IJ. A. verſehenen Arbeiters. dito OL == 74
@@ -6517,13 +6260,11 @@ T1111 (1, ‘dás’ Kapital-=121J. A}! ig 20NTG 91d u 85
 né rip, das Arbeilsprodukt: = Zion: 5s. 1d 15
 9» dié)Subſiſtenjmittel\=7400"'6; ſüß, ‘71 omm
 
-10
 
 --- Page 158 ---
-146
 
-wo e den hundertſten Theil der in Scheffel Ro>en ‘ausge-
-drü>ten Bedürfnißmittel des Arbeiters“ bezeichnet.
+wo e den hundertſten Theil der in Scheffel Rocken ‘ausge-
+drückten Bedürfnißmittel des Arbeiters“ bezeichnet.
 ‘Die obige Gleichung erhält dann folgende Form:
 100 c+ y +(1200c+12y)z2=8300 c.
 Sett man nun für y nah und nah andere Werthe, ſo
@@ -6559,7 +6300,6 @@ zu einander ſtehen müſſen, wenn. der Arbeiter: für ſeine An-
 ſtrengung das Maximum an Rente beziehen ſoll, -
 
 --- Page 159 ---
-147
 
 tt iba
 Die Kapitalerzeugung dur Arbeit.
@@ -6568,14 +6308,14 @@ einer Geſellſchaft verbindet, um an der Grenze der fultivirten
 Ebene. des iſolirten Staats. ein neues Gut von der Größe
 wie die ältern Güter dieſes Staats anzulegen.
 
-Die zu dieſem Zwe> verbundenen Arbeiter. theilen ſich in
+Die zu dieſem Zweck verbundenen Arbeiter. theilen ſich in
 zwei Abtheilungen — wovon die eine ſich „mit: der Urbar-
 machung des Feldes, der Errichtung der Gebäude, der Ver-
 fertigung von Geräthſchaſten 2c. beſchäftigt; die andere aber
 
 einſtweilen bei der Arbeit für Lohn verbleibt, und durch ihren
 
-in Ro>en ſich. ausſprechenden Ueberſchuß die Subſiſtenzmittel
+in Rocken ſich. ausſprechenden Ueberſchuß die Subſiſtenzmittel
 liefert, welche, die mit der Anlegung des Guts. beſchäftigten
 Arbeiter konſumiren.
 
@@ -6604,16 +6344,14 @@ Der Lohn dieſer Arbeiter kann aber nicht -willkührlich" und
 auh „nicht „nah demin den ältern „Gütern „üblichen Lohn
 beſtimmt werden. Dieſer Lohn muß; vielmehr ſo+ hoch - ſein;
 
-10*
 
 --- Page 160 ---
-143
 
 daß der UVeberſhuß des Arbeiters auf Zinſen gelegt, alſo yz
 gleich der Rente des kapitalerzeugenden Arbeiters wird: denn
 wäre dies nicht der Fall, ſo würden — da wir Arbeiter von
-gleicher Kraft, “Kenntniß und Geſchi>lichkeit vorausfezen —
-die Lohnarbeiter augenbli>lich zur Kapitalerzeugung übergehen.
+gleicher Kraft, “Kenntniß und Geſchicklichkeit vorausfezen —
+die Lohnarbeiter augenblicklich zur Kapitalerzeugung übergehen.
 
 Wir haben hier alſo eine zwiefache Verkettung zwiſchen
 Arbeit und Kapital: ‘einmal indem aus der Arbeit unmittel-
@@ -6649,7 +6387,6 @@ Höhe 'des'' Arbeitslohns ‘erlangt der Arbeiter für ‘ſeine An-
 ſirengung! das Maximum der Rente?
 
 --- Page 161 ---
-149
 
 Um. dieſe Frage zu beantworten, nehmen wir folgende
 Säge an:
@@ -6669,7 +6406,7 @@ dann mit einem Kapital. von g J. A. (q Jahresarbeiten. einer
 Arbeiterfamilie),
 
 Der mit: einem Kapital von q J.- A. verſehene Arbeiter
-bringe. ein jährliches Erzeugniß von p (Scheffel Ro>en). hervor.
+bringe. ein jährliches Erzeugniß von p (Scheffel Rocken). hervor.
 
 Das Geſammtprodukt der n Arbeiter iſt demnah- = np.
 
@@ -6678,12 +6415,12 @@ Die Subſiſtenzmittel, welche der Arbeiter zur Erhaltung
 Roten oder deren Aequivalent.
 
 Die nq mit der Anlegung des Guts während eines. Jahres
-beſchäftigt geweſenen Arbeiter haben konſumirt ang (Schfl.Ro>en).
+beſchäftigt geweſenen Arbeiter haben konſumirt ang (Schfl.Rocken).
 
 Von der mit Erzeugung von Lebensmitteln beſchäftigten
 Abtheilung der Geſellſchaft behält. jeder Arbeiter. von ſeinem
 Lohn, nah Abzug ſeiner Konſumtion, einen Ueberſchuß von
-y Schfl. Ro>en,- oder deſſen Aequivalent,
+y Schfl. Rocken,- oder deſſen Aequivalent,
 
 Zur Hervorbringung der bei der Anlegung des Guts ver-
 zehrien ang Schfl. ſind alſo —I mit der Produktion dafllen
@@ -6696,10 +6433,9 @@ IId 15 aq A+ j td 01D
 Sd, A hao, 5 nq —— Z n
 
 --- Page 162 ---
-(0
 
 “Die n° Tagelöhner, | welche ‘das Feld béſtellen, erhalten
-jeder a + y (Schfl. Ro>ken) an Lohn. Die Geſammtausgabe
+jeder a + y (Schfl. Rockken) an Lohn. Die Geſammtausgabe
 an Whn beträgt alſo n (a + Y). Y
 
 Zieht man dieſe Ausgabe von dem Geſammterzeugniß =
@@ -6714,7 +6450,7 @@ tigten Arbeiters wird alſo gelohnt mit. einer Rente :
 bonn @ritilüitis nq E) @—la TF 107
 
 deL i rdv +
-Jn dieſem für“ die' Größe- der ' ‘Rente gefundenen Ausdru>
+Jn dieſem für“ die' Größe- der ' ‘Rente gefundenen Ausdruck
 
 iſt z nicht vorhanden, und y die einzige noch unbeſtiminte Größe.
 “Vemerkung: Da in dieſer ‘Formel "für die Rente n
@@ -6740,7 +6476,6 @@ Größe der Rente anſchaulich zu e zuerſt ein Beiſpiel
 in Zahlen geben.
 
 --- Page 163 ---
-151
 
 Es ſei a = 100 ec; p = 300 c; q= 12 J. A.
 Nun ſei erſtens y == 20 c.
@@ -6764,7 +6499,6 @@ Dieſe Rente unter 72 Mann vertheilt, gibt für einen kapital-
 
 80 c
 
-72
 Zweitens ſei y = s0 e.
 
 Zur Erzeugung der 1200-c- bei der Anlegung des' Guts
@@ -6783,7 +6517,6 @@ erzeugenden Arbeiter 4 — 2,5 c Rente.
 verzehrten Lebensmittel ſind dann
 
 --- Page 164 ---
-152
 
 LS TE 3 Mi (1
 
@@ -6822,7 +6555,6 @@ Die ungemeſſene Steigerung des Sehns liegt alſo keines-
 wegs im Intereſſe der kapitalerzeugenden Arbeiter.
 
 --- Page 165 ---
-153
 
 Aus dem anfänglichen Steigen der:-auf eitenMann fallen-
 den Rente beim Wachſen des Arbeitslohns und: dem nächherigen
@@ -6841,12 +6573,11 @@ inmer“ aufs“ Neue vollführen müſſen.
 “Die Differentialrehnung bietet aber das Mittel bar, nicht
 blos die Aufgabe mit mathematiſcher Genauigkeit zu. löſen,
 ſondern auch für den hier geſuchten Arbeitslohn einen Aus-
-dru> zu finden, der für alle und jede Zahlenverhältniſſe gültig
+druck zu finden, der für alle und jede Zahlenverhältniſſe gültig
 iſt, und der ſomit das Geſez ſelbſt offenbart.
 
 - Die Rente ‘des kapitalerzeugenden. Arbeiters iſt
 Pl +My
-TCE
 
 Bei welihem Werth von y erreicht dieſe Funktion das
 Maximum ihres Werths ?
@@ -6861,14 +6592,12 @@ A (TER AEDT a y—ay — y)
 dA (P—a—2 y) dy — rip TO Ug 20
 . Alſo: (ay) (p—a=—2y) =p ipy tf 77
 
-at
 
 PAI Zay ipy tay Styl TS DUO pAN
 D e Lt 19d nf Natta um
 Y? + 2ay = ap — a2: Sn BIA 5d ln ris VTHT1TR E) M
 
 --- Page 166 ---
-154
 
 ' LE I —— TE:
 a+)! = ap
@@ -6881,10 +6610,10 @@ dern aus der freienSelbſtbeſtimmung der Arbeiter
 hervorgehenden Lohn 77ap nenne ich. den natur-
 gemäßen, oder auh den natürlichen Arbeitslohn.
 
-Jn Worten ausgedrü>t ſagt dieſe Formel: der naturge-
+Jn Worten ausgedrückt ſagt dieſe Formel: der naturge-
 mäße Arbeitslohn wird gefunden, wenn man die nothwendigen
 Bedürfniſſe des Arbeiters (in Korn - oder Geld ausgeſprochen)
-mit dem Erzeugniß ſeiner Arbeit (dur<h daſſelbe Maas ge-
+mit dem Erzeugniß ſeiner Arbeit (durch daſſelbe Maas ge-
 meſſen) multiplizirt, und hieraus die Quadratwurzel zieht.
 
 Da a: a p= ap: p
@@ -6913,7 +6642,6 @@ geringer ſein als die hier gefundene, —-— 4.
 Zur Kapitalerzeugung gehören
 
 --- Page 167 ---
-155
 Probe. 1! Es ſei der Lohn! = 174
 ſo iſt die Rente 300 — 174'=='126;
 zur Kapitalerzeugung ſind“ erforderlich :
@@ -6952,7 +6680,6 @@ Der “as z iſt demnach TA GFE.
 EN :
 (1+42) +T N-= = (+ '
 
-Y
 
 und a+y =7 e wie auch ſchon 5 13 gezeigt, E
 
@@ -6975,7 +6702,7 @@ alſo p + pqz — pqz = a(1+92)?
 
 d+ =Ej 1+ =/ +
 ERE O MEE PSS 0 at
-ge == l> a :
+ge == lck a :
 fótglihiz =F PTA
 ¿q aP
 MATITE pa op ia
@@ -6996,11 +6723,9 @@ hb 2 TRIP — i TA Sri
 
 5,555 pn 6h 2 nu} bun ait pad
 
-R
 ;} SP
 
 --- Page 169 ---
-457
 
 Für ‘den Ueberſchuß y = 80" exfolgen dann! añ Zinſen
 80'x 0,0555 — 4,44. hL Nd ¿1
@@ -7038,7 +6763,6 @@ des'' Kanals" verwandte uuns buen Cmt Le pces
 Arbeit eines Mames
 
 --- Page 170 ---
-458
 
 7+Hier- wird - alſo durch das Kapital -gerade zu. Arbeit er-
 ſpart; das Kapital verrichtet jezt die Arbeit , die ſonſt von
@@ -7061,8 +6785,8 @@ Beſtimmungsgründe vorhanden ſind, als die, welche wir bisher
 | Es gibt beim Landbau viele Meliorationen und. Opera-
 | tionen, wobei durch eine Kapitalanlage an jährlich wieder-
 | fehrender Arbeit erſpart werden kann: o z.B. durch Errich-
-| tung von Scheunen ſtatt der Kornfeimen, .dur< Wegräumung
-| von Steinen, die das A>ern erſhweren, dur<h Anſchaffung
+| tung von Scheunen ſtatt der Kornfeimen, .durch Wegräumung
+| von Steinen, die das Ackern erſhweren, durch Anſchaffung
 von Dreſchmaſchinen 2c. Aber dieſe Operationen bezahlen ſich
 nicht alle gleih hoh. Während es einige geben kann, wo
 die jährlich ‘wiederkéhrende' Arbeit eines ‘Mantés ſhon durch
@@ -7097,7 +6821,7 @@ licher Arbeit. Wie iſt in dieſer Wechſelwirkung Einheit und
 Klarheit zu finden?
 
 Um die Löſung dieſer Aufgabe zu verſuchen, bxingen wir
-die Arbeitserſparung dur<h das Kapital in Verbindung mit
+die Arbeitserſparung durch das Kapital in Verbindung mit
 der Kapitalerzeugung durch Arbeit.
 
 Geſegt die Kapitalanlage von k J. A. erſege die jährlich
@@ -7118,7 +6842,6 @@ gibt den Zinsſag 2 ns GE DGETA ¿ri
 “Die Rente DAs fapitalerzeugenden“ Arbeiters iſt =" yz,
 
 --- Page 172 ---
-160
 
 M Paty 19 00
 045 Viol e560 ndsilon
@@ -7140,7 +6863,6 @@ Früher war yz =
 
 ak q (a+ Y)
 a EY
-(0
 Nun iſt aher z “WTE TL
 
 und folglih k = To Wir: erhalten hier alſo wieder S das
@@ -7161,7 +6883,6 @@ hängt, wie weit - die- auf: Arbeitserſparung ‘gerichtete Me- Me
 lioxation mit Nugen getrieben: 4werdenfann.. 511 12
 
 --- Page 173 ---
-161
 
 Bei der Anlegung eines neuen Guts erheiſcht es das Jn-
 tereſſe der kapitalerzeugenden Arbeiter, die Zahl der anzuſtellen-
@@ -7171,12 +6892,12 @@ den Lohn, den derſelbe erhält, abſorbirt wird. Ebenſo liegt
 es im Intereſſe der kapitalerzeugenden Arbeiter, die Kapital-
 anlage ſo hoch zu ſteigern, bis aus der Kapitalvermehrung
 feine erhöhte Rente für ſie mehr hervorgeht. Da aber ein
-Theil der Arbeiter dur<h Kapital, und umgekehrt ein Theil
+Theil der Arbeiter durch Kapital, und umgekehrt ein Theil
 Kapital durh mehr angeſtellte Arbeiter erſeßt werden kann:
 ſo müſſen auf der Grenze bis zu welcher Kapital und Arbeit
 mit Nugen zu verwenden ſind, die Koſten der Arbeit durch
 die Menſchen im Gleichgewicht ſein mit den Koſten der Ar-
-beit dur<h das Kapital — und dieſes Gleichgewicht findet
+beit durch das Kapital — und dieſes Gleichgewicht findet
 ſtatt, wenn k = "/z ift. |
 
 Für q = 12, p = 300c, und y = 73,2gzhaben
@@ -7203,10 +6924,8 @@ kJ. A. vermehrt wird, dann daſſelbe Geſammtprodukt np,
 
 k= zz =
 
-S
 
 --- Page 174 ---
-162
 
 zu deſſen Hervorbringung früher n Arbeiter erforderlich waren,
 durh n—1 Arbeiter erzeugt wird.
@@ -7229,7 +6948,6 @@ Wirkſamkeit des Menſchen erhöht, erſcheint es als Mitarbeiter.
 Jn dieſem Sinn iſt es zu nehmen, wenn hier und in der
 Folge; ygn der Arbeit des Kapitals die Rede iſt.
 
-LS
 
 $ 18.
 
@@ -7251,7 +6969,6 @@ Die Steigerung des relativen Nationalkapitals erfolgt nict
 alle Zwiſchenräume durchlaufendes Wachſen.
 
 --- Page 175 ---
-163
 
 Es folgt hieraus, daß wir das zulegt entſtandene und
 angelegte Kapitaltheilhen, durch * deſſen Nugung ver
@@ -7292,11 +7009,9 @@ Davon hat er an Zinſen zu zahlen... A di aq;
 für ſeine Arbeit verbleibt ihm... P— «q.
 
 Wir erhalten dadurch für den Arbeitslohn den neuen Aus-
-dru> A — P—ud. :
-11#
+druck A — P—ud. :
 
 --- Page 176 ---
-164
 
 Bei dem Lohn von p—œq hat das Kapital q den Werth
 von q (p—æq) Schſl. Die Rente, die dies Kapital abwirft,
@@ -7322,14 +7037,14 @@ und p» der kapitalerzeugende Arbeiter das Maximum der
 Rente erlange — und indem wir dort von dem Verhältniß,- |
 worin q und p zu einander ſtehen mögen, abſtrahirten, und
 beide im Kalkül als konſtante Größen behandelten, haben wir
-in ap einen Ausdru> für den Arbeitslohn erhalten, der
+in ap einen Ausdruck für den Arbeitslohn erhalten, der
 für jeden Werth von q und p gültig iſ, ſo daß für den
 Arbeitslohn 77ap immer die höchſte Rente erfolgt, welches
 Verhältniß auch zwiſchen q und p ſtattfinden, welchen Werth
 auch jeder dieſer Buchſtaben repräſentiren mag.
 
-Auch iſt q in dem Ausdru> für den Arbeiltslohn = Yop
-ganz verſhwunden. Dagegen erhält q in dem Ausdru> für
+Auch iſt q in dem Ausdruck für den Arbeiltslohn = Yop
+ganz verſhwunden. Dagegen erhält q in dem Ausdruck für
 
 den Zinsfuß = PRB ſeine Bedeutung wieder.
 Da aber mít dem N eis von g der Werth von p ſteigt
@@ -7338,7 +7053,6 @@ und fällt, ſo iſt auch. der Arbeitslohn “A ap things von der
 Größe von q.
 
 --- Page 177 ---
-165
 
 Wenn nun gleich die Rente des kapitalerzeugenden Arbei-
 ters für jeden Werth von q das Maximum erreicht, wenn
@@ -7379,7 +7093,6 @@ Theoretiſch iſt aber dieſe Aufgabe durch unſere bisherigen
 Unterſuchungen nicht gelöſt, und zur vollſtändigen Löſung
 
 --- Page 178 ---
-166
 
 derſelben gehört auch die Kenntniß der Gleichung zwiſchen q,
 p und œ.
@@ -7399,7 +7112,6 @@ Der ins TT 0000.00 — >
 Zinsfuß 2 Se
 
 Die Arbeitsrente yz alſo ....... +. o OE
-P04
 
 Bei welchem Werth von œ erreicht nun die Arbeitsrente
 das Maximum?
@@ -7410,7 +7122,7 @@ und das Differential gleich Null geſegt, ergibt
 
 (p— en (pP—2eq—a) da (œp—&q—va) qde=0
 
-alſo p>—æpq + 2a!gq? — ap + œag
+alſo pck—æpq + 2a!gq? — ap + œag
 “—2apq
 + æpq — aa — aq -
 
@@ -7432,7 +7144,6 @@ die Arbeitsrente das Marini rein (oE
 ij OHT TH (3
 
 --- Page 179 ---
-167
 
 Beiſpiel in Zahlen auf Grundlage der Tabelle B.
 
@@ -7479,7 +7190,6 @@ dem Lohn von 7/ap, und daß, wenn wir uns gq als
 - ſtetig wachſend denken, es nur einen Moment gibt, wo
 
 --- Page 180 ---
-168
 
 beide Formeln gleiche Arbeitsrente geben, nämlich dann
 wenn p—œq == Fap ift.
@@ -7521,8 +7231,6 @@ das lette ‘Kapital erhalten hat .…. = 478:0 e,
 der Arbeitslohn pÞ—&q ees (== 116,4 c,
 
 --- Page 181 ---
-169
-WW
 der Zinsfuß Ma Ha 4 ="#95/,3"PTt.
 die Rente des Arbeiters... =2/510.
 
@@ -7560,7 +7268,6 @@ geringes Kapital nur ſchlechtes Aergeräth und Vieh von
 Produktivität gar: ſehr verliert.
 
 --- Page 182 ---
-170
 
 Eine Erhöhung der Kapitalanlage von 6 auf 7 J. A.
 muß alſo das Arbeitserzeugniß des das Feld beſtellenden Lohn-
@@ -7585,7 +7292,6 @@ Jahresarbeit eines Mannes gelohnt mit einer Rente von
 es Jn dem vorliegenden Fall iſt e = 16 c, a + y
 
 = 149,4 und y'= 49,4 6. Dies gibt 18s <=
-[4
 
 5,42; C.
 
@@ -7603,7 +7309,6 @@ Verwirklichung gelangend betrachten müſſen, ſo wird die Er-
 höhung des Kapitals von 6 auf 7J. A. auch eine dem ver-
 
 --- Page 183 ---
-174
 
 größerten Arbeitsprodukt entſprechende Erhöhung des Arbeits-
 lohns zur Folge haben.
@@ -7642,13 +7347,12 @@ Dieſelbe Arbeit, welche auf die Gründung eines 2. Guts
 verwendet, mit 4,27 c Rente gelohnt wird, macht ſich durch
 Vermehrung des Kapitals auf dem ſhon vorhandenen Gut
 mit 5,09 c Rente bezahlt. Die Verwendung der Arbeit zu
-legterm Zwe> zeigt ſich alſo abermals vortheilhaft.
+legterm Zweck zeigt ſich alſo abermals vortheilhaft.
 
 “ Aber“ dieſe mit Vortheil verbundene Steigerung des Kapitals
 fann nicht ins Unendliche gehen, ſondern muß eine Grenze haben.
 
 --- Page 184 ---
-172
 
 W6 iſt dieſe Grenze, und wie iſt ſte zu beſtimmen ?
 Bei der Gründung eines neuen Guts- erwirbt der kapital-
@@ -7662,8 +7366,6 @@ erzeugende Arbeiter eine Rente von
 qr ap 59 aP
 — w—27 ap + a) Fap _ ap—2a7 ap + a?
 qr ap aq
-Fp
-aq
 
 Bei der Vermehrung des relativen, auf einen Arbeiter
 fallenden Kapitals erwirbt der kapitalerzeugende Arbeiter eine.
@@ -7678,7 +7380,6 @@ Rente von
 So lange nun ————— ® größer iſt als ————
 
 (7 ap—a)?
-E
 ſo lange muß auch die Vermehrung des relativen Kapitals
 vortheilhafter' ſein, als der An bisher unkultivirter Felder.
 
@@ -7707,7 +7408,6 @@ bringung eines neuen Kapitals, bei gleich bleibender Axbeiterzahl,
 gelohnt, wenn
 
 --- Page 185 ---
-173
 
 das relative Natioñalkapital erhöht wird, und das hinzu-
 fommende Kapital eine geringere Rente als das früher ange-
@@ -7741,7 +7441,7 @@ und damit nähert ſich auh p—æq unendlih dem Werth
 
 von Fap.
 : Die Frage, wie die auf ſo verſchiedenen Wéſen gefunde-
-nen, ganz verſchiedenen Ausdrü>e für den Arbeitslohn mit
+nen, ganz verſchiedenen Ausdrücke für den Arbeitslohn mit
 einander in Einklang zu bringen, und wie die Höhe des
 relativen Kapitals zu beſtimmen ſei, findet nun durch dieſe
 Unterſuchung folgende Löſung.
@@ -7749,10 +7449,8 @@ Unterſuchung folgende Löſung.
 So lange p—«q kleiner als Fap, iſt die Erhöhung des
 relativen Kapitals vortheilhafter, als die Anlegung neuer Güter.
 
-E,
 
 --- Page 186 ---
-174
 
 Erſt dann, wenn /7ap = p=, d. i. went q =
 
@@ -7780,7 +7478,7 @@ Hätte man in andern Fächern des Wiſſens gegen den
 mathematiſchen Kalkül eine ſolche Abneigung gehabt, wie in der .
 Landwirthſchaft und der Nationalökonomie, ſo wären wir“ jeßt
 noch in völliger Unwiſſenheit über die Geſege des Himmels ;
-und die Schiffahrt, die dur<h Erweiterung der Himmelskunde
+und die Schiffahrt, die durch Erweiterung der Himmelskunde
 jezt alle Welttheile mit einander verbindet, würde R noch
 auf die blog Küſtenfahrt beſchränken.
 
@@ -7794,12 +7492,11 @@ Denken, wir uns einen Güterkompler, auf welchem mehr
 als hundert Arbeiter angeſtellt ſind. in Heft 52H
 
 --- Page 187 ---
-175
 
 Das Maas von Arbeit, was die Bewirthſchaftung dieſer
 Güter erfordert, iſ keineswegs eine beſtimmte Größe.
 
-Der A>er kann mehr oder minder ſorgfältig beſtellt, der
+Der Acker kann mehr oder minder ſorgfältig beſtellt, der
 Ausdruſch des Korns, das Aufleſen der Kartoffeln mehr oder
 minder rein beſchafft werden — und damit ändert ſich das
 erforderliche Quantum Arbeit.
@@ -7810,18 +7507,18 @@ Veiſpiel.
 Werden blos die nah dem Ausgraben - oder Aushaken
 oben auf liegenden Kartoffeln geſammelt, ſo kann eine Perſon
 täglih mehr als 30 Berliner Scheffel aufleſen. Verlangt
-man aber, daß die Erde mit der Handha>e aufgekragt wird,
-um noch mehrere mit Erde bede>te Kartoffeln zu ſammeln, ſo
+man aber, daß die Erde mit der Handhacke aufgekragt wird,
+um noch mehrere mit Erde bedeckte Kartoffeln zu ſammeln, ſo
 ſinkt das Arbeitsprodukt einer Perſon ſogleich tief herab. Je
 mehr man aber auf das Reinaufleſen der Kartoffeln dringt,
 deſto kleiner wird das Arbeitsprodufkt, und wenn man auch
-den legten in einer A>erfläche von 100 Quadratruthen ent-
+den legten in einer Ackerfläche von 100 Quadratruthen ent-
 haltenen Scheffel ernten will, ſo erfordert dieſer lezte Scheffel
-ſo viele Arbeit, daß der zu dieſem Zwe> angeſtellte Menſch
+ſo viele Arbeit, daß der zu dieſem Zweck angeſtellte Menſch
 ſich von ſeinem Arbeitsprodukt niht einmal ſättigen, viel
 weniger ſeine andern Bedürfniſſe befriedigen kann.
 
-Geſet, das ganze auf einem A>erſtü>k von 100 Quadrat-
+Geſet, das ganze auf einem Ackerſtückk von 100 Quadrat-
 Ruthen gewachſene Quantum Kartoffeln betrage 100 Berl.
 Scheffel. Geſet ferner, es werden davon geerntet :
 
@@ -7840,7 +7537,6 @@ SO fenen ores eie 2,0
 10 tane 108,20 pr bilieied ae Rei „cis 0,9
 
 --- Page 188 ---
-176
 
 Bis zu welchem Grade der Reinheit muß nun der Land-
 wirth beim konſequenten Verfahren das Aufnehmen der Kar-
@@ -7875,13 +7571,12 @@ Können dagegen die Kartoffeln durch Verwendung zum
 Pferdefutter, zum Branntweinbrennen oder andern Fabrikationen
 zu 16 ßl. pr. Schfl. genugt werden, ſo iſt bei. einem Tage-
 lohn von 8 ß$l. die Verwendung von 11 Tagearbeiten einer
-Perſon noh zwe>mäßig und von den in der Erde befindlichen
+Perſon noh zweckmäßig und von den in der Erde befindlichen
 100 Scheffel Kartoffeln werden dann 98,8 Scheffel geerntet.
 
 >. 1
 
 --- Page 189 ---
-“e
 
 “Bei einem Tagelohn von 15 ßl. und dem Werth der
 Kartoffeln von 16 ßl. pr. Scheffel bezahlt ſich dagegen die
@@ -7899,7 +7594,7 @@ aber ſtatt des Mähens mit der Senſe das Häuen mit dem
 Siget, oder das Schneiden mit: der Sichel eingeführt werden
 fann. Auch hier wird man fkonſequenterweiſe die Zahl der
 Arbeiter ſo weit ſteigern, als der Werth des durch ſie Er-
-ſparten noh die Ausgabe an Tagelohn de> , oder um eine
+ſparten noh die Ausgabe an Tagelohn deck , oder um eine
 Kleinigkeit überwiegt.
 
 Es folgt hieraus nun:
@@ -7928,17 +7623,16 @@ Arbeiter ſd weit zu ſteigern, als“ aus deren Vermehrung
 ; 427
 
 --- Page 190 ---
-178
 
 noch ein Vortheil für ſie erwächſ't, ſo iſt die Grenze dieſer
 Steigerung da, wo das Mehrerzeugniß des legten Arbeiters
 durch den Lohn, den derſelbe erhält, abſorbirt wird; umgekehrt
-iſt alſo auch der Arbeitslohn glei<h dem Mehrerzeugniß des
+iſt alſo auch der Arbeitslohn gleich dem Mehrerzeugniß des
 legten Arbeiters.
 
 Da die Zahl der Arbeiter ſich niht um einen Bruchtheil.
 vermehren oder vermindern läßt, ſo kann auh bei einem
-Betrieb im Kleinen der Punkt, wo ſi<h Erwerb und
+Betrieb im Kleinen der Punkt, wo ſich Erwerb und
 Koſten kompenſiren, niht genau getroffen werden; dieſe Un-
 gleichheit im Einzelnen gleicht ſih aber im großen Ganzen
 wieder aus, indem in dem einen Fall mehr, in dem andern
@@ -7948,7 +7642,7 @@ des Reinertrags erheiſcht.
 Da ſich dieſer Uebelſtand des kleinen Betriebs nicht blos
 auf die Zahl der Arbeiter, ſondern auh auf die Zahl des zu
 haltenden Zugviehes und der zu verwendenden Jnſtrumente
-und Maſchinen erſtre>t, ſo iſt dies, beiläufig geſagt, eins der
+und Maſchinen erſtreckt, ſo iſt dies, beiläufig geſagt, eins der
 Momente, die den Betrieb im Großen begünſtigen. /
 
 In dem vorſtehenden Beiſpiel iſt zwar nur von der voll-
@@ -7959,16 +7653,15 @@ der Produktivität des Bodens und Hervorbringung größerer
 Ernten gerichteten Arbeiten.
 
 Durch Vermehrung der Arbeitskräfte fann der Boden
-ſorgfältiger gea>ert , gereinigt und ‘entwäſſert, der richtige
+ſorgfältiger geackert , gereinigt und ‘entwäſſert, der richtige
 Zeitpunkt zur Saatbeſtellung beſſer eingehalten, und dadurch
 der gleichmäßige Ertrag der Früchte mehr geſichert und deren
 Durchſchnittsertrag weſentlih erhöht werden. Andererſeits
 kann in- den mehrſten Verhältniſſen die Produktionskraft des
 Bodens durch Auffahren von Moder, Mergel und den Erd-
-arten, die der A>er nicht in genügender Menge beſigt, gar
+arten, die der Acker nicht in genügender Menge beſigt, gar
 
 --- Page 191 ---
-179
 
 jehr geſteigert werden. Alle ſolche Verbeſſerungen haben aber
 das Gemeinſchaftliche, daß mit ihrer quantitativen Steigerung
@@ -7976,7 +7669,7 @@ die Wirkung nicht im direkten, ſondern in abnehmendem Ver-
 hältniß wächſt, und zuleßt ſogar gleih Null werden kann.
 Nehmen wir hier das Auffahren von Moder zum Beiſpiel.
 Geſeßt, daß auf irgend einem Aer die Auffuhr von
-Moder einen halben Zoll di> den. Ertrag um 1/4, Korn
+Moder einen halben Zoll dick den. Ertrag um 1/4, Korn
 (2/7 Verliner Scheffel auf 100 Quadratruthen) erhöht, o
 wird das Auffahren eines 2. halben Zolls den Ertrag nicht-
 um "/,, ſondern etwa um 2% Korn, eines 3. halben Zolls
@@ -8007,11 +7700,9 @@ Angelpunkt, von dem die Entſcheidung: abhängt.
 7 428
 
 --- Page 192 ---
-|
 
 —— HAE
 
-180
 
 Ja, man kann ſagen, daß die ganze Aufgabe der ratio-
 nellen Landwirthſchaft darin beſteht, für jeden einzelnen Zweig
@@ -8027,7 +7718,7 @@ Das Fortkommen des praktiſchen Landwirths hängt zum
 Aufgabe annähernd zu löſen. Dieſer Takt fehlt den blos
 theoretiſch gebildeten Landwirthen in der Regel ganz. Dies
 fann aber kaum anders ſein; denn die Landwirthſchafts-
-Wiſſenſchaft iſt nach dieſer Seite hin no< völlig unausge-
+Wiſſenſchaft iſt nach dieſer Seite hin noch völlig unausge-
 bildet und in den Lehrbüchern derſelben wird dieſer Gegen-.
 
 . ſtand, der das Ganze durchdringen, und an dem ſich Alles
@@ -8038,24 +7729,22 @@ Intereſſant iſt in Beziehung auf dieſen Gegenſtand eine
 Vergleichung zwiſchen Deutſchland und Nordamerika.
 
 Jn erſterm Lande können bei einem Tagelohn von 12 $l.
-und einem Preiſe des Ro>ens von 1 Thlr. 12 þl, pr. Schfl.
+und einem Preiſe des Rockens von 1 Thlr. 12 þl, pr. Schfl.
 Arbeiten unternommen und ſchlechtes Land angebauet werden,
 wo die Tagesarbeit eines Mannes nur mit einem Produkt
-von 1% Schfl. No>en gelohnt wird.
+von 1% Schfl. Nocken gelohnt wird.
 
 In Nordamerika koſtet nah den gemäßigſten Angaben die
 Tagesarbeit eines Mannes mindeſtens 32 þl., und der Werth
-des Berliner Scheffel Ro>en erreicht im Jnnern des Landes
+des Berliner Scheffel Rocken erreicht im Jnnern des Landes
 ſ{hwerlih den Werth von 1 Thlr. Dort iſ alſo jede land-
 wirthſchaftliche Operation, bei welcher die Tagesarbeit eines
-Mannes nicht ein Produkt von 2/3 Sf: Ro>ken avan
+Mannes nicht ein Produkt von 2/3 Sf: Rockken avan
 bringt, mit Verluſt verbunden,
 
 Z i D:
-, i
 
 --- Page 193 ---
-181
 
 Welchen enormen Unterſchied im Landbau beider Länder
 ruft dieſer einzige Umſtand hervor!
@@ -8077,7 +7766,7 @@ der Wiſſenſchaft in ihrem gegenwärtigen Zuſtand grade: das
 Gegentheil, ſo iſt dies ein Beweis ihrer Mangelhaftigkeit.
 
 Immer noh will das alte Phantom, als gäbe es ein für
-alle Entwi>elungsſtufen der menſchlichen Geſellſchaft gültiges
+alle Entwickelungsſtufen der menſchlichen Geſellſchaft gültiges
 Jdeal der Landwirthſchaft, als ſei jedes niedere Wirthſchafts-
 ſyſtem, jede extenſive, arbeitſparende Wirthſchaft ein Beweis
 von der Unwiſſenheit der praktiſchen Landwirthe — aus
@@ -8090,15 +7779,13 @@ die dortigen Wirthſchaften kennen zu lernen, und um Vorle-
 ſungen auf den landwirthſchaftlichen Akademien zu hören.
 Dieſe erlangen dadurch die Kenntniß, wie in dichtbevölkerten
 Ländern mit 3 bis 6000 Menſchen auf ver Quadratmeile die
-Landwirthſchaft zwe>mäßig zu betreiben iſt. Werden aber die
+Landwirthſchaft zweckmäßig zu betreiben iſt. Werden aber die
 Lehrvorträge auf den Akademien nicht mit ſteter Beziehung
 auf ‘das Verhältniß zwiſchen Werth und Koſten der Arbeit
 gehalten, bleiben die jungen Männer hierüber in Unwiſſenheit,
 
-2-4
 
 --- Page 194 ---
-182
 
 und wenden ſie dann nach der Zurükkunft in ihr Vaterland
 das Erlernte in Gegenden an, wo nur 500 bis 1000 Mén-
@@ -8107,7 +7794,7 @@ len weit verfahren werden muß, und wo in der Regel nur
 Abſay für das Korn iſ, wenn in andern europäiſchen Län-
 dern Miswachs geweſen: ſo führen ihre erworbenen Kennt-
 niſſe nur zum Ruin ihres Vermögens und ihr Beiſpiel, ſtatt
-zur Nachahmung zu reizen, wird zum Schre>bild gegen den
+zur Nachahmung zu reizen, wird zum Schreckbild gegen den
 ſogenannten rationellen Betrieb der Landwirthſchaft.
 
 Selbſt in Deutſchland fehlt es niht an Solchen, die als
@@ -8138,7 +7825,6 @@ Der Lohn aber, den der ‘zulegt angeſtellte Arbeiter erhält,
 muß normirend für alle Arbeiter von gleicher Geſchicklichkeit:
 
 --- Page 195 ---
-183
 
 und Tüchtigkeit ſein; denn für gleiche Leiſtungen
 fann nicht ungleicher Lohn gezahlt werden.
@@ -8153,11 +7839,11 @@ iſt unwillig darüber, daß der Notar für ein Dokument, wel-
 ches er in einer Stunde entwirft, ſo viel erhält, als der Tage-
 löhner für eine zwölfſtündige, hwere Arbeit. Derſelbe Schrift-
 ſteller findet ‘es ferner unrecht, daß der Fabrikaufſeher eine
-höhere Beſoldung erhält als der Pa>träger.
+höhere Beſoldung erhält als der Packträger.
 
 Fragen wir aber, was bewegt den Fabrikherrn zur höhe-
 ren Beſoldung. des Aufſehers. Es iſt niht Gunſt, nicht
-Menſchenliebe, nicht Freundſchaft; er würde ihn augenbli>lich
+Menſchenliebe, nicht Freundſchaft; er würde ihn augenblicklich
 abſchaffen, wenn er ihn entbehren könnte, wenn der Nuten,
 den ihm der Aufſeher bringt, nicht mindeſtens ſeinem Gehalt
 gleich käme. - Es iſ alſo auch hier der Werth der Leiſtung
@@ -8182,7 +7868,6 @@ tiefer liegend geſucht werden muß,
 --- Page 196 ---
 E EE E RE EE ORR EER ERR
 
-184
 
 vorbringen , als was ſie an Lohn empfangen, ſo liefern doch
 die früher angeſtellten Arbeiter den Unternehmern einen ſehr
@@ -8195,7 +7880,7 @@ Verwechſelung der moraliſchen Verpflichtung mit der gewerb-
 lichen ſtatt.
 
 Jn nationalökonomiſcher Beziehung darf keine Arbeit un-
-ternommen werden, die nicht die Koſten de>t: denn ſonſt
+ternommen werden, die nicht die Koſten deckt: denn ſonſt
 würde die Arbeit, die den Nationalreichthum
 ſchaffen ſoll, denſelben im Gegentheil vermindern
 und aufzehren — und durch Verminderung des National-
@@ -8209,7 +7894,7 @@ Auch würde der einzelne Fabrikherr, der Arbeiten unter-
 nähme, die ihm die Koſten nicht wieder einbringen, ſein Ver-
 mögen nutzlos opfern, wenn nicht alle anderen daſſelbe thäten.
 Aber auch die Gemeinſchaft und Verbindung aller Fabrikherren
-eines Landes zu dieſem Zwe> würde nicht immer ausreichen :
+eines Landes zu dieſem Zweck würde nicht immer ausreichen :
 denn die Fabriken, welche Erzeugniſſe für das Ausland liefern,
 oder im eigenen Lande die Konkurrenz der Ausländer zu bez
 ſtehen haben, würden dadurh zu Grunde gehen, und deren
@@ -8227,9 +7912,7 @@ daß die Zahl der Arbeiter abnimmt.  Alsdann koſten ‘die zu-
 legt angeſtellten Arbeiter den Grund- und Fabrikherren" mehr,
 
 --- Page 197 ---
-——
 
-185
 
 als ſie ihnen einbringen. Dieſe werden dann, ihrem Jntereſſe
 folgend — und dies iſt kein Ünrecht,, ſondern liegt in ihrem
@@ -8268,10 +7951,8 @@ Sinken des Lohns?
 Dieſe Grenze findet ſih erſt dann, wenn die Arbeit ſo
 wenig produktiv wird, daß das Arbeitsprodukt gleich a, d. i.
 
-%
 
 --- Page 198 ---
-186
 
 gleich den nothwendigen Subſiſtenzmitteln wird; denn für -
 einen geringern Lohn als den, der zu ſeinem Lebensunterhalt
@@ -8279,7 +7960,7 @@ erforderlich iſt, kann der Menſch nicht arbeiten.
 
 Nun ſind aber die Judividuen in der Wirklichkeit nicht,
 wie wir im iſol. St. angenommen haben, von gleicher Kraft,
-Geſundheit und Geſchi>klichkeit, ſondern in allen dieſen Be-
+Geſundheit und Geſchickklichkeit, ſondern in allen dieſen Be-
 zichungen ſehr ungleich. Es kömmt alſo zur Frage, für
 welche dieſer Arbeiter der Lohn auf a herabſinken ſoll. Dies
 hängt wiederum von der Zahl der ſih anbietenden Arbeiter
@@ -8294,7 +7975,7 @@ Kraft Anſtellung finden, im Alter aber darben müſſen.
 Da aber Religion und Menſchlichkeit gebieten, und es
 auh von allen Regierungen als Pflicht erkannt iſt, keinen
 Menſchen aus Mangel umkommen zu laſſen: ſo fallen alle
-die, deren Arbeitserzeugniß nicht zur De>ung ihrer nothwen-
+die, deren Arbeitserzeugniß nicht zur Deckung ihrer nothwen-
 digen Subſiſtenzmittel  ausreicht, der Verſorgung durch die
 Armenkaſſe anheim. Die Zahl der Hülfsbedürſtigen kann ſich
 aber zulegt ſo vermehren, daß die Laſt der Unterhaltung für
@@ -8311,10 +7992,9 @@ dem gleichzeitigen Misrathen der Kartoffeln und des Getrei-
 _#) Geſchrieben im Jahre ‘1846. HIB: gul
 
 --- Page 199 ---
-187
 
 des. Es iſt aber mit Beſtimmtheit vorauszuſehen, daß bei
-der Fortdauer einer rü>ſihtsloſen Volksvermeh-
+der Fortdauer einer rückſihtsloſen Volksvermeh-
 rung dieſelbe Noth, nach einigen Dezennien , auh bei guten
 Ernten eintreten wird, und dann völlig unheilbar iſt.
 
@@ -8342,7 +8022,7 @@ Elend immer größer und unausweichlicher werden foll ?
 Sicherlich nicht.
 
 Aber welches ſind denn die Bedingungen, an deren Er-
-füllung die Vorſehung das Glü>k der Menſchheit geknüpft hat ?
+füllung die Vorſehung das Glückk der Menſchheit geknüpft hat ?
 
 Dies iſt eben das große Problem was uns vorliegt —
 welches wir hier nur anführen, auf deſſen ahnendes Erfor-
@@ -8360,7 +8040,7 @@ der Arbeiter wahrhaft verbeſſern.
 
 Es ‘darf aber niht überſehen werden — was indeſſen
 ſchon - aus dem ganzen Gang der Unterſuchung erhellt —
-daß der Werth der Arbeit, ‘in dem Sinn, wie dieſer Ausdru>
+daß der Werth der Arbeit, ‘in dem Sinn, wie dieſer Ausdruck
 hier genommen iſt, keineswegs feſtſtehend und unabhängig
 von - andern Potenzen iſt; denn er iſt abhängig von der Er-
 giebigkeit des Objekts, worauf die Arbeit gerichtet wird. Wie
@@ -8397,9 +8077,7 @@ Sag aufſtellt: „der Preis der Arbeit hängt ab, von dem Werth, den
 Koſten und dem Mitwerber./
 
 --- Page 201 ---
-St
 
-189
 
 Veber das Verhältniß des Sozialismus zur National-
 öfonomie oder Volkswirthſchaftslehre ſpriht Stein- in ſeinem
@@ -8428,7 +8106,7 @@ die Frage: „welches iſ der naturgemäße Arbeitslohn ?“ in
 den legten Stadien unmittelbar zu der Frage, über die Be-
 ſtimmung des Menſchen führt.
 
-Nach méèiner Anſicht, können wir nur dur< Verſchmel-
+Nach méèiner Anſicht, können wir nur durch Verſchmel-
 zung beider Wiſſenſchaften der Erforſchung der Wahrheit
 näher kommen. Durch eine ſolche Vereinigung würden dann
 auch der Phantaſie der Sozialiſten, mit ihren aus der Un-
@@ -8439,16 +8117,14 @@ Auch Proudhon — in ſeiner Philoſophie der politiſchen
 
 Oekonomie — iſ dieſer Anſicht, indem er durch eine Re-
 
-/
 
 --- Page 202 ---
-190
 
 form der Nationalökonomie die Aufgabe der Sozialiſten zu
 
 löſen hofft.
 
-Nach dieſer Abſchweifung kehren wir zum iſol. St. zurü>.
+Nach dieſer Abſchweifung kehren wir zum iſol. St. zurück.
 
 Das Kapital an ſich iſt ein Todtes, und vermag ohne die
 bewegende Kraft des Menſchen nichts hervorzubringen.
@@ -8487,7 +8163,6 @@ welches ſeinem Lohn gleich iſt.
 Wie groß iſt nun das Erzeugniß des legten Arbeiters?
 
 --- Page 203 ---
-191
 Wenn n Mbeiter angeſtellt werden, ſo arbeitet jeder mit
 einem Kapital von q J. A. Das Produkt eines jeden Arbeiters
 iſt = p, deſſen Lohn = A, die Rente des Unternehmers, der
@@ -8528,13 +8203,9 @@ n, und
 A wid =p y
 Das Kapital - q=ad+L +7 LL EEE )
 
-WS
 
 --- Page 204 ---
-î
-Y
 
-192
 
 kömmt, wenn man n unbegränzt wachſen läßt, dem Werth von
 
@@ -8556,7 +8227,7 @@ zum Produkt liefert, und
 2) den Arbeitslohn aus dem Méhrerzeugniß des zulegt an-
 geſtellten Arbeiters bei gleichbleibendem Scſommiankgl zu
 __ beſtimmen,
-für den Arbeitslohn denſelben Ausdru>, À = p nit
+für den Arbeitslohn denſelben Ausdruck, À = p nit
 
 Wir haben aber im vorigen $ geſchen, daß der Vortheil.
 
@@ -8573,7 +8244,6 @@ Wildniß umgebenen, iſolirten Staat ebenfalls = Fap
 werden. “i
 
 --- Page 205 ---
-193
 $90;
 
 Die Produktionskoſten des Kapitals und der Kapital-
@@ -8585,7 +8255,7 @@ dem Zinsſaß, wofür man das Kapital angeliehen erhalten kann,
 ein ähnliches Verhältniß ſtatt findet, wie zwiſchen den Pro-
 duktionsfoſten der Tauſchgüter und deren Preis.
 
-“Es ſind ‘dann bei der Entwi>elung der Regeln, wornach
+“Es ſind ‘dann bei der Entwickelung der Regeln, wornach
 der Preis ſich bildet, im $ 13 die Tauſchgüter in zwei Klaſſen
 getheilt, und zwar umfaßt die erſte Klaſſe die Tauſchgüter,
 welche mit gleichbleibenden Koſten in beliebiger Menge hervor-
@@ -8603,7 +8273,7 @@ Fall, wie ſich aus nachſtehender Betrachtung ergeben wird.
 
 ‘Vir haben ‘im’ $ 13 unter den Gegenſtänden von ſehr
 
-hohem Gebrau<hswerth und ſehr geringem Preis den Pflug als
+hohem Gebrauchswerth und ſehr geringem Preis den Pflug als
 Beiſpiel aufgeführt, ‘und wollen nun auch bei Unſrer jebigen
 Betrachtung ‘dies Jnſtrument zum ‘Grunde legen.
 Der’ Gebräuchswerth der Pflüge überſteigt vielfach deren
@@ -8612,10 +8282,8 @@ aber ‘die - Géenze der Vermehrung dérſelben, und wie viele
 Pflüge wird man z. B. auf einém Gut, des 24 Zugpferde
 hat, dd
 
-13
 
 --- Page 206 ---
-194
 
 Man fkann hier mit 10 Pflügen ausreichen, weil die Pferde
 ſelten ſämmtlih zum Pflügen gebraucht werden; man kann
@@ -8642,7 +8310,7 @@ Pflüge, ſo lautet die Antwort: i 1; A
 
 die Pflüge werden. ſo. lange vermehrt, bis der zuleßt, an-
 geſchafte Pflug nurnoch die Koſten feiner E,
-und Unterhaltung de>t.
+und Unterhaltung deckt.
 
 So wenig alſo-auch der Geheguchältrth het die :
 
@@ -8664,14 +8332,12 @@ Boden „nur durch. Einführung einer intenſivern- koſtſpieligern
 
 Wirthſchaft . befriedigt werden kann.Es gehören, ferner dazu:
 
-alle Metalle, die „wenn „keine, neuen Minen êntde>t werden,
+alle Metalle, die „wenn „keine, neuen Minen êntdeckt werden,
 aus dem: Schooß: der, Erdos in „immer größerer „Tiefe, heraus-
 „geholt werden müſſen. Die Vermehrung der wihſhalihas
 
-6k
 
 --- Page 207 ---
-195
 
 Güter ‘dieſér “Gattung findet ‘indem’ Bs a tis
 von vorne herein ihre Schranken.
@@ -8708,21 +8374,20 @@ Dieſe Abnahme der Nußung: entſpringt ‘aus zwei Urſachen.
 -2) “Im Landbau führt der" gits ‘cit (Kavität, wenn der“
 1-4 ‘ſelbe überall ‘eine Amvendung findèn"ſoll/* zin Anbau
 1-voi minder“ ergiebige, minder" günſtig “gelegenen "Lände-
-11 rxeien/oder!au< ‘zu’eiter inténſiveri;“ mit’ größer Köſter
+11 rxeien/oder!auch ‘zu’eiter inténſiveri;“ mit’ größer Köſter
 
  veëbunvenétWiethſchäft = und“ in' dieſen Fällen bringt
 
 uo anu bir jd (Uru 5d nun 43 dS
 
 --- Page 208 ---
-196
 
 das zulegt angelegte Kapital eine geringere Rente, als
 das zuvor angelegte.
 
 Dieſe Doppelſeite des Kapitals macht die Löſung der ge-
 ſtellten Aufgabe ſehr ſhwierig. Auch geht daraus hervor, daß
-das Kapital weder zur 1ſten, no< zur 2ten Klaſſe der Tauſch-
+das Kapital weder zur 1ſten, noch zur 2ten Klaſſe der Tauſch-
 güter gehört, ſondern eine eigene Klaſſe bildet. i
 
 Der Ueberſchuß, den die Arbeit liefert, kann eine zweifache
@@ -8750,7 +8415,7 @@ Dem Vorrath fehlt aber noch ‘eine andere weſentliche Eigen-
 ſchaft des Kapitals, nämlich die, daß daſſelbe durch produktive
 Anlegung die menſchliche Arbeit wirkſamer macht.
 Die Vorräthe in den Händen ‘eines Kaufmanns "zum
-Zwe> des Verkaufs, bilden allerdings ein Kapital, ‘durch
+Zweck des Verkaufs, bilden allerdings ein Kapital, ‘durch
 welches den Konſumenten die Erlangung ihrer Bedürfniſſe ér-
 leichtert und. minder. koſtſpielig gemacht wird, wodurch ‘alſo der
 Nationalwohlſtand gefördert wird. - Dagegen würden Vorräthe,
@@ -8759,10 +8424,8 @@ Müſſiggang davon zu leben, dem Kapital“ nicht angehören. |
 
 Scheiden wir nun die Vorräthe, die nicht werbend ange-
 
-D
 
 --- Page 209 ---
-197
 
 legt werden vom Kapital aus, und verſtehen unter dieſem nur
 das Vermögen, was eine Rente trägt, ſo vereinfacht ſich unſere
@@ -8784,14 +8447,14 @@ wirkung ſtatt, die untrennbar ſcheint.
 
 Da aber das urſprüngliche Kapital ($8) rein aus
 der menſchlichen Arbeit hervorgegangen iſt, und da es ($ 13)
-gelungen iſt, die Wirkſamkeit des Kapitals auf Arbeit zurü>-
+gelungen iſt, die Wirkſamkeit des Kapitals auf Arbeit zurück-
 zuführen: ſo ‘iſt auch die Arbeit, als Schöpferin des Kapitals,
 der einzig richtige Maasſtab“ für die Produktionskoſten des
 Kapitals und der Rente.
 
-Aber ſo wie der Preis der .Waaren dur<h das Minimum
+Aber ſo wie der Preis der .Waaren durch das Minimum
 
-der Produktionskoſten. regulirt wird und die durh ungeſchi>te
+der Produktionskoſten. regulirt wird und die durh ungeſchickte
 und unrichtige Verwendung von Kapital und Arbeit ver-
 größerten Koſten ‘in dem Preiſe der Waaren nicht! vergütet
 werden'—"ſo ‘muß auch hier das- Minimum von Arbeit, wo-
@@ -8805,13 +8468,12 @@ gabe wird’ nun! die; ;
 BIT e TBTTUZLO
 
 --- Page 210 ---
-t98
 
 11117 den Arbeitslohnzu- erforſchen, bei welchem die, Rente mit
 dem mindeſten Aufwand: von Arbeit erzeugt wird..10 =;
-Wir“ wählen hier für: den Arbeitslohn den Ausdru> a +> y;
+Wir“ wählen hier für: den Arbeitslohn den Ausdruck a +> y;
 im- welchem! y- éine: noch völlig: unbeſtimmte: Zahl iſt + 1444
-Die auf Kapitalerzeugung dur<h Schaffung ‘éines" neueñ |
+Die auf Kapitalerzeugung durch Schaffung ‘éines" neueñ |
 Guts gerichtete J. A. wird“ nach $15 viens mit: einer nMente
 Pp fa YD y
 q(a+y)
@@ -8826,11 +8488,9 @@ EEN Ela np y bdtér eiſocdétih
 Die“ Zahl der: Arbéiter, welche zur: Produktion- ina Minis
 von 100€ erforderli ſind, beträgt dant, wenn; os 141
 
-von
 
 ar :
 
-in
 
 y = :20 i. Ae AN ¿4014 rus elniand,
 i100. Rd Gade e 22,18 & mU
@@ -8850,14 +8510,12 @@ Dieſen Merth von y tte wir, wem zii wira voritobiges
 Funktion das Differential nehmen, und dieſes gleich Null ſehen.
 
 --- Page 211 ---
-199
 _Das Differential von qa y)
 D= [a+yDy
 Raih ara la Dads Y a2
 PE ‘è Seu) Land A PA? “i DirdteeAett
 — py + 2ay + 2y° Fak LDE
 
-Lay
 +a ap =0
 alſo: y? ++ 2ay —a? = ap
 und a+ y ==}JTap:
@@ -8869,27 +8527,25 @@ forderlichen. Arbeiter = 22, 4.
 Der Arbeitslohn YV ap erfüllt alſo die C vid die
 Rente „mit: dem, Minimum von Arbeitskräften zu_erzeugen:
 
-7
 
 144 (NH
 
 Welches iſ nun der Zinsſaß, wenn die Rente“ mit ‘den
 mindéſten Aufwand an Arbeit hervorgebraht wir?
-CET allgemeine Ausdru> für den Binsks ift *
+CET allgemeine Ausdruck für den Binsks ift *
 PQ HN
 f ón wis è dig
 EE ma hier ps für a + y, ig wird
 Z dis mns glie Fics Fp — Tt Cip a
 ies “raps Cata TT aq f
 Für! den Fall, daſ derUeberſchuß y =77aþ =a iſt erz
-haltèn wir alſo» für "den Zinsſaßz den: enen Ausdru>
+haltèn wir alſo» für "den Zinsſaßz den: enen Ausdruck
 i be, =: aq GAN ien CAN
 aqi thal Æ dnd aaa ud Qin nddalid Ne 45
 z-Nimmt/iman- inn: ‘a;P und cit Sb; E zum: oN
 ſtab, ſo bezeichnet aq die Zahl der Sch. Roden „oder; deren}
 
 --- Page 212 ---
-200
 
 Aequivalent, welche von-q Arbeitern bei der Kapitalſchaffung
 durh Anlegung eines neuen Guts ($ 15) verzehrt werden.
@@ -8959,16 +8615,16 @@ A p—)__ (7 ap—a)
 (fap — a) TTT
 
 Bei dem Arbeitslohn = ap, ‘Und dem “Zinsſag ‘von
-E iſt alſo die Belohnung für die im Kapital ſte>ende
+E iſt alſo die Belohnung für die im Kapital ſteckende
 
 Arbeit und für die Lohnarbeit im Gleichgewicht.
 
 Verlangt dagegen der Arbeiter von dem Kapitaliſten ‘einen
 Lohn, der 77ap überſteigt, ſo iſ dieſe Forderung eine unbillige
-und ungerechte, die zurü>gewieſen werden muß; denn er ver-
+und ungerechte, die zurückgewieſen werden muß; denn er ver-
 langt dann für Arbeiten von gleicher Qualität, eine ungleiche
 Belohnung. Auch widerſtreitet eine ſolche Forderung dem
-eigenen Intereſſe des Arbeiters, der dur<h Anſammlung eines
+eigenen Intereſſe des Arbeiters, der durch Anſammlung eines
 Vermögens ſeine ‘Lage verbeſſern will, weil mit dem höhern
 Lohn als J7ap, wenn dieſer Lohnſaß ällgemein wird, durch
 das’'damit' verbundene ' Sinken des | Zinsſazes , die Rente;
@@ -8980,7 +8636,6 @@ die Vermehrung'des Kapitals" bildet‘, aufgeworfen, “ und“ wir
 können jezt dieſe Frage! dahin beantworten , daß; wenn" die!
 
 --- Page 214 ---
-202
 
 Arbeiten ‘indem Gewerben-'und Fabriken,“ welche Konſumtions-
 Artikel liefern, mit “einer höhern Rente als beider ‘Kapital--
@@ -9022,7 +8677,6 @@ worauf:-Kapital/ Und Arbeit verwekdet ‘wird,- abhängig iſt:
 méhr-p- abnimmt, und-wenn p= iſt,--ſinkt der Arbeitslohn
 
 --- Page 215 ---
-203
 
 auf a, d. i. auf den Betrag der RA (Sain
 mittel herab. N
@@ -9048,7 +8702,6 @@ fo iſt! A =Papÿ=100
 
 „und g==20—
 
-= 0
 Hu "ir ſehen Gea alſo, daß Arbeiter und Kapitaliſten
 an der Steigerung der Produktion. ein gemein-
 ſchaftliches Jnkereſſe haben, daß Beide verlieren,
@@ -9061,7 +8714,6 @@ enn die Produktion abrimmt, und een apa wenn
 R Jrap—a iT - E 2e ¿Su
 Alsdann iſ ————— a Ex 0 7100
 
-_
 
 --- Page 216 ---
 ——————
@@ -9096,7 +8748,7 @@ unkultivirten Stü Landes zu entziehen. ..- i
 Hier entſcheidet die Konkurrenz über die Höhe des Lohns ;
 hier. iſ der Arbeitslohn = a = y, vo y völlig unbeſtimmt
 
-<P O7
+chP O7
 iſt, ud der Zinsſaßz 2 ‘iſt ‘hier — a+
 Je kleiner nun y wird, deſto mehr wähſ’t 2, wie nah :
 ſtehendes Beiſpiel zeigt : Nit
@@ -9113,10 +8765,9 @@ L: p= 0t0=> GIN GN i redane
 | y = 0, #2833
 
 --- Page 217 ---
-205
 
 Es liegt alſo im Intereſſe der Unternehmer ‘und Kapita-
-liſten, den Lohn: immer tiefer herabzudrü>en, und während der
+liſten, den Lohn: immer tiefer herabzudrücken, und während der
 Arbeiter für ſeinen Lohn nur noch die nothwendigen | Lebens-
 bedürfniſſe ſich. verſchaffen--kann, genießt der: Kapitaliſt: den
 hohen Zinsſag von 81/z pCt.
@@ -9135,7 +8786,7 @@ Aber nicht blos dem Wohlſtand ſeines Lohnherrn, ſondern
 auch - dem Nationalwohlſtand ſteht der Arbeiter intéreſſenlos
 gegenüber.
 
-¿ Durch-Entde>ungen im- Fabrikweſen, \dur<h Anlegung von
+¿ Durch-Entdeckungen im- Fabrikweſen, \durch Anlegung von
 Chauſſeen- und Eiſenbahnen, durch Anknüpfung. neuer: Han-
 delsverbindungen 2c. kann von Zeit zu Zeit das--National-
 einkommen ſih gar ſehr „ſteigern. Aber bei unſerer jegigen
@@ -9153,13 +8804,12 @@ es fonnte demſelben „bei unſerm ſozialen„;¡Organismus: nichts
 zufließen.
 
 --- Page 218 ---
-206
 
 ‘Wäre ‘aber ‘die '‘geſellſchaftliche ‘Organiſation der Art ge-
 weſen, ‘daß ‘hievon ‘den Arbeitern auh nür "ein Fünftel hätte
-zu Theil werden müſſen: ſo würde“ ſich Glü> und Zufrieden-
+zu Theil werden müſſen: ſo würde“ ſich Glück und Zufrieden-
 heit über Tauſende von Familien verbreitet haben ,“ die "Auf-
-regungen und Gewaltthaten, wodür< ‘dié! “Arbeiter ſich" "im
+regungen und Gewaltthaten, wodürch ‘dié! “Arbeiter ſich" "im
 
 “ Frühjahr 1848 einen höheren Loh érzwangen, wäreñ* unter-
 . blieben, “und ‘das ſ{öné ‘patriarchaliſche ‘Band, ws ‘früher
@@ -9193,12 +8843,9 @@ pas'erkrankt iſt; ‘fallèn für‘ dei Arbeitslohn' 7/7 äp hinweg:
 11m F7ap\'iſt-dér'Lohit:'bes!Arbeitérs vem Wrth' ſeines
 Erzeugniſſes propórtiottal;'‘iù utiſétn gègenwärtigén Zuſtändäk
 
-15s
 
 --- Page 219 ---
-hs:
 
-207
 
 iſt-, der’ Lohit- /desT Arbeiters: von fia:m Merida gan
 unabhängig.
@@ -9233,9 +8880,7 @@ wäre, - doch die Uebelſtände ſehr gemindert werden; wenndié
 Arbeiter auh nur einen Theil ihres Lohns im Antheil--an
 dem vi Ua Arbeit erhalten; 1
 
-—
 
-Y
 
 + HA
 I
@@ -9259,7 +8904,6 @@ SE EE
 
 _ Aber ‘dieſe’ Schranken werden dur die Dampfſchiffahrt auf
 
-208
 
 den Flüſſen, durh die Anlegung von Kanälen und Eiſen-
 bahnen immer weiter hinausgeſchoben.
@@ -9268,7 +8912,7 @@ Dort kann’ alſo der Arbeitslohn 77ap zur Verwirklihug
 gelangen, und iſt in der That dazu gelangt; denn wir finden.
 in Amerika zwiſchen | Arbeitslohn und Zinsfuß ein ähnliches
 Verhältniß, wie wir es aus unſern Formeln für frrren
-Boden entwid>elt haben.
+Boden entwidckelt haben.
 
 Jn Folge dieſes Verhältniſſes zwiſchen Arbeitern und tL
 Kapitaliſten finden wir in Nordamerika allgemeinen Wohl- A
@@ -9298,17 +8942,15 @@ erheben?“ } 90 A ILD Ht HO ‘lai Wit 1 + f x di
 ias Anh hS TiAl 134 ff Jau 124 NEE 4 H
 
 --- Page 221 ---
-209
 
-——
 
 $ -23.
 Anwendung der gefundenen Formeln auf konkrete Fälle.
 
 In der bisherigen Unterſuchung ſind Arbeitsprodufkt,
-Zinsfuß und Arbeitslohn dur<h Buchſtabenformeln ausge-
-drü>t, Die Buchſtaben repräſentiren jeden Zahlenwerth, und
-die darin ausgedrü>ten Formeln erheben ſih dadurh zur
+Zinsfuß und Arbeitslohn durch Buchſtabenformeln ausge-
+drückt, Die Buchſtaben repräſentiren jeden Zahlenwerth, und
+die darin ausgedrückten Formeln erheben ſih dadurh zur
 allgemeinen Gültigfeit.
 
 Für den konkreten Fall nehmen aber die Buchſtaben einen
@@ -9332,7 +8974,7 @@ ermitteln ſuchen, ‘und die desfallſigen Berechnungen dem fol-
 genden Theil dieſer Schrift beifügen.
 
 __ Bei der großen Wichtigkeit, welche in dem gegenwärtigen
-Augenbli> die Frage hat, wie viel Einkommen der Tagelöhner
+Augenblick die Frage hat, wie viel Einkommen der Tagelöhner
 zu einem anſtändigen, vor Mangel geſchüßten- Leben bedarf,
 lege ich aber ſchon jeßt in der Anlage A." die Berechnung
 “ über die Unterhaltsfkoſten und das Einkommen einer Tage-
@@ -9342,7 +8984,6 @@ EB löhnerfamilie zu Tellow in dem 14jährigen Zeitraum, von 1833
 : bis 1847, e Prüfung. vor.
 20 thu)
 
-14
 
 --- Page 222 ---
 240 ; y
@@ -9388,30 +9029,28 @@ einkunft dem Tagelöhner jährlich 3 Thlr. unter der Bedingung,
 daß dieſer die Kurkoſten bei künftigen SRE fn E
 tragen ſoll, ſo wird dadurch die Ausgabe des Gutsl
 
-EEE
 
 --- Page 223 ---
-211
 
 weder vermehrt, noh vermindèrt, Aber welche Aenderung
-geht damit in der Lage und im Glü>k der Tagelöhnerfamilie
+geht damit in der Lage und im Glückk der Tagelöhnerfamilie
 vor! Trift nun den Mann eine ernſte, langwierige Krank-
 heit, ſo wird derſelbe es nur ſelten mit der Pflicht gegen
 ſeine Familie zu vereinigen wiſſen, eine ſo große Summe, wie
 der Betrag der Kurkoſten iſt, auf ſich ſelbſt zu verwenden.
 
-In der Regel aber wird er das zu dieſem Zwe> erhaltene
+In der Regel aber wird er das zu dieſem Zweck erhaltene
 Geld nicht aufgehoben, ſondern verzehrt haben, und dann
 bleibt er grade, in der Zeit der Noth hülflos danieder liegen.
 
 In den Fällen, wo durch den bisherigen Lohnſaß die
 wirklichen Bedürfniſſe und die billigen Wünſche der Arbeiter
-befriedigt ſind, wird eine Zulage dur< Erhöhung des Tage-
+befriedigt ſind, wird eine Zulage durch Erhöhung des Tage-
 lohns eine ähnliche Erſcheinung zur Folge haben. Die Ge-
 nußmittel der Tagelöhner grenzen ſo nahe an ihre Bedürfniß-
 mittel, daß kaum eine Scheidelinie zu ziehen iſ, und man darf
 ihnen deshalb nicht die Kraft zumuthen — die ſelbſt vielen
-Begüterten fehlt — den augenbli>lichen Genuß der Sorge
+Begüterten fehlt — den augenblicklichen Genuß der Sorge
 für die Zukunft zu opfern. Der Arbeiter wird im Gegentheil
 in den mehrſten Fällen die Zulage verzehren, für das Alter
 nichts aufheben, die Armuth im Alter aber um ſo bitterer
@@ -9424,7 +9063,6 @@ gegenüberſtehende Intereſſe von Lohngebern und Arbeitern nicht
 vermittelt wird, und ſo das Grundübel unſerer ſozialen Zuſtände
 in voller Schroffheit beſtehen bleibt.
 
-14
 
 --- Page 224 ---
 » - : > x ' ù
@@ -9447,7 +9085,6 @@ VA ii li titi 1i2: Hs ij ‘dlltit ty 146408 UVA rs i vi
 
 _ : : Y
 
-2
 
 i; 0 VHIEdsEE wiogin 0 R D 0E SE OSQHNQUO
 HIE n. Ud ud Add don Es Gi A LE
@@ -9461,7 +9098,6 @@ Anlage A.
 
 Berechnung
 
-der
 
 Unterhaltskoſten und des Einkommens
 
@@ -9502,12 +9138,9 @@ Verſuch zur Beſtimmung des Einkommens einer Tagelôhner- j
 famille ns es E NEE
 Ueberſicht der Korgtenkvntien der Dorfbewohner D
 
-eL
 
 --- Page 227 ---
-215
 
-$.
 
 Jührlicher Verdienſt einer Tagelöhnerfamilie zu Tellow,
 welche keinen Hofgänger © hält, in dem Zeitraum vom
@@ -9522,11 +9155,11 @@ Arbeitsrechnung aus den Jahren 1810 bis 1820 entnommen.
 
 In dem Zeitraum von 1833 bis 1847 hat der Durch-
 ſchnittsertrag des Korns, mit Ausſchluß des Rapſes, 7447 Schfl.
-9 Mg. Roſto>er Maas *#*) guf Rocken reduzirtes Korn LÌ)
+9 Mg. Roſtocker Maas *#*) guf Rocken reduzirtes Korn LÌ)
 betragen.
 
 Hievon mögen ungedroſchen in Garben verfuttert ſein cc.
-30 gehäufte Schfl. Hafer gleich 50 Schfl. auf Ro>ken re-
+30 gehäufte Schfl. Hafer gleich 50 Schfl. auf Rockken re-
 duzirt.
 
 Ausgedroſchen ſind demnah 7397 Schfl, 9 Mg. Die
@@ -9534,24 +9167,23 @@ Dreſcher erhalten den 16, Schfl,
 
 *) Unter „Hofgänger‘/ wird ein Dienſtbote verſtanden, welcher ſtatt
 der Frau die Arbeiten für den Hof verrichtet.
-**). Ein Roſto>ker Scheffel iſt gleich 4 Berliner Scheffel.
+**). Ein Roſtockker Scheffel iſt gleich 4 Berliner Scheffel.
 403) Bei der Reduktion auf Rocken iſt gerechnet :
 1 Schfl. Weizen gleih 114 Schfl. Rocken,
 1 Schfl. Roken gleich 1 Schfl. Roen,
-1 Schfl. Gerſte gleih ?4 Schfl. Ro>en,
-1 gehäufter Schfl, Hafer gleih 4 Schfl. Ro>en,
+1 Schfl. Gerſte gleih ?4 Schfl. Rocken,
+1 gehäufter Schfl, Hafer gleih 4 Schfl. Rocken,
 1 halbgehäufter Schfl. Hafer gleih 4, Schfl. Rocken,
-1 Schfl. Erbſen gleich 1 Schfl, Ro>en,
+1 Schfl. Erbſen gleich 1 Schfl, Rocken,
 
 --- Page 228 ---
-216
 
 F#| S| Roden
 
 DerDreſcherlohn beträgt demnah462Schfl, LEEN
 6 Mt.
 
-Von ſ{hle<t lohnendem, oder in Miethen
+Von ſ{hlecht lohnendem, oder in Miethen
 geſtandenem Korn erhalten die Dreſcher ſtätt
 des 16. den 14. Schfl. Die hieraus her-
 vorgehende Zulage mag etwa 5 pCt. des!
@@ -9580,7 +9212,7 @@ von 2541, Mann jährlih an Torf ge-
 
 --- Page 229 ---
 6 217
-N/ 3 | Ro>en
+N/ 3 | Rocken
 #6 Shfl.
 Transport 44%
 
@@ -9622,9 +9254,8 @@ zuſammen 6570 ßl,
 5129| 44%,
 
 --- Page 230 ---
-218
 
-N°?/, | Roſto>
+N°?/, | Roſtock
 
 #8 _Schſl.
 Transport | 9/29 44%s
@@ -9657,11 +9288,9 @@ jährlich 74,3 Mann erfordert. Jm Jahr 181,5
 war nach einer ſpeziellen Berechnung der
 
 --- Page 231 ---
-EN
 
-219
 
-N°/, | Ro>en
+N°/, | Rocken
 FS Sdf.
 Transport |6 |47 44 6
 Verdienſt eines Mannes bei dieſen Arbei-
@@ -9673,15 +9302,14 @@ löhner : i
 _a) die Zahl der Arbeitstage 2 = 6,7,
 þb) den Verdienſt, 6,7 Tage à 10,9 ßl. =|1 |25
 
-#
 
-9, Sonſtige At@>ordarbeiten,
+9, Sonſtige At@ckordarbeiten,
 als Mergel - und Moderaufladen , Modern
 mit Handkarren, Erde karren 2c.
 
 Vom Jahr 1815 an — in welchem das
 Mergelfahren im Großen zuerſt begann —
-i bis zum Jahr 1820 haben die im A>ord
+i bis zum Jahr 1820 haben die im Ackord
 vollbrachten Meliorationsarbeiten jährlich ge-
 foſtet an Geldlohn 171 Thaler 22 fl.
 Im Jahr 13%%5 hat bei dieſen Arbeiten
@@ -9700,7 +9328,6 @@ geweſen iſt.
 8 || 48/5
 
 --- Page 232 ---
-220
 
 Transport
 
@@ -9742,11 +9369,9 @@ FS Schfl.
 
 CES 267, EFT A
 
-4139
 1 46%
 
 --- Page 233 ---
-221
 N?/, | Roten ‘
 F#|8|_Schſl.
 
@@ -9767,7 +9392,6 @@ zum: Torfeinfahren =: «terre 1
 ein Markttag cet reed ree +4
 das Erntefeſt +12 e e air re rie Vz
 durch Krankheiten etwa... WL
-51
 
 Zu Arbeiten für die Herrſchaft
 bleiben. . «+ + «++ Ml Retie 180 Tage.
@@ -9778,23 +9402,21 @@ macht für 5 Tage — 20 ßl., und von den
 111, Thlr. Geldlohn verbleiben un
 11 Thlr. 4 $l. |
 180 Arbeitstage der Häker koſten dem-
-__na< 11 Thlr. 4 ßl. und 26 Schſfl.
-Ro>enz; dies macht pr. Tag 2,96 $l. und
+__nach 11 Thlr. 4 ßl. und 26 Schſfl.
+Rockenz; dies macht pr. Tag 2,96 $l. und
 0,145 Schfl. Roken.
 
-13
 
 15) 44276
 
 --- Page 234 ---
-222
 
 N?/, | Roten
 
 F|8|_Schfl,
 
 Transport | 1315| 44%4
-Beim Preiſe des Ro>ens von 40 $l.
+Beim Preiſe des Rockens von 40 $l.
 pr. Schfl. ſind 0,145 Schfl. = 5,80 $l.
 Hiezu der Geldlohn von 2,96
 
@@ -9807,7 +9429,7 @@ putat geſezt geweſen; im Durchſchnitt alſo 1/2.
 
 Dieſe haben an Deputat erhalten :
 12/, x 11 Thlr. 4ßl. =16 Thlr. 30þl.
-11/, Xx 262/, Schfl. =—39%s Schfl. Ro>en.
+11/, Xx 262/, Schfl. =—39%s Schfl. Rocken.
 Da die Tagelöhner ſich jahresweiſe beim
 Haken ablöſen, ſo muß dies Deputat auf
 11 Mann repartirt werden; dies gibt für
@@ -9830,7 +9452,6 @@ iiaiana | nat,
 440 RT
 
 --- Page 235 ---
-223
 
 Transport
 Die bisher aufgeführten Arbeiter nehmen
@@ -9859,7 +9480,7 @@ welcher 8 ßl. Tagelohn gegeben wird, macht
 8, Deputat.
 
 Jeder Tagelöhner erhält, ſtatt des früher
-für ihn geſäeten Schfl. Ro>en
+für ihn geſäeten Schfl. Rocken
 
 9. Arbeiten der Frau.
 Nach dem zehnjährigen Durchſchnitt haben
@@ -9869,9 +9490,7 @@ die Frauen, welche keinen Hofgänger hal-
 N?/, | Roten
 FS Schfl.
 1440| 47/4
-2191
 
-7/8
 
 ——| 5
 
@@ -9885,7 +9504,7 @@ N2/, Roden ;
 Transport |24|9| 529%,
 
 von ſind — wie oben angegeben iſt — im ás
-A>ord gearbeitet 44 Tage à 6'/, þl. | 5.146 |
+Ackord gearbeitet 44 Tage à 6'/, þl. | 5.146 |
 Für die andern Arbeiter bleiben 131,4 Tage. m
 
 Die Frau leiſtet für die Wohnung 2c.
@@ -9916,7 +9535,6 @@ eines Theils der Verbrauch an Milch und Butter ſchwer zu
 fontroliren und in Zahlen anzugeben iſt, und indem andern
 
 --- Page 237 ---
-225
 
 Theils die mit der Milchwirthſchaft beſchäftigten Leute neben-
 
@@ -9992,10 +9610,8 @@ Erzeugungsort ſelbſt, in dieſem Jahr den Werth von i
 *) 100 Pott ſind einer glaubwürdigen Angabe nach gleich 79 Ber-
 lîner Quart, : î
 
-/
 
 --- Page 239 ---
-227
 
 ————
 
@@ -10038,10 +9654,8 @@ terns während des Sommers — wo dies durch ein Pferd
 betrieben wurde — für 109 Kühe berechnet zu 229 Thaler
 
 15 ßl, Dies macht pr, Kuh 2 Thlr, 5 sl,
-15%
 
 --- Page 240 ---
-228
 
 Die Unterhaltungskoſten eines Mädchens in der Meierei-
 wirthſchaft ſind dort berechnet zu 55 Thlr, 46 þl.
@@ -10051,8 +9665,6 @@ Obige 229 Thlr, 15 $l. ſind gleich den Unterhaltskoſten
 Et D Mä
 von —> 7 4,1 Mädchen.
 
-, N
-#6
 
 Auf 109 Kühe kommen 4,1 Mädchen; dies gibt
 26,6 Kühe auf 1 Mädchen. Die Kühe hatten
@@ -10083,7 +9695,6 @@ den. Lohn +s +ertrttio ena irie 40.
 TT20 Thlr.
 
 --- Page 241 ---
-229
 
 Transport
 
@@ -10116,7 +9727,6 @@ Hier nehme ih pr. Kuh 300 Soden Torf an,
 
 - das Tauſend zu 20 fl. gerechnet, gibt
 
-E)
 
 5. Arznei
 
@@ -10124,7 +9734,6 @@ nebſt dem Schrot, welches die Kühe zuweilen nach
 dem Kalben bekommen ;
 
 --- Page 242 ---
-230
 
 Transport
 
@@ -10161,10 +9770,9 @@ Ertrags oder ſonſtiger Fehler ausgeſchofſen.
 
 2) Die Starken werden eingeſchoſſen, wenn ſie
 dreijährig (d. h. im 3. Lebensjahr) ſind, únd
-foſten das Stü>k 24 Thlr, N2/,.
+foſten das Stückk 24 Thlr, N2/,.
 
 --- Page 243 ---
-231
 
 Transport
 3) Die Kühe werden abgeſeßt, wenn ſie 13jährig
@@ -10195,7 +9803,6 @@ verkauft werden. *
 [d= TEN 0 0 UT MA «> » JUE «> | MN Y
 
 --- Page 244 ---
-232
 
 Transport
 Die Einnahme für 60 Kühe à 16 Thlr. be-
@@ -10234,7 +9841,6 @@ in Anrechnung bringt, ſo iſt der Werth einer
 4 ‘121,9
 
 --- Page 245 ---
-233
 
 Transport
 regelmäßigen, aus 803 Haupt beſtehenden Heerde
@@ -10262,11 +9868,10 @@ In ſo ferne die Schweine als Mittel zur |
 Verwerthung der ſauern Milch gehalten werden,
 gehört dieſe Ausgabe auf das Konto der Kühe.
 
-Rechnet man zu dieſem Zwe> auf 8 Kühe
+Rechnet man zu dieſem Zweck auf 8 Kühe
 3 Schweine, à 10 Thlr. Werth, ſo fallen auf
 
 --- Page 246 ---
-234
 
 Transport
 
@@ -10298,7 +9903,7 @@ der Hofkfuh eine Dorffkuh gehalten wird.
 
 --- Page 247 ---
 Transport
-Fortſehung der Ansgabebere<hnung, und zwar
+Fortſehung der Ansgabeberechnung, und zwar
 der Koſten, welhe auh auf die Kühe der
 ; Dorfleute fállen.
 13. Koſten des Kuhhirten.
@@ -10316,7 +9921,7 @@ Durchſchnitt jährlih 59 Haupt.
 Jn der 2. Hälfte dieſer Periode ſind ſämmt-
 liche Dorffühe im Winter auf dem Hofe durch-
 gefüttert. Jn der erſten Hälfte dieſes Zeitraums
-blieb aber no< ein Theil dieſer Kühe im Dorf.
+blieb aber noch ein Theil dieſer Kühe im Dorf.
 Die Zahl der im Ganzen auf dem Hofe durch-
 gefütterten Kühe beträgt 784. Dies macht im
 Durchſchnitt jährlih 56. Im Sommer und Win-
@@ -10333,7 +9938,6 @@ Geld erhält, beträgt ungefähr 5 Thlr, weniger, als der
 Jahresverdienſt eines Tagelöhners.
 
 --- Page 248 ---
-236
 
 Transport
 
@@ -10373,15 +9977,14 @@ angelegt und hat für 59 Kühe einen Hafan von
 26 Ruthen.
 
 --- Page 249 ---
-237
 
 Transport
 
 Nach einer beſondern Berechnung koſtet eine
 Ruthe an Arbeit von Menſchen und Pferden,
 nebſt den Zinſen vom Werth der Pföſte und
-Koppelri>e, und deren Abnuzung — 5% gl.
-Dies gibt für 26 Ruthen 3 Thlr. -6 þl>, und
+Koppelricke, und deren Abnuzung — 5% gl.
+Dies gibt für 26 Ruthen 3 Thlr. -6 þlck, und
 für: jede der 59 Nhe „(eerie arles eirie e rtt L e ees
 
 17. Errichtung einer Nachtkoppel.
@@ -10413,13 +10016,12 @@ Runkelrüben verfüttert werden, ſo erfordert
 9 |43,6
 
 --- Page 250 ---
-238
 
 Transport
 a, das Reinigen und Zerſtoßen 1% F. 31% þl.,
 b. das Schneiden von 28-—35 Scheffel
 
-Hä>fſel LAS M. eco oec o oo. 59% "1
+Häckfſel LAS M. eco oec o oo. 59% "1
 c, das Holen der Runkeln aus der
 Miethe koſtet ca. «¿eee 1% 1
 
@@ -10446,10 +10048,9 @@ foſten eines Vichhauſes, die Abnuzung, die Re?
 paraturkoſten und die Brandkaſſenbeiträge zuſam-
 men berechnet — hievon die Miethe für den obern
 Raum zur Aufbewahrung des Heues abrechnet:
-“ſo ergibt ſi<h, nah einer ſpeciellen Berechnung,
+“ſo ergibt ſich, nah einer ſpeciellen Berechnung,
 
 --- Page 251 ---
-239
 
 Transport
 
@@ -10480,14 +10081,13 @@ Berth. «iegen airioieis Cis anio ota ale in/UVie
 
 *#) Das Gewicht des Fuders Heu wird beim Einfahren
 zu 1800 Pfd, angenommen, wovon. im Stall 10—12 pEt.
-dur weiteres Eintro>nen und Verdunſten verloren gehen.
+dur weiteres Eintrocknen und Verdunſten verloren gehen.
 Dem Vieh wird deshalb das Fuder nur zu 1600 Pfd,
 angerechnet.
 
 11 | 40,2
 
 --- Page 252 ---
-240
 
 Transport
 
@@ -10528,9 +10128,7 @@ aus den Koſten weg und der Ertrag der Kuh wird dann be-
 rechnet zu 11 Thlr, 45,5 ßl, N?/. -
 
 --- Page 253 ---
-mmT
 
-241
 
 100 Kühe geben demnach einen Reinertrag von 100 <<
 10 Thlr. 20,4 ßl. =— 1042, Thlr.
@@ -10546,16 +10144,16 @@ blos zur richtigen Ermittelung der Koſten ‘einer Tagelöhner-
 familie, ſondern iſt dem Landwirth durchaus nothwendig zur
 Beantwortung und Entſcheidung der Fragen:
 1) Jt der Anbau der Wurzelgewächſe zum Viehfutter für
-das gegebene Lokal zwe>mäßig und vortheilhaft ?
+das gegebene Lokal zweckmäßig und vortheilhaft ?
 2) Welcher Aufwand darf auf die Verbeſſerung der Wieſen A
 zur Erlangung eines höheren Heuertrags gemacht werden ?
 
 Wenn zuvor die Aufgabe gelöſt iſt, aus dem Reinertrag
 einer Kuh den Futterwerth von Gras, Heu und Stroh dar-
-zuſtellen: ſo ergibt ſih, wenn für den A>er die Koſten der
+zuſtellen: ſo ergibt ſih, wenn für den Acker die Koſten der
 Beſamung mit Klee- und Grasſamen, für die Wieſen die -
 Koſten des Grabenaufräumens und der ſonſtigen Unterhaltung
-in Abzug gebracht werden, der Reinertrag der A>erweide
+in Abzug gebracht werden, der Reinertrag der Ackerweide
 und der Wieſen. | :
 
 Man darf aber nicht glauben, daß dieſer Reinertrag iden-
@@ -10565,16 +10163,14 @@ ertrag auf ähnliche Weiſe berechnen, und auch für dieſe die
 Zinſen und Unterhaltungskoſten der Gebäude, die ſie erfordery,
 in Anrechnung und Abzug bringen: ſo werden damit doch
 
-* die allgemeinen Kulturkoſten nicht erfaßt und gede>t.
+* die allgemeinen Kulturkoſten nicht erfaßt und gedeckt.
 bo Zu dieſen allgemeinen Kulturkoſten gehören, wenn man
 
 auh die Abgaben an Staat und Kirche — die von der Land-
-16
 
 --- Page 254 ---
 E SGS
 
-242
 
 —————————_——
 
@@ -10603,7 +10199,6 @@ ZI vs A6) duk î
 Le . Á
 
 --- Page 255 ---
-243
 
 Theilung der Koſten der Meierei-| Koſten, die | Koſten, die
 wirthſchaft in ſolche, die mit der| Rice Gnavalas
@@ -10647,14 +10242,10 @@ fetten, Waſſertrögen u. ﬅ. w. .…...|—| —W—| 9
 ficherung der Kuh... +++ +«- Or ]—| 2,5
 24) Unterhaltung der Bollen ——— 114
 i Summe | 4|45,9 | 5/34
-16*
 
-4
 
 --- Page 256 ---
-E
 
-244
 
 | Die Werbungs- und Aufbewahrungskoſten des Heues ge-_
 | hóren — da mit der Steigerung der Heufütterung der Milch-
@@ -10688,7 +10279,6 @@ Für 1 Pott Milch betragen dieſe Koſten
 237,9 ßl. >< Tf = 0,141 fl.
 
 --- Page 257 ---
-245
 Der Werth der Milch pr. Pott iſt oben berechnet zu
 0,625 gl.
 Hievon ab die Koſten pr. Pott mit... 0,141
@@ -10713,11 +10303,9 @@ gleicher Güte, für jeden — durch die Fütterung bedingten —
 Grad des Milchertrags liefern.
 
 --- Page 258 ---
-4
 LE e :2á6
 2% E
 
-— !
 
 Darſtellung des Ueberſchuſſes einer Kuh bei verſchiedenem
 Milchertrag, wenn Werbe- und Aufbewahrungskoſten
@@ -10783,10 +10371,10 @@ t Die Wohnung
 30 Quadratruthen Garten à 3 ßl..
 
 50 OQuadratruthen Kartoffelland , inel. der
-Bea>erung à Quabvratruthe 3 fl... Wut
+Beackerung à Quabvratruthe 3 fl... Wut
 
 30 Quadratruthen Leinland auf ausgeſuchtem
-ſtark gedüngten A>er à Quadratruthe 34 ßþl...
+ſtark gedüngten Acker à Quadratruthe 34 ßþl...
 
 Garten- und Arland... | 7 | 9
 
@@ -10833,13 +10421,10 @@ Das Anfahren des Torfs erfordert 3 Fuhren
 à Ihle atei ez o 10S Hel o wiain SENSE
 
 --- Page 261 ---
-249
-N°/
-#6
 Transport 3 | 40
 Für das Torfmoor iſt aber auh eine Land-
 pacht zu berehnen, und dieſe auf die Zahl
-der Soden, die das Moor jährli<h dauernd zu
+der Soden, die das Moor jährlich dauernd zu
 liefern vermag, zu repartiren. Jch rechne dieſe
 Landpacht zu 41/, ßl. pr. Tauſend , macht für
 14- Tauſend «realen aran e vrieieiien elles e 21
@@ -10872,8 +10457,6 @@ die Leute dafür an den Hof abgeben,” ein ziemlich
 --- Page 262 ---
 i iilléb y
 
-|
-[|
 
 genügendes Aequivalent für die Gänſeweide ſind
 — weshalb hier dafür nichts in Rechnung ge-
@@ -10905,11 +10488,10 @@ liegenden Bauerdörfern aufſuchen müſſen. Es ſind des- |
 halb jest zu Tellow CLändſchafe/ welche Spinnwolle tragen, |
 angeſchafft z und es: wird- beabſichtigt;, den Leuten ſtatt des. |7 {=
 Wollgeldes, künftig 8 Pfd. Wolle unentgeltlich zu geben AE
-— wodur< der Wérth der Emolumente Um“ 2'bis 2
+— wodurch der Wérth der Emolumente Um“ 2'bis 2
 Thir. | ſteigen wird.2i; iti» iin 1% 1124 19 1
 
 --- Page 263 ---
-251
 N?/,
 # |B
 Zuſammenſtellung. LL
@@ -10943,7 +10525,6 @@ halten , aufgebracht, und den Reſt trägt der Be-
 --- Page 264 ---
 LA LEE E i E E E E E dE
 
-252
 
 Von den 28 bis 30 Kühen, welche im Dorf
 gehalten werden, ſtirbt jährlich - etwa eine Kuh,
@@ -10984,7 +10565,6 @@ _ GHI «5A
 Lu ' 4 OE
 
 --- Page 265 ---
-253
 | Summa
 7, Unterſtüßung der Wittwen, der | N°4 N2/,
 Alten und Schwachen, FIAS Ig
@@ -11024,7 +10604,6 @@ zuſammenfaßt, und die gefundene Summe
 auf die Zahl der arbeitsfähigen Familien
 
 --- Page 266 ---
-254
 Summa
 N?/ N°/3
 PIRA
@@ -11039,7 +10618,7 @@ dann jährlich :
 
 Eine Kuh zur Hälfte: an Werth.
 
-3 Schfl. Ro>en à 40 ßl. „+---
+3 Schfl. Rocken à 40 ßl. „+---
 25 OR. Kartoffelland à 3 ßl. «+
 
 15 OR. Lenland à 3//ßl. +
@@ -11061,20 +10640,19 @@ der Mann, an Werth „..-----
 
 2) An Korn. Für ſih 3 Schfl. Roten,
 
-für jedes Kind 3 Schfl. No>en
+für jedes Kind 3 Schfl. Nocken
 und 2 Schfl. Gerſte, zuſammen
-15 Schfl. Ro>en à 40 fl.: +
+15 Schfl. Rocken à 40 fl.: +
 8 Schfl. Gerſte à 30 ßl... ---
 
 --- Page 267 ---
-255
 Summa
 N?/; N?/,
 TEATRE AT:
 
 Tranésport | 59 | 9 | 52 [20
 Dagegen mochte der Werth der
-Arbeit dieſer no< in voller Kraft ſich
+Arbeit dieſer noch in voller Kraft ſich
 befindenden Frauen den dafür gezahlten
 Tagelohn überſteigen, um cc... _418 10
 bleibt... | 40 | 47
@@ -11123,16 +10701,11 @@ Ausgabe nicht auf das wirthſchaftliche , ſone
 dern auf das herrſchaftliche Konto ſegen zu
 müſſen.
 
-j
 
 Leute Urſache und Veranlaſſung zu dieſen / =
-/
 
-|
 
-|
 
-j
 
 Zuſammenſtellung der ſonſtigen Koſten, LES,
 1) An Arzt und Apotheker... eee... ERA 7 73 n
@@ -11147,9 +10720,7 @@ Zuſammenſtellung der ſonſtigen Koſten, LES,
 Summe der ſonſtigen Koſten... D aténd.
 
 --- Page 269 ---
-Giu
 
-257
 
 / i N
 | EAT
@@ -11197,11 +10768,11 @@ Hievon geht ab für die 8 Pfund #
 | unentgeldlich ſpinnt, à Pſv. 3 fl. …… |—|4|_|—
 
 bleibt... | 86 |46 | 52 11
-Es frägt ſi<h nun, wie hoch der
-Scheffel Ro>en in Geld anzuſchlagen iſt.
+Es frägt ſich nun, wie hoch der
+Scheffel Rocken in Geld anzuſchlagen iſt.
 Der Verkaufspreis alles Korns,
 was in dem 14jährigen Zeitraum ver-
-fauft iſt, beträgt für einen auf Ro>en
+fauft iſt, beträgt für einen auf Rocken
 reduzirten Scheffel 0,94 Thlr. N24.
 Die geſammten Transport-, Verkaufs-
 und Konſervationskoſten des Korns,
@@ -11215,7 +10786,6 @@ dem Gute ſelbſt 0,94 — 0,08 =
 0,86 Thlr, N24.
 
 --- Page 271 ---
-259
 N//,
 
 Zufällig fällt dies mit dem Werth, den das TAE
@@ -11258,13 +10828,9 @@ Koſtenſumme abgezogen, und der Reſt auf die Zahl
 417%
 
 --- Page 272 ---
-|
-|
-|
 
 PS TE
 
-260
 
 der Arbeitstage vertheilt werden. Der Mann verdient in
 53,1 Verdungtagen 13 Thlr. 15 $l.
@@ -11292,7 +10858,7 @@ Hiezu der Mehrverdienſt des Mannes... 4 Thlr. 32 ßl.
 
 gibt im Ganzen einen Mehrverdienſt von. 6 Thlr. 46 fl.
 Beim Dreſchen verdient der Mann in
-149 Tagen 44/4 Schfl, Ro>en à Schfl.
+149 Tagen 44/4 Schfl, Rocken à Schfl.
 
 0,86 Thlr. gibt... eee earn on 37 Thlr. 46 þl.
 Im Tagelohn würde er in dieſer Zeit
@@ -11308,7 +10874,6 @@ b) in 74 Tagen der übrigen Zeit à 8 $l. 12 Thlr. 46 ßl.
 23 Thlr. 13 $l.
 
 --- Page 273 ---
-261
 Der Mehrverdienſt beträgt demnach :
 l:beim:Dreſchen ¿vice eelenie eie ‘14 Thlr. 33 6l.
 : 2. bei den andern Arbeiten... 6 Thlr. 46 gl.
@@ -11353,7 +10918,6 @@ Arbeiten, ertheilen ;
 enthalten ift,
 
 --- Page 274 ---
-262
 
 Nr. 4: N
 Die Koſten einer Tagelöhnerfamilie, oder der Werthsbe- 2
@@ -11364,7 +10928,6 @@ Abzug bringt, nah $ 5. 132 Thlr. 37 þl. 4
 
 ——————————————— —
 
-j
 
 Transport | —
 Nr. 2. Die Kuh.
@@ -11383,7 +10946,6 @@ derung der Kuh jährlich... 1418
 
 ‘2. Unterhaltung des Milchengeräths | — 12
 
-M
 
 bleibt | 21 | 4
 
@@ -11396,7 +10958,6 @@ die Haltung der Kuh dem Gut ver-
 urfacht; um eee beicon
 
 --- Page 275 ---
-263
 
 Transport| — | —
 
@@ -11424,7 +10985,7 @@ von 60 DIR. Eskart. 53,1 Schfl.
 
 Hievon geht an Untermaas durch
 anhängende, ſpäter abfallende Erde,
-durch Eintro>nen und Verfaulen etwa
+durch Eintrocknen und Verfaulen etwa
 10 pCt. ab, und es bleiben
 
 Eßkart. Viehkart.
@@ -11470,7 +11031,7 @@ und 226 „ à 6 þl. =
 
 Jn Nr. 1 iſ dem Arbeiter ange-
 rechnet, für 80 DIR. Land à 3 ßl.... | 5
-Die Nuzung des A>ers iſt alſo |
+Die Nuzung des Ackers iſt alſo |
 
 durch die darauf verwandte Arbeit er-
 höht um ........ ++. ELT LEIN ZL
@@ -11481,14 +11042,12 @@ Der Werth des in dem Garten
 durchſchnittlich geernteten Obſtés ff an-
 taſhagen zu JU. 4e «ehi RT
 
-td
 
 Didi
 
 --- Page 277 ---
 gel geſchieht — ſo verdoppelt ſie da-
 
-265
 N°/, N°/,
 7" 00 IP COON DE) 0 D
 Transport | — | — |147| 18
@@ -11505,12 +11064,12 @@ Durchſchnitt etwa 80 Pfund geſchwun-
 genes Flachs geerntet.
 
 Bemerkung. Der Leinſamen wird
-ſtets auf ausgeſucht ſchönem A>er ge-
+ſtets auf ausgeſucht ſchönem Acker ge-
 ſäet, der im Jahr vorher Dreeſch ge-
 legen, im Herbſt, nach zuvoriger ſtar-
 ker Düngung, umgebrochen, und im
 Frühjahr mit Sorgfalt beſtellt wird.
-Dieſer Behandlung des A>ers in Ver-
+Dieſer Behandlung des Ackers in Ver-
 bindung mit dem von Zeit zu Zeit
 wiederholten Ankauf von Rigaiſchem
 Leinſamen iſt der hohe Flachsertrag zu-
@@ -11522,7 +11081,6 @@ Der Preis des Flachſes iſt im Durch-
 Wenn die Frau dieſen Flachs im
 Winter verſpinnt — was in der Re-
 
-f
 
 --- Page 278 ---
 R ———————— LRO RR LERS
@@ -11571,7 +11129,6 @@ Von 2 Zuchtgänſen kann man durch-
 Herbſt noch leben.
 
 --- Page 279 ---
-267
 
  Transport
 
@@ -11610,7 +11167,6 @@ Anogare DY 36
 Es bleibt Gewinn auf die Gänſe-
 
 --- Page 280 ---
-268
 
 Transport
 
@@ -11629,11 +11185,9 @@ Deſſen ungeachtet aber verliert der
 | Staat dadurh an Einkommen, indem
 | das Hüten der Gänſe und das Pflücken
 H des Krauts für dieſelben größtentheils
-|
 
 Erw THEE
 
-TA
 
 von ſchwachen Perſonen und von Kin-
 dern geſchieht, deren Arbeitskraft dann
@@ -11655,7 +11209,6 @@ Die Tagelöhner ſchlachten durh-|
 15 | 30
 
 --- Page 281 ---
-269
 . N?/, N?/,
 LI E18
 Transport | — | — [162 | 29
@@ -11682,11 +11235,11 @@ Dieſe vom Werth des Schlachtſchweins
 
 162 | 29
 
-*) Der Mittelpreis des Ro>kens, gleich dem der Erbſen, beträgt
+*) Der Mittelpreis des Rockkens, gleich dem der Erbſen, beträgt
 zwar 0,86 Thlr. oder 41,3 ßl. pr. Schfl, und iſ bei der Koſtenbe-
-re<nung den Tagelöhnern auh ſo hoh angeſchlagen. Da aber die
+rechnung den Tagelöhnern auh ſo hoh angeſchlagen. Da aber die
 Arbeiter, wenn das Korn über den Mittelpreis gilt, niemals mehr
-als 40 ß$l. für den Schfl, Ro>ken oder Erbſen bezahlen, dagegen aber
+als 40 ß$l. für den Schfl, Rockken oder Erbſen bezahlen, dagegen aber
 wenn das Korn unter dem Mikttelpreis gilt, nur den Marktpreis zah-
 len, ſo erreicht auh der Preis; den die Dorfleute im Durchſchnitt für
 das Korn geben, niht den Mittelpreis. Hier iſt deshalb der Schfl,
@@ -11699,7 +11252,6 @@ Gut ſelbſt hat, ſondern den Marktpreis bezahlen — wodurch alſo die
 Verkaufs- und Transportkoſten erſpart werden,
 
 --- Page 282 ---
-270
 
 Transport
 dem Arbeiter für die Mühe des Füt-
@@ -11718,9 +11270,6 @@ Nr. 8. Nutzung der Hühner.
 
 Dieſe mag nah Abzug des Werths
 | des Korns, was ſie verzehren, unge-
-|
-|
-|
 
 fähr betragen, «i etde eee iaioteieio
 
@@ -11738,9 +11287,7 @@ lôhnerfamilie ieee Leleleieiec edv .
 oder 196 Thlr. 18 $l. Pr. Courant.
 
 --- Page 283 ---
-271
 
-[R
 # | 6
 
 Dem Gutsherrn koſtet die Unterhaltung einer |
@@ -11749,7 +11296,7 @@ Tagelöhnerfamilie 132 Thlr. 13 ßl. N?/,.
 Der Tagelöhner erwirbt alſo durch die Ar-
 beit, die er mit ſeiner Frau und ſeinen Kindern
 für ſich ſelb verrichtet, und durch das gez
-ringfügige Kapital, was in ſeinem Vieh ſte>t,
+ringfügige Kapital, was in ſeinem Vieh ſteckt,
 eine Vermehrung ſeines Einkommens von 168 Thlr.
 26 þl. minus 132 Thlr.13 ßl. = 36 Thlr. 13 6l. N2/,. |
 
@@ -11758,14 +11305,13 @@ Dazu tragen bei: :
 4 Die «KUh. eee pee C a C E me Ua 6 | 39
 2. Garten- und Kartoffelland\. = aes 6 | 38
 3. Das Obſt ee ee e e a R LA A LOS
-4. Der Flachsbau und das Spinnen. + c> 13.1.7
+4. Der Flachsbau und das Spinnen. + cck 13.1.7
 Die GANE tre Cte Ce LR EC 24
 6 Das Schwein ee 2/745
 7. Die Hühner eee Lu — | 32
 8. Das. Aehrenleſen + eer E C2 2 | 16
 9. Das Spinnen der Hofhede.…............ 524
 
-$7.
 Ueberſicht der Kornkonſumtion der Dorfbewohner zu Cellow.
 
 Eine ſolche Ueberſicht iſt {wer zu erlangen, weil die Arbeiter
@@ -11779,10 +11325,7 @@ ben fann, ſo theile ich das Ergebniß nachſtehend mit
 
 "UE: DCT
 « LA
-\ A
-“
 Ph ,
-LA
 
 dieſem Jahr aller Weizen, den die Dreſcher bri i hatin, an
 den Hof verkauft, und ſomit in Rechnung gekommen iſt. Jch
@@ -11793,7 +11336,6 @@ dies auch für Andere — als ſtatiſtiſche Notiz — Werth ha-
 rT: 14
 
 --- Page 285 ---
-273
 
 I/erLE9T| °/FP8 C08 |°4r8£09 | °/6LL| 86
 
@@ -11824,15 +11366,12 @@ pos *ualqaD 42]v@ 213 UIP016 | uo?1o9e
 awwnD
 
 ¿uouutoz
--29 U20Y uv 214n21]10F, 219 u29v( g3g[ 81uuv<oHg
-8319 LFY8T S1uuUvÍog uoa a<vloßbunu(p2 ut24g UH
+-29 U20Y uv 214n21]10F, 219 u29v( g3g[ 81uuvchoHg
+8319 LFY8T S1uuUvÍog uoa achvloßbunu(p2 ut24g UH
 
-Né
 
-18
 
 --- Page 286 ---
-274
 
 Am Sqhluß des Jahres 1847 — alſo in der Mitte des
 Rechnungsjahres — betrug die Zahl der Dorfbewohner an
@@ -11850,12 +11389,11 @@ Nach den Anſäßen im vorigen $ können wir das mit
 dem Vieh, was einer Familie gehört, verfütterte Fem | an-
 nähernd beréchnen, wie folgt :
 
-Auf Ro>ken
+Auf Rockken
 reduzirte
 
 Sdhfl.
 
-E
 
 1. Für die alten Zuchtgänſe im |
 Winker... rewe 2 Schfl. Hafer| 1%6
@@ -11876,7 +11414,6 @@ Ze : AMM
 
 [0 o)
 
-|
 
 Die Zahl der wohnhaften Familien betrug in dieſem ahr
 23. Auf jede Familie kommen alſo viaigrits 6 Perſo en.
@@ -11892,7 +11429,7 @@ Hievon ſind mit dem Vieh verfüttert... m 2A y
 —_ _ _  _
 Zur Konſumtion für. 6 Perſonen bleiben. 49,7 Schfl,
 
-Dies gibt pr: Kopf 8,28 Shfl, Roſto>er Maas, gleich
+Dies gibt pr: Kopf 8,28 Shfl, Roſtocker Maas, gleich
 5,91 Verliner Scheffel. ITT j
 
 Es iſt aber zu bemerken, daß wegen des durch die. Kar-
@@ -11901,7 +11438,7 @@ verbrauch in dieſem Jahr größer geweſen ift, als in den frühe-
 ren Jahren. H
 
 Aus dem Jahr 1840—41/ in welchem die Kartoffelkrank-
-heit no< nicht herrſchte, beſige ich eine Rechnung über den
+heit noch nicht herrſchte, beſige ich eine Rechnung über den
 Kornverbrauch von 7 Deputatiſtenfamilien — die nicht dreſchen,
 und folglich auch feinen Dreſcherlohn beziehen — wovon die
 Reſultate hier zur Vergleichung einen Plat finden mögen.
@@ -11927,14 +11464,12 @@ Die 7 Faunilien beſtanden im Durchſchnitt des ganzen
 19/4 Kindern uner 14 Zahr
 
 zuſammen 451/, Perſonen.
-Se-
 
 Der Verbrauch iſt alſo e =10,58 Schfl, pr. Kopf.
 
 18 #
 
 --- Page 288 ---
-276
 
 Der Verbrauch pr. Kopf war alſo im Jahr 18/41 bei
 einer guten Kartoffelnernte um 1,29 Schfl. geringer als im
@@ -11942,7 +11477,7 @@ Jahr 187/43, in welchem die Kartoffelkrankheit herrſchte.
 
 Für eine Familie von 6 Perſonen beträgt demnach der
 durch die Kartoffelkrankheit bewirkte Mehrverbrauch 6 x 1,29
-— 7°/, Schl. Ro>en. Der Ankauf von 7% Schfl. Ro>en
+— 7°/, Schl. Rocken. Der Ankauf von 7% Schfl. Rocken
 iſt aber für Arbeiterfamilien , die auch früher nur nothdürftig
 zu leben hatten, faſt unerſchwinglich. Sollte die Kartoffel-
 franfheit unglülicherweiſe fortdauern, o iſt ſchon aus dieſem
@@ -11961,7 +11496,6 @@ im Lande konſumirten Branntweins verwandt wird, in Reh-
 
 nung gebracht werden.
 
-TS
 
 --- Page 289 ---
 Anlage B.
@@ -11984,15 +11518,10 @@ IST «e
 I id Air EA
 D 1 dou 36 lis uA
 
-CF=
-PAs
 
-nno
 
 --- Page 291 ---
-279
 
-$1.
 
 Verzeichniß der Cinnahmepoſten, an welchen die Dorf-
 
@@ -12042,11 +11571,8 @@ ritt, METO vie weißer) dT 2A
 "Nh Thimotheeſamen „2 rn m 0
 
 I.
-=
-=
 
 --- Page 292 ---
-280
 
 Ergibt ſich aus diefer Berechnung, daß der Werth des
 Vorraths am Schluß des Rechnungsjahrs größer iſt, als er
@@ -12071,7 +11597,6 @@ AA E _…
 | die Schafe von jedem Alter pr. Kopf zu 2 „ n
 die Schweine von jedem Alter... 8 -,  ZEn
 
-$4.
 
 Von ‘der auf dieſe Weiſe ermittelten Einnahme ſollen-nach-
 
@@ -12088,12 +11613,11 @@ Schafer“ und Schweinenz - ,
 Lieferung und Verwendung! der: Naturalien, die auf dem
 Gut ſelbſt erzeugt werden; 1 «i
 
-4) der Verluſt, der durch ein Brändunglü> entſteht, in ſo-
+4) der Verluſt, der durch ein Brändunglück entſteht, in ſo-
 fern dieſer Verluſt die Entſchädigung überſteigt, welche
-die Brandverſi>fexrungs-Geſellſchäften leiſten... à
+die Brandverſickfexrungs-Geſellſchäften leiſten... à
 
 --- Page 293 ---
-281
 
 $ 9. i
 
@@ -12146,7 +11670,6 @@ innigſte mit der Steigerung der Produktion verknüpft. Die
 Zahl der Dorfbewohner , welche einen: ‘Antheil an der Guts-
 einnahme haben, beträgt gegenwärtig 21.
 
-NA
 
 $ 6.
 
@@ -12183,11 +11706,8 @@ eine Familie bilden ‘ſolle A910}? plot nO
 --- Page 295 ---
 E 1A A A a O
 
-“13
 
-N
 
-283
 
 jedem Jahr Unt etwas" erhöhten, ſtetig wachſenden Ein-
 
@@ -12199,7 +11719,7 @@ Maninésaltér ‘in’ angeſtrengter Thätigkeit vollbracht, er
 im'ſpätern Alter, wo Kraft und Geſundheit ſ{hwinden,
 nicht darben, nicht der Gnade Anderer leben, nicht ſei-
 nen Kindern zur Laſt fallen ſoll’, ſondern vielmehr in
-den Stand geſeßt werde, ſeinen' Kindern no< Etwas
+den Stand geſeßt werde, ſeinen' Kindern noch Etwas
 hinterlaſſen zu können.
 
 $ 9.
@@ -12207,13 +11727,9 @@ $ 9.
 "Zur Exſtrebung dieſes Ziels werden nun nachſtehende
 Verfügungen getroffen"
 
-1)
 
-2)
 
-3)
 
-4)
 
 Jeder Dorfbewohner, der nach obigen Beſtimmungen ſth
 zur Theilnahine an der Gutseinnahme eignet, erhält ‘ein
@@ -12233,7 +11749,7 @@ es ſoll auch dieſe Gabe in allen Beziehungen als ein ..
 
 Das in die Sparkaſſenbücher eingetragene Kapital iſt
 von beiden Seiten unkündbar, ſo lange nicht der Jnhaber
-deſſelben das 60. Lebensjahr zurü>gelegt hat. Sobald
+deſſelben das 60. Lebensjahr zurückgelegt hat. Sobald
 aber der Dorfbewohner das Alter von 60 Jahren erreicht hat,
 ſoll ihm ſein Kapital zur freien Verfügung geſtell werden.
 
@@ -12269,34 +11785,21 @@ zahlt.
 _Tellow, den 15. April 1848...
 
 vif i | tend Tutta dada
-2!
 
 --- Page 297 ---
-———
 
 VEVMRNRNUYUUBRUY,UNBN GRBSGB,BBUBSE
 
 è D De D ut A UR A /
 
-131
 
-140
-143
 
-145
 
-156
 
-158
-163
 
-174
-189
-241
 
 EBRMEYBURY BY EE ERERURUYST
 
-285
 
 Verbeſſerungen.
 Seite 1 Zeile 2 von unten leſe man Differentiation ﬅ. Differentation
@@ -12338,7 +11841,6 @@ Bevölkerung
 Pn ==
 1 v, u » Tf 1 4 qz
 o CDA Fp
-aq
 13 v. 0 S wat a=
 6 v. o 4 E aeLa ﬅ Kapitalbenubung
 6u.7v.0. “y Zahl bedeuten kann — ﬅ, Zahl
@@ -12352,13 +11854,10 @@ Bayeriscie
 Staatsbibliothok
 
 --- Page 298 ---
-CHS
 
 l ‘8500045120428
 
 L--4
-O
-_
 
 Lea NIR R AnS Anti EnH Li + HS
 LSF VE nom 5 cl q ü M:
@@ -12377,7 +11876,6 @@ N Ï et e EA it k
 Y TA 1 Þ O
 1 «C-Of. n 1 n ;
 il 3230143 0, «- OEA 3 y
-pA
 HT) N 1 4 Qe O1 « Ja
 20% 14 Y " tut te :4
 rit Ì
@@ -12402,7 +11900,6 @@ Y -t- -{- ! t Lb |
 L-44-:
 
 Y Lû
-LY
 
 ES e:
 
@@ -12413,10 +11910,8 @@ tis oa H Z Dru von Adlet s Erf-cn in R
 LL, 04 Se i Li d As: dt :
 
 --- Page 300 ---
-N
 
 a LLE A6 LEL
 TLS n
 tf j
 + Va Me
--

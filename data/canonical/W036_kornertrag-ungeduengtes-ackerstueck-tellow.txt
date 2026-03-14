@@ -10,10 +10,10 @@ source: "M041 (BSB Tesseract Fraktur)"
 source_files: "doberan_1841_M041_pp213-216_tesseract-fraktur.txt"
 notes: "Doberan 1841 pp. 213-216. Downloaded from BSB bsb10228360. 4pp extracted (9KB)."
 assembled: 2026-03-13T23:11:45Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
-213
 
 Von dem Salinen-Amte zu Súlz waren Proben der natürlichen und graduirten
 Sülzer Soole nebſt den daraus gewonnenen Producten eingeſandt worden.
@@ -23,10 +23,10 @@ ben von Gebirgsarten war-den oben aufgeführten beigefügt.
 
 Endlich waren zur Vergleichung Proben von Mineralproducten ähnlicher Formatio-
 nen aus andern Ländern , namentlich Holſtein, Helgoland , Hannover, Pommern , ſowie
-des Pariſer Be>ens aufgeſtellt.
+des Pariſer Beckens aufgeſtellt.
 
 Kornertrag eines ſeit 20 Jahren niht gedüngten, im Gute Tellow
-befindlichen A>erſtúcs.
+befindlichen Ackerſtúcs.
 Ein in der Section für die Statik des Landbanes zu Doberan gehaltener Vortrag des Dr. I. H.
 
 Als ergänzende Beilage des in der fü ei i tet
@@ -39,22 +39,22 @@ gende Anſicht in mir erzeugt:
 
 Sowie in Beziehung auf den Wärmegrad und den Feuchtigkeitsgehalt zwi-
 \{en Luft und Erde eine ſtete Wechſelwirkung und ein Streben nah Ausgleihung
-ſtattfindet, ſo daß der feuhte Boden Waſſer an die Atmoſphäre abgiebt , der tro>ne
+ſtattfindet, ſo daß der feuhte Boden Waſſer an die Atmoſphäre abgiebt , der trockne
 dagegen Feuchtigkeit aus der Luft anzicht, ſo findet auh in Beziehung auf den
 Gehalt an pflanzennährenden Gaſen — hauptſächlih wohl Ammoniak und fohlen-
 ſaures Gas — ein Streben nah Ausgleichung ſtatt. Der humusreiche, beſonders
-der friſh gedüngte A>er giebt pflanzennährende Gaſe an die Atmoſphäre ab, der
-dur viele Kornernten erſhöpfte A>er ſaugt ſie dagegen aus der Luft wieder ein.
-Die durch die Bearbeitung bewirkte Berührung des Ä>ers mit der Atmoſphäre iſt
+der friſh gedüngte Acker giebt pflanzennährende Gaſe an die Atmoſphäre ab, der
+dur viele Kornernten erſhöpfte Acker ſaugt ſie dagegen aus der Luft wieder ein.
+Die durch die Bearbeitung bewirkte Berührung des Äckers mit der Atmoſphäre iſt
 alſo für den reihen Boden raubend, für den armen Boden aber bereichernd. Bei
 dem fortgeſeßten Anbau des Bodens mit erſhöpfenden Früchten ohne Dungerſag
 muß alſo zulegt ein Zuſtand eintreten, wo zwiſhen dem, was der Boden aus der
-Atmoſphäre und durch die zurú>bleibenden Wurzeln und Stoppeln des Getreides
+Atmoſphäre und durch die zurúckbleibenden Wurzeln und Stoppeln des Getreides
 myfn, mit dem, was die Kornernten demſelben entziehen, ein Gleichgewicht
 ſtattfindet.
 
 Fehlt es nun dem Aer niht an den zum Gedeihen der Pflanzen nöthigen
-mineraliſhen Stoffen, ſo wird der Durchſchnittsertrag dieſes A>ers ohne allen
+mineraliſhen Stoffen, ſo wird der Durchſchnittsertrag dieſes Ackers ohne allen
 Dungerſas ſih Pine bleiben — es iſt der Beharrungäinfiand eingetreten.
 
 ‘ah der Verſchiedenheit der phyſiſhen Beſchaffenheit des Bodens , der waſſer-
@@ -64,25 +64,24 @@ arten gar ſehr verſchieden ſein. Bei fehlendem Dungerſaß wird der Lehmboden
 beharrenden Zuſtande einen viel höhern Ertrag geben als der Sandboden.
 
 Zu Tellow hat das zum Ausbauen beſtimmte Stú> Aer in der Len Saat
-ohne Düngung noh 10,3 Berliner Schffl. No>en von 100 (1R. = 12,15 Berl.
-Schffl. Ro>en vom Magdeb. Morgen gegeben, und der Ertrag dieſes Stúks,
+ohne Düngung noh 10,3 Berliner Schffl. Nocken von 100 (1R. = 12,15 Berl.
+Schffl. Rocken vom Magdeb. Morgen gegeben, und der Ertrag dieſes Stúks,
 verglichen mit dem Ertrag des ganzen Feldes, betrug von gleicher Fläche 81 pCt.
 
 --- Page 2 ---
-214
 
-Ein Freund, der im vorigen Jahre dieſen No>en mit mir tigte, gab mir den
+Ein Freund, der im vorigen Jahre dieſen Nocken mit mir tigte, gab mir den
 genialen Rath, dies Stig zu vergrößern — ein Rath te beſtia gen gedenke,
 niht weil ih glaube, daß der Erfolg gleih günſtig ſein wird, ſondern weil dies
 wichtige Aufſhlüſſe für die Wiſſenſcuft verſpriht. Denn ſicherlih würde ſi der
 Hien eines fern vom Holz liegenden Stús und auch der des ganzen
 Feldes viel niedriger ſtellen, wenn Dungerſaß wegfiele. 4
 
-Es muß alſo niht bloß in der phyſiſhen Beſchaf t des erwähnten A>er-
-ſtú>s, ſondern in deſſen Lage und Umgebung eine Urſache ſeiner wunderbar aus-
+Es muß alſo niht bloß in der phyſiſhen Beſchaf t des erwähnten Acker-
+ſtúcks, ſondern in deſſen Lage und Umgebung eine Urſache ſeiner wunderbar aus-
 tavernzen, Frndhtbarkeit legen cingeſhloſ hes
 
-ieſer A>er iſt jeyt faſt ganz von Holz loſſen, welhes nur
+ieſer Acker iſt jeyt faſt ganz von Holz loſſen, welhes nur
 Südweſten eine Oeffnung läſt. Die Lei rn Aer, beſonders von
 bedüngten Feldern aufſteigenden Gaſe werden dur dieſe Oeffnung dem erwähnten
 Aerſtú> zugeführt, durh das umgebende Holz aber am Entweichen gehindert,
@@ -90,33 +89,33 @@ und ſo iſ die untere Luftſchicht hier viel reiher an pflanzennährenden Gaſe
 auf dem freien Felde. Eine andere Erklärung dieſer faſt wunderbaren Erſcheinung
 e ih wenigſtens bis jeßt niht auffinden können.
 
-Soll uns hier nun die Chemie Aufſhluß geben, ſo muß niht bloß die A>er-
+Soll uns hier nun die Chemie Aufſhluß geben, ſo muß niht bloß die Acker-
 erde und der Untergrund, deren Analyſe Hr. Doctor Schulze zu Eldena gütigſt
-übernommen hat, ſondern auh die darüber {<webende Luftſchicht unterſucht werden.
+übernommen hat, ſondern auh die darüber {chwebende Luftſchicht unterſucht werden.
 
 Genanntes Aerſtú> hat außer einigen, im Jahr 1835 davon abgeſchnittenen
 Schreinſtellen einen lehmigen Sandboden , den man zum Gerſtenboden ter Claſſe
-rehnen fann, und hatte früher ſehr gutes aber do< fein ungewöhnlih ſtarkes
+rehnen fann, und hatte früher ſehr gutes aber doch fein ungewöhnlih ſtarkes
 Korn getragen. Da dieſes Stú> bereits von 3 Seiten von Holz umgeben war,
-und auh auf der Aten Seite von einem Streifen A>er, der nur zur beſamung
+und auh auf der Aten Seite von einem Streifen Acker, der nur zur beſamung
 tauglih war, begrenzt wurde: ſo faßte ih im Jahr 1827 den Entſchluß, daſſelbe
 ebenfalls mit Kiefern zu beſamen, es zuvor aber dur fortgeſezten Kornbau,
 ohne Dungerſaß, ſo weit auszubauen, daß es als Aer keinen Werth mehr habe.
 
-Dieſes Sti> war anfangs eirca 1100 Me>l. (IR. (9% Magdeburger
+Dieſes Stick war anfangs eirca 1100 Meckl. (IR. (9% Magdeburger
 Morgen) groß, und behielt, nahdem im Jahr 1835 der ſandigſte Theil davon
 abgeſchnitten war, noh eine Größe von cirea 950 (JR. (8 Magdeb. Morgen.)
 
-Der A>er war im Jahr 1815 gemergelt, im Jahr 1821 gemodert *, und
-hatte in dem Zeitraum von 1821 bis 27 wie der angrenzende A>er getragen:
-1ſte Brache gedüngt, 2te Ro>en, 3te Hafer, 4te Weide, 5te Weide, 6te Weide:
+Der Acker war im Jahr 1815 gemergelt, im Jahr 1821 gemodert *, und
+hatte in dem Zeitraum von 1821 bis 27 wie der angrenzende Acker getragen:
+1ſte Brache gedüngt, 2te Rocken, 3te Hafer, 4te Weide, 5te Weide, 6te Weide:
 
-* Anmerk. Es wurde aber niht bloß dieſes Stü>, ſondern zugleich au< angrenzender
+* Anmerk. Es wurde aber niht bloß dieſes Stück, ſondern zugleich auch angrenzender
 Aer von ähnlicher Beſchaffenheit mit ‘Moder beſeſeen, und hie hat, wie die Sheldelini zwiſchen
-gemodertem und ungemodertem A>er ergab, die Moder niemals eine bedeutende Wirkung gezeigt.
+gemodertem und ungemodertem Acker ergab, die Moder niemals eine bedeutende Wirkung gezeigt.
 
 Seit dem Jahr 1827 iſt dieſes
-Aerſtü> nun in “i Ordnung
+Aerſtück nun in “i Ordnung
 
 bewirthſchaftet :
 Im Jahr 1827. Drenſchbrache, ungedüngt
@@ -127,14 +126,13 @@ zeichnet —_
 u 31. Buchweizen desgl. —
 " 32. Hafer . . 7 —
 u 33. Brache, ungedüngt. . _— _—
-" 34. Ro>n 16 _
+" 34. Rockn 16 _
 
 --- Page 3 ---
-215
 
 Ertrag an Größe
 vierſpáännigen | des Stücks
-Fudern. | Me>l. (JR.
+Fudern. | Meckl. (JR.
 
 Im Jahr 1835. Erbſen, gegipſt . 19 950 OR.
 ” 36. Hafer .. 5
@@ -156,19 +154,19 @@ geh. M.
 - 41. Hafer .
 
 In den Jahren 1834, 40 und 41 wurde
-das Korn von dem hier betrachteten A>er-
+das Korn von dem hier betrachteten Acker-
 ftú> in abgeſonderte Räume gefahren, und
 fúr ih ausgedroſchen. Die Ernte [hnrug
-im Jahr 1834, an Ro>en . 8,23
+im Jahr 1834, an Rocken . 8,23
 
-Ww 40. an Ro>en . . 9,13
+Ww 40. an Rocken . . 9,13
 “ 41. an Hafer . . + 15,09
-Der Ausdruſ< pr. Fuder differirt alſo in
+Der Ausdruſch pr. Fuder differirt alſo in
 den Jahren 1834 und 40 nicht bedeutend
 von dem Durchſchnitts - Ausdruſch.
 
 Nimmt man fúr die Jahre, wo die Ernte Ausdruſh Ernte
-dieſes Aerſtú>s nicht für ſih ausgedroſchen pr. Fuder 4
+dieſes Aerſtúcks nicht für ſih ausgedroſchen pr. Fuder 4
 iſt, den Durchſchnitts - Ausdruſh pr. Fuder Schfl. : Schfl. :
 zum Maßſtab, ſo iſt der Kornertrag geweſen:
 
@@ -180,14 +178,13 @@ geh. M.
 n 36. an Hafer 5 à/2068 =| 10340
 geh. M.
 
-Anmerk. 7 Mefioitte Schil, ſind gleich 5 Berliner Schſl,; 118 Me>lb, [JR. find einem
+Anmerk. 7 Mefioitte Schil, ſind gleich 5 Berliner Schſl,; 118 Mecklb, [JR. find einem
 
 Magreb Morgen gleich.
 
 --- Page 4 ---
-216
 
-Verhältniß des Ertrags dieſes Aerſtú>s zum Ertrage des ganzen
+Verhältniß des Ertrags dieſes Aerſtúcks zum Ertrage des ganzen
 y as E Feldes pr. 100 OR. : y N
 Im Jahr 1832. Hafer 10,61 : 17,12 — 62 : 100
 N 34. Roten 8,55 : 10,63 — 80 : 100
@@ -197,17 +194,17 @@ fg 40. Roden 10,30 : 12,71 — 81 : 100
 
 Durchſchnitt dieſer 5 Ernten: 72 : 100
 
-Nachdem dies A>erſtú> zuvor 6 Kornſaaten nah der lezten im Jahr 1821
+Nachdem dies Ackerſtú> zuvor 6 Kornſaaten nah der lezten im Jahr 1821
 egebenen Düngung getragen hat, haben die dann folgenden 5 Kornſaaten im
-urdſ<hnitt no< einen Ertrag geliefert, der pr. 100 OR. gleih 72 Prct. vom
+urdſchnitt noch einen Ertrag geliefert, der pr. 100 OR. gleih 72 Prct. vom
 
 Ertrage des ganzen regelmäßig gedüngten Feldes iſt.
 
 aſt N n Beih aber iſ es, daß in dem lezten Umlauf keine Abnahme
 
-des Ertrags im Verglei mit dem vorhergehenden ſichtbar iſ, indem der Ro>en
+des Ertrags im Verglei mit dem vorhergehenden ſichtbar iſ, indem der Rocken
 im Jahr 1834 — rc, im Jahr 1840 aber 81 Prct. vom Ertrage des
-Ro>ens auf dem übrigen gedüngten Felde brachte.
+Rockens auf dem übrigen gedüngten Felde brachte.
 
 Beilage XV.
 
@@ -219,4 +216,4 @@ Erſte Sigzung.
 Am 2. Sept., Vormittags 11 Uhr.
 
 1. Jn Folge der Beſtimmung tes hohen Präſidiums der allgemeinen Ver-
-fammlung begaben ſich na< dem Schluſſe der erſten allgemeinen Sizung diejenigen
+fammlung begaben ſich nach dem Schluſſe der erſten allgemeinen Sizung diejenigen

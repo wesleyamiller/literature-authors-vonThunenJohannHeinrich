@@ -10,6 +10,7 @@ source: "M022 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band16_M022_pp638-672_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 16/2. 35pp extracted (42KB)."
 assembled: 2026-03-13T23:11:45Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
@@ -26,7 +27,7 @@ Zur Entſcheidung der Fragen :
 
 „ob für den gegenwärtigen Culturſtand Mecklen:
 burgs die Verwandlung unſerer Landſtraßen in
-Chauſſeen überhaupt zwe>mäßig ſey; und, in
+Chauſſeen überhaupt zweckmäßig ſey; und, in
 welchen Gegenden des Landes der Nuben, den
 die Chanſſeen gewähren, die Koſten der Anlegung
 und Unterhaltung derſelben überwiegt?‘
@@ -58,7 +59,6 @@ orns
 deren
 ufreë
 nter:
-nim
 ‘unſt:
 nach
 
@@ -125,32 +125,23 @@ der Chauſſeebau unterbleibt daun entweder ganz, oder
 ‘beſchränkt ſich doch auf die am mehrſten befahrnen
 Straßen in der Nähe der Handelsſtädte,
 
-E
 die 2
 die (
 gefl
 
-2
-der
 dopp
 gelde
-Gü
 beim
 aber
-Mds
 des d
 iſ ſe
 ſeege
 der 3
 berat
-2
 velde
 dieſet
 Vert
-um,
-auf
 
-E
 am |
 ſelbe
 
@@ -250,7 +241,6 @@ Land von der Kunſiſtraße hat, - Wo alſo die Zinſen
 von dem Anlagekapital und die Unterhaltungsfoſten
 
 --- Page 6 ---
-und
 
 tate
 , bei
@@ -261,19 +251,16 @@ clôt
 hlen
 rfeit
 
-des
 uſer
 egel:
 xv.
 Ulten
 wäh:
-hre
 nden
 ann.
 unct
 liſſe
 ur 2
-das
 nſen
 ſten
 
@@ -286,7 +273,7 @@ wenn der Vorſchlag des Herrn Pogge befolgt würde,
 auch auf minder befahrnen Straßen, wo die Koſten
 + oder #5 von dem Betrage des Vortheils hinweg-
 nehmen, noch Kunſiſtraßen angelegt werden, ja dieſe
-Eönnten ſich genau o weit erſtre>en, als durch ſie
+Eönnten ſich genau o weit erſtrecken, als durch ſie
 noc eine Verehrung des National: Einfommens
 bewirft wird,
 
@@ -309,7 +296,6 @@ mehr dieſe Anſicht, als ein Jdeal, ſtets vor Augen
 behalten, und auf ihre alimählige Verwirklichuns
 unguégeſe6t hinarbeiten,
 
-41%
 
 --- Page 7 ---
 644 un
@@ -344,7 +330,6 @@ Uebereinſtiminung zwiſchen dem Voransgeſebten und.
 dem Gefundenen gefangett,
 
 --- Page 8 ---
-und
 
 Vei eiter verpachteten Holläuderei werden 100 F Heu
 — nach einer ſpeciellen Berechnung — rein ge-
@@ -367,14 +352,14 @@ H, Hafer.
 
 Die Pferde befommett vom 25ſten März bis zum 7ten
 
-October, wenn ſie tro>enes Futter erhalten , pr.
+October, wenn ſie trockenes Futter erhalten , pr.
 
 Geſpann täglich 1 Schfl. 5 Meb. Hafer geh. Maaß.
 Vom 25ſten März bis Tten October ſind 196 Tage.
 Die grüne Kleefütterung dauert im Durch-
 
 ſchnitt ungefär 4M
-es bleiben für die tro>ne Fütterung 154 Tage,
+es bleiben für die trockne Fütterung 154 Tage,
 
 In dièſer Schwferigkeit liegt denn auch wohl ein
 Hauptgrund, warum über die Koſten der Arbeit, und
@@ -387,7 +372,6 @@ die Frandportkoſten des Hafers hier etwas zu geringe
 angenom. 2 A. d, Red.
 
 --- Page 9 ---
-646
 
 ehlufte Maaß
 154 Tage à 1Schfl. 5 Meb. macht 202Schfl. 2Me6.
@@ -549,19 +533,15 @@ von Johannis 1814 bis Johannis 1815...1111Pferde,
 Durchſchnitt W085PferdT
 
 Auf 1
-bet
-60;
 
 1. u!
 
 Ande
 
 denſell
-gel
 
 An de
 Die A
-Nu
 Zinſen
 Unter!
 
@@ -588,7 +568,7 @@ gelfaren
 An det Rademacher .
 
 Die Arbeiten des Baumeiers, incl. des
-Nubholzes, ſähe <zu... 86-—
+Nubholzes, ſähe chzu... 86-—
 Zinſen vom Werth der Wagen und Karren 13 = —
 
 Unterhaltung der Érndtebinder . 2-2
@@ -645,34 +625,27 @@ Dieſe 9E 41 3 nun auf 4} Geſpann Pferde ver:
 theilt’ geben für ein Geſpanm . . 2xE12ſ.
 Der Reſt der Koſten fällt auf die Ochſenhaken.
 
-9.
 An det
 Die A
 
-Nut
 Iinfen
 
-Zu
 
 im Ja
 
 11092.
 macher
-20€
 für ein
 
-Un
 zn grü
 Acferg
 für Th
 den Ji
 
-In
 der Pre
 jum T
 als jes
 
-Da
 tung d
 
 --- Page 16 ---
@@ -686,17 +659,13 @@ chſen,
 foſtet
 
 dies
-2,6
-5,2
 ben in
 ſpann
 à Ge:
 41 3.
 e ver:
 
-12.
 
-653
 d. Unterhaltungsfoſten der Eggen.
 An den Schmide im Durchſchnitt jährlich 7E 23
 Die Arbeiten des Baumeiers, incl. des
@@ -737,7 +706,7 @@ vermindert;
 
 Wir werden alſo, um den Koſtenbetrag für die
 jevigen Verhältniſſe zu finden, von den, für die
-Jahre 1810 bis 1820 berec<neten Koſten 10 pCt, ab:
+Jahre 1810 bis 1820 berecchneten Koſten 10 pCt, ab:
 ziehen müſſen.
 
 Y Betrag der Betrag der
@@ -771,25 +740,20 @@ daß in dieſen beiden Jahren die Zahl der Arbeitötage
 nigen
 mehr
 raum
-Fi
 einen
 böher,
 V
 nun,
 wieder
-D
 tat ei
 ohne v
 die be
 gefun
 anneh
 
-7.
 Der $
 
-Die
 tune
-Hül
 
 --- Page 18 ---
 h eine
@@ -804,20 +768,15 @@ n für
 chigen
 ileal
 
-zs
-27
 
 en der
 1 Ver:
-A
 e Zahl
-1814
 gefun:
 fäl.
 geben,
 côtage
 
-655
 ungewöhnlich groß geweſen iſt uid ungefähr 8 pCt.
 mehr betragen hat, als in Durchſchnitt für den Zeit-
 raum von 1810 bis 1820.
@@ -858,7 +817,7 @@ berechne ich für einen Knecht jährlich
 GUS OLHA SENER D
 Die Koſten für einen Knecht betragen alſo 70 xES—
 Außer den Arbeiten mit dem Geſpann
-verrichtet der Knecht no< ungefähr
+verrichtet der Knecht noch ungefähr
 45 Tage des Jahrs Nebenarbeiten,
 für welche 45 Tage, à 103, zu rech
 nen ſind . zi s 18
@@ -879,26 +838,20 @@ zuſehen, als wenn die 4231 Arbeits - Tage von
 ein Arbeitspferd kömmen alsdann 242 Arbeitstage.
 
 --- Page 20 ---
-18.
 
-2303
 
 id im
 
 Tage,
 Tage.
 nice
-In
 H die
 ſo an:
-von
-Auf
 tage,
 
 Koſten Am ganzen | Dies macht.
 eines Geſpanns Baupferde. | Wr: | cbeitótag
 
-x|
 1) An Futter... 11 | — /33,8
 2 AbhnbungderPferde, Arze-
 nei und Zinſen vom Werth
@@ -907,7 +860,6 @@ der Pferde + e 28
 H Abuußung des Geſchirrs u,
 Zinſen vom Werth deſſelben| 20 | 18
 5) Koſten des Kuechts = 30
-18
 
 6)a-Abnußzuitig undZinſen von
 den Neiſewagen - 21
@@ -920,7 +872,6 @@ Plúgen = + + - 1
 
 — 52
 — | 55
-2,1
 [m — ſus 31,2
 
 Summe der Koſten auf ein wales
@@ -976,7 +927,6 @@ wirkli
 angefi
 mit d
 
-F
 Somm
 heit a
 Erndt
@@ -990,7 +940,6 @@ als zu
 
 --- Page 22 ---
 erden
-tne
 
 hr iù
 
@@ -999,8 +948,6 @@ indé
 dutch:
 
 : des
-mit
-daß
 ofen
 ert.
 © ſind
@@ -1013,9 +960,7 @@ oobr.
 
 r. bis
 Tag.
-und
 i8zug
-das
 
 == 659
 
@@ -1028,7 +973,6 @@ Aten
 
 = Es fommen demnach“ an Arbeitstage:
 auf die ſte Peziode 4Wochen 34 Tage= 14 Tage,
-24
 Gj 2h AGE
 18W.u.1T.à87 wt
 
@@ -1051,7 +995,6 @@ die Pferde, obgleich ſie nur 32 Tage in der Woche
 arbeiten, doch an Kraft und Beleibtheit häufiger ab:
 als zunehmen, Wir dürfen alſo eine Wochenarbeit
 
-42"
 
 --- Page 23 ---
 660 —
@@ -1095,9 +1038,7 @@ aus d
 die Za
 ter lei
 
-Di
 
-W
 ter nic
 befom
 ſtande
@@ -1124,7 +1065,6 @@ iwei I
 ürzer,
 e ter
 
-Ih
 gleich
 
 ſtage,
@@ -1215,7 +1155,6 @@ H) Futter _ 1144/2 | 25 | 30
 
 5) Hufbeſchlag 1/0 4/8
 
-514
 
 4) Abnubung des Geſchirrs | 14
 T1610
@@ -1223,7 +1162,6 @@ T1610
 zur gu
 das C
 dasT
-5
 Wege
 fahre
 Wege
@@ -1248,9 +1186,7 @@ t ſind,
 5 nicht
 agen.
 ; dies
-241
 * Jahr
-eit
 
 Winter
 
@@ -1324,16 +1260,10 @@ Die Koſtet der Pferde an Futter, Abnugung der
 Pferde, Hufbeſchlag und Abnußung des Geſchirrs,
 
 die |
-8e
-hab
 bere
-Wi
-1A)
 
 tiad
-191
 
-für
 
 --- Page 28 ---
 u den
@@ -1426,16 +1356,12 @@ denen Jahrözeiten beizubehalten, und alſo die Ab:
 
 --- Page 30 ---
 : ein
-Win
 iefen
 n in
 mer.
-dem
-auf
 dent
 
 rund.
-zu
 
 nubung des Gefäths für einen Arbeitstag in den
 verſchiedenen Jahrözeiten gleich hoch anzunehmen.
@@ -1478,11 +1404,7 @@ in einzelnen | in Summe:
 
 | LZ
 
-34
 
-18
-97
-21
 
 --- Page 31 ---
 5) Jm Herbſt.
@@ -1522,18 +1444,14 @@ Geſpanns Pferde koſtet
 
 PIN OE
 
-41
 10,1
 
 11,8
 
-41
 10,1
 
-5,2
 
 --- Page 32 ---
-669
 
 B. Berechiung der Traneport ; Koſten
 des Korns.
@@ -1557,9 +1475,9 @@ Sack zu 61 Roſtocker Sheffeln gerechnet. — Jur
 Verlauf mehrerer Jahre wird man die Laduitg im
 Winter im Durchſchnitt zu 6 Sa Waizen antiehe
 men fönnen.
-Der Transport von 6 Sa> = 37x Scheffel
+Der Transport von 6 Sack = 37x Scheffel
 Waigen * koſtet demnach auf 5 Meilen 3 xS 24,1 ſk.
-*) Da’ der Roſto>er Scheffel $ Berliner enthält , fo ſind
+*) Da’ der Roſtocker Scheffel $ Berliner enthält , fo ſind
 
 371 Roſtocfer Scheffel = 214 Berliner Schéffel.
 A.-d, Red.
@@ -1585,7 +1503,7 @@ Transportkoſten noch folgende Unkoſten:
 
 H) Die Handels oder Verkaufstoſtén des Körns.
 Jun der Negel wird bei jeder Kornlieferung ein
-Wirthſchafter oder Statthalter mitgeſchic>t, um
+Wirthſchafter oder Statthalter mitgeſchicckt, um
 den Verkauf des Korns zu beſorgen, "Die da:
 durch hervorgebrachten Koſten ſehen wohl mit
 der Entfernung des Guts von der Handelsſtädt,
@@ -1595,21 +1513,15 @@ Güter abhängig: denn das fleinere Gut, welches
 nur zwei Wagen zum Kornverfahren auf Reiſen
 ſchicft, trägt in dieſer Beziehung faſt eben o
 viele Koſten, als das grßere Gut, welches
-e<s8 und mehrere Wagen auf Reiſen ſchickt.
+echs8 und mehrere Wagen auf Reiſen ſchickt.
 
-3)
 
-auf
 nebe!
-Kri
-Für
 
 nicht
 
-wor
 fann
 befäl
-als
 anzu
 dern
 die T
@@ -1617,10 +1529,7 @@ erlei
 bleib
 
 --- Page 34 ---
-(8.
 ſien
-ol
-2:
 nder
 chafte
 nigen
@@ -1631,7 +1540,6 @@ z des
 
 órns.
 g ein
-um
 e da:
 [ mit
 ſtadt,
@@ -1641,7 +1549,6 @@ ches
 teiſen
 n ſo
 lches
-ft.
 
 2) Das Einmeſſen ynd: Aufladen des Korns nebſt
 deit ‘übrigen Vorbereitungen zur ; Reiſe, Die
@@ -1701,12 +1608,9 @@ dieſer Verſchiedenheit die Koſten für eine gewiſſe
 Quantität Arbeit, z. B. einen Morgen Acker zu
 pflúgen, dennoch wenig ‘von einahder abweichen.
 
-aus
 gega
 wird
 
 vort
-Sib
-der
 ſend
 drei

@@ -10,6 +10,7 @@ source: "M028 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band19_M028_pp030-060_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 19/1. 31pp extracted from GDZ Band 19 (32KB)."
 assembled: 2026-03-13T23:11:45Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
@@ -18,7 +19,7 @@ assembled: 2026-03-13T23:11:45Z
 Den Ertrag aus dem vorigjähtigen Pferdè:Verkauf
 ſchäßten wir gleich dem des vorhergehenden Jahrs
 Ungefähr auf 20,000 F, in dieſem Jahre dürfte der:
-ſelbe ſich noc< Höher, vielleicht zu 25,000 und dar:
+ſelbe ſich nocch Höher, vielleicht zu 25,000 und dar:
 über annehmen laſſen.
 
 Indem wir ſchliéßlich dem gemeinnügigen Juſti-
@@ -35,7 +36,6 @@ Zierſtorf, im December 1833. 4
 
 5: I. €. Pogge.
 
-1.
 Bericht über die am 29f= Mai 1833 zu
 Güſtrow Statt gefundene Schafſchau.
 
@@ -47,15 +47,10 @@ von Schmidt,
 - + Domainenrath Sibeth,
 und dem Unterzeichneten.
 
-pat
 
 --- Page 2 ---
-e
-9
 
-n
 
-— 8
 
 Am Vormittag wurden, von den zur Bewerbung
 T am die Medaïlle und zu den Wetten geſtellten Böcken,
@@ -73,7 +68,7 @@ Am Nachikittag wurden die Böcke, unter ſteter
 
 folgenden Tagen fabrikmäßig gewaſchen wurden:
 Am 4ten Juni, wo die gewaſchenen Vließe völlig
-wieder abgetroc>net wareii, wurde das Vließ jedes
+wieder abgetroccknet wareii, wurde das Vließ jedes
 Bocks gewogen, Die Wiegung geſchah zu Glaſewitz
 in Gegenwart des Herrn Grafen Schlieffen' auf
 Schlieffenberg, des Herrn Pogge zu Striſenow,
@@ -127,10 +122,7 @@ gehörende Bock Nr. = 2u6, indem derſelbe auf alten
 drei Stellen 23 Grad Köhler, alſo ganz gleich mißt,
 
 --- Page 4 ---
-ie
-ie
 
-et
 
 Namen der Herrett Veſiger.
 
@@ -173,7 +165,6 @@ den größten Quotienten giebt, Oder mit andern
 Worten: auf denjenigen Bock, deſſen Vließ pr. 100
 Körpergewicht den höchſten Geldwerth hat, wenn
 
-nit
 
 der Preis der Wolle im umgekehrten Verhältniß
 dem Feinheitsgrade derſelben nach Köhler ſteht, ſo
@@ -182,7 +173,7 @@ gilt, der Preis der Wolle von 2 Gr. K. zu 1 # und
 von 4 Gr, zu 24 pr. T angenommen wird. Ge:
 wicht nicht unter 70 FT. L
 
-Zur Entſcheidung dieſer Wette muß bere<net
+Zur Entſcheidung dieſer Wette muß berechnet
 wetden :
 
 1) wie groß der Wollertrag jedes Bocks auf den
@@ -204,9 +195,6 @@ werth iſt, ſo ergiebt die Berechnung, zu welcher die
 Anlage A. alle erforderlichen Data enthält, folgende
 Reſultate:
 
-(
-E
-8
 
 --- Page 6 ---
 = 35
@@ -223,11 +211,10 @@ Glaſewiß
 Pogge:S
 
 . Thünen: Te
-low
 
 Durchſchnitt |—| 51254
 
-Siege r: der Bo des Herrn Engelbre< t:
+Siege r: der Bo des Herrn Engelbrech t:
 Glaſewis, gezeichnet Nr. [[]], welche bei 23 Grad
 Feinheit 2,2; S Wolle, und einen Vließwerth von
 8/75 xf pr. 100 S Körpergewicht hat.
@@ -248,7 +235,6 @@ ein Bock von der Diſhley Nace, Gewicht 164 S,
 
 tin Bock von der Texel Race, Gewicht 124 F.
 
-a.
 
 --- Page 7 ---
 36 —
@@ -287,7 +273,6 @@ Spinnwolle ?
 
 gewinne für Mecklenburg eine immer größere Wichtig-
 
-N
 
 --- Page 8 ---
 — 37
@@ -334,17 +319,13 @@ xe | x | | x@
 P 97 95 90
 2 100 100 100
 A (9/09
-E |
-(|
 
-|
 
 ol o | 08
 u | s |. |
-LEE
 
 Bemerkenswerth iſt es, daß die Wolle des Bocks
-Nr. 2, welche na< Anlage B. im Durchſchnitt
+Nr. 2, welche nach Anlage B. im Durchſchnitt
 34g Grad Köhler mißt, von ſämmtlichen Herren
 Wollhändlern hôher geſchäbt iſt als die Wolle des
 Bocks Nr. P, welche im Durchſchnitt nur 234 Gr. K.
@@ -362,10 +343,7 @@ Gewicht mie dem taxirten Werth der Wolle multipli
 irt, 0 ergiebt ſich folgende Tabelle;
 
 --- Page 10 ---
-“
-S
 
-=
 
 Die Herren Beſiger. SE
 
@@ -405,11 +383,6 @@ Pr, 100 | grad
 5 ſree'kote,
 
 i da eds
-i E
-2
-i A
-M L
-u
 | ES
 * H Durchſchnitt
 ¿Y Durchſchnire, wenn)
@@ -445,9 +418,7 @@ niß ift — und gilt dann Wolle von 8Gr, 1F pr. S,
 ſo iſt der Werth der Wolle
 
 von 244 Gr. Köhler =-„?,— > 1= 1,19Ÿ pr, S,
-=
 ven 32g - 3 > 1=0,888,f —
-IA
 
 Der Werth der Vließe ift dann
 aus Wette Nr. 1. 2,03 S Wolle à 1,19 f= 2,419
@@ -529,7 +500,6 @@ weitig mit demſelben anzuſtellenden Verſuchs wurde
 nur die eine Hälfte des Körpers geſchoren, und dieſe
 hat 264 Loth fabrikmäßig gewaſchene Wolle geliefert,
 
-w
 
 CELL EIONT,
 
@@ -542,7 +512,7 @@ Der Bock hat alſo auf ein Pfund Körpergewicht nur
 
 Hero Pogge hatte dieſen Bock anfangs ſehr
 fark füttern, dann aber auf bloßes Strohfutter ſeen
-laſſen. Die dadurch bezwe>te Abmagerung des
+laſſen. Die dadurch bezweckte Abmagerung des
 Thiers war aber nur ſehr unvollkommen erreicht, wie
 dies ſchon aus dem beträchtlichen Gewicht deſſelben
 hervorgeht.
@@ -565,7 +535,7 @@ Neumann: Lapiß.
 Die von dem Hetrn Grafen v. Schlieffen-
 Schwandt geſtellten Schafe waren aus Möglin ge-
 kauft, und dieſe Thiere zeichneten ſich, nach der Anſicht
-des Referenten, durch ſc<dne Stapelung, Kürze der
+des Referenten, durch ſcchdne Stapelung, Kürze der
 Wolle und dich tern Wollwuchs, neben bedeutender
 Feinheit / vortheilhaft aus.
 
@@ -633,7 +603,6 @@ nono {SNEE
 Ute Generation + + +: [20100
 EN | ex
 Bte ane AO _ 56x
-CNN
 iet 504538 |.
 
 Ge — RES
@@ -646,7 +615,7 @@ Wolthaars Statt findet.
 
 Das Verhältniß der Grundfläche der Wöllhaare
 
-beim Merinobo> von 60 Gr. und beim Landſchaf von
+beim Merinobock von 60 Gr. und beim Landſchaf von
 100 Gr. iſt wie 502 : 100° = 2500 : 10000 =1 : 4,
 
 Verhältnis | Dinde
@@ -655,19 +624,10 @@ Ve GeenntOn | LE
 |6r.Grav.
 ſte Generation
 
-2e
 
-dte
-Gte
 
-Gte
 
-2
-a
 Bte |
-_
-|
-E
 
 C. Wenn éîne Theilung des kubiſchen Jnhalts der
 Wolthaare Statt findet.
@@ -678,9 +638,6 @@ Durchmeſſer deſſelben abnimmt, oder daß die Länge
 zweier Haare mit dem Durchmeſſer derſelben im
 
 --- Page 18 ---
-e
-n
-5
 
 — 47
 directen Verhältniſſe ſtehe, verhält ſich der kubiſche
@@ -689,12 +646,10 @@ Inhalt des Wollhaars von 50 Grad zu dem von
 
 | Verhältniß Durch-
 | des fudiſchen Inhalts, | meſſe
-| R
 
 1ſteGeneration |1:
 2e —
 Se —
-M —
 Ge —
 
 Ge —
@@ -752,7 +707,6 @@ daß wir aus den einzelnen, als Spielart der Natur
 
 — nac uns unbekannten Geſeben — fallenden
 
-t
 
 Individuen, welche in der Feinheit der Wolle
 : ſowohl Vater als Mutter übertreffen, Stanink-
@@ -816,16 +770,13 @@ wiegt. — Herr Po gge wettet dagegen.
 
 Wette Ur. 3.
 um 2 L'or Einſas, X Reugeld, auf denjenigen Me-
-rinobo>, deſſen einjähriges ließ pr. 100 F Körper:
+rinobock, deſſen einjähriges ließ pr. 100 F Körper:
 gewicht den höchſten Geldwerth hat. Die Vlie
 werden fabrikmäßig gewaſchen, und der Werth der
 
 IRRER
 
-zu
-mè
 
-des
 
 --- Page 22 ---
 — 51
@@ -868,18 +819,16 @@ und neues Licht darüber verbreiten würde: ſo iſt es
 
 | zu wünſchen, daß ſich Concurrenten dazu finden
 
-ERE
 
 mögen.
 Um zu erfahrett, bis zu welchem Wollertrage die
-Merinobd>e zu bringen ſind, haben einige Mitglieder
+Merinobdcke zu bringen ſind, haben einige Mitglieder
 des patriotiſchen Vereins eine Prämie, unter nach-
 ſtehenden Bedingungen, ausgeſebt :
-“.
 
 --- Page 23 ---
 „Vrâmie von/60 F Gold
-„auf denjenigen Merinobo>, welcher in 365 Tagen
+„auf denjenigen Merinobock, welcher in 365 Tagen
 „mindeſtens fúnf Pfund fabrikmäßig gewaſchene
 „Wolle bringt, Der Sieger muß ſich zwei Jahre
 „iiach einander, 1834 und 1836, auf der Thierſchau
@@ -907,16 +856,11 @@ Wollhändlers Sch ulz aus Celle,
 Pogge: Strieſenow,
 Pogge- Zierſtorf-
 
-RRE
 
-R
 
 --- Page 24 ---
-n
 
-by
 
-|
 
 — 53
 
@@ -976,7 +920,6 @@ Zuſtande „100
 
 «IE Boll fait tt Lit 60 100
 
-75
 
 Da bei ber Werthbeſtimmung der Wolle die Länge
 derſelben eïn eben fo wichtiges Mömentt iſt, als die
@@ -994,10 +937,7 @@ Mitcheilung ihren Dank abzuſtatten.
 
 I. 6. v. Thünen.
 
-|
-|
 
-|
 
 v
 
@@ -1008,7 +948,6 @@ anni
 
 SALETTE
 
-— 5
 
 Herr Schulz hatte noch die Gefäligkeit , die
 vorgelegten Wollproben von den zu der Medaille und.
@@ -1030,7 +969,6 @@ die Wolle
 || matt.
 24 [Kammwolle,
 
-|
 
 ‘Kammwolle.
 
@@ -1043,24 +981,17 @@ Wolle.
 Kammwolle.
 \Kamihiwolle.
 
-|
 
-|
 
-241
-2
 
-ige
 rinhaits-
 Bead dee
 Wolle NE)
 mH Kiher|
 
-CA
 
 Grad | oll
 
-ei
 zeÏ Bots.
 
 Nr. 8.
@@ -1170,7 +1101,6 @@ haben: ſo würde es ſehr belehrend ſein, wenn an den
 Proben, wo Taxe und Feinheitsgrad am weiteſten
 
 --- Page 31 ---
-60
 
 von einander abweichen, Alles, was meſi, zähl! und
 wägbar iſt, noch weiter nterſücht würde.
@@ -1178,7 +1108,7 @@ wägbar iſt, noch weiter nterſücht würde.
 Nur ſchade, daß das Meſſen mit dem Grawert-
 ſchen Wolimeſſer ſo múhſam ift, und eine ſo große
 Uebung erfordert, wenn das Reſultat der Meſſung
-Vertrauen erwec>en ſoll, und daß weder mit dem
+Vertrauen erweccken ſoll, und daß weder mit dem
 Köhler ſchen noch Grawert ſchen Wollmeſſer die
 Enden der Wollhaare mit Zuverläſſigfeit gemeſſen
 werden fönnen, *)

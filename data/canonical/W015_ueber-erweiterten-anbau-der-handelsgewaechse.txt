@@ -10,6 +10,7 @@ source: "M020 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band10_M020_pp368-379_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 10/1. 12pp extracted (16KB)."
 assembled: 2026-03-13T23:11:45Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
@@ -46,36 +47,18 @@ preis unſers Getreides auf die Hälfe oder Zweidrittel
 
 ſeine
 Anbi
-der
-9
-Gew
-vom
 eine
 abha
-(
 dieſe
-den
 
-Kon
-(
-Vor
 feilh
-img
-von
 
-und
 
 ſche
-Sa
-fta
-wer
-ſo!
 lieg
 
-N
 
 --- Page 2 ---
-enn
 teele
 ittel
 
@@ -141,7 +124,7 @@ gleichgültig iſ, von welcher Bonität man den
 Saamen nimmt. Wenn ſ{ hier durch die Erfah:
 rung ſelbſt ſo große Verſchiedenheit ergeben, dürfen
 wir nicht hoffen durch fortgeſebte Beobachtungen
-auf Mittel zu kommen, wodur< wir einen Tabak
+auf Mittel zu kommen, wodurch wir einen Tabak
 erzielen, der allen hier bisher gebaueten weit über-
 tiiſſt, und dem Amerikaniſchen gleich oder wenig-
 ſiens nahe fômmt?
@@ -152,23 +135,17 @@ in Amerifa wahr und genau beſchrieben iſt? Eine
 ſehr erleichtern und fördern,
 
 --- Page 4 ---
-nes
 aſen
 
 jeder
-mal
 duk-
 1 aby
 eint,
 ; der
 iede-
-ba
-und
 eren
 nicht
-den
 rfahe
-fen
 ngen
 back
 Êber-
@@ -195,7 +172,7 @@ das Mergel der Reichthum ‘unſers Bodens ſehr
 zugenommen, und andern Theils bei fortdauernd
 niedrigen Kornpreiſen, der Kornbau nothwendig
 eingeſchränft werden muß, ſo fönnte der auf dieſe
-Weiſe verwendete Dung ſ< durch den höhern Preis
+Weiſe verwendete Dung ſch durch den höhern Preis
 des_ erzeugten Tabacks vielleicht reichlich bezahlen,
 
 2. Leinſfaamen.
@@ -204,14 +181,13 @@ Noch immer faufen wir Nigaſchen Leinſaamen,
 Können wir aber nicht den Leinſaamen von eben der
 Güte erzielen, wenn wir ihn eben fo behandeln wie
 die Nuſſen? deun das Klima fann im nördlichen
-Rußland ſ<{werlich günſtiger ſeyn als bei uns.
+Rußland ſch{werlich günſtiger ſeyn als bei uns.
 
 Hat es fich beſtätigt, daſ der Leinſamen, wen
 er im Backofen getrocknet wird, oder wênn er mit
 Kuhtniſt innig vermengt êin Jahr lang liegt, daun
 eine viel ſtárfere Ffachserndre liefert ?
 
-> E
 
 --- Page 5 ---
 men S086: n
@@ -249,29 +225,14 @@ Wir müſſen beides erlernen - und wir werden dann
 mit dem Ruſſiſchen Hanf Preis halten und iht: viel-
 Leicht ſelbſt von andern Märkten verdrängen können.
 
-wir
 
-daß
 ratl
-und
-ſr
 befi
 
-Kle
-gen
-und
-aus
-wir
-ins
 ſoll
-dad
-drá
 
-wed
-von
 erze
 
-wir
 ſept
 
 --- Page 6 ---
@@ -284,7 +245,7 @@ Der Hanf zeigt durch den Bau ſeiner Wurzeln,
 daß er tief in die Erde dringen muß, wenn er ge»
 rathen ſoll. Wir müſſen alſo den Boden rajolens
 und wir haben, wenn wir nur den Kornbau ein-
-ſ<ränfen, Dung genug um die tiefere Krume zu
+ſchränfen, Dung genug um die tiefere Krume zu
 befeuchten. o
 
 4. Kleeſaamen.
@@ -346,24 +307,17 @@ ofc großer Verluſi war die Folge davon, Durch
 
 --- Page 8 ---
 râth
-wie
-von
 inen
 lizue
-1er
 
-orm
 ndig
 elche
 vors
-Z
 irthe
 Die-
-ur
 nicht
 lâche
 figer
-ur<
 
 _— 815 —
 
@@ -383,7 +337,7 @@ alſo Menſchen anſtellen, die nur in der Erndte
 helfen und die in der übrigen Zeit des Sommers
 ſonſt Beſchäftigung und Verdienſt ſinden, und dazu
 bieten uns manche Handlsgewächſe (beſonders ſolche
-die häufig beha>t werden müſſen) „eine günſtige
+die häufig behackt werden müſſen) „eine günſtige
 Gelegenheit dar.
 
 Um die große Operation des Abmergelns- einer
@@ -405,7 +359,7 @@ finden, und ein unüberſehbares Elend, — wovon
 unvermeidliche Folge ſeyn.
 
 Es iſt wichtig ein drohendes: Uebel vorher zu
-Fennen, weil dann no< Vorbeugungsmittel möglich
+Fennen, weil dann noch Vorbeugungsmittel möglich
 ind, und dem Staate, wie jeder Privatperſon, liege
 die ſtrenge Verpflichtung 06, auf Mittel zu denken,
 wie der ſo plôglich geſtiegenen Population aucb in
@@ -425,36 +379,28 @@ höhten Reichthum unſerer Schulden und durch die
 Überflüffige Menge arbeitender Hände iſ nun zwar
 der Zeitpunkt, wo die Kultur der Handelsgewächſe
 für Mecklenburg möglich und vortheilhaft wird,
-entſchieden herbeigeführt; aber es läßt ſ< nicht
+entſchieden herbeigeführt; aber es läßt ſch nicht
 leugnen, daß durch die Unfenntuiß der beſſert
 Kulurmethode dieſer Gewächſe, und durch die
 
 --- Page 10 ---
 beit
-von
 "die
 
-zu
 lich
 iegt
 fen,
-vin
-den
 ident
 elche
-[zu
 Ente
 cini
-ung
 Bege
 
-ter
 
 ird,
 icht
 ſerit
 
-die
 
 UR: Li ANR
 
@@ -497,7 +443,7 @@ in Mecklenburg zu bewegen. Dann müßte man
 ihm aber durchaus einen guten Boden, in hoher
 Dungkraft und mit hinreichenden Wieſen verbunden,
 gebenz denn es läßt fi ſtrenge erweiſen / daß auf
-feble<tem und auf mage rm Boden die intenſiv
+feblechtem und auf mage rm Boden die intenſiv
 hohe Kultur nicht beſtehen kaun, und einen gerine
 gern Reinertrag liefert, als die arbeitſparende exe
 tenſive Wirthſchaf
@@ -548,7 +494,7 @@ iſt der aus dem ſelbſtgebaueten Leinſaamen erzeugte
 Flachs immer eben ſo gut gèweſen, als der aus dem
 friſch angefauſcen Rigaſcheu Saamen.
 
-Die Veranlaſſung zu dieſer Entde>ung war
+Die Veranlaſſung zu dieſer Entdeckung war
 folgende: Herr Domainenrath Pog ge überließ vor
 mehreren Jahrèn ſeinen Leuten Leinſaamen, der
 vou Rigaſchen abſtaumte, Jn Noggow, wo die

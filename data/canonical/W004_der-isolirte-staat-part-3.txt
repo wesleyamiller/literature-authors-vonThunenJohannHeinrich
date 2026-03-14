@@ -11,45 +11,34 @@ source_files: "thuenen_w004_e005_m005_1863_part3_bsb_tesseract-fraktur.txt"
 alternative_source: "M005 (1863 BSB Tesseract Fraktur)"
 notes: "Canonical uses per-work BSB Tesseract file (FT-3). Waentig 1910 (M007, FT-4) covers all parts but cannot be split per-work. Original: Waentig covers Part 3. BSB 1863 original has Tesseract Fraktur extraction (206KB)."
 assembled: 2026-03-13T23:11:44Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 3 ---
-©
 
 taut
 
-».
 
 -' Sis
-C7
-51
 
-dei
 
-di
 
 e 3 g
 ‘ "»
 
-- 4
-<A
 
 L
 
 Î m4
 
-Í Y
 
 GET.
 
-À
 
 --- Page 5 ---
 iſolirte Staat i
 
-auf
 
-A
 
 Landwirthſchaft und Nationalökonomie,
 
@@ -58,15 +47,12 @@ y ELA
 --- Page 6 ---
 C
 
-Der
 
 iſolirte aal
 
 in Beziehung
 
-As
 
-auf
 
 Landwirthſchaft und Nationalökonomie.
 
@@ -82,22 +68,18 @@ MALTE
 
 Grundſätze
 
-zur
 
 Beſtimmung der Bodenrente,
-der
 
 vortheilhafteſten Umtriebszeit und des Werths der
 Holzbeſtände von verſchiedenem Alter
 
-für
 
 Kieferwaldungen.
 Bayer. Staatsministerinm
 
 [. Ernüb * LaiCWi ‘zciaîi u, Forsten
 Miniaterialtorstabteilung
-Bücherei
 
 Johaun Yeinrich von tus Hhe
 auf Tellow in Mecklenburg. M
@@ -111,11 +93,9 @@ G. K. Leopold's Univerſitäts=- Buchhandlung
 UZS {62/23
 
 --- Page 9 ---
-FF
 
 : GB E LI
 
-2029
 
 $. 10.
 
@@ -127,12 +107,11 @@ Inhalt.
 
 Erſter Abſchnitt.
 
-»
 
 Holzertrag «- «cave ta EE EE EEE C E SEULE
 Holzwerth. ... «ea E C ECE EC TET
 Werthbeſtimmung der Kiefernbeſtände von gegebenem Alter
-Werthbere<hnung der Holzbeſtände bei verſchiedenen Um-
+Werthberechnung der Holzbeſtände bei verſchiedenen Um-
 tricbszeitent «aie CEE RE UT EE EEE LE LECT viari
 Die Rente des Waldbodens ..….. +++ ++ CF e Uitiae
 Aufgaben in Betref der Umtriebszeit ....... .…... ....
@@ -143,13 +122,8 @@ Niederwald oder Schlagholz. =. «eie errer ener
 Einfluß des Werthertrags der Durforſtungen auf die
 vortheilhafteſte Umtriebszeit und die Bodenrente.….... “e
 
-12
-17
 
-26
-29
 
-33
 
 --- Page 10 ---
 $. 11.
@@ -164,7 +138,6 @@ $. 16.
 $. 17.
 $. 13.
 
-Wl:
 Seite
 Die Durchforſtungsmethode des Herrn Oberförſters Nagel 35
 Bodenrente und Umtriebszeit, wenn in Beſamungsſchlägen
@@ -196,7 +169,6 @@ ein Drittel des Zuwachſes in den bleibenden Beſtand
 übergedt.,.. N e arie Date ele E En 00 eo e e ES 78
 
 --- Page 11 ---
-R,
 
 — ma E lt
 
@@ -216,7 +188,7 @@ $. 22. Welcher Theil des Holzbeſtandes wird in den verſchiede-
 nen Epochen vermittelſt der alle zehn Jahre wiederkehren-
 
 den Durhforſtung hinweggenommen.................. 108
-$. 23. Abweichungen der Reſultate dieſer Re<hnungen von der
+$. 23. Abweichungen der Reſultate dieſer Rechnungen von der
 
 Wirklichkeit. „eee eE een itie ie DLE 109
 $. 24 Vergleichung der Nente des Waldbodens mit der des
@@ -239,7 +211,6 @@ m ift #5 ul Zit. Whttoti7 VEN iA udite
 i LANE E I is it ECHT e. fi MarDe E
 
 i
-Á
 
 TL tu ERE +2 e: BO Ï & a. « i
 E SA *ZemWaannani: HA UNA ZN:
@@ -262,20 +233,17 @@ Bt OS A 4 FAN e
 
 ù LN tt 6
 M C A M »
-TE
 
 (4 Y,
 PETR 162 Mr
 
 28 « ‘ y “
 
-«n
 Pr A
 
 --- Page 13 ---
-Tm
 
-Erſter Abſc<hni{f.
+Erſter Abſcchni{f.
 
 $ 1.
 Holzertrag.
@@ -283,31 +251,30 @@ Holzertrag.
 Nach mehrfachen Beobachtungen lieferten Kiefern, die
 im Alter von 30 Jahren gefällt wurden, zu Tellow im
 Durchſchnitt 30 Fuder von 100 meklenburgſchen Quadrat-
-ruthen. Das Fuder rechne i< im Durchſchnitt incl. alles
-Zweigholzes zu 64 Lübe>er Kubikfuß.
+ruthen. Das Fuder rechne ich im Durchſchnitt incl. alles
+Zweigholzes zu 64 Lübecker Kubikfuß.
 Hierunter befinden ſih in der Regel:
 7 Fuder Nuzholz und
 23 Fuder Brennholz.
 Das Nugholz beſteht in Strohdachlatten und Koppel-
 rien.
 
-*) Die meklenburgſche Ruthe hält 16 Lübe>er Fuß à 129,, Pa-
-riſer Linien. Der Magdeburger Morgen iſ glei< 117,» meklenburgſche
+*) Die meklenburgſche Ruthe hält 16 Lübecker Fuß à 129,, Pa-
+riſer Linien. Der Magdeburger Morgen iſ gleich 117,» meklenburgſche
 Quadratruthen. (100 Lübecker Kubikfuß ſind = 79, Rheinländiſche
-Kubikfuß und 100 Rheinländiſche K -F. = 126,, Lübe>er Kubikfuß.)
-Der Holzertrag von 100 Lübe>er K.-F. auf 100 meklenburgſche (]°
-iſt glei<h dem Ertrage von 93,» Rheinl. K.-F. pr. Magdeb. Morgen
+Kubikfuß und 100 Rheinländiſche K -F. = 126,, Lübecker Kubikfuß.)
+Der Holzertrag von 100 Lübecker K.-F. auf 100 meklenburgſche (]°
+iſt gleich dem Ertrage von 93,» Rheinl. K.-F. pr. Magdeb. Morgen
 und umgekehrt der Ertrag von 100 Rheinl. K.-F. pr. Magdeb. Morgen
-glei<h dem von 107,5 Lübe>er K.-F. auf 100 mekl. (0°.
+gleich dem von 107,5 Lübecker K.-F. auf 100 mekl. (0°.
 
 l
 
 --- Page 14 ---
-2
 
 Das Fuder Brennholz enthält ungefähr einen halben
 Faden Knüppelholz und einen halben Faden dünnes Strauch-
-oder Zweigholz, den Faden zu 196 Lübe>er K.-F. Raum-
+oder Zweigholz, den Faden zu 196 Lübecker K.-F. Raum-
 gehalt gerechnet.
 
 Auf Grundlage der Anſichten und Ermittlungen des
@@ -319,7 +286,7 @@ welcher den einzelnen Bäumen ſtetig der Raum gegeben
 wird, bei welchem der Zuwachs des ganzen Waldes das
 Maximum erreicht, bleibt der Zuwachs des Beſtandes eines
 Kiefernwaldes vom 6. Jahre an ſih gleih und der Holz-
-beſtand wächſt demnah — jedo<h mit Aus\hluß des hohen
+beſtand wächſt demnah — jedoch mit Aus\hluß des hohen
 Alters — im arithmetiſchen Verhältniß. Die erſten 5 Jahre
 ſehe ih, mit dem H. Oberförſter Nagel, als zur Bildung
 des Pflanzenkörpers erforderlih an und ſeße den Holzbeſtand
@@ -335,16 +302,14 @@ Zuwachs = 76,8 K.-F. auf 100 (9,
 
 Die Fläche, welche erforderlich iſ, um einen jährlichen
 Zuwachs von 100 K.-F. zu liefern, nenne ih des kürzern
-Ausdru>s wegen einen „Waldmorgen“. Die Größe des
+Ausdrucks wegen einen „Waldmorgen“. Die Größe des
 Waldmorgens beträgt hier, wo 100 [9° 76,5 K.-F. liefern,
 
 100 LE 0
 76,5 X100/= 130/09.
 
 --- Page 15 ---
-3
 
-$ 2
 Holzwerth.
 
 Das Fuder Brennholz enthält:
@@ -363,7 +328,7 @@ Die 23 Fuder Brennholz haben mithin einen Werth
 von 23 x 38ßl. =. Oi Rae A18TA Gl
 
 Das Fuder Nutholz hat bei dem Preiſe von 4 $l.
-für ein Koppelri> und von 2 fl. für eine Stroh-
+für ein Koppelrick und von 2 fl. für eine Stroh-
 dachlatte den Werth von 2/2 Thlr. oder 120 ßl. ;
 dies (macht für 7: Fuder 1514 5 4% 840 fl.
 der Werth von 30 Fuder iſ = 1714 #l.
@@ -383,10 +348,9 @@ Rechnet man nun, daß von den 100jährigen Kiefern
 
 *) Wenn in dieſer Schrift von Thalern ohne weitern Beiſatz die
 Rede iſ, \o ſind darunter immer Thaler N?/z zu verſtehn, wovon 6
-glei< 7 Thlr. Pr. Crt. ſind. Der Thaler N? hat 48 Schilling.
+gleich 7 Thlr. Pr. Crt. ſind. Der Thaler N? hat 48 Schilling.
 
 --- Page 16 ---
-4
 
 holz verwandt wird, \o ergibt ſich folgender Durchſchnitts-
 
@@ -411,7 +375,7 @@ den Werth von 90 #$l.
 Wendet man nun den aus dem Werthunterſchied des
 30jährigen und 100jährigen Beſtandes gefundenen Saß, „daß
 mit jedem Jahr der Werth von 100 K.-F. um 3 ßl. N?/3
-ſteigt“, rü>wärts auf die jüngeren Beſtände an, ſo ergibt ſich
+ſteigt“, rückwärts auf die jüngeren Beſtände an, ſo ergibt ſich
 für 100 K.-F. der Werth
 
 des 29jährigen Holzes = 87 fl.
@@ -471,20 +435,18 @@ Durch Fortführung dieſer Rehnung läßt ſih die Summe
 des Werths aller Beſtände für jede Umtriebszeit finden.
 
 --- Page 18 ---
-6
 
 Es liegt uns aber daran, eine Formel darzuſtellen,
 durch welche wir dieſe Summe ohne die Berechnung aller
 Glieder der Reihe darſtellen können.
 
-Zu dieſem Zwe> betrachten wir näher die Ordnung,
+Zu dieſem Zweck betrachten wir näher die Ordnung,
 die ſich in der Zunahme des Werths der Holzſchläge zeigt.
 
 Alter der Holzbeſtände | Werih des | 4 Differenz
 
 Holzbeſtandes SBifered,
 6 Jahr
-Te
 eo :
 qe O
 10: /
@@ -514,7 +476,6 @@ TF - 24 12x2— 12 x
 Summa = x31- 9x2 8x.
 
 --- Page 19 ---
-7
 Probe: Es ſei x = 10, ſo iſ x? = 1000
 9x2 ={900
 8x ==; - 80
@@ -524,7 +485,7 @@ die Summe = 1980,
 
 $ 4.
 
-Werthbere<hnung der YHolzbeſtände bei verſchiedenen
+Werthberechnung der YHolzbeſtände bei verſchiedenen
 Umtriebszeiten,
 a. 21jähriger Umtrieb.
 Alsdann iſ x + 5 = 21, und x = 16.
@@ -554,7 +515,6 @@ Dies macht pr. Waldmorgen 611 $l. oder 12 Thlr. 35 fl,
 7 = “pr. [9 A,7o $l.
 
 --- Page 20 ---
-8
 
 c. 39jähriger Umtrieb.
 Alsdann iſ x = 35—5 = 30
@@ -603,13 +563,12 @@ ET E e M 2e (T1 5
 s. A9 > - 43 - 37 - 1. 164167-
 
 --- Page 21 ---
-;
 
 $ 9.
 Die Rente des Waldbodens.
 
 Wenn wir einerſeits von dem Ertrage der Durch-
-forſtungen, ſo wie der Nebennußzung dur<h Jagd 2c., und
+forſtungen, ſo wie der Nebennußzung durch Jagd 2c., und
 andrerſeits von den Aufſichtskoſten vorläufig abſtrahiren: ſo
 iſt die Bodenrente des Waldes gleich dem Werth des Abtrieb-
 ſhlages, nah Abzug der Zinſen vom Werth aller Holz-
@@ -644,7 +603,6 @@ hlages ZL e =. 708
 Latus 1008 fl.
 
 --- Page 22 ---
-10
 
 Transport 1008 fl.
 Der Werth des Holzbeſtandes iſt nach
@@ -691,7 +649,6 @@ In Abzug kommen 1674 fl. -
 An Rente bleibt für 35 Waldmorgen 1476 $l.
 
 --- Page 23 ---
-11
 
 Dies gibt Rente pr. Waldmorgen . . 42,2 $l.
 e e vr. 100 ec 02/0 fl.
@@ -725,7 +682,6 @@ Dies gibt pr. Waldmorgen 42,7 $1.
 - - pr. 100 (9 32,8 $l.
 
 --- Page 24 ---
-¿1
 
 Ueberſicht.
 A Zinſen | Beſa- Rente für
@@ -760,7 +716,7 @@ Verminderung der Rente zur Folge hat.
 Hieraus ergibt ſih hon, daß es einen Zeitpunkt geben
 muß, bei welhem das Maximum der Rente ſtattfindet.
 
-Dieſer Zeitpunkt läßt ſih zwar dur<h ein mühſames
+Dieſer Zeitpunkt läßt ſih zwar durch ein mühſames
 und langwieriges Probiren annähernd finden; aber wir
 erkennen damit nicht das Geſet ſelbſt, und die Darſtellung
 einer allgemeinen Formel, worin ſih dies Geſeß ausſpricht,
@@ -771,12 +727,9 @@ Durch die Verbindung der in dem Vorhergehenden
 aufgeſtellten Sätze läßt ſich aber eine ſolche allgemeine Formel
 darſtellen, wie der nachſtehende Kalkül zeigt.
 
-A,
 
 --- Page 25 ---
-Y
 
-13
 
 Der Abtriebs\{lag gewährt eine Einnahme von
 
@@ -803,7 +756,7 @@ Das Differential iſt:
 
 (X49) Vio X2 + 5,28 Xx + 14,65) dx
 — (— 0,04 x? 4 2,64 X2 + 14,68 x — 260) d x.
-Die Entwi>lung dieſer Formel gibt:
+Die Entwicklung dieſer Formel gibt:
 — 0,12 x3 + 5,28 X? + 14,65 x
 — 0,60 x? + 26,10 x + 73,40
 
@@ -815,7 +768,7 @@ Dies gibt:
 x3 — 25,5 x2 — 330 x — 4167 = 0.
 
 Um dieſe Gleichung löſen zu können, muß das zweite
-Glied weggeſchafft werden, und wir ſeßen zu dieſem Zwe>
+Glied weggeſchafft werden, und wir ſeßen zu dieſem Zweck
 X= y +8,. Alsdann iſt
 
 x3 — y? + 25,5 y? + 216,75 y + 614
@@ -829,7 +782,6 @@ Waldmorgen =
 Summe y® — 546,75 y — 8200 = 0,
 
 --- Page 26 ---
-14
 
 Nach der Cardanſchen Regel iſ für y? =fly + g
 3 VCG — 497; f — V(g— 427 f3
@@ -850,7 +802,6 @@ g + VCG! — 445 f5 — 8200-1: 6560 _
 g — Ve! — af 9 _ 8200— 6560
 2 — 2
 
-7380
 = 820
 FEN) — 7380 = 19,4
 
@@ -862,7 +813,7 @@ x=y +85 = 28,53 + 8,5 = 37,33.
 Das Alter des Abtriebſchlages gleih der Umtricbszeit
 iſt x + 5 Jahr.
 
-Es ergibt ſi<h alſo das Reſultat, daß bei dem ange-
+Es ergibt ſich alſo das Reſultat, daß bei dem ange-
 gebenen Preisverhältniß des Holzes von verſchiedenem Alter,
 wenn die Durchforſtungen feinen Werth hätten,
 das Maximum der Rente bei einer Umtriebszeit von
@@ -873,7 +824,6 @@ Aufgabe 2. Das Alter eines Holzſchlages zu be-
 die Zinſen vom Werth dieſes Holzſchlages det,
 
 --- Page 27 ---
-40
 
 Für das Alter des Schlages von x + 5 Jahr iſt der
 Werth des Holzſchlages = 3 (Xx+-5)x = Ix? 4-15 x.
@@ -919,7 +869,6 @@ dem (x + 5)‘ Schlag ergibt ſih die Rente
 = — O12 X24 5,4 x + 12.
 
 --- Page 28 ---
-16
 
 Das Differential dieſer Funktion gleih 0 geſetzt
 gibt (-——0,24xX +9, ) dx =0
@@ -961,13 +910,11 @@ e x =30 192 126,00 66,0
 e X= A7 294 293 2s 0,72
 
 Von dem auf dieſe Weiſe ermittelten Ueberſhuß müſſen
-aber no< die Beſamungskoſten abgezogen werden, um die
+aber noch die Beſamungskoſten abgezogen werden, um die
 Rente darzuſtellen.
 
 --- Page 29 ---
-|
 
-17
 
 Es fann der Zweifel entſtehen, ob das hier beobachtete
 Verfahren, von dem jedesmaligen Beſtande, alſo von dem
@@ -987,7 +934,7 @@ weil in den am Ende des Jahres ausgezahlten Zinſen ſchon
 Zinſen von Zinſen enthalten ſind.
 
 $ 7.
-Die Dur<forſtung.
+Die Durchforſtung.
 
 In Bezug auf die Durchforſtung bietet die Forſtwiſſen-
 ſchaft noh intereſſante Probleme dar.
@@ -1007,7 +954,6 @@ der Maasſtab für den Abſtand, den die einzelnen Stämme
 II
 
 --- Page 30 ---
-18
 
 unter ſich haben müſſen, wenn dieſes Maximum erlangt
 werden ſoll?
@@ -1052,7 +998,6 @@ an, vermittelſt welher die Frage über die vortheilhafteſte
 Umtriebszeit gelöſt werden kann. Denn wenn die Methode
 
 --- Page 31 ---
-19
 
 gefunden iſt, läßt ſich für jeden Fall, in welhem die —
 ohnehin für jede Lokalität verſchiedenen — Zahlen gegeben
@@ -1077,7 +1022,7 @@ in den bleibenden Beſtand übergehen, \o liefern die genannten
 5 Jahre überall kein Durchforſtungsholz. Sollen dagegen jähr-
 lich nur 75 K. F. in den bleibenden Beſtand übergehen, \o
 fallen von dem Zuwachs der 5 Jahre jährlih 25 K. F. und
-von dem Zuwachs der folgenden Jahre jährli<h 75 K. F.
+von dem Zuwachs der folgenden Jahre jährlich 75 K. F.
 der nächſten Durchforſtung anheim.
 
 3) Wenn, wie hier angenommen wird, vom 11. Jahr
@@ -1091,10 +1036,9 @@ hinweggenommen wird. Ebenſo verhält es ſich in jedem
 folgenden Jahr.
 
 Eine ſolche Lichtung wäre bei Kiefernbeſtänden, die nicht
-dur< Anpflanzung, ſondern dur<h Beſamung — bei welcher
+durch Anpflanzung, ſondern durch Beſamung — bei welcher
 
 --- Page 32 ---
-_W
 
 die Stämme in ungleicher Entfernung von einander zu ſtehen
 kommen — allerdings möglich; aber die Koſten der jähr-
@@ -1123,7 +1067,7 @@ Zur Antwort hierauf dient Folgendes:
 der gegenwärtige Kapitalwerth einer künftigen Einnahme,
 läßt ſih, wenn der Zinsfuß gegeben iſ, genau berechnen,
 alſo auh die Summe des Kapitalwerthes aller in einer
-Umtriebszeit periodiſ< erfolgenden Einnahmen. Auch ver-
+Umtriebszeit periodiſch erfolgenden Einnahmen. Auch ver-
 mag der Kalkül den Kapitalwerth einer nach einem beſtimmten
 Geſeß von Jahr zu Jahr wachſenden Rente darzuſtellen.
 Umgekehrt läßt ſich auh der Werth eines Kapitals in eine
@@ -1134,7 +1078,6 @@ welcher die Glieder dem Werth des bleibenden Holzbeſtandes
 proportional ſind, darſtellen.
 
 --- Page 33 ---
-21
 
 Ein anderer Einwand, der gegen die Darſtellung des
 Werths der Durchforſtungen durch eine regelmäßig ſteigende
@@ -1161,7 +1104,7 @@ die Abweichung zwiſchen dem Ergebniß der Praxis und
 unſerer Rechnung nicht erheblich ſein, und ih glaube deßhalb
 vorläufig davon abſtrahiren zu dürfen.
 
-Der nächſte Zwe> dieſer Unterſuchung iſt, zu erforſchen,
+Der nächſte Zweck dieſer Unterſuchung iſt, zu erforſchen,
 ob und in wie ferne die Umtriebszeit, bei welcher das Marimum
 der Bodenrente ſtatt findet, ſih ändert, wenn der Werth der
 Durchforſtungen mit in Anſchlag gebracht wird.
@@ -1176,7 +1119,6 @@ Dieſem gemäß lege ih hier folgende Annahmen zum
 Grunde,
 
 --- Page 34 ---
-22
 
 1) Von dem jährlichen Holzzuwachs wird vom 11. Jahr
 an, in jedem Jahr "/3 vermittelſt der Durhforſtung hinweg-
@@ -1191,11 +1133,11 @@ beträgt jährlih 50 K. F.
 iſt aus folgenden beiden Gründen geringer als der des
 bleibenden Beſtandes:
 
-a. In Hölzungen, welche dur<h Beſamung entſtanden
+a. In Hölzungen, welche durch Beſamung entſtanden
 ſind — die wir hier vorausſeßen — werden bei der Durch-
 forſtung die Stämme hinweggenommen, welche {hon über-
 wipfelt ſind, und außer dieſen auh die Stämme, welche
-vorausſichtli<h bis zur nächſten Durchforſtung überwipfelt
+vorausſichtlich bis zur nächſten Durchforſtung überwipfelt
 ſein werden. Dies trift aber faſt immer die {wächern
 Bäume, welche bei einem geringern Durchmeſſer auch einen
 geringern Werth pr. K.-F. haben.
@@ -1204,7 +1146,7 @@ h. Das Hauen, Ausziehen und Wegfahren des Durch-
 forſtungsholzes iſt viel zeitraubender und koſtſpieliger, als
 das Fällen und Abfahren des Holzes aus dem Abtriebs-
 ſchlage. Da wir aber immer nur den Werth vor Augen
-haben, den das Holz na< Abzug der Fällungs- und Be-
+haben, den das Holz nach Abzug der Fällungs- und Be-
 reitungsfoſten hat: ſo müßte ſhon aus dieſem Grunde das
 Durchforſtungsholz niedriger angeſchlagen werden.
 
@@ -1219,7 +1161,6 @@ pr. Waldmorgen 150 K.-F.; davon werden vermittelſt der
 Durchforſtung hinweggenommen 50 K.-F.
 
 --- Page 35 ---
-23
 
 Dieſe haben den Werth von 50 x 2% = 33/3 K.-F.
 des bleibenden Beſtandes.
@@ -1244,7 +1185,7 @@ tt 198 48 48
 414 > 378 66 228
 15> 450 72 300
 
-Ein flüchtiger Bli>k auf dieſe Tabelle zeigt ſogleich, daß
+Ein flüchtiger Blickk auf dieſe Tabelle zeigt ſogleich, daß
 die Summe der Werthzunahme ſtets um 150 geringer iſt
 als der Werth des Holzſchlages ſelbſt. Dies kann auch
 nicht anders ſein; denn der Werth des Beſtandes beſteht aus
@@ -1252,7 +1193,7 @@ der Summe des Werthzuwachſes aller Schläge vom 6. bis
 zum x +5“ Jahr, und da der Zuwachs vom 6. bis 11.
 Jahr, welcher 150 beträgt, hier wegfällt, weil in dieſen 5
 Jahren kein Durchforſtungsertrag ſtattfindet, wenn der Be-
-ſtand jährli<h um 100 K.-F. zunehmen ſoll, ſo muß auch
+ſtand jährlich um 100 K.-F. zunehmen ſoll, ſo muß auch
 die hier in Betracht kommende Summe um- 150 geringer
 ſein als der Werth des Beſtandes.
 
@@ -1262,13 +1203,12 @@ Der Werth des x + 5‘ Schlages iſt nah $ 4
 = 3x24 15x — 150.
 
 --- Page 36 ---
-24
 
 Der Werth aller Durchforſtungen beträgt "/3 dieſer
 Summe, alſo x? +4 5x — 50.
 Die Geſammteinnahme iſt alſo
 
-1) aus dem Abtriebsſ<hlag = 3x24 15x
+1) aus dem Abtriebsſchlag = 3x24 15x
 2) aus den Durhforſtungen = x2 5x— 50
 Summe =; 4x24 20x — 50
 
@@ -1283,7 +1223,6 @@ Dieſer Ueberſhuß dividirt mit der Zahl der Schläge
 gibt für einen Waldmorgen die Rente
 _ — 0,04 x3 + 3,64x? + 19,665 x — 310
 
-x 9
 Es ſei x = 30, ſo iſ Summe
 — 04x —=— —4 X 270 = — 1080
 3e 9x 364 = + 3276
@@ -1305,14 +1244,13 @@ Für x = 40 iſt
 6611|— 2870|= 3741
 
 --- Page 37 ---
-29
 
 Dividirt mit 45 ergibt Rente
 pr. Waldmorgen . . . 83, $l.
 
 pr. 100 D° 63,9 $l.
 Für x = 50 iſt
-00x =-4>x 1250 = — 5000
+00x =-4ckx 1250 = — 5000
 Zea x? = ;25. >. 364 9100
 19,8 x=" 0: 196,s,= 984/ :
 — 310 — 310
@@ -1346,16 +1284,15 @@ der Rente bei einer Umtriebszeit, die zwiſchen 54 und 55 Jahr
 fällt, ſtattfindet.
 
 --- Page 38 ---
-26
 
 Dieſe Rente bildet aber noh nicht die wirkliche Boden-
-rente. Denn es muß derſelben no< der Ertrag der Neben-
+rente. Denn es muß derſelben noch der Ertrag der Neben-
 nußungen aus der Jagd, der Weide 2c. hinzugefügt werden
 und dagegen müſſen die Aufſichts- und Adminiſtrationskoſten,
 die der Waldbau erfordert, in Abzug gebracht werden, um
 die Bodenrente ſelbſt darzuſtellen. Die Aufſichts- und Ad-
 miniſtrationsfoſten ſind nah der Größe des Waldes und der
-Lage deſſelben, wodur< er der Holzentwendung mehr oder
+Lage deſſelben, wodurch er der Holzentwendung mehr oder
 minder ausgeſeßt iſt, gar ſehr verſchieden. Hier nehme
 ih dieſelben nah Abrechnung der geringfügigen Neben-
 nußungen zu 8 ßl. pr. Waldmorgen oder 6,2 ßl. für
@@ -1367,7 +1304,7 @@ Die Waldrente.
 Wie wir beim Landbau Gutsrente und Landrente unter-
 ſcheiden, indem erſtere das gemeinſchaftliche Produkt von
 Kapital und Boden bildet, legtere aber aus dem Theil der
-Gutsrente beſteht, welher na< Abzug der Zinſen des auf
+Gutsrente beſteht, welher nach Abzug der Zinſen des auf
 die Errichtung von Gebäuden 2c. verwandten Kapitals übrig
 bleibt, ſo können wir auh beim Waldbau den Ertrag vom
 Boden und von dem im Holzbeſtande enthaltenen Kapital
@@ -1380,7 +1317,6 @@ DieEinnahme aus d. Abtriebs\chlage beträgt 3x?—4-15x
 Einnahme 4x?4-20x— 50
 
 --- Page 39 ---
-27
 
 Die Ausgaben betragen:
 
@@ -1403,7 +1339,6 @@ Axt 4 > 16006400
 12x = 12240 2% E A80
 — 1300. R o 350
 
-6530
 
 Dividirt mit 45 gibt für 1 Waldmorgen 145,1 #l.
 
@@ -1426,11 +1361,10 @@ Waldrente für 65 Morgen 14770
 Dies gibt für den Waldmorgen 227,2 ß$l.
 
 --- Page 40 ---
-28
 
 Vergleichung zwiſchen der Waldrente und der Bodenrente.
 
-Die Bodenrente ergibt ſi<h aus $ 5, wenn man von
+Die Bodenrente ergibt ſich aus $ 5, wenn man von
 der dort gefundenen Rente 8 ßl. pr. Waldmorgen für Ad-
 miniſtrationskoſten abzieht.
 
@@ -1452,13 +1386,13 @@ dem Umtrieb von 55 Jahren ihr Maximum erreicht.
 Bei der Umtriebszeit, welche die höchſte Bodenrente
 gewährt, gibt der Waldmorgen 78,s ßl. Dies macht pr.
 100 0° 60,6 $l. und für das mefklenburgiſche Flächenmaas
-von einèr Laſt A>er = 6000 00% (ca. 50 Magdeburger
+von einèr Laſt Acker = 6000 00% (ca. 50 Magdeburger
 Morgen) 75,7 Th. N%. Es folgt hieraus, daß für ein
 Verhältniß, wo die angenommenen Poſitionen über Holzertrag
 und Holzpreis zutreffend ſind, derjenige Boden, welcher durch
-den A>erbau weniger als 56,5 Thlr. N°/3 an Landrente
-(niht zu verwechſeln mit Pacht) liefert, dur<h den Anbau
-mit Kiefern höher als dur< den A>erbau genußt wird.
+den Ackerbau weniger als 56,5 Thlr. N°/3 an Landrente
+(niht zu verwechſeln mit Pacht) liefert, durch den Anbau
+mit Kiefern höher als durch den Ackerbau genußt wird.
 
 Für den größern Landwirth iſt die Frage, wo die na-
 türliche Grenze zwiſchen Holzboden und Getreideboden iſt,
@@ -1468,15 +1402,14 @@ nach der verſchiedenen Lokalität höchſt verſchieden und können
 ſhon auf zwei an einander grenzenden Gütern abweichend
 
 --- Page 41 ---
-29
 
 von einander ſein. Aber die Methode, wie die Rechnung
 zu führen iſt, findet eine allgemeine Anwendbarkeit.
 
-Die natürliche Grenze zwiſchen Holzland und A>erland
+Die natürliche Grenze zwiſchen Holzland und Ackerland
 wird aber weſentlih geändert, wenn die Erzeugung von
-Brennholz Hauptzwe> der Holzkultur wird, weshalb wir auf
-ein ſolches Verhältniß no< einen Bli>k werfen müſſen.
+Brennholz Hauptzweck der Holzkultur wird, weshalb wir auf
+ein ſolches Verhältniß noch einen Blickk werfen müſſen.
 
 PACELLI CELLE
 
@@ -1495,7 +1428,7 @@ Stärke — alſo mit dem Alter — der Stämme in
 einem viel geringern Verhältniß zu, als beim Bau-
 holz, und
 
-2) wird beim höhern Alter der Sto>kaus\hlag unſicher
+2) wird beim höhern Alter der Stockkaus\hlag unſicher
 und mangelhaft.
 
 Aus dieſen Gründen wird hier gewöhnlich ein 20jäh-
@@ -1512,7 +1445,6 @@ beſtandenes Bruchholz beim Abtrieb durchſchnittlich
 und 1 vierſpänniges Fuder Nugholz.
 
 --- Page 42 ---
-30
 
 Dieſe geben:
 6'/% Faden Kluft- und Knüppelholz à
@@ -1554,14 +1486,13 @@ die niht wieder ausgeſchlagen ſind, auf 6000 []°
 
 jüngern Beſtänden, um den jungen
 
-Aus\chlag gegen Unterdrü>kung zu
+Aus\chlag gegen Unterdrückkung zu
 
 \hüpen;, caz 21948 odie E Thlr.
 
 Latus 5 Thlr.
 
 --- Page 43 ---
-31
 
 Transport 5 Thlr.
 3) die Adminiſtrations- und Aufſichts-
@@ -1572,7 +1503,7 @@ Nach Abzug derſelben ergibt ſich für 6000 [1°
 eine Waldrente n „27 Thlr. 9 $l.
 
 Die Bodenrente ergibt ſih, wenn man von der Wald-
-rente die Zinſen des in den Holzbeſtänden ſte>enden Kapi-
+rente die Zinſen des in den Holzbeſtänden ſteckenden Kapi-
 tals abzieht.
 
 Für 100 00° beträgt der Holzbeſtand des Abtriebſchlages
@@ -1604,7 +1535,6 @@ der als Aer, Wieſe oder Weide nur einigen Werth hat,
 ausgerodet werden.
 
 --- Page 44 ---
-32
 
 Mit dem Moment aber, in welchem der Holzbedarf
 niht mehr auf dem Gut erzeugt wird, ſondern angekauft
@@ -1624,9 +1554,9 @@ Dadurch aber kann der durch die Anſchaffungskoſten
 bedingte Preis des Holzes auf dem Gute ſelbſt auf das
 zweiz, ſelbſt dreifache des frühern Verkaufspreiſes ſteigen.
 
-Aus dieſer Rü>ſicht kann es zwe>mäßig ſein — wenn
-der Bedarf an Brennholz nicht dur< das Abfallholz aus
-dem Hochwald gede>t wird — Bruchholz auf Boden zu
+Aus dieſer Rückſicht kann es zweckmäßig ſein — wenn
+der Bedarf an Brennholz nicht durch das Abfallholz aus
+dem Hochwald gedeckt wird — Bruchholz auf Boden zu
 erzielen, der, als Wieſe oder Weide benußt, pr. 6000 (]°
 eine Landrente von 40 Thlr. und darüber abwirft.
 
@@ -1638,14 +1568,13 @@ Da aber alle Gutsbeſißer ein gleiches Jntereſſe haben,
 ihr überflüſſiges Brennholz auszuroden, ſo muß in der
 Folge nothwendig Mangel an Brennholz entſtehen, und der
 Widerſpruch zwiſchen dem Produktionspreis — in welchem
-die Rente, die der Waldboden als A>er oder Wieſe geben
+die Rente, die der Waldboden als Acker oder Wieſe geben
 fönnte, mit enthalten iſt — und dem Verkaufspreis kann
-nur ſo lange beſtehen, als no< Reſte von Urwäldern vor-
+nur ſo lange beſtehen, als noch Reſte von Urwäldern vor-
 handen ſind, die niht von der Hand des Menſchen, ſondern
 ohne Zuthun deſſelben von der Natur ſelbſt angelegt ſind.
 
 --- Page 45 ---
-33
 
 $ 10.
 
@@ -1673,10 +1602,10 @@ der Forderung, daß der jährlihe Werthzuwachs das Mari-
 mum erreiche, niht Genüge geleiſtet werden kann — aber
 wir haben von dem Werthertrage derſelben abſtrahirt; oder
 mit andern Worten: wir haben angenommen, daß der Ertrag
-aus den Durchforſtungen dur<h die Fällungs- und Be-
+aus den Durchforſtungen durch die Fällungs- und Be-
 reitungsfoſten des gewonnenen Holzes abſorbirt worden.
 
-Die weitere Unterſu<hung haben wir dann auf die
+Die weitere Unterſuchung haben wir dann auf die
 Vorausſezung gebaut, daß die Durchforſtungen einen reinen
 Ertrag abwerfen und haben für dieſen Reinertrag Zahlen
 angenommen, die in manchen Fällen der Wirklichkeit nahe
@@ -1685,17 +1614,15 @@ fommen mögen. |
 Die Vergleichung der Reſultate bei den Rechnungen
 liefert nun einen Beitrag zur Beantwortung obiger Frage.
 
-[II
 
 --- Page 46 ---
-34
 
 a. Wenn die Durchforſtungen keinen Reinertrag
 abwerfen,
 
 ſo iſt nach $ 5. die vortheilhafteſte Umtriebszeit = 42 Jahr.
 
-Die Bodenrente iſ dann na< $ 5 für den Wald-
+Die Bodenrente iſ dann nach $ 5 für den Wald-
 morgen 44,5 $l. minus 8 $l. für die Adminiſtrationsfkoſten
 =-36,5 $l.
 
@@ -1724,18 +1651,17 @@ Wenn aber alle Waldbeſizer einer ganzen Gegend ihr
 eigenes Jntereſſe erkennend keinen längern Umtrieb geſtatten,
 ſo fällt die Erzielung von ſtarkem Bauholz ganz weg. Da
 aber das ſtarke Bauholz durchaus nicht entbehrt werden kann,
-ſo muß die Erzeugung deſſelben dur<h Erhöhung des Preiſes
+ſo muß die Erzeugung deſſelben durch Erhöhung des Preiſes
 hervorgerufen und vortheilhaft gemacht werden.
 
 Es ſcheint demnach, als wenn der Holzpreis pr. K. F.
 in einem noh weit ſtärkern Verhältniß mit dem Alter der
 Bäume ſteigen muß, als wir angenommen haben, wenn die
-Produktionskoſten des ſtarken Bauholzes gede>t werden ſollen.
+Produktionskoſten des ſtarken Bauholzes gedeckt werden ſollen.
 
 --- Page 47 ---
-35
 
-Wir ſind indeſſen dur< unſere Unterſuchung zu der
+Wir ſind indeſſen durch unſere Unterſuchung zu der
 Kenntniß gelangt, daß, wenn der Werth der Durchforſtungen
 von Null bis "/3 des Werthzuwachſes des bleibenden Be-
 ſtandes ſteigt, die Umtriebszeit ohne eine Steigerung der
@@ -1773,7 +1699,6 @@ mündliche Erläuterungen und Mittheilungen des Hrn. Ver-
 ; *) Inzwiſchen geſtorben. A. d. H.
 
 --- Page 48 ---
-36
 
 faſſers über ſeine Durchforſtungsmethode erfahren habe,
 theile ih hier um ſo lieber mit, da bei dem hohen Alter
@@ -1785,14 +1710,12 @@ Principien und Poſitionen:
 
 1) Es wird der Berechnung ein Kiefernwald zum Grunde
 
-gelegt, der niht dur<h Beſamung, ſondern durch
+gelegt, der niht durch Beſamung, ſondern durch
 Pflanzung in geraden Reihen entſtanden iſt.
 
 2) Bei der 1. Durc(hforſtung, welhe im Alter der
 
-9)
 
-EI
 
 Kiefern von 15 Jahr vorgenommen wird, nimmt
 man eine Reihe Bäume um die andere weg. Bei
@@ -1811,23 +1734,18 @@ die 3. Durchforſtung im Alter von 30 Jahr
 
 - 4. - - - e142 1e
 
-_ O
 BP 1 - - - #700: Z
 *5:.6 - - - e128 ire
 
-“Mw
-A
 
 und der Abtrieb - 120 -
 
-©
 Der Holzzuwachs iſt bei dieſer Durchforſtungsmethode
 in den jüngern und ältern Beſtänden gleich groß,
 und der Holzbeſtand wächſt in arithmetiſcher Pro-
 greſſion. Für die erſte Ausbildung der Pflanzen
 
 --- Page 49 ---
-37
 
 wird jedoch eine Zahl von Jahren, verſchieden nah
 der Verſchiedenheit des Bodens, als keinen Zuwachs
@@ -1852,7 +1770,7 @@ zuwachſes vermittelſt der Durchforſtung hinweggenommen,
 alſo 75 ſtatt 50 K.-F., und der bleibende Beſtand vergrößert
 ſih jährlih niht um 100, ſondern um 75 K.-F.
 
-Da hier nicht die {wächern, der Unterdrü>kung aus-
+Da hier nicht die {wächern, der Unterdrückkung aus-
 geſezten Stämme hinweggenommen werden, ſondern der
 Plat, den die Stämme einnehmen, die Auswahl bedingt, ſo
 muß das Durchforſtungsholz gleichen Verkaufspreis mit dem
@@ -1866,11 +1784,10 @@ forſtungsholz nicht blos gleichen Verkaufspreis, ſondern auch
 gleichen Werth pr. K.-F. mit dem ſtehenbleibenden
 Holz hat.
 
-Dieſen Beſtimmungen zu Folge ergibt ſi<h für die
+Dieſen Beſtimmungen zu Folge ergibt ſich für die
 Rente nachſtehende allgemeine Formel:
 
 --- Page 50 ---
-38
 
 Für das Alter des Schlages von x +4- 5 Jahr iſ der
 
@@ -1881,12 +1798,11 @@ Dies gibt für 15x KF... + «+ "Wx e 11,25 x.
 Die Durchforſtungen liefern denſelben Werth wie der
 Abtriebs\hlag, nur mit dem Unterſchied, daß für die Schläge
 vom 6. bis 10. Jahr incl., wie in $ 7 kein Dur(hforſtungs-
-Werth in Rechnung gebracht, und folgli<h vom Werth des
+Werth in Rechnung gebracht, und folglich vom Werth des
 Abtriebſchlages in Abzug gebracht werden muß.
 
 Dieſer Abzug beträgt hier
 
-75
 150 >< 100 = 125.
 Der Werth aller Durchforſtungen iſ demnach
 2,25 x2 + 11,25x — 112,5. *.
@@ -1911,7 +1827,7 @@ betragen alſo
 
 Beſamungskoſten gleih annehmen, zu 260. Nach Abzug
 
-*) Hier findet ein JIrthum ſtatt, den i< erſt ſpäter erkannt
+*) Hier findet ein JIrthum ſtatt, den ich erſt ſpäter erkannt
 habe und der deßhalb in den folgenden $ mit übergegangen iſt; die
 genauere wie im $ 21 geführte Rechnung ergibt nämlich den Durh-
 forſtungsertrag = 2,25 X? + 11,25 x — 75. Die hieraus entſpringende
@@ -1919,7 +1835,6 @@ Abweichung iſ aber unerbeblih, und erreiht in den nacſtehenden
 Berechnungen nirgend einen Schilling pr. Waldmorgen.
 
 --- Page 51 ---
-39
 
 dieſer beiden Ausgaben bleibt die Rente für x ++ 5 Wald-
 
@@ -1965,7 +1880,6 @@ dann vielleicht erſt im 30. Jahr mit Vortheil unternommen
 werden.
 
 --- Page 52 ---
-40
 
 2) Da bei dieſer Methode die Epochen der Durchforſtungen
 im ſpätern Alter der Schläge ſo weit auseinander fallen,
@@ -1978,16 +1892,16 @@ Berechnung angenommen iſ — liefern zu können.
 3) Wird zur Wahrung des regelmäßigen Standes der
 Bâume bei der Durchforſtung nur auf den Plat geſehen,
 den der Baum einnimmt, \o müſſen manche krüppelhafte
-oder ſchle<t gewa<hſene Bäume ſtehen bleiben, und beim
+oder ſchlecht gewachſene Bäume ſtehen bleiben, und beim
 Abtrieb wird ſich dann mehr Brennholz und weniger Bau-
 holz finden, als wir in der Berechnung angenommen haben.
 
-Um wie viel durch dieſe Umſtände die bere<hnete Boden-
+Um wie viel durch dieſe Umſtände die berechnete Boden-
 rente vermindert wird, vermag ih auh niht annähernd
 anzugeben.
 
 Unſtreitig aber hat der Umſtand, daß hier das im Holz-
-beſtand ſte>ende Kapital, und alſo auh die davon zu be-
+beſtand ſteckende Kapital, und alſo auh die davon zu be-
 rechnenden Zinſen um "/4 geringer ſind, als bei der erſten
 Durchforſtungsmethode ($ 7) einen ſehr bedeutenden Antheil
 an der höhern Bodenrente, die ſich für die Nagelſche Methode
@@ -2000,14 +1914,11 @@ müſſen wir das Princip, vermittelſt der Durchforſtungen den
 halben Zuwachs hinwegzunehmen, auch auf Beſamungsſchläge
 anwenden.
 
-A
 
-N E
 
 --- Page 53 ---
 i E mmi R
 
-41
 
 $ 12.
 
@@ -2047,7 +1958,6 @@ Der Werth der Durcforſtungen beträgt demnach
 % ,25 x2 + 11,25 x — 112'/2)
 
 --- Page 54 ---
-42
 
 alſo 0,75 82+ 3,15 x — 37% weniger als bei der
 Nagelſchen Methode.
@@ -2086,7 +1996,6 @@ für den Umtrieb von 55 Jahr... 173,4
 T5 i «X 3250 0:
 
 --- Page 55 ---
-43
 
 Verhältniß zwiſchen Waldrente und Bodenrente.
 
@@ -2122,7 +2031,6 @@ Hiervon nimmt die Durchforſtung 5 X 50 = 250 K. F.
 hinweg; alſo "/5 des Beſtandes.
 
 --- Page 56 ---
-44
 
 Der bleibende Beſtand iſt... = 1000 K. F.
 Hierzu der Zuwachs in 10 Jahren. = 1500 - -
@@ -2172,7 +2080,6 @@ die 3. Durchforſtung im Alter von 35 Jahr "/4 des Beſtandes,
 ST; - e 6 TeD Ge z
 
 --- Page 57 ---
-45
 
 2. Jn Beziehung auf die Waldrente.
 Die Waldrente beträgt pr. Waldmorgen:
@@ -2215,18 +2122,17 @@ daß ein großes Kapital mehr Zinſen bringt als ein kleines!
 
 Denn bei dem längern Umtrieb geht der bei weitem
 größte Theil der Waldrente aus den Zinſen des im Holz-
-beſtand ſte>enden Kapitals hervor.
+beſtand ſteckenden Kapitals hervor.
 
 Für A betragen ($ 7) die Zinſen vom Werth aller
 Holzbeſtände 0,04 x? + 0,36 x? + 0,32 x.
 
 --- Page 58 ---
-46
 
 Für x = 100 und den Umtrieb von 105 Jahr gibt
 dies pr. Waldmorgen an Zinſen 415,5.
 
-Die Zinſen des im Holzbeſtand ſte>enden Kapitals
+Die Zinſen des im Holzbeſtand ſteckenden Kapitals
 überſteigen hier alſo die ganze Waldrente, \o beträchtlich
 dieſe auh iſ — und der Waldbeſizer würde, wenn er alles
 Holz fällte, das dafür gelöſte Kapital auf Zinſen legte,
@@ -2258,11 +2164,10 @@ rente der Methode B iſt dagegen 97, ßl. pr. Waldmorgen
 A und B iſt wie 78,8 : 97,1 = 100 : 123; oder B gibt
 23 pCt. mehr Bodenrente als A.
 
-Der Methode B kommt aber no< ein anderer, hier
+Der Methode B kommt aber noch ein anderer, hier
 noh nicht in Betracht gezogener Umſtand zu gut. Bei
 
 --- Page 59 ---
-AT
 
 der größern Lichtſtellung der Bäume wird nämlich der Zu-
 wachs der einzelnen Stämme größer, wenn auh der Ge-
@@ -2276,8 +2181,8 @@ der Durchmeſſer derſelben zum Maasſtab für den Werth
 des Holzes pr. K. F. genommen werden.
 
 Geſetzt es fände ſich, daß bei der Methode A der Durch-
-meſſer der einzelnen Bäume jährli<h um "/6 Zoll, bei B
-aber jährli<h um "/5 Zoll zunähme, \ſo würde bei A der
+meſſer der einzelnen Bäume jährlich um "/6 Zoll, bei B
+aber jährlich um "/5 Zoll zunähme, \ſo würde bei A der
 Baum ſchon im Alter von 72 Jahr, bei B aber chon im
 Alter von 60 Jahr die Stärke von 1 Fuß im Durchmeſſer
 erlangen, und ungeachtet des verſchiedenen Alters würden
@@ -2340,7 +2245,6 @@ Werth und Ertrag der Durchforſtungen und daß der Boden
 
 die höchſte Rente gibt :
 Bei dem Umtrieb
-von
 
 a) Für den Fall, daß das Durchforſtungs-
 holz ohne: Werth--iſt 5. ¿1256 refe #1! 742-Zahr.
@@ -2349,7 +2253,6 @@ zuwachſes ergreift und dieſes Holz ?/3 des
 Werths des bleibenden Holzes hat . . 99 -
 
 --- Page 61 ---
-49
 
 c) Wenn die Hälfte des Zuwachſes von der
 Durchforſtung "hinweggenommen wird,
@@ -2368,17 +2271,17 @@ Jm Alter von 67 Jahr liefern die Kiefern aber noh kein
 geäußerte Anſicht zu beſtätigen, als müſſe der Preis des
 Bauholzes pr. K. F. in einem noch ſtärkern Verhältniß, als
 dem des Alters der Bäume, ſteigen, wenu nah dem Ver-
-ſhwinden der Urwälder überhaupt no< ſtarkes Bauholz
+ſhwinden der Urwälder überhaupt noch ſtarkes Bauholz
 producirt werden ſoll.
 
 Betrachten wir nun näher, was dem längern Umtrieb
 hindernd in den Weg tritt, und denſelben unvortheilhaft
 macht, ſo finden wir den Grund dafür in dem großen
 Kapital, was beim langen Umtrieb in dem Holzbeſtand ent-
-halten iſ. Auffallend zeigt ſi<h dies beim 105 jährigen
+halten iſ. Auffallend zeigt ſich dies beim 105 jährigen
 Turnus, wo bei der Methode A die Zinſen des Beſtand-
 fapitals nicht blos die ganze Waldrente verſchlingen, ſondern
-no< um 26,5 ßl. pr. Waldmorgen überſteigen.
+noch um 26,5 ßl. pr. Waldmorgen überſteigen.
 
 Dagegen gibt derſelbe Turnus nach der Methode B, bei
 welcher das Beſtandkapital um /4 geringer iſt, noh eine Boden-
@@ -2392,9 +2295,8 @@ darf, iſt nun Gegenſtand der folgenden Unterſuchung.
 ECE rere IV
 
 --- Page 62 ---
-50
 
-Zweiter Abſc<hnilf,
+Zweiter Abſcchnilf,
 
 MANANA ALLE
 
@@ -2407,7 +2309,7 @@ ander im Verhältniß zu ihrem Durchmeſſer ſein,
 wenn der jährlihe Werthzuwachs des ganzen Waldes
 das Maximum erreichen ſoll?
 
-Dies Verhältniß wird gewiß na< der Verſchiedenheit
+Dies Verhältniß wird gewiß nach der Verſchiedenheit
 der Baumarten und ſelbſt für dieſelbe Baumart auf ver-
 ſchiedenem Boden ſehr verſchieden ſein. Es ſcheint demnach,
 als ſei hier an eine Regel gar nicht zu denken.
@@ -2429,7 +2331,6 @@ Kiefern, und gebe dur die jährlih wiederkehrende Durch-
 forſtung, ſoweit dies annähernd möglich iſt, den Stämmen
 
 --- Page 63 ---
-51
 
 unter einander, von ihrer Jugend bis zum Abtrieb, einen
 Abſtand, welcher
@@ -2462,20 +2363,19 @@ beſtreiten.
 
 Die Anſtellung ſolcher Verſuche erfordert aber eine große
 Aufmerkſamkeit von Seiten des Beobachters, einen bedeuten-
-den Koſtenaufwand, und was das \{<limmſte iſ, eine Zeit-
+den Koſtenaufwand, und was das \{chlimmſte iſ, eine Zeit-
 dauer, die die Lebensdauer des einzelnen Menſchen über-
 ſteigt. Es iſ deshalb niht zu verwundern, wenn dieſe
-Frage noh niht dur< die That gelöſt iſt. Aber frappirt
+Frage noh niht durch die That gelöſt iſt. Aber frappirt
 hat es mich, daß ih in den mir bekannten forſtwirthſchaft-
 lihen Schriften nirgends eine, wenn auh nur hypothetiſche
 Angabe in Zahlen über das Verhältniß des erforderlichen
 Raumes zum Durchmeſſer der Bäume gefunden habe —
 
 --- Page 64 ---
-2
 
 da doch jede Begründung eines Durchforſtungsprincips auf
-dieſe Frage zurü>führt.
+dieſe Frage zurückführt.
 
 Den einzigen Anhaltspunkt über dieſen Gegenſtand finde
 ih in der Durchforſtungsmethode des Herrn Oberförſters
@@ -2484,7 +2384,7 @@ Nagel.
 Derſelbe unternimmt, wie {hon $. 11 erwähnt iſt, die
 Durchforſtung, wenn der Abſtand der Bäume unter ein-
 ander das zehnfache ihres Durchmeſſers beträgt, und gibt
-dann dur<h Hinwegnahme der Hälfte der Bäume den
+dann durch Hinwegnahme der Hälfte der Bäume den
 bleibenden Stämmen den doppelten Flächenraum.
 
 Nimmt man hier das Quadrat des Durchmeſſers = d?
@@ -2506,7 +2406,6 @@ Periode die Bäume den normalen Stand haben.
 
 In der Mitte der Durchforſtungsperiode aber hat der
 
-2 2
 Baum den Flächenraum von 20092-17400 97 = 150 82.
 
 Bei dem Flächenraum von 1508? aber iſt der Abſtand
@@ -2516,7 +2415,6 @@ Hiernach lege ih nun der fernern Betrachtung -folgende
 Annahme zum Grunde:
 
 --- Page 65 ---
-93
 
 Der Abſtand der Bäume untereinander vom Mittel-
 punkt der Grundfläche des einen Baums, bis zum
@@ -2553,10 +2451,8 @@ tei e 45 AX =8. ie
 - - eu 50, Xx Y = 10 -
 e465 = 200 >= 12: e
 
-ww
 
 --- Page 66 ---
-94
 
 Berechnung des körperlichen Inhalts cines Baumes von
 1 Fuß Durchmeſſer und 71 Fuß Höhe.
@@ -2600,7 +2496,6 @@ Hier findet alſo nur ein Unterſchied von 0,31 K.-F.
 muß man den Jnhalt der Pyramide mit 1,013 multipliciren.
 
 --- Page 67 ---
-99
 
 Bei Stämmen mit voller Benutzung d. i. des Schaftes
 mit allen Aeſten verhält ſih der Jnhalt des ganzen Baums
@@ -2617,15 +2512,13 @@ mit 1,312 multiplicirt.
 
 Der Inhalt der Pyramide iſ !/3h? x 2 = !/3hô3,
 
-1,
 Der Jnhalt des Baumes íſﬅ dann = La hô3,
 Fau XN E Sdi : 71
 Für ha Ue E 1% XTi = 31, und
 
-Co
 
 wir erhalten für den Jnhalt 2 Baumes den höchſt einfachen
-Ausdru> 31 3,
+Ausdruck 31 3,
 
 Dies gibt für è = 2 den Jnhalt = 248 K.-F
 - 21S = - - = "31 =
@@ -2644,17 +2537,14 @@ Der Jnhalt dieſes Baumes iſt
 317) = 31 x 323247 = 32,41 K.-F.
 Der Jnhalt des Baums iſ von 31 auf 32,31 K.-F.
 
-fa.
 
-31
 
 geſtiegen und der Zuwachs beträgt 1,31 K.-F. oder
 4,2 pCt. des Beſtandes.
 
 --- Page 68 ---
-96
 
-Allgemein ausgedrü>t betrage der jährliche Zuwachs
+Allgemein ausgedrückt betrage der jährliche Zuwachs
 des Durchmeſſers a Fuß, ſo wächſt im Verlauf des Sommers
 der Durchmeſſer von bis è + a.
 
@@ -2669,13 +2559,13 @@ Die Zunahme des körperlichen Jnhalts beträgt demnach
 $ 16.
 
 SKerehnung des Theils des Zuwachſes,
-welcher dur< die Durhforſtung hinweggenommen
+welcher durch die Durhforſtung hinweggenommen
 werden muß.
 
 Bei der großen Verſchiedenheit der Anſichten der Forſt-
 männer über den Durchforſtungs-Ertrag, und dem gänzlichen
 Mangel eines erwieſen richtigen Durchforſtungs - Princips
-habe i< in dem Vorhergehenden den Ertrag der Durch-
+habe ich in dem Vorhergehenden den Ertrag der Durch-
 forſtungen im Verhältniß zum Zuwachs nur hypothetiſch
 annehmen fönnen.
 
@@ -2694,10 +2584,9 @@ Geſezes überhaupt möglich ſei, und wenn dies wäre, ob die
 vorhandenen Data dazu ausreichend ſind.
 
 --- Page 69 ---
-57
 
 Prüfen wir nun, ob die Sätze, welche ih aus der
-Waldwerthbere<hnung des Herrn Oberförſters Nagel theils
+Waldwerthberechnung des Herrn Oberförſters Nagel theils
 entnommen, theils abgeleitet habe, dazu genügend ſind.
 
 Zur Erleichterung der Ueberſicht, ſtelle ih die oben
@@ -2738,7 +2627,6 @@ mit dem Zuwachs der einzelnen Bäume ergibt den Geſammt-
 zuwachs des Waldes. Jm Herbſt iſ der Durchmeſſer der
 
 --- Page 70 ---
-98
 
 Bäume von ® bis a + angewachſen. Jeder Baum er-
 fordert dann 144(a + 2)? Raum. Auf der ganzen Wald-
@@ -2776,10 +2664,9 @@ eine Formel aufzufinden, die nicht blos für einen gegebe-
 nen Werth von d, ſondern für alle Werthe von è das
 richtige Verhältniß zwiſchen dem Zuwachs und dem Durch-
 forſtungs-Ertrag ergibt, dürfen wir vor einer tiefern und
-{hwierigern Unterſuchung nicht zurü>kſchre>en.
+{hwierigern Unterſuchung nicht zurückkſchrecken.
 
 --- Page 71 ---
-99
 
 Während der Wachsthumsperiode im Sommer nimmt
 der Durchmeſſer des Baums mit jedem Tage, jeder Stunde,
@@ -2802,7 +2689,6 @@ mehrenden Raumbedürfniß zu erhalten, theilen wir beiſpiels-
 weiſe den Sommer in 10 Abſchnitte.
 
 Für den Durchmeſſer = 1 iſ dann
-der
 Durchmeſſer
 Im 1. Abſchnitt |1 + "haa | A4 oa + "00a 144
 e - 1+ oa | (1+ oa + hoo a) 144
@@ -2810,9 +2696,6 @@ e - 1+ oa | (1+ oa + hoo a) 144
 4 - 1+ hoa | (1+ Hoa +4 hoo a) 144
 5. - 14 Naa | (1+ Hoa 4 5/100 a) 144
 <.0. - 1+ oa | (14 Hoa + 8/100 a2) 144
-7
-8
-9
 
 der Raum, den der Baum
 gebraucht
@@ -2825,7 +2708,6 @@ gebraucht
 Summe (10 + 11a + 3,85 a) 144
 
 --- Page 72 ---
-60
 
 Dieſe Summe dividírt mit 10, als der Zahl der Ab-
 ſchnitte, ſo ergibt ſich der mittlere Raum, den der Baum
@@ -2859,24 +2741,21 @@ EES Qu Ln) L
 
 = 1/3n + "2 + '/en
 2n24-3n—+ 1
-bn
 
-Wir haben hierdur< die Summe des Naums, den der
+Wir haben hierdurch die Summe des Naums, den der
 Baum in n Zeitabſchnitten gebraucht, berehnet; um nun
 den Raum, den der Baum während eines Sommers von
-n Zeitabſchnitten gebraucht, zu bere<hnen, müſſen wir die
+n Zeitabſchnitten gebraucht, zu berechnen, müſſen wir die
 gefundene Summe mit n dividiren.
 
 Alsdann erhalten wir für den Flächenraum, den ein
-Baum von 1 Fuß Durchmeſſer ranas den Ausdru>
+Baum von 1 Fuß Durchmeſſer ranas den Ausdruck
 
-1 ;
 (1+ 2 a+ C +l -+ gi Da?) 14407
 
 oder
 
 --- Page 73 ---
-61
 
 Sezen wir den Durchmeſſer des Baumes im Frühjahr
 = ôê ſtatt 1, ſo ergibt die Durchführung der obigen Rech-
@@ -2918,7 +2797,6 @@ tität, ſondern eine Qualität, die ſih zu einer Größe nicht
 addiren läßt. Die Größe tritt vielmehr erſt dann zum
 
 --- Page 74 ---
-62
 
 Vorſchein, wenn wir in dem Fluſſe des Werdens einen
 Einſchnitt machen.
@@ -2940,7 +2818,6 @@ tl Lr : : SES
 Addition — nicht aber bei der Multiplikation — als 0 be-
 trachtet und der Koeffizient wird dann gleich T= 1;
 Setzen wir n = 0, ſo iſt în dem Koeffizienten von
-1 1
 2 — UL, > ——— 4 4 =
 a= a+ an + gne vas 2, wie das 3. Glied = 0 und
 
@@ -2986,7 +2863,6 @@ Der Baum gebraucht, wie wir gefunden haben, während
 des’ ganzen Sommers im Durchſchnitt einen Raum von
 144 (32 + a è + 'h a.
 Auf der Waldfläche w können alſo ſtehen
-Ww
 IM Fad + ha
 Baumes iſt = 31 (Za 324-3 a2 ò + a5.
 Der Geſammtzuwachs aller Bäume iſt alſo
@@ -2997,14 +2873,12 @@ Der Geſammtzuwachs aller Bäume iſt alſo
 Beiſpiel. Es ſei w = 144000 CIFuß = 562,5 (]9
 a = '/e Zoll = '/72 Fuß, \o iſ der Zuwachs des Waldes
 144000
-144
 
 der Zuwachs jedes einzelnen
 
 =" X 7a == 31000 > 12 = 1292:K. F.
 
 --- Page 76 ---
-64
 
 3. Zuwachs des bleibenden Beſtandes.
 
@@ -3018,7 +2892,7 @@ Der Holzbeſtand des Waldes iſ alſo
 Bäume ſtehen.
 
 W LT PR
-a>. 31 2.
+ack. 31 2.
 
 Jm Herbſt am Ende der Vegetationszeit iſt der Durch-
 meſſer des Baums = dF — «a, der Jnhalt = 31 (3 + 2)?
@@ -3035,13 +2909,12 @@ FGF gx SLO =
 Hiervon den Beſtand zu Anfang des Frühlings mit
 Uw 0 abgezogen ergibt einen Zuwachs des bleibenden Be-
 
-144
 31 w (è + D 381wd 31 w
 ſtandes von T= TAC LE Xa.
 
 Den Geſammtzuwachs haben wir SEE X 3 u ge-
 
-funden. Hievon ſind im Herbſt nur no< vorhanden
+funden. Hievon ſind im Herbſt nur noch vorhanden
 31 w
 
 TT Red Die Durchforſtungen haben alſo hinweggenommen
@@ -3057,7 +2930,6 @@ Doppelte des Zuwachſes des bleibenden Be-
 ſtandes beträgt.
 
 --- Page 77 ---
-65
 
 Beiſpiel: Es ſei dd = 1 Fuß a = 2 Fuß
 w = 1440000 O‘ = 5625 (9,
@@ -3086,7 +2958,6 @@ des Sommers ſo viele Bäume weggenommen, als zur
 Schaffung des normalen Raums erforderlich iſt. Jm Herbſt
 iſt für den Baum von 1/72 Fuß Durchmeſſer der normale
 
-5329
 Raum = 144 (Ï = = 144 X 757: Auf der ganzen Wald-
 : 1440000
 fläche können alſo ſtehen 144 > +>Îo = 9728 Bäume.
@@ -3103,7 +2974,6 @@ nommen 8608 K. F.
 V
 
 --- Page 78 ---
-66
 
 (Daß hier der Durchforſtungsertrag nicht ganz genau
 das Doppelte der Zunahme des bleibenden Beſtandes be-
@@ -3113,7 +2983,7 @@ Einfacher und leichter zu überſehen iſ die Rechnung,
 wenn man annimmt, daß die Durchforſtung nicht ſtetig
 während des Sommers, ſondern im Herbſt auf einmal vor-
 genommen wird. Alsdann ſind auf der genannten Wald-
-flähe im Herbſt no< 10000 Stämme à 32,11 K. F.
+flähe im Herbſt noch 10000 Stämme à 32,11 K. F.
 vorhanden.
 
 Der ganze Holzbeſtand iſ alſo = 323100 K. F.
@@ -3147,7 +3017,6 @@ auh nicht den hier berehneten Zuwachs erlangen. Dieſe
 Rechnungsform ergibt auh für Bäume von verſchiedenem
 
 --- Page 79 ---
-67
 
 Durchmeſſer ein verſchiedenes Verhältniß zwiſchen dem bleiben-
 den Zuwachs und dem Durchforſtungsertrag. Aus ihr kann
@@ -3178,21 +3047,20 @@ war für mich faſt in Vergeſſenheit gerathen.
 
 In neuerer Zeit wurde ih aber veranlaßt, mir Klar-
 heit über den Werth der Holzbeſtände von verſchiedenem
-Alter und über die Rente, welche der Boden dur< den
+Alter und über die Rente, welche der Boden durch den
 Anbau von Kiefern gewährt, zu verſchaffen. Die Bodenrente
 hängt aber weſentlih von der Umtriebszeit und dem Ertrage
 der Durchforſtungen ab. Die fortgeführte Unterſuchung er-
 gab aber ſehr bald, daß die vortheilhafteſte Umtriebszeit
 
 --- Page 80 ---
-68
 
 ſelbſt wiederum abhängig ſei von dem Ertrag der Durch-
-forſtungen — und dieſer Gegenſtand wurde dadur<h zum
+forſtungen — und dieſer Gegenſtand wurde dadurch zum
 Angelpunkt der Unterſuchung.
 
 Da es mir aber an Daten über den Ertrag der Durch-
-forſtung fehlt, und i< feine Autorität kenne, der ich in
+forſtung fehlt, und ich feine Autorität kenne, der ich in
 dieſer Beziehung folgen kann, ſo mußte ih mi damit be-
 gnügen, für den Ertrag der Durchforſtungen im Verhältniß
 zum bleibenden Beſtand verſchiedene Säße hypothetiſch an-
@@ -3203,17 +3071,17 @@ rente der Wahrheit näher zu kommen.
 So entſtand der vorliegende erſte Abſchnitt. Aber jedes
 tiefere Eindringen in den Gegenſtand führte zu Fragen, die
 durch die hypothetiſchen Säße nicht gelöſt werden können,
-und mit jedem weitern Schritt zeigte ſi< immer klarer das
+und mit jedem weitern Schritt zeigte ſich immer klarer das
 Bedürfniß nah der Kenntniß des Geſeßes, was hierüber
 in der Natur obwaltet.
 
-Unwillkührlih ward i< dadur< zu meiner frühern
+Unwillkührlih ward ich dadurch zu meiner frühern
 Unterſuchung vom Jahr 1828 zurückgeführt.
 
 Mit aller Sorgfalt habe ih nun das damals Nieder-
 geſchriebene einer wiederholten Prüfung unterzogen; aber es
 iſt mir nicht gelungen in den Schlußfolgen ſelbſt den ver-
-meinten Jrthum zu entde>en.
+meinten Jrthum zu entdecken.
 
 Jh muß es deshalb Andern überlaſſen, den Verſuch zu
 machen in den Schlußfolgen eine Jnkonſequenz nachzuweiſen.
@@ -3227,9 +3095,8 @@ bringen, ob das gefundene Reſultat, oder die vorherrſchende
 Anſicht eine Unwahrheit ſei.
 
 --- Page 81 ---
-69
 
-Zu dieſem Zwe> wenden wir uns nun zu der Frage,
+Zu dieſem Zweck wenden wir uns nun zu der Frage,
 ob und inwieferne eine Modification der Nagelſchen Sätze
 auf das Hauptreſultat unſerer Unterſuchung:
 beim normalen Abſtand der Bäume untereinander beträgt
@@ -3241,7 +3108,7 @@ einen Einfluß ausübt.
 Der erſte Nagelſche Saß, nah welchem der Abſtand
 der Bäume untereinander das 12-fache ihres Durchmeſſers
 betragen muß, wenn die Waldfläche den höchſten Zuwachs
-liefern ſoll — bedarf ſicherlih no< einer vielfachen Prüfung.
+liefern ſoll — bedarf ſicherlih noch einer vielfachen Prüfung.
 
 Wir haben demnach zu unterſuchen, ob für eine andere
 Abſtandszahl als 12, das Geſet, wovon hier die Rede iſt,
@@ -3259,7 +3126,6 @@ wir für den Geſammtzuwachs die Formel
 
 x a. Was von dem Geſammtzuwachs nicht in den
 
-r2
 bleibenden Beſtand übergeht, iſ Ertrag der Durchforſtung,
 und dieſer beträgt hier alſo —7= > 2a.
 
@@ -3275,7 +3141,6 @@ für den normalen Abſtand als die richtige erkennen mag.
 IGC LCL FL LE LICE LELLA
 
 --- Page 82 ---
-70
 
 Aus dem zweiten Nagelſchen Sat, wornach die Zunahme
 des Durchmeſſers der Bäume in arithmetiſcher Progreſſion
@@ -3290,7 +3155,6 @@ der Durchmeſſer der Bäume im Frühling des n Jahres
 ihres Alters = ® iſt, ſo können, wie im vorigen $. gezeigt
 iſt, auf der Waldfläche w ſtehen
 
-W
 
 EF Der Jnhalt jedes
 
@@ -3306,8 +3170,6 @@ einen Durchmeſſer von è + «a und auf der Fläche w können
 
 2 Ww is 31 w (è + a)
 
-w ò
-r2
 Beſtand abgezogen gibt den Zuwachs des n Jahres (wie
 
 im vorigen $.) = E X a.
@@ -3321,7 +3183,6 @@ Bäume = + 2 a, der Jnhalt der Bäume = 31 (3 —4- 2 a)®.
 
 Auf der Waldfläche w können ſtehen Bäume.
 
-w
 r? (è + 2a)
 
 --- Page 83 ---
@@ -3333,7 +3194,6 @@ Der Holzbeſtand iſt alſo ASE x 31 @— 2 a3
 
 Jahres abgezogen mit (è + «) ergibt für das n +1
 
-r*
 31 w
 Te > 5
 
@@ -3365,12 +3225,11 @@ raths Cotta.
 Derſelbe gibt in ſeinen Tafeln zur Beſtimmung des
 Jnhalts und Zuwachſes ganzer Beſtände S. 41 den Be-
 ſtand der Kiefernwaldung auf der 10., d. i. beſten Boden-
-flaſſe vom ſächſiſchen A>er folgendermaßen an:
+flaſſe vom ſächſiſchen Acker folgendermaßen an:
 
 Jahr einen Zuwachs von
 
 --- Page 84 ---
-72
 
 Holzbeſtand | Zuwachs
 
@@ -3404,13 +3263,12 @@ Hier iſ alſo der Zuwachs der Bäume im jüngern
 Alter ſteigend, im ſpätern aber fallend.
 
 --- Page 85 ---
-73
 
 Cotta ſelbſt aber geſteht ein (Waldbau 4. Auflage
 S. 106), daß er erſt ſehr ſpät zur Erkenntniß und An-
 wendung richtiger Durchforſtungsregeln gelangt ſei. Es iſt
 deßhalb ſehr wahrſcheinlih, daß ſeine Beobachtungen, wo-
-nach ſeine Ertragstafeln entworfen ſind, ſi<h auf Beſtände
+nach ſeine Ertragstafeln entworfen ſind, ſich auf Beſtände
 gründen, die mangelhaft durchgeforſtet ſind. Für die ältern
 Beſtände aber ſteigert ſich dieſe Wahrſcheinlichkeit, da die
 Durchforſtungs-Principien erſt in neuerer Zeit zur Sprache
@@ -3426,7 +3284,7 @@ Wir müſſen deshalb unterſuchen, ob und inwiefern das
 Reſultat unſerer Unterſuhung von dieſen zum Grunde ge-
 legten Säßen abhängig iſt.
 
-Zu dieſem Zwe> nehmen wir — den Cottaſchen Sätzen
+Zu dieſem Zweck nehmen wir — den Cottaſchen Sätzen
 analog — an, daß der Zuwachs anfangs ſteigt, dann ſeinen
 höchſten Punkt erreicht und von da an wieder ſinkt.
 
@@ -3437,7 +3295,7 @@ nahme des Durchmeſſers größer als a. Fallen aber die
 n Jahre in den Zeitraum, wo der Zuwachs abnimmt, #\o
 iſt die Zunahme des Durchmeſſers kleiner als a oder =
 (1 —) «a. Beíde Fälle aber werden erfaßt und ſind vereint
-in dem Ausdru>k (1 <a.
+in dem Ausdruckk (1 cha.
 
 Setzen wir nun in die Zuwachsberehnung des vorigen
 Paragraphen überall (+1) «a ſtatt a und r?3? ſtatt
@@ -3445,15 +3303,12 @@ Paragraphen überall (+1) «a ſtatt a und r?3? ſtatt
 Reſultate:
 
 --- Page 86 ---
-TA
 
 31 w
-r2
 2) der Zuwachs des bleibenden Beſtandes iſ =
 
 31 w
 
-r?
 Das Verhältniß zwiſchen beiden iſ alſo wie
 
 31 31
@@ -3495,7 +3350,6 @@ höchſten Zuwachs liefern ſoll, im direkten Verhältniß mit der
 Holzmaſſe des Baums ſtehe.
 
 --- Page 87 ---
-75
 
 Der Baum, welcher 3132 K.-F. enthält, bedarf einen
 Raum von r? ()‘.
@@ -3510,7 +3364,6 @@ BI 3 auf 31 (è + 4)? Da nun ein Kubikfuß Holzmaſſe
 
 Bs Fi []‘ Raum erfordert, \o bedarf im nächſten Jahr der
 Baum von 31 (3 + 4)? K.-F. Inhalt einen Raum von
-r2
 
 3H aX 31 55°
 
@@ -3536,7 +3389,6 @@ Raum, den der Baum gebraucht, = r? 0‘. Auf der Fläche w
 
 fönnen alſo ſtehen Æ Bäume. Die Holzmaſſe des Waldes
 
-3
 iſt alſo = *, > 31 89 = Zl m0
 
 Für das nächſte Jahr haben wir den Holzbeſtand ge-
@@ -3545,11 +3397,10 @@ y. 31 w03 e ti
 funden gleich 7—, alſo grade ſo groß wie im vorher-
 
 gehenden Frühjahr.
-Es ergibt ſi< hieraus, daß, wenn die Holzmaſſe des
+Es ergibt ſich hieraus, daß, wenn die Holzmaſſe des
 Baums Maasſtab für den Raum, den der Baum bedarf,
 
 --- Page 88 ---
-76
 
 wäre, der geſammte Zuwachs in jedem Jahr durch die
 Durchforſtungen hinweggenommen werden müßte und daß
@@ -3591,16 +3442,15 @@ der mit Bäumen von einer gewiſſen Stärke, z. B. ein Fuß
 Durchmeſſer, beſet iſ, als den Normalbeſtand an, ſo fände
 
 --- Page 89 ---
-77
 
 in den ſpätern Jahren nur ein Zuwachs an den bleibenden
-Bäumen ſtatt, der glei<h der Holzmaſſe wäre, die in den
+Bäumen ſtatt, der gleich der Holzmaſſe wäre, die in den
 ausgehauenen Stämmen enthalten war. Aber die jüngern
 Schläge hätten dann überall niht den normalen Holzbeſtand,
 und da jedes Hinwegnehmen von Stämmen noch weiter von
 dem normalen Beſtand entfernt, \o dürfte in den jüngern
 Beſtänden gar keine Durchforſtung ſtattfinden, und dieſe
-müßten allen Gräueln der Verwüſtung, die dur<h den Kampf
+müßten allen Gräueln der Verwüſtung, die durch den Kampf
 der Bäume um den erforderlichen Raum entſteht, Preis
 gegeben werden.
 
@@ -3612,7 +3462,7 @@ Da aber in dem Baum ſelb das Merkmal für den
 Raum, den er bedarf, enthalten ſein muß, ſo bleibt nichts
 anders übrig, als zu der Annahme, daß der Durchmeſſer
 des Baums Maasſtab für den normalen Abſtand und den
-Bedarf an Flächenraum ſein muß, zurü>zukehren.
+Bedarf an Flächenraum ſein muß, zurückzukehren.
 
 Läßt ſih nun auh der Saß, daß die Durchforſtungen
 2/3 des Zuwachſes hinwegnehmen müſſen, als Axiom der
@@ -3629,7 +3479,6 @@ rend dieſe in der Praxis erſt nah Perioden von mehreren
 Jahren wiederkehren fönnen. Welche Anwendungen kann
 
 --- Page 90 ---
-78
 
 ih nun von ſolchen auf lauter ideale Zuſtände gebauten
 Unterſuchungen machen ?“
@@ -3669,7 +3518,6 @@ und der Holzwerth aller Beſtände
 vom 1. bis x + 5‘ Schlage... x3 + 9x24 8x,
 
 --- Page 91 ---
-79
 
 Wenn aber, wie hier der Fall iſ, die jährliche Zu-
 nahme des Beſtandes ſtatt 100 K.-F. nur 50 K.-F. beträgt,
@@ -3686,10 +3534,10 @@ der Bäume liefert der Wald an Durchforſtungsholz jährlich
 100 K.-F. pr. Waldmorgen. -
 
 Jm $ 3 haben wir für einen Zuwachs des Beſtandes
-von 100 K.-F. jährli<h den Werth des Abtriebſchlages ge-
+von 100 K.-F. jährlich den Werth des Abtriebſchlages ge-
 funden = 3x? + 15x.
 
-Ueberbli>en wir nun die Schläge vom 1 bis x + 5jährigen
+Ueberblicken wir nun die Schläge vom 1 bis x + 5jährigen
 Alter, ſo ſehen wir, daß der Werth des Abtriebſchlages her-
 vorgeht aus der Summe des Werthzuwachſes aller Schläge.
 
@@ -3714,17 +3562,16 @@ Da dieſe Annahme unſerer Unterſuchung zum Grunde
 liegt, ſo müſſen wir von dem Cin a) berechneten Ertrag "/3
 
 --- Page 92 ---
-80
 
 abziehen, und wir erhalten demnah für den Werth aller
-Durchforſtungen den Ausdru>
+Durchforſtungen den Ausdruck
 23x? + 15x — 75)
 = 2x24 10x — 50
 Durch dieſe Poſitionen ſind wir nun in den Stand
 geſeßt, für den Fall, daß
 1) der Geſammtzuwachs 150 K.-F. beträgt, i
-2) der bleibende Beſtand jährli<h um 50 K.-F. wächſt,
-3) die Dur(hforſtung jährli<h 100 K.-F. pr. Wald-
+2) der bleibende Beſtand jährlich um 50 K.-F. wächſt,
+3) die Dur(hforſtung jährlich 100 K.-F. pr. Wald-
 morgen liefert,
 eine allgemeine Formel für die Größe der Bodenrente dar-
 zuſtellen.
@@ -3752,7 +3599,6 @@ gibt ſih eine Bodenrente
 on. —O,oox?43,30X?+ 9,34 x— 350,
 
 --- Page 93 ---
-81
 
 Seßen wir nun für x nah und nach die Werthe 50,
 60, 70 u. \. w., ſo erhalten wir die nachſtehenden Reſultate:
@@ -3783,7 +3629,7 @@ Ein Drittel. a2 55 T8,s
 Die Hälfte e 0 Sai ue 67 9T 1
 Zwei Drittel => e: Ve ote 93 195
 
-Es zeigt ſi<h hier in einem auffallenden Grade, wie
+Es zeigt ſich hier in einem auffallenden Grade, wie
 mit der ſtärkern Durchforſtung der Reinertrag des Wald-
 bodens zunimmt, die vortheilhafteſte Umtriebszeit ſih ver-
 längert, und ſomit auh die Erzeugung des ſtärkeren Bau-
@@ -3791,18 +3637,17 @@ holzes vortheilhaft wird.
 
 Bei allen bisherigen Unterſuhungen haben wir aber
 nur eine Seite der Durchforſtung, nämlih deren Einfluß
-auf die Bodenrente bei glei<bleibendem Holzzuwachs
+auf die Bodenrente bei gleichbleibendem Holzzuwachs
 
 des Waldes in Betracht gezogen.
 VI
 
 --- Page 94 ---
-82
 
 Nun aber übt die mit der {wächern oder ſtärkern
 Durchforſtung verbundene geringere oder größere Lichtſtellung
 der Bäume nicht blos auf den Zuwachs des Durchmeſſers
-der einzelnen Stämme, ſondern au< auf den Geſammt-
+der einzelnen Stämme, ſondern auch auf den Geſammt-
 zuwachs des Waldes einen gleichen Einfluß aus.
 
 Vermögen wir aber nicht, dieſe Einwirkung der Durch-
@@ -3810,10 +3655,10 @@ forſtung auf den Zuwachs dem Kalkül zu unterwerfen, ſo
 bleibt die Löſung der geſtellten Aufgabe eine unvollendete.
 
 Mit dem Verſuche zu einer ſolchen Löſung betreten
-wir nun die Schwelle einer neuen verwi>elten Unterſuchung.
+wir nun die Schwelle einer neuen verwickelten Unterſuchung.
 
 --- Page 95 ---
-Drilfer 4b6ſ<nitf.
+Drilfer 4b6ſchnitf.
 
 $ 19.
 In welchem Verhältniß ſteht der Zuwachs des Baums
@@ -3842,9 +3687,7 @@ oder ? iſt hier %% X %% = %6 )‘. Die von den Wurzeln
 durchdrungene Fläche beträgt alſo 1024 : %6 = 182082,
 
 --- Page 96 ---
-LAL
 
-84
 
 Wären die Weiden nicht. alle 3 Jahre gekröpft, \o
 würden die Stämme wahrſcheinlih bedeutend ſtärker,
@@ -3852,25 +3695,25 @@ die Wurzelansbreitung vielleicht aber niht größer ge-
 weſen ſein.
 
 Das Vermögen der Wurzelausbreitung iſ aber nicht
-bei allen Baumgattungen gleih, und namentli<h bei der
+bei allen Baumgattungen gleih, und namentlich bei der
 Kiefer und der Birke kleiner als bei der Weide, während
 die kanadenſiſche Pappel die Weide hierin noh übertrifft.
 
-In Bezug auf die Birke habe i< hier aber folgende
+In Bezug auf die Birke habe ich hier aber folgende
 Beobachtung gemacht.
 
 In dem hieſigen Garten iſ ein 12 Fuß breiter Gang
 an beiden Seiten mit 16 Fuß von einander entfernten
-Birken beſetzt, welche dur<ſchnittli< eine Stärke von 7/2 Zoll
+Birken beſetzt, welche durchſchnittlich eine Stärke von 7/2 Zoll
 = 5% Fuß haben.
 
 An der andern Seite des Baumgangs ſtößt ein mit
-Runkelrüben bepflanztes Stü>k Land.
+Runkelrüben bepflanztes Stückk Land.
 
 Hier ſtehen nun die Runkelrüben auf einem Streifen
 von durchſchnittlih 16 Fuß Breite ſehr kümmerlich, erheben
 ſich dann aber plöglih zu der Güte der Rüben auf dem
-ganzen übrigen Stü>k. Dieſe ſchroffe Scheidung iſ wohl
+ganzen übrigen Stückk. Dieſe ſchroffe Scheidung iſ wohl
 als ein Beweis anzuſehen, daß die Wurzelausbreitung in der
 Entfernung von 16 Fuß von den Bäumen ihre Grenze hat.
 Der Flächenraum, den der Baum benust, iſt alſo (6 4- 16) 16
@@ -3885,7 +3728,6 @@ ganzen Flächenraum des Waldes mit ihren Wurzeln durch-
 ziehen, und zur Holzerzeugung benußen können,
 
 --- Page 97 ---
-85
 
 Jch habe niht Gelegenheit gehabt, die Wurzelaus-
 breitung einzeln ſtehender Kiefern zu beobachten, und nehme
@@ -3905,7 +3747,7 @@ der Bäume gleih Null wird.
 
 Den Raum nun, den die Bäume einnehmen, wenn
 wegen des gedrängten Standes ihr Wachsthum aufhört, und
-ihr Zuwachs glei<h Null wird, nenne ih den zum
+ihr Zuwachs gleich Null wird, nenne ih den zum
 Lebensunterhalt der Bäume erforderlichen
 Raum.
 
@@ -3926,9 +3768,8 @@ fernern Wachſen der Bäume, wenn keine Durhforſtungen
 ſtatt finden, zuleßt ein Zeitpunkt eintreten, in welchem die
 
 --- Page 98 ---
-86
 
-Bäume nur no< den zu ihrem Lebensunterhalt erforder-
+Bäume nur noch den zu ihrem Lebensunterhalt erforder-
 lihen Raum haben.
 
 Unter den vorausgeſezten Bedingungen werden dann,
@@ -3939,7 +3780,7 @@ des ganzen Waldes auf einmal abſterben.
 Wollte Jemand dies bezweifeln und ſagen:
 
 „2s werden auch hier einzelne Bäume abſterben, den andern
-Bäumen dadur<h Raum ſchaffen, und es wird auch hier,
+Bäumen dadurch Raum ſchaffen, und es wird auch hier,
 wie wir in der Wirklichkeit überall ſehen, der Tod nicht
 alle Bäume zugleich ereilen,“ ”
 ſo müßte man fragen, welher Baum leben bleiben, und
@@ -3950,7 +3791,7 @@ Baum abſterben, jener ihm völlig gleiche leben bleiben ſollte.
 
 Wir wiſſen, daß, wenn man für ausgewachſene Thiere
 das Futter bis auf ein gewiſſes Quantum vermindert, ſie
-fein Fleiſ<h mehr anſeßen, ſondern in demſelben Zuſtand
+fein Fleiſch mehr anſeßen, ſondern in demſelben Zuſtand
 beharren, in dem ſie ſind. Gibt man ihnen dann eine Zu-
 lage an Futter, ſo nehmen ſie an Gewicht zu; und dieſe
 Zunahme iſ allein als Wirkung der Zulage zu betrachten,
@@ -3964,15 +3805,14 @@ ausreichend iſ, ſo nehmen dieſe an Größe und Körpergewicht
 beträchtlich zu. Mit der Zunahme des Körpers ſteigt aber
 auh der Bedarf an Nahrungsmitteln. Reicht man ihnen
 nun fortwährend das frühere Quantum Nahrung, ſo mindert
-ſich allmähli<h das Wachsthum der Thiere und hört zulegt
+ſich allmählich das Wachsthum der Thiere und hört zulegt
 
 --- Page 99 ---
-87
 
 ganz auf. Daſſelbe Quantum Futter, was für die jüngern
 Thiere zur Sättigung und zum Wachsthum des Körpers
 ausreichend war, genügt für das ältere und größer ge-
-wordene Thier nur no< zum Lebensunterhalt. Für das
+wordene Thier nur noch zum Lebensunterhalt. Für das
 junge Thier iſ aber das Wachſen eine Naturbeſtimmung,
 und es iſt wahrſcheinlih, daß, wenn dieſes Wachſen, wegen
 ungenügender Nahrung, aufhört, dann nicht wie bei den erwach-
@@ -4006,7 +3846,6 @@ erforderliche Raum ebenfalls im Verhältniß mit der Maſſe
 des Baumes ſteht.
 
 --- Page 100 ---
-88
 
 Setzen wir dieſe Vergleichung nun noh weiter fort.
 
@@ -4044,11 +3883,10 @@ Verhältniß ſih aneignen, wie in der Nähe des Stammes.
 Zieht man mit einem um den Betrag des Durchmeſſers
 des Baums wachſenden Radius konzentriſche Kreiſe um den
 Stamm, ſo bilden ſich konzentriſche Ringe, deren Jnhalt um
-ſo mehr wächſt, je weiter ſie ſi< vom Stamm entfernen,
+ſo mehr wächſt, je weiter ſie ſich vom Stamm entfernen,
 und folglih auh eine immer größere Quantität Pflanzen-
 
 --- Page 101 ---
-89
 
 nahrung enthalten. Andererſeits nimmt aber mit der wachſen-
 den Entfernung das Vermögen der Bäume, die im Boden
@@ -4058,11 +3896,11 @@ fragt ſih nun, nah welchem Geſeß dieſe Abnahme ſtatt findet.
 Hätten wir nun drei völlig zuverläſſige Beobachtungen,
 wie ſich bei verſchiedenen relativen Abſtänden, z. B. von 8,
 12, 16fahem Durchmeſſer der Bäume ſich der Zuwachs der-
-ſelben verhielte, ſo ließe ſi<h hieraus das Geſeß darſtellen.
+ſelben verhielte, ſo ließe ſich hieraus das Geſeß darſtellen.
 
 Jn Ermangelung ſolcher Beobachtungen müſſen wir
 uns mit eíner hypothetiſchen Annahme begnügen, deren
-Richtigkeit erſt dur< die Reſultate, die ſie liefert, geprüft
+Richtigkeit erſt durch die Reſultate, die ſie liefert, geprüft
 werden kann.
 
 Demgemäß ſtelle ih folgenden Saß auf:
@@ -4095,7 +3933,6 @@ Der aufgeſtellte Saß gewinnt gar ſehr an Wahrſchein-
 lichkeit durh die Beobachtung, daß die unter freiſtehenden
 
 --- Page 102 ---
-90
 
 Bäumen angebauten Garten- und Feldgewächſe in der
 Nähe des Stammes am kümmerlichſten ſtehen, mit der zu-
@@ -4123,7 +3960,6 @@ Waldfläche w können alſo E ſolcher Bäume ſtehen.
 Jeder Baum hat einen Jnhalt von 31 83 K.-F., der
 
 Holzbeſtand der ganzen Waldfläche iſt alſo
-3w
 
 r2 7
 
@@ -4138,11 +3974,10 @@ Der körperlihe Jnhalt des Baumes iſt dann
 31(0 + a)? = 31(833 + 3a! 13a + aN.
 
 Zieht man hiervon den Jnhalt des Baums im Früh-
-jahr mit 312 ab, ſo ergibt ſi< der Zuwachs jedes Baums
+jahr mit 312 ab, ſo ergibt ſich der Zuwachs jedes Baums
 = 31(3ad? + 3a? + a. Der Baum, deſſen Durch-
 
 --- Page 103 ---
-91
 
 meſſér im Lauf des Sommers von s bis ò + a anwächſt,
 bedarf im Durchſchnitt des ganzen Sommers eines Raums
@@ -4197,7 +4032,6 @@ R ALL EE AE
 N r— m y?
 
 --- Page 104 ---
-92
 
 Die Größe des Zuwachſes a hängt aber nicht allein
 von der Abſtandszahl, ſondern zugleih auh von dem Boden
@@ -4218,14 +4052,14 @@ demzufolge r = 12 an. Für die Waldfläche w können
 wir jede belicbige Fläche annehmen. Hier ſeße ih ſie gleich
 einem Waldmorgen von 130 9 = 33280 (]‘.- Für dieſe
 Werthe von «a, r und w erhält die obige Formel folgenden
-Ausdru>: ;
+Ausdruck: ;
 
 31 33280 !/72 — m
 Cae DINIO X hag x (Y y? )
 14329 \ y— m
 12 — m! ( A
 
-In dieſem Ausdru> für den Zuwachs finden wir außer
+In dieſem Ausdruck für den Zuwachs finden wir außer
 der veränderlichen Größe y noch die unbekannte, aber fonſtante
 Größe m.
 
@@ -4239,13 +4073,12 @@ hâltniß zwiſchen Abſtand und Zuwachs in Zahlen darzuſtellen,
 hier ſeine Schranke finde, und wir dieſelbe aufgeben müßten.
 
 --- Page 105 ---
-93
 
 Glülicherweiſe aber kann vermittelſt der Analyſis der
 Werth von m aus den ſchon bekannten Vorderſäßen ermittelt
 werden.
 
-In dem Ausdru> für den Zuwachs (
+In dem Ausdruck für den Zuwachs (
 
 iſt der erſte Faktor eine konſtante Größe, welche ME die
 Differenz der Funktion niht verändert wird; in dem
@@ -4286,10 +4119,8 @@ für m den Werth 6, ſo verwandelt ſih dieſe Formel in
 14329 — m —'6
 —— x (L7n ) = 2388 (% EN)
 
-6
 
 --- Page 106 ---
-94
 
 Durch dieſe Formel ſind wir in den Stand geſeßt, für
 jeden beliebigen Abſtand den Zuwachs zu berechnen.
@@ -4324,7 +4155,6 @@ dichte Stand der Bäume verbunden iſt. Aber, merkwürdig
 genug, es ſcheint ſich das menſchlihe Gefühl gegen das
 
 --- Page 107 ---
-95
 
 Weghauen lebender Bäume zu ſträuben — und Forſtarbeiter,
 Holzwärter 2c. ſind ohne ſtrenge Aufſicht niht zu bewegen,
@@ -4337,10 +4167,10 @@ dichte. Denn beim 8fachen Abſtand d. i. */2 des normalen
 iſt der Zuwachs nicht höher als beim 24 fachen, oder dem
 doppelten des normalen Abſtandes.
 
-Selbſt beim 30 fachen Abſtand findet ſi<h in dieſer
+Selbſt beim 30 fachen Abſtand findet ſich in dieſer
 Tabelle noh ein größerer Zuwachs, als beim T7 fachen.
 
-Wir haben oben, freili< nur muthmaßlih angenommen,
+Wir haben oben, freilich nur muthmaßlih angenommen,
 daß die freiſtehende Kiefer das Vermögen hat, ihre Wurzeln
 bis zum 30 fachen ihres Durchmeſſers auszubreiten.
 
@@ -4349,11 +4179,11 @@ Hiernah würde in einem Walde, wo die Bäume den
 Zuwachs des freiſtehenden Baums gleich ſein.
 
 Da nun ſowohl das Vermögen der Wurzelverbreitung
-als der Zuwachs freiſtehender Bäume dur<h Beobachtungen
+als der Zuwachs freiſtehender Bäume durch Beobachtungen
 zu ermitteln iſt, ſo bietet ſih hier ein wihtiges Moment zur
 Prüfung und Berichtigung unſerer aufgeſtellten Hypotheſe dar.
 
-Unſern Anſäßen nah verhält ſi<h der Zuwachs des
+Unſern Anſäßen nah verhält ſich der Zuwachs des
 Durchmeſſers wie der wirkſame Abſtand. Dieſer iſt bei
 12 facher Entfernung 12 — 6 = 6, bei 30 facher 30 — 6
 = 24. Das Verhältniß zwiſchen beiden iſt alſo, wie
@@ -4361,16 +4191,14 @@ Durchmeſſers wie der wirkſame Abſtand. Dieſer iſt bei
 
 Wenn nun beim 12 fachen Abſtand die jährliche Zu-
 nahme '/6 Zoll iſt, ſo müßte bei der freiſtehenden Kiefer der
-jährlihe Zuwachs des Durchmeſſers 4 >x "/6 = 3 Zoll
+jährlihe Zuwachs des Durchmeſſers 4 ckx "/6 = 3 Zoll
 betragen.
 
 Hätte dagegen das Vermögen der Kiefer, ihre Wurzeln
 zu verbreiten, in einer Entfernung, die das 24fache ihres
 
 --- Page 108 ---
-hj
 
-96
 
 Durchmeſſers beträgt, ſeine Grenze, ſo würde der Zuwachs
 der freiſtehenden Bäume jährlih 3 >< "/6 = "/2 Zoll betragen.
@@ -4411,12 +4239,11 @@ wachs iſt alſo 1%5 = 2/5 Zoll jährlih. Dieſer Baum iſt
 feineswegs freiſtehend, ſondern nur dominirend, denn er iſt
 
 --- Page 109 ---
-97
 
 von jungen, jeht 25 ſährigen _ Eichen und Kaſtanien um-
 geben, die ſeiner Wurzelausbreitung Schranken ſeen.
 
-Zu bemerken iſ jedo<h, daß der Höhenwuchs dieſes
+Zu bemerken iſ jedoch, daß der Höhenwuchs dieſes
 Baumes der Zunahme des Durchmeſſers durchaus nicht
 proportional geblieben iſt.
 
@@ -4442,15 +4269,14 @@ zu können.
 $ 20.
 Berehnung des Geſammtzuwadchſes.
 
-Ehe wir zu dieſer Bere<hnung übergehen, müſſen wir
-einen Rübli> auf den Gang unſerer Unterſuchung werfen.
+Ehe wir zu dieſer Berechnung übergehen, müſſen wir
+einen Rüblick auf den Gang unſerer Unterſuchung werfen.
 Dem Gedankengang gemäß, der dem 1. Theil des „iſo-
 
 lirten Staat“ überall zum Grunde liegt, ſind wir auch hier
 VII
 
 --- Page 110 ---
-98
 
 von einfachen Vorausſezungen ausgegangen, und haben erſt
 eine der Potenzen, die beim Waldbau in Betracht kommen,
@@ -4466,7 +4292,7 @@ Bodenrente und die vortheilhafteſte Umtriebszeit wirkt, wenn
 ein geringerer oder größerer Theil des Geſammtzuwachſes
 vermittelſt der Durchforſtung hinweggenommen, alſo dem
 bleibenden Beſtand und ſomit auh dem im Holzbeſtand
-ſte>enden Kapital entzogen wird.
+ſteckenden Kapital entzogen wird.
 
 Wir haben dadurch kennen gelernt, in welchem auf-
 fallenden Grade die größere oder geringere Lichtſtellung der
@@ -4477,7 +4303,7 @@ Umtriebszeit einwirkt.
 Nachdem wir jetzt aber eine Formel für das Verhält-
 niß zwiſchen dem Abſtand der Bäume und deren Zuwachs
 gefunden haben, können wir jezt den Einfluß, den die
-\{<wächere oder ſtärkere Durhforſtung auf den Zuwachs und
+\{chwächere oder ſtärkere Durhforſtung auf den Zuwachs und
 ſomit auf den Holzertrag des ganzen Waldes ausübt, zum
 Gegenſtand der Unterſuchung machen.
 
@@ -4491,7 +4317,6 @@ untereinander berechnen.
 des Baums = 31 ®,
 
 --- Page 111 ---
-99
 
 2. Wenn der Abſtand der Bäume = y È und der zum
 Lebensunterhalt der Bäume erforderliche Abſtand = m ® iſt, ſo
@@ -4522,7 +4347,6 @@ Marimum?
 Das Differential derſelben genommen und dieſes = 0
 geſeßt, gibt
 
-31
 a 24dy+2ydp=0
 alſo:2y = 24
 yi= 12
@@ -4531,11 +4355,9 @@ Der Zuwachs I bleibenden Beſtandes
 
 31 w
 
-SLE
 EL = 72x 1a ®
 
 --- Page 112 ---
-100
 
 Seßt man w = einem Waldmorgen von 130 [(]°
 130 x 256 O F., ſo iſ der Zuwachs
@@ -4564,7 +4386,7 @@ Das Alter des Schlages ſei... . T7 Jahr,
 Davon gehen für den Zuwachs verloren 5 -
 Bleiben 72 Jahr.
 
-Der Durchmeſſer des Baums nimmt jährli<h um
+Der Durchmeſſer des Baums nimmt jährlich um
 1/6 Zoll = "72 Fuß zu. Dies ergibt für den T7jährigen
 Baum einen Durchmeſſer von 72 X "/72 = 1 Fuß.
 
@@ -4578,9 +4400,8 @@ Der Holzbeſtand des Abtriebſchlages iſt alſo 231 > 31
 =+7161_K.-F.
 
 --- Page 113 ---
-101
 
-Es läßt ſi<h aber ſhon aus der Tabelle ($. 18) der
+Es läßt ſich aber ſhon aus der Tabelle ($. 18) der
 . Holzbeſtand der Schläge von jedem Alter berechnen, wenn
 man von dem Alter 5 Jahr abzieht, und den Reſt der Jahre
 mit dem in der Tabelle angegebenen Zuwachs multiplicirt.
@@ -4593,7 +4414,7 @@ Beobachtungen den Zuwachs auf 130 (I zu 100 K. F.
 berechnet.
 
 Nach den Nagelſchen Sätzen, daß beim 12fachen Ab-
-ſtand der Bäume der Durchmeſſer derſelben jährli<h um
+ſtand der Bäume der Durchmeſſer derſelben jährlich um
 1/6 Zoll zunimmt, ergibt ſih ein jährlicher Holzzuwachs von
 992 K. F. auf 130 (]°.
 
@@ -4603,8 +4424,8 @@ verſchiedenen Quellen gefloſſene Berechnungen im Reſultat
 
 Cotta gibt in ſeinen Hülfstafeln S. 42 den Holzbeſtand
 der 77 jährigen Kiefern auf der beſten Bodenklaſſe zu
-14860 K. F. pr. ſächſiſhen A>er an. Dies beträgt auf
-me>lenburgiſhes Maas reducirt
+14860 K. F. pr. ſächſiſhen Acker an. Dies beträgt auf
+mecklenburgiſhes Maas reducirt
 
 14860 > 36/100 = 5350 K. F. pr. 100 0°
 
@@ -4625,14 +4446,13 @@ Wenn der Holzzuwachs des bleibenden Beſtandes
 100 K. F. pr. Waldmorgen beträgt, ſo liefert die Durch-
 
 --- Page 114 ---
-102
 
-forſtung vom 11. Jahr an jährli<h 200 K. F., vom 6. bis
+forſtung vom 11. Jahr an jährlich 200 K. F., vom 6. bis
 10. Jahr incl. aber 100 K. F.
 Bei einem x + 5 jährigen Wald beträgt demnach der
 Geſammtzuwachs:
 1) aus dem Abtriebsſ{lag. . . ._. 100 x K. F.
-2) aus der Durc<hforſtung vom 6. bis
+2) aus der Durcchforſtung vom 6. bis
 10. Jahr- incl} == + 4500
 3) aus den Durchforſtungen vomti: Jahr M
 bis zum Abtrieb (x — 5) 200... 200 x — 1000
@@ -4656,7 +4476,7 @@ Durchmeſſer.
 
 Alsdann iſt der Zuwachs des bleibenden Beſtandes
 pr. Waldmorgen 100 K. F. und für die Umtriebszeit von
-x + 9 Jahr, iſ na< $ 3 der Werth des Abtriebſchlages
+x + 9 Jahr, iſ nach $ 3 der Werth des Abtriebſchlages
 = (3X 1 15x): fil.
 Hiervon fällt
 1) auf die erſten 5 Jahr vom 6.
@@ -4667,7 +4487,6 @@ bis: 10. Jahr incl... = 150
 Abtrieb... ee) eroe B.R2 1 159 490
 
 --- Page 115 ---
-103
 
 Hätte nun das Durchforſtungsholz pr. K. F. gleichen
 Werth mit dem des Abtriebſchlages, ſo würden die Durch-
@@ -4700,7 +4519,7 @@ gibt Summe der Einnahme 7x24 35 x— 100
 
 Ausgabe:
 
-Der Werth aller Holzbeſtände iſt na< $ 3
+Der Werth aller Holzbeſtände iſt nach $ 3
 =x3 4 9x2 + 8x.
 Hiervon betragen die Zinſen zu 4 pCt.
 0,14 x3 + 0,36 x? + 0,32 x
@@ -4714,14 +4533,13 @@ Die Summe der Aus-
 gaben iſt = 0,04 x® + 0,36 x? + 8,32 x + 300
 
 --- Page 116 ---
-104
 
 Nach Abzug dieſer Ausgabe von der Einnahme ergibt
 ſich eine Bodenrente t
 
 von — 0,04 x? + 6,64 x? + 26,68 x — 400.
 
-Sett man nun für x na< und nach andere Werthe,
+Sett man nun für x nach und nach andere Werthe,
 
 ſo ergibt ſich (
 Für den Umtrieb: eine Bodenrente pr. Waldmorgen :
@@ -4767,7 +4585,6 @@ Werth der Durchforſtungen. . 3,00 x? + 15,00 x — 75
 Einnahme 5,25 x? + 26,25 x — T5
 
 --- Page 117 ---
-105
 
 Ausgabe.
 
@@ -4809,7 +4626,7 @@ hafteſte, und gewährt pr. Waldmorgen eine Bodenrente von
 C. Abſtand der Bäume unter einander = dem
 Tfahen Durchmeſſer derſelben.
 
-Der Zuwachs des bleibenden Beſtandes iſ na< $ 19
+Der Zuwachs des bleibenden Beſtandes iſ nach $ 19
 für dieſen Abſtand = 48,7 K. F. Nehmen wir hierfür
 einen Zuwachs von 50 K. F., ſo finden wir die Berechnung
 der Bodenrente hon im $ 18, wornach der vortheilhafteſte
@@ -4817,7 +4634,6 @@ Umtrieb im Alter von 93 Jahr mit einer Bodenrente von
 135 $l. pr. Waldmorgen ſtatt findet.
 
 --- Page 118 ---
-106
 
 Reſultat.
 
@@ -4827,10 +4643,10 @@ nommen. pr. Waldmorgen, Jahr. ßl.
 
 Es zeigt ſich hier, daß mit der Verminderung des Ab-
 ſtandes der Bäume die vortheilhafteſte Umtriebszeit ſich ver-
-längert, jedo<h nur unerheblih, und daß die Bodenrente in
+längert, jedoch nur unerheblih, und daß die Bodenrente in
 etwas größerm Maas als der Zuwachs abnimmt.
 
-Bei verſchiedenen Abſtänden iſ jedo< nicht das Alter,
+Bei verſchiedenen Abſtänden iſ jedoch nicht das Alter,
 ſondern der Durchmeſſer der Bäume Maasſtab für den
 Werth des Holzes pr. K. F. Da nun der Durchmeſſer im
 Verhältniß ſteht mit dem Geſammtzuwachs des Waldes, ſo
@@ -4855,7 +4671,6 @@ Nach Abzug dieſer Ausgabe bleibt Wald-
 rente für x + 5 Morgen von 130 0° 7x? + 27x — 400
 
 --- Page 119 ---
-107
 
 Dies gibt
 für den Umtrieb eine Waldrente pr. Waldmorgen
@@ -4872,7 +4687,7 @@ Me Lee 2983
 105 an - 688
 
 Die Waldrente beſteht aus den beiden Beſtandtheilen :
-1) Bodenrente und 2) Zinſen des im Holzbeſtand ſte>enden
+1) Bodenrente und 2) Zinſen des im Holzbeſtand ſteckenden
 Kapitals. Die nachſtehende Tabelle zeigt, in welchem Ver-
 hältniß beide Beſtandtheile bei verſchiedenen Umtriebszeiten
 
@@ -4897,7 +4712,6 @@ T5» 270,4 206,6
 --- Page 120 ---
 SS E eU $$$
 
-108
 
 Während die Bodenrente beim Umtrieb von 90 Jahr
 das Marimum erreicht, ſteigt die Waldrente fortwährend.
@@ -4919,7 +4733,7 @@ Geſammtzuwachs pr. Waldmorgen vom 6. bis 10. Jahr incl.
 
 und vom: 11.Zahr an. + iA 2300 K.-F.
 
-Davon gehen vom 6. Jahr an jährli< 100 K.-F. in
+Davon gehen vom 6. Jahr an jährlich 100 K.-F. in
 
 den bleibenden Beſtand über und der Reſt fällt der Durch-
 forſtung anheim.
@@ -4942,7 +4756,6 @@ Der Zuwachs beträgt in 10-Jahr  . “+. 28000
 Beſtand 4000
 
 --- Page 121 ---
-109
 
 Davon gehört dem bleibenden Beſtand an... 2000
 Die Durchforſtung liefert 2000 K.-F., alſo die
@@ -4984,7 +4797,6 @@ portional vorgenommen wird;
 kraft und Stärke ſind;
 
 --- Page 122 ---
-M0
 
 3) daß alle Bäume im Quadrat ſtehen, überall den nor-
 malen Abſtand von einander haben und daß bis zum
@@ -5003,7 +4815,7 @@ lihfeit überall der Fall iſ —, \o können die Bäume nur
 in der Mitte dieſer Perioden den normalen Abſtand haben,
 und in den Jahren vor und nach dieſer Mitte iſt dann der
 Zuwachs geringer, als wir berechnet haben. Dieſer Minder-
-ertrag, der ſi<h na< den Säßen im $ 19 berechnen läßt,
+ertrag, der ſich nach den Säßen im $ 19 berechnen läßt,
 iſt in Durchforſtungsperioden von 10 Jahr noch nicht er-
 heblih, aber ſhon ſchr bedeutend, wenn die Durchforſtung
 nur alle 20 Jahr vorgenommen wird.
@@ -5024,9 +4836,8 @@ auf welchen die Bäume den 10fachen Abſtand haben, zu-
 Hälfte dieſer Fläche der Abſtand der Bäume das" 14fache
 
 --- Page 123 ---
-111
 
-ihres Durchmeſſers, ſo iſt na< $ 19 der Zuwachs fol-
+ihres Durchmeſſers, ſo iſt nach $ 19 der Zuwachs fol-
 gender:
 
 beim 10fahen Abſtand Bo = AT,15 K.-F.
@@ -5056,7 +4867,7 @@ beſißer ein Theil des berechneten Einkommens verloren.
 Von dem Holzertrag, den die Forſtmänner nah dem
 Befund im Walde ſelbſt angeben, ſind dieſe Verluſte ſchon
 abgegangen, während dieſelben von unſerm dur die Be-
-re<hnung für den völlig regelmäßigen Beſtand gefundenen
+rechnung für den völlig regelmäßigen Beſtand gefundenen
 Ertrag noh abgezogen werden müſſen. Dies erklärt zum
 Theil, warum unſer berechnete Ertrag die Angaben der
 meiſten Forſtmänner weit überſteigt. Anderntheils aber
@@ -5065,13 +4876,12 @@ gar keine älteren Holzbeſtände, die von der erſten Jugend
 an völlig regelmäßig durchgeforſtet ſind, vorliegen und ihre
 
 --- Page 124 ---
-0
 
 aus der Erfahrung entnommenen Ertragsberehnungen auf
 ſolche Beſtände alſo auh keine Anwendung finden.
 
 Der Betrag der sub 1 und 2 angeführten Ab-
-weichungen läßt ſih nah $ 19 dur< den Kalkül ziemlich
+weichungen läßt ſih nah $ 19 durch den Kalkül ziemlich
 genau beſtimmen. Der Betrag der Abweichungen 3 und 4
 hängt aber ganz und gar von dem Standort der Bäume,
 den ſonſtigen Lokalverhältniſſen und von dem Charakter der
@@ -5081,18 +4891,18 @@ beſonders geſägt werden.
 Das aber iſt der große Gewinn, den die theoretiſche
 Unterſuchung gewährt, daß wir dadurch einen Anhaltspunkt
 erlangen, womit jedes andere Verhältniß verglichen und
-ſomit zur einheitlihen Anſchauung zurü>geführt werden kann.
+ſomit zur einheitlihen Anſchauung zurückgeführt werden kann.
 
 Für das Verhältniß, was ih hier im Auge habe,
 nehme ih an, daß die Verminderung des Holzertrags, welche
 durch die Abweichung von den idealen Vorausſezungen ent-
 ſteht, eine Verminderung der berechneten Einnahme um "/3
 zur Folge hat. Gleichzeitig ſinken dann aber auch die Zinſen
-des im Holzbeſtand ſte>enden Kapitals um 1/3.
+des im Holzbeſtand ſteckenden Kapitals um 1/3.
 
 Unſerer Berechnung liegt ferner die ſtillſchweigende Vor-
 ausſeßung zum Grunde, daß alle Holzſortimente von den
-De>elſhächten und Bohnenſtangen an bis zu den Balken
+Deckelſhächten und Bohnenſtangen an bis zu den Balken
 ſtets einen Markt finden, und in jedem Jahr abgeſeßt
 werden können. Ein ſo ausgedehnter und. geſicherter Markt
 findet ſich aber nur in der Nähe großer Städte und an
@@ -5101,12 +4911,11 @@ chifbaren Kanälen und Flüſſen.
 Fehlt aber eine ſo günſtige Lage, ſo hängt der Abſatz
 des Bau- und Nuzholzes von dem Zufall ab, ob in dem
 Umkreis von einigen Meilen mehr oder weniger Bauten
-vorgenommen werden, mehr oder weniger Koppelri>e u. \. w.
+vorgenommen werden, mehr oder weniger Koppelricke u. \. w.
 gebrauht und begehrt werden. Der regelmäßige Holz-
 abſagß iſt hier alſo keineswegs geſichert.
 
 --- Page 125 ---
-113
 
 Sollen hier nun die Durchforſtungen regelmäßig fort-
 geführt werden — was nothwendig iſ, um den berechneten
@@ -5122,7 +4931,7 @@ jeden verſchiedenen Standort verſchieden angeſchlagen
 werden.
 
 Für den Standpunkt, den ih zum Grunde lege, nehme
-ih an, daß die dur<h Verminderung des Holzwerthes ent-
+ih an, daß die durch Verminderung des Holzwerthes ent-
 ſtehende Verminderung der Einnahme "/4 der $ 21 be-
 rechneten Summe beträgt.
 
@@ -5147,7 +4956,6 @@ Hälfte in Anrechnung bringen.
 VIII
 
 --- Page 126 ---
-4
 
 $ 24.
 
@@ -5168,7 +4976,7 @@ bleibt Einnahme — 0,94 x® + 6,64 x? 4- 34,68x — 100
 Für den Umtrieb von x + 5 = 90 Jahr gibt dies
 eine jährlihe Einnahme von 290,s ßl. (Zicht man hievon
 für Adminiſtrations- und Beſamungskoſten 10 fl. ab,
-ſo ergibt ſi<h wie im $ 21 eine Bodenrente von
+ſo ergibt ſich wie im $ 21 eine Bodenrente von
 280,s $l.)
 
 Aus den im vorigen Paragraph angeführten Urſachen
@@ -5186,13 +4994,12 @@ pr..6000-0% 46252. e
 Podere. v2 430,6 Thlr.
 
 --- Page 127 ---
-115
 
 Die Rente des Ackerlandes
 für einen Boden, der na < einer Brache 10 Körner im
 Roten (10 Berl. Sc. von 100 [)®) liefert.
 
-Wenn dieſer A>er eine mittlere Entfernung von
+Wenn dieſer Acker eine mittlere Entfernung von
 210 Ruthen vom Hofe hat, ſo geben (nah $. 11 des
 1. Theils „des ifolirten Staat“), nachdem von dem Rein-
 ertrag eines Guts die Zinſen von dem Kapital, was in
@@ -5200,7 +5007,7 @@ den Gebäuden und andern vom Boden trennbaren Gegen-
 ſtänden enthalten iſt, abgezogen worden, 70000 []? Ater
 eine Landrente von 954 Thlrn.
 
-Dies beträgt für eine Laſt A>er von 6000 (1% (ca. 50
+Dies beträgt für eine Laſt Acker von 6000 (1% (ca. 50
 Magdeburger Morgen) 81,s Thlr.
 
 Dagegen haben wir die Bodenrente, die eine Fläche von
@@ -5208,9 +5015,9 @@ Dagegen haben wir die Bodenrente, die eine Fläche von
 
 Wir gelangen alſo zu dem überraſchenden und höchſt
 merkwürdigen Reſultat, daß der vorzügliche, in hoher Dung-
-kraft befindlihe Ro>enboden von 10 Körnern Ertrag durch
+kraft befindlihe Rockenboden von 10 Körnern Ertrag durch
 den Anbau mit Kiefern eine um 60 pCt. höhere Rente
-liefert, als dur<h den Anbau mit Getreide.
+liefert, als durch den Anbau mit Getreide.
 
 Viel auffallender noh wird dies Verhältniß auf Boden
 von geringerer Fruchtbarkeit.
@@ -5234,7 +5041,6 @@ Hievon ab für Beſamungs- und
 gibt Bodenrente 116,2 Thlr. für 6000 (I°,
 
 --- Page 128 ---
-6
 
 Die Landrente iſt (nach $ 11 des 1. Theils des „iſolirten
 Staat“) 65, Thlr. '
@@ -5243,7 +5049,7 @@ Staat“) 65, Thlr. '
 Die Einnahme iſ 10 Xx 139,8. . . . 111,5 Thlr.
 Für Beſamungskoſten 2c. gehen ab... 9 -
 Bleibt Bodenrente 102,2 Thlr.
-Die Landrente, welhe der A>erbau gewährt,
+Die Landrente, welhe der Ackerbau gewährt,
 beträgt von DOUG EIE. E AS
 
 3) Boden von 7 Körnern Ertrag.
@@ -5256,13 +5062,13 @@ Die Landrente dieſes Bodens beträgt... 319 -
 Einnahme aus dem Holz 10 X 1395 . . 83,5 Thlr.
 An Unkoſten gehen ab . Rg Ae LEE 1 RE
 Es bleibt Bodenrente 74,2 Thlr.
-Durch den A>erbau liefert dieſer Boden nur
+Durch den Ackerbau liefert dieſer Boden nur
 
 eine Lanvrente von 015,71, Gur DUO As >
 
 Die Waldrente,
 beſtehend aus der Bodenrente und den Zinſen des im Holzbeſtand
-ſte>enden Kapitals, ergibt ſi<, wenn man von dem Geſammtein-
+ſteckenden Kapitals, ergibt ſich, wenn man von dem Geſammtein-
 fommen aus dem Holz die Koſten der Beſamung und der Admini-
 
 ſtration abzieht.
@@ -5276,7 +5082,6 @@ Für den 90jährigen Umtrieb, bei welchem x = 85 iſt, gibt
 dies pr. Waldmorgen 593 $l., pr. 6000 7° 570,2 Thlr.
 
 --- Page 129 ---
-17
 
 Wegen der im vorigen Paragraph angeführten
 Abweichungen kommt davon nur die Hälfte
@@ -5299,34 +5104,31 @@ Zuſammenſtellung.
 
 Eine Fläche von 6000 (0° liefert, je nachdem ſie zum
 Waldbau mit Kiefern im 90jährigen Umtrieb, oder zum
-A>erbau benutt wird:
+Ackerbau benutt wird:
 
 | Beim Beim Verh ältuiß
 Wern die Ertragefähigkeit | Waldbau | Aerbau zwiſchen Waldrente.
 des Bodens iſt Bodenrente. | Landrente. Beiden.
 Thlr. Thlr. Thlr. Thlr.
 10 Körner .
-9e
 Si a
-Til
 GeizS
 
 Auf den geringern Bodenklaſſen von 5, 4, 3 Körnern
 Ertrag wird der Ertrag, den der Waldbau im Vergleich
 
-*) Bei dieſer Vergleichung iſ der Ertrag des A>erlandes immer
+*) Bei dieſer Vergleichung iſ der Ertrag des Ackerlandes immer
 zu 100 angenommen.
 
 --- Page 130 ---
-48
 
-mit dem Acerbau liefert, no< weit bedeutender. Aber
+mit dem Acerbau liefert, noch weit bedeutender. Aber
 vielleicht iſt auf ſolchen Bodenarten im erſten Umlauf kein
 Bauholz zu erzielen, und dann tritt eine ganz andere Be-
-re<hnung ein.
+rechnung ein.
 
 Mit der in der hieſigen Gegend vorherrſchenden An-
-ſicht, als könne nur der für den A>kerbau werthloſe Boden
+ſicht, als könne nur der für den Ackkerbau werthloſe Boden
 mit Vortheil dem Kiefernanbau gewidmet werden, und als
 müßten auf jedem beſſern Boden die Kiefern ausgerodet
 werden, tritt das Reſultat unſerer Berechnung in den
@@ -5349,7 +5151,7 @@ des Waldes und namentlich in der fehlerhaften Durch-
 forſtungsmethode, bei welcher niht blos der Holzzuwachs
 gar ſehr vermindert wird, ſondern auh die Zwiſchen-
 nußzungen größtentheils verloren gehen, ihren Urſprung —
-und auf ſolche Erfahrungen geſtützt, pflegt ſi< dann eine
+und auf ſolche Erfahrungen geſtützt, pflegt ſich dann eine
 öffentliche Meinung zu bilden, die ohne tiefere Prüfung ſich
 mehrere Generationen hindurch erhalten kann.
 
@@ -5359,12 +5161,11 @@ der Urwälder immer höher im Preiſe ſteigen, ganz unbe-
 gründet iſt,
 
 --- Page 131 ---
-119
 
 Es wird im Gegentheil, wenn die Kenntniß der ratio-
 nellen Forſtwirthſchaft ſih verbreitet hat, und dieſe überall
 eingeführt iſ, der Preis von 4 ßl. N% für den K. F
-Kiefernbauholz ſi<h niht behaupten können, ſondern ſinken
+Kiefernbauholz ſich niht behaupten können, ſondern ſinken
 müſſen. 1
 
 MALL LLC LLC LLL LLC LEA
@@ -5398,19 +5199,18 @@ die des Aerlandes, ſo muß dies in der Nähe der Stadt
 in noh weit größerem Maas der Fall ſein,
 
 --- Page 132 ---
-120
 
 Vernünftigerweiſe müßte alſo auch in der Nähe der Stadt
 das Land holzreicher ſein, als in der entferntern Gegend.
 
-Bli>ken wir nun auf die größern Städte Meklenburgs,
-auf Roſto>k, Schwerin und Wismar, ſo ſehen wir, daß in
+Blickken wir nun auf die größern Städte Meklenburgs,
+auf Roſtockk, Schwerin und Wismar, ſo ſehen wir, daß in
 der Wirklichkeit grade das Gegentheil ſtattfindet. Je mehr
 wir uns dieſen Städten nähern, deſto mehr verſchwinden die
 Hölzungen, und längs der Chauſſee von Laage nach Roſtock
-erbli>t man, mit geringfügigen Ausnahmen, nur kahle,
+erblickt man, mit geringfügigen Ausnahmen, nur kahle,
 holzloſe Felder, während man an der Chauſſee von Teterow
-nach Laage, in der 5—6 Meilen von Roſto> entfernten
+nach Laage, in der 5—6 Meilen von Roſtock entfernten
 Gegend, wo doch das Holz einen ſehr viel geringern Werth
 hat, ſich überall von Hölzungen umgeben ſieht.
 
@@ -5421,7 +5221,7 @@ Holzanbau ſein ſollten.
 Welcher Widerſpruch findet ſich hier zwiſchen der Theorie -
 und Praxis!
 
-Die Folge davon aber iſ, daß in Roſto> vor Anlegung
+Die Folge davon aber iſ, daß in Roſtock vor Anlegung
 der Chauſſeen der Faden Buchenholz mit 14 bis 16 Th. N°/3
 bezahlt wurde.
 
@@ -5431,24 +5231,23 @@ niht im Lande ſelbſt erzeugt wird, ſondern zum größern
 Theil aus Schweden, Norwegen und Finnland eingeführt
 werden muß.
 
-Ein angeſehener Kaufmann in Roſto>, der ſelbſt einen
+Ein angeſehener Kaufmann in Roſtock, der ſelbſt einen
 bedeutenden Holzhandel betrieb, gab mir auf meine Erkun-
 digung über die Holzeinfuhr Meklenburgs die Erklärung:
 
 daß er den Werth des aus den nordiſchen Häfen
-jährlih nah Roſto> eingeführten Holzes auf 50,000
+jährlih nah Roſtock eingeführten Holzes auf 50,000
 Thlr. N% \{häße und daß Wismars Holzeinfuhr
 ungefähr von gleichem Betrage ſein werde,
 
 --- Page 133 ---
-121
 
 Außerdem wird über Demmin ein beträchtliches
-Quantum Bretter na< dem nördlichen Meklenburg ein-
+Quantum Bretter nach dem nördlichen Meklenburg ein-
 geführt. f
 
 Da es nun im nördlichen Meklenburg Land genug gibt,
-was ſich höher dur< den Anbau der Kiefern als durch den
+was ſich höher durch den Anbau der Kiefern als durch den
 Getreidebau nuzen läßt, ſo können die Grundbeſizer, wenn
 ſie ihr eigenes Jntereſſe und die rationelle Forſtwirthſchaft
 erkannt haben, dem Lande in der Zukunft die Zahlung von
@@ -5458,17 +5257,17 @@ Ausland gehen, erſparen.
 Nun iſ zwar nicht, wie eine triviale Anſicht wähnt,
 jede Erſparung an der Ausfuhr edler Metalle eine Ver-
 mehrung des Nationaleinkommens, ſondern es kann ſogar
-das Gegentheil eintreten, wie ſi< an nahſtehendem Bei-
+das Gegentheil eintreten, wie ſich an nahſtehendem Bei-
 ſpiel zeigt.
 
 Meklenburg zahlt vielleiht für die aus Angeln und
 Jütland eingeführten Starken eine eben ſo große Summe
 an das Ausland, wie für eingeführtes Bauholz. Dies Geld
-fönnte dur< eigne Aufzucht des Rindviehes dem Lande
+fönnte durch eigne Aufzucht des Rindviehes dem Lande
 offenbar erhalten bleiben. Wenn aber das Jungvieh hier
 aufgezogen werden ſoll, ſo muß weniger Milh- und Maſt-
 vieh gehalten werden, und wenn die Ausfuhr von Butter
-und Fettvieh dadur<h um 120,000 Thlr. vermindert wird,
+und Fettvieh dadurch um 120,000 Thlr. vermindert wird,
 ſo bringt die Erſparung der Ausfuhr von 100,000 Thlr.
 dem Lande keinen Gewinn, ſondern einen Verluſt von
 20,000 Thlr.
@@ -5476,12 +5275,11 @@ dem Lande keinen Gewinn, ſondern einen Verluſt von
 Ganz anders aber verhält es ſih mit dem Gelde, was
 für Holz aus dem Lande geht; denn nah unſerer Berechnung
 im vorigen Paragraphen liefert der Boden von 6 Körnern
-Ertrag dur< den Waldbau noh über das vierfache deſſen,
-was derſelbe als A>erland an Rente trug, und es fordert
+Ertrag durch den Waldbau noh über das vierfache deſſen,
+was derſelbe als Ackerland an Rente trug, und es fordert
 demnach die Erzeugung des Holzes, wofür jezt 100,000 Thlr.
 
 --- Page 134 ---
-122
 
 aus dem Lande gehen, nur ein Opfer von höchſtens
 25,000 Thlr.
@@ -5491,7 +5289,7 @@ wird demnach das Nationaleinkommen um mindeſtens 75,000
 Thlr. jährlich erhöht. u
 
 So beträchtlich nun auch dieſe Erhöhung iſ, ſo bietet
-ſich doh im Süden Meklenburgs eine no< weit reichere
+ſich doh im Süden Meklenburgs eine noch weit reichere
 Quelle für die Vermehrung des Nationaleinkommens dar.
 
 Im ſüdlichen Meklenburg iſ der ſandige, als Aer
@@ -5525,7 +5323,6 @@ ausgeſprochenen Anſichten erſcheint, muß ich die örtlichen
 Verhältniſſe des Guts Tellow hier kurz erwähnen,
 
 --- Page 135 ---
-428
 
 Die auf mehren Stellen zerſtreut liegenden Kiefern-
 hölzungen betragen zuſammen nur 13000 00% (110 Magd.
@@ -5533,7 +5330,7 @@ Morgen). i
 
 Der Boden dieſer Hölzungen iſ ſehr wechſelnd und in
 hohem Grade verſchieden , und beſteht theils aus Sand,
-theils aus gutem A>erboden mit untermiſchten Schrindſtellen
+theils aus gutem Ackerboden mit untermiſchten Schrindſtellen
 und Lehmhügeln, die im Untergrunde Lehmmergel enthalten.
 
 “ Anfangs wuchſen die Kiefern auf allen Bodenarten mit
@@ -5547,7 +5344,6 @@ wider meinen Willen zur Einführung eines kurzen Umtriebs
 genöthigt worden.
 
 --- Page 136 ---
-“1
 
 Fortſeßung.
 
@@ -5587,14 +5383,12 @@ durchgeforſtet wird ©
 VLL CCC LNCLS
 
 --- Page 137 ---
-15
 
 5. Abſcnitt.
 
-_
 
 $ 29. Wie iſ der Werth des zum Waldbau beſtimmten
-Bodens zu bere<nen, wenn derſelbe no< gar nicht
+Bodens zu berechnen, wenn derſelbe noch gar nicht
 beſamt iſt?
 
 A. Die Methode des Herrn Nagel und Mittheilung
@@ -5621,7 +5415,7 @@ gefähr den doppelten Werth als beim 120jährigen Umtrieb
 haben.
 
 $ 30. Berechnung des Bodenwerths nah unſeren Anſägen.
-$31. Bei welchem Umtrieb ergibt ſi< hier der höchſte
+$31. Bei welchem Umtrieb ergibt ſich hier der höchſte
 Bodenwerth?
 
 $ 34. Vergleichung des gefundenen Bodenwerths mit der
@@ -5653,7 +5447,7 @@ auf den Forſtbetrieb ausübt.
 $ 36. Grundſäße zur Beſtimmung des Preiſes der Hölzer
 von verſchiedener Stärke. Der Boden muß dieſelbe
 Landrente tragen, er mag nun in einem kürzern Um-
-lauf ſ{<waches, oder in einem längern Umlauf ſtarkes
+lauf ſ{chwaches, oder in einem längern Umlauf ſtarkes
 Holz liefern. Jnſoweit iſ alſo die Frage leiht zu
 beantworten. Aber in einem längern Umtrieb wird
 das ſchwächere Holz als Nebennußzung aus den Durch-
@@ -5668,9 +5462,8 @@ wir ſie nicht für einzelne Lokalitäten, ſondern allgemein auf-
 ſtellen, äußerſt ſ{hwierig zu beantworten. Vielleicht kann die
 
 --- Page 139 ---
-_r-
 
-Vergleichung der Werthsbere<hnung des noh unbeſamten
+Vergleichung der Werthsberechnung des noh unbeſamten
 
 Bodens mit der Bodenrente, die der regelmäßig bewirth-
 
@@ -5696,9 +5489,9 @@ burgiſhe Abgeordnetenkammer gehandelt hat, indem ſie die
 Lieferung einer großen Quantität Buchenholz auf ewige
 Zeiten übernahm.
 
-Ganz anders ſtellen ſi< die Erzeugungskoſten des
+Ganz anders ſtellen ſich die Erzeugungskoſten des
 Buchenholzes in den gebirgigen Gegenden, wo der gute
-thonige Boden wegen Steilheit der Abhänge nicht als A>er-
+thonige Boden wegen Steilheit der Abhänge nicht als Acker-
 land, ſondern nur als Weide genußt werden kann und als
 ſolche nur eine geringe Rente abwirft.
 
@@ -5706,12 +5499,11 @@ land, ſondern nur als Weide genußt werden kann und als
 
 $ 38. Die höchſte Bodenrente findet nah unſerer Berehnung
 beim 90jährigen Umtrieb ſtatt. Das 90jährige Holz
-liefert aber no< keine ſtarken Balken und keine Säge-
+liefert aber noch keine ſtarken Balken und keine Säge-
 
 --- Page 140 ---
-128
 
-blö>e. Betrachten wir nun, was dem längern Umtrieb
+blöcke. Betrachten wir nun, was dem längern Umtrieb
 
 hindernd in den Weg tritt, ſo finden wir die Urſache
 
@@ -5720,7 +5512,7 @@ davon in dem ſtarken Wachſen der Zinſen des Be-
 ſtandkapitals. E
 
 Nun iſt aber das Beſtandkapital keine unveränderliche
-Größe, wir fönnen daſſelbe vielmehr dur< größere Licht-
+Größe, wir fönnen daſſelbe vielmehr durch größere Licht-
 ſtellung der Bäume weſentlih vermindern. Mit der größern
 Lichtſtellung mindert ſih aber gleichzeitig der Zuwachs. Der
 Zuwachs iſt aber für jede Abſtandszahl nach $ 19 zu berechnen,
@@ -5728,7 +5520,7 @@ und wir ſind dadurch in die Lage geſeßt, ſowohl die Abnahme
 der Zinſen, als die des Zuwachſes dem Kalkül zu unterwerfen.
 
 Die als Bauholz zu erzielenden Kiefern bedürfen, wenn
-die Bâume die zu ihrem Zwe> erforderlihe Form erhalten
+die Bâume die zu ihrem Zweck erforderlihe Form erhalten
 ſollen, eines geſchloſſenen Standes. Haben aber die Bäume
 die zum Bauholz erforderliche Schaftlänge und den geraden
 Wuchs einmal erlangt und kommt es nur darauf an, den
@@ -5743,24 +5535,23 @@ den 24fachen Abſtand ſtatt des 12fachen Abſtandes, ſo ſinkt
 das Beſtandkapital — nicht des ganzen Waldes, ſondern des
 lezten Schlags auf '/4 herab.
 
-Beim 24fachen Abſtand ſinkt na< $ 19 der Zuwachs
+Beim 24fachen Abſtand ſinkt nach $ 19 der Zuwachs
 in dem Verhältniß von 99,5 zu 74,6, d. i. von 1 auf 1 herab.
 
 Welchen Einfluß hat dieſe Aenderung des relativen
 Abſtandes auf die Bodenrente ?
 
 Beim 90jährigen Umtrieb beträgt nah $ 21 die Boden-
-rente 280,s $l. pr. Waldmorgen. Es fragt ſi< nun, ob
+rente 280,s $l. pr. Waldmorgen. Es fragt ſich nun, ob
 wohl auch die Schläge von mehr als 90jährigem Alter eine
 gleiche oder höhere Bodenrente liefern können, wenn den
 Bäumen der 24fache Abſtand gegeben wird.
 
 --- Page 141 ---
-129
 
 Dieſe Frage wird beantwortet, wenn wir vom Werth
 des Zuwachſes des leßten Schlages die Zinſen des in die-
-ſem Holzſchlage ſte>enden Kapitals abziehen.
+ſem Holzſchlage ſteckenden Kapitals abziehen.
 
 Beim 12fachen Abſtand hat der x + 5 Jahr alte Schlag
 einen Holzbeſtand von 100 x K.-F.
@@ -5806,7 +5597,6 @@ d. i. genau die Werthzunahme des lezten Jahrs.
 IX
 
 --- Page 142 ---
-130
 
 Die Einnahme aus dem Abtriebſhlag und den Durch-
 forſtungen zuſammen beträgt 7x? + 35x — 100.
@@ -5821,7 +5611,6 @@ gibt Zunahme der Einnahme. . 14x + 42
 alſo 4x mehr als oben berechnet.
 Für x = 85 beträgt die Mehreinnahme:
 
-I|
 
 14x = 1190
 +42 =142,7 "1032
@@ -5838,7 +5627,7 @@ bleibt Bodenrente 285
 
 Der Ueberſhuß der Werthzunahme des Abtriebſchlages
 
-über die Zinſen des im Werth des Holzſchlages ſte>enden
+über die Zinſen des im Werth des Holzſchlages ſteckenden
 
 Kapitals muß \o hoh ſein als die Bodenrente, die der
 
@@ -5854,7 +5643,6 @@ Dies führt nun zu der Frage: Bei welcher Umtriebs-
 zeit iſt der Ueberſhuß, den der Abtriebſchlag liefert, gleich
 
 --- Page 143 ---
-131
 
 dem Durchſchnitt der Bodenrente, die der ganze Umtrieb
 gewährt?
@@ -5898,7 +5686,6 @@ Davon ab für Adminiſtrationskoſen . . 8
 bleibt 14x + 34
 
 --- Page 144 ---
-132
 
 Der Holzwerth des x +4 öfen Schlags iſt
 3x24 15x. Hiezu den einjährigen Zu-
@@ -5915,8 +5702,8 @@ Dies gibt für x = 85:
 
 bleibt Bodenrente 284,88
 
-Wie ändern ſi< nun Einnahme, Beſtandkapital und
-Bodenrente, wenn na<h dem 90. Jahr der Wald ſo
+Wie ändern ſich nun Einnahme, Beſtandkapital und
+Bodenrente, wenn nach dem 90. Jahr der Wald ſo
 gelichtet wird, daß die Bäume den 24fachen Abſtand
 erhalten?
 
@@ -5942,7 +5729,6 @@ Dieſe von der Einnahme = . 10,5 x + 23,50
 abgezogen, gibt Bodenrente — 0,03 x? + 10,29 x + 23,32
 
 --- Page 145 ---
-133
 
 Für x = 85 gibt dies:
 
@@ -5968,8 +5754,8 @@ Für x = 135 iſ die Umtriebszeit = 140 Jahr und
 
 — 0,03 » + 546,75
 Bodenrente 865,72
-Die Bodenrente iſt hier no< fortwährend im Steigen
-und es fragt ſih, bei wel<hem Werth von x dieſe das
+Die Bodenrente iſt hier noch fortwährend im Steigen
+und es fragt ſih, bei welchem Werth von x dieſe das
 Maximum erreicht. Das Differential der Funktion
 — 0,03 x? + 10,29x + 23,32 gleich Null geſegt, gibt
 __— 0,u6xdx + 10,29 dx = 0
@@ -5982,7 +5768,6 @@ Da aber ſtärkeres Holz, als der 140jährige Umtrieb
 liefert, wohl faſt nirgendwo begehrt wird und der Werth
 
 --- Page 146 ---
-134
 
 deſſelben pr. K.-F. dann mit dem ſtärkern Durchmeſſer
 niht mehr wächſt: ſo dürfte dieſer Rechnung nah das
@@ -5993,7 +5778,7 @@ Bei dieſer Berehnung iſ von folgenden mitwirkenden
 Umſtänden abſtrahirt worden: |
 
 1) bei gleichbleibender Abſtandszahl nimmt wahrſchein-
-lih na< dem 90. Jahr der Zuwachs der einzelnen Stämme
+lih nach dem 90. Jahr der Zuwachs der einzelnen Stämme
 und des ganzen Waldes allmälig ab;
 
 2) dagegen nimmt bei der Verdoppelung des Abſtandes
@@ -6011,12 +5796,12 @@ dieſer Lehre — die ih aber Andern überlaſſen muß —
 ‘müſſen dieſe mitwirkenden Umſtände allerdings in den Kalkül
 mit aufgenommen werden.
 
-Jch habe hier, um die Rechnung nicht zu verwi>eln,
+Jch habe hier, um die Rechnung nicht zu verwickeln,
 ſowohl für den 91jährigen als für den 140jährigen Umtrieb
 dieſelbe Abſtandszahl 24 angenommen.
 
 Es leidet aber feinen Zweifel, daß die ſtarke Lichtung
-niht auf einmal, ſondern nah und na< vorgenommen
+niht auf einmal, ſondern nah und nach vorgenommen
 werden muß und daß für jedes Alter oder vielmehr für jede
 Stärke der Bäume eine verſchiedene Abſtandszahl ſtattfinden
 muß, wenn das Maximum der Bodenrente in jedem Jahr
@@ -6024,7 +5809,6 @@ erreiht werden ſoll. Die Aufgabe iſt nämlich die, für jede
 Stärke der Bäume die Abſtandszahl zu finden, bei welcher
 
 --- Page 147 ---
-139
 
 der Jahresertrag nah Abzug der Zinſen des Beſtandkapitals
 der höchſte iſt.
@@ -6036,7 +5820,7 @@ Zinſen des Beſtandkapitals, alſo die höchſte Bodenrente, nicht
 für den ganzen Umtrieb, ſondern für jedes einzelne Jahr
 zu erforſchen ſtreben.
 
-Durch die im $ 19 entwi>elte Formel über das Ver-
+Durch die im $ 19 entwickelte Formel über das Ver-
 hältniß zwiſchen Abſtand und Zuwachs der Bäume ſind wir "
 in den Stand geſeßt, dieſe Aufgabe dem Kalkül zu unterwerfen.
 
@@ -6070,7 +5854,6 @@ dern konſtant ſind.)
 = (334x 4- 812) y — 2004x — 4812.
 
 --- Page 148 ---
-136
 
 Der Holzwerth des x + ten Schlags iſt
 beim 12fachen Abſtand —_. . . . 3x24 15x
@@ -6083,7 +5866,6 @@ Auf der Waldfläche von w 2 fönnen beim Abſtand
 
 w d2 Ww “ ,
 12d ſtehen Is + TA Bäume. Beim Abſtand y
-2
 ſtehen auf dieſer Fläche EA = E Bäume von derſelben
 
 Stärke wie beim 12fachen Abſtand.
@@ -6111,7 +5893,6 @@ Umtriebs beträgt 200 K.-F. oder das Doppelte des in den
 bleibenden Beſtand übergehenden Holzes. Bei gleichem Werth
 
 --- Page 149 ---
-137
 
 pr. 100 K.-F. würde alſo der Ertrag der Durchforſtung
 ſein 2 (6x 4-12) = 12x + 24.
@@ -6153,7 +5934,7 @@ Hievon betragen die Zinſen 0,12x? 4 0,6x
 Dieſe abgezogen von der Ein-
 
 nabe = „e See is 14 x + 28
-gibt Ueberſ<huß = —0,12x? + 13,4x + 28
+gibt Ueberſchuß = —0,12x? + 13,4x + 28
 Für x = 85 iſt
 — O12x? = — 867
 13,4.x = 4139
@@ -6162,7 +5943,6 @@ FB = 28 1167
 gibt Ueberſhuß 300
 
 --- Page 150 ---
-138
 
 Hievon ab für Adminiſtrationskoſten 8 $l., ergibt ſich
 eine Bodenrente von 292.
@@ -6203,7 +5983,6 @@ Der Durchmeſſer der Bäume ſei = ®d, ſo können auf
 der Waldfläche w d? ſtehen:
 
 --- Page 151 ---
-139
 
 a. beim 12fahen Abſtand 75s E 7 = {7 Biume,
 
@@ -6223,14 +6002,12 @@ des Beſtandkapitals = 0,12 x? + 0,6x.
 
 Für den yfachen Abſtand gibt dies an Zinſen
 
-2
 
 Beſtand wie
 
 Dieſe von der Ein-
 nähme -, n (334 x + 668) y — 2004 x — 4008
 
-y?
 abgezogen, gibt
 (334 x + 668) y — 17,3 x? — 2090,5 x — 4008
 yt ;
@@ -6250,7 +6027,6 @@ YﬀFürx ==:400 23;
 X 1:4 =12,2.
 
 --- Page 152 ---
-140
 
 Da nun für den 12fachen Abſtand die Zinſen
 0,12 x? + 0,84 X + 0,72 betragen, ſo ſind dieſe für den
@@ -6289,7 +6065,6 @@ x=400/ y 22,8
 x =120- y = 24,5.
 
 --- Page 153 ---
-141
 
 Werden nicht die Zinſen von dem Zuwachs = 6x —- 18,
 ſondern nur die Zinſen des x + 9ten Jahrs in Anrechnung
@@ -6317,14 +6092,14 @@ Es ſteigt nämlich die Bodenrente im außerordentlichen
 Grade, wenn die Formbildung der Bäume vollendet und
 eine ſtärkere Lichtung geſtattet iſ, und" es fallen mithin die
 Erzeugungskoſten des ſtarken Holzes im Verhältniß zum
-{<wachen Holz.
+{chwachen Holz.
 
 So lange nun nicht eine allgemeine Anwendung dieſer
 Methode ſtattfindet, kann der Waldbeſißer durh die Erzeu-
 gung ſtarker Hölzer ſich einen enormen Gewinn verſchaffen.
 
 Die ſtärkere Lichtung darf aber wohl nur ſehr allmälig
-ſtattfinden, denn ſonſt dürften dur< den Sturm viele Bäume
+ſtattfinden, denn ſonſt dürften durch den Sturm viele Bäume
 umgeworfen werden.
 
 Die Gefahr des Windbruchs findet bei den Buchen
@@ -6332,18 +6107,16 @@ nicht ſtatt. Auch kommt es bei der Erzeugung des Brenn-
 holzes auf die Form der Bäume nicht an. Während bei
 
 --- Page 154 ---
-142
 
 den Kiefern wegen der Formbildung der Bäume der Wald
 geſchloſſen gehalten werden muß, kann bei den Buchen von
-der erſten Jugend an nah dem hier entwi>elten Prinzip
+der erſten Jugend an nah dem hier entwickelten Prinzip
 durchforſtet werden — was auf den Produktionspreis des
 Buchenholzes von enormer Wirkung ſein würde.
 
 Das Verhältniß zwiſchen Durchmeſſer und Höhe
 der Bäume.
 
-A N
 
 Nach dem Prinzip, was ich befolge, erſt einzelne Po-
 tenzen zur Unterſuchung zu zichen und vorläufig von andern
@@ -6366,19 +6139,18 @@ $10.7 e IS e
 
 Hätten wir dies variirende Verhältniß in die allge-
 meinen Formeln mitaufgenommen, ſo wären dieſe Formeln
-ſehr verwi>elt und die Rehnung ungemein ſ{hwierig geworden.
+ſehr verwickelt und die Rehnung ungemein ſ{hwierig geworden.
 Es fann aber bei der Anwendung dieſer Formeln auf
 ſpecielle Fälle die Einwirkung des veränderten Längen-
 verhältniſſes auf den Holzertrag und die Bodenrente mit
 Leichtigkeit berehnet und in Anſaß gebracht werden.
 
 --- Page 155 ---
-143
 
 Weit wichtiger aber iſt für die Richtigkeit unſerer
 Unterſuchung die Frage:
 
-Werden hiedur<h niht auh die als allgemein gültig
+Werden hiedurch niht auh die als allgemein gültig
 hingeſtellten Säße mit ergriffen und verändert?
 
 Ehe wir dieſe Frage beantworten, müſſen wir noh eine
@@ -6388,7 +6160,7 @@ Selbſt bei einer regelmäßigen Durchforſtung ſterben die
 untern, des Lichts beraubten Zweige nah und nach ab, fallen
 zu Boden und bilden das ſogenannte Leſeholz. Der Ertrag
 an Leſeholz iſ im Verlaufe der Zeit niht unbedeutend,
-und nah Nagel's Beobachtung de>t daſſelbe den Verluſt,
+und nah Nagel's Beobachtung deckt daſſelbe den Verluſt,
 der aus der Abnahme der relativen Höhe entſteht. Oder
 mit andern Worten: der Zuwachs des Baums mit Hinzu-
 rechnung des Leſeholzes, was er jährlich abwirft, iſt in jedem
@@ -6409,14 +6181,13 @@ der Werth des Abtriebſchlages und ſelbſt die vortheilhafteſte
 Umtriebzeit eine Modifikation in Zahlen.
 
 Dieſe Modifikationen ſind jedoh niht von der Erheb-
-lichkeit, daß ſie die entwi>elten Geſeße, nah welchen mit der
+lichkeit, daß ſie die entwickelten Geſeße, nah welchen mit der
 ſtärkern Durchforſtung die Bodenrente ſteigt und die vortheil-
 hafteſte Umtriebzeit verlängert wird, irgendwie umſtoßen könnten.
 
 --- Page 156 ---
 M a ati Ir Na dN
 
-144
 
 Bei der größern und großen Lichtſtellung der Bäume
 iſt über das Verhältniß des Durchmeſſers zur Höhe der

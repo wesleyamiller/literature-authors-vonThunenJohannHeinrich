@@ -10,39 +10,31 @@ source: "M030 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band19_M030_pp533-537_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 19/2. 5pp extracted (7KB)."
 assembled: 2026-03-13T23:11:45Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
-ie
 
-zu
-er
-2
-n,
 
-uf
-n,
-1,
-ie
 
 Geme 533
 
-Welche Stadt, Roſto> oder Güſtrow,
+Welche Stadt, Roſtock oder Güſtrow,
 cignet ſ{ am beſten zu einem ſolchen
 Central -Wollmarkte ?
 
-Noſto>, als bedeutende Handelsſtadt, bietet
+Noſtock, als bedeutende Handelsſtadt, bietet
 indiſchen Wollhändier zur Herbeiſchaffung
 des Geldes große Erleichterung dar; für alle zur See
 ausgeführte Wolle werden die Verſendungskoſten
-vermindert; die Vollendung der Chauſſez von Roſto>
+vermindert; die Vollendung der Chauſſez von Roſtock
 nach Neu-Brandenburg wird den Tranſport der Wolle
 aus dem Streliiſchen ſehr erleichtern; wenn Me
 lenburg dem Preußiſch Deutſchen Zollverbaide b:
 trite, wird wahrſcheinlich ein großer Theil der Woll-
-producenten in Nen-Pommern ihre Wolle nach Roſto>
+producenten in Nen-Pommern ihre Wolle nach Roſtock
 bringen; bei einem bedeutenden Zuſammenſluſſe von
-Fremden werden dieſe in Roſto> eher Unterfonimen
+Fremden werden dieſe in Roſtock eher Unterfonimen
 finden, und die Miethe für Logis wird nicht ſo hoch
 geſteigert werden, als in Güſtrow; es ift zu erwartet,
 daß in Roſtock ſich eher als in Güſtrow ein bedeutet
@@ -119,9 +111,7 @@ Die eydliche Folge jener Coucurrenz wäre alſo die,
 daß beide Städte die Erwerbsquelle, welche ein
 
 --- Page 4 ---
-<L
 
-536
 Wollmarkt darbietet, verldren, und daß der inlät:
 diſche Wollhandel den einheimiſchen größeren Kauf-
 leuten entzogen bliebe,
@@ -154,9 +144,7 @@ Markt hört auf, ſobald keine Waare mehr dahin
 geliefert wird.
 
 --- Page 5 ---
-|
 
-N
 
 =_= 537
 
@@ -186,5 +174,3 @@ ner Landſchullehrer, der ſchon 24 Jahre das Schul:
 amt verſieht, erflärt ſich gegen die Sommerſchule,
 wenn eben ſo wie die Winterſchule regelmäßig
 beſucht werden ſoll, und iſt der Anſicht, daß zwei
-
-df

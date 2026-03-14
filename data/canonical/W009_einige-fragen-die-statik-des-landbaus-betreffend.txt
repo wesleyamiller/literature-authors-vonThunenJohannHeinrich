@@ -10,12 +10,13 @@ source: "M013 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band19_M013_pp108-134_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 19/1. 27pp extracted from GDZ Band 19 (32KB)."
 assembled: 2026-03-13T23:11:44Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
 108 —
 
-des Mecklenburgiſchen Nindviehes die zwec>mäßigſte
+des Mecklenburgiſchen Nindviehes die zwecckmäßigſte
 Naçe? Schon ſind viele große Summen zu dieſem
 Zwecfe aus dem Lande gegangen und rechtfertigen
 um ſo mehr den aufgeſtellten Saß des geehrten Herrn
@@ -75,7 +76,6 @@ im Gute, wie ad l. zu der Conſumtion der oben
 bezeichneten Früchte? und die verminderte oder ver:
 mehrte Fruchtbarkeit des Gutes?
 
-#-
 
 --- Page 3 ---
 110 teme
@@ -276,24 +276,12 @@ Dung
 
 3,98
 
-10
-100
-100
-100
-100
 
 futt
-den
 enti
-nur
-ant
 
 --- Page 8 ---
-u
 
-|
-|
-|
 
 b. Verhältniß zwiſchen Au:
 
@@ -306,8 +294,6 @@ Ans der Verfutterüng von
 Rocten=-8400
 
 100 -
-100
-100
 100 -
 
 Für die Erndte |
@@ -320,7 +306,6 @@ Erbſen
 Zuſammenſtellung
 beträgt bleibe
 
-von
 
 100Schfl. Weizen |
 
@@ -333,7 +318,6 @@ von
 |'Stroh
 
 uder
-ung
 37,50
 
 |23,44
@@ -355,7 +339,6 @@ Fuder | Fuder [Fud.|
 | Fuer
 2200 \
 
-Tos
 
 9165 | 14,58
 
@@ -380,7 +363,6 @@ antworturig nachſtehender Frage zu erhalten:
 
 auf deit Gute verfuttert wird?
 
-8.
 
 --- Page 9 ---
 116 N 2
@@ -411,7 +393,6 @@ Hälfte der geſammten Kornproduction bisher außer: } Us
 Verhältniß der Ausſaugung und des F
 Erſages bei den Kartoffeln.
 
-H
 
 | Der Aer, welcher die Ertragsfähigkeit beſibt,
 
@@ -429,21 +410,13 @@ pr. Berliner Scheffel zu # Grad; dies macht für |"
 Zi RG
 
 --- Page 10 ---
-hun
 bis:
-gig
-enn
-10
 ilfe
-das
-den
 
-der
 nent
 nde:
 
 ant:
-den
 ‘die
 ſer:
 
@@ -516,17 +489,11 @@ Verflüchtigung des Dungs wirken alſo gemeinſchaft:
 lich dahin, daß die Dungerzeugung des Dreeſches
 uric jedem Jahre abuimme.
 
-|
-|
 
 --- Page 12 ---
-ge:
 
-ge:
-rd.
 
 ift:
-jes
 
 ——— 119
 
@@ -578,14 +545,13 @@ Reichthum dieſes Bodens iſt in 100 1R, = 60 Grad,
 ia 1000 (N. alſo = 600 Grad.
 
 Statiſches Tableau eiaer ſieben ſclägigeu
-Wirth ſ<aft A, mit der Fruchtfolge: 1. Braache,
+Wirth ſchaft A, mit der Fruchtfolge: 1. Braache,
 2. Rocken, 3, Gerſie, 4. Hafer, 6 — 7. Weide.
 Zider Schlag zu 100c18,| Ertrag.[Aubſau-[ Reih:
 
 RAA Grad | Fuder
 
 Dung
-600
 leibe
 
 Uſter Schlag Rocken 500 21,18
@@ -666,7 +632,6 @@ Erbſen wachſen. Dagegen nehme ich die Thätigkeit
 des Bodens für Gerſte nach Kartoffeln um 5 pCt,
 höher an, als uach Nocken.
 
-|
 
 --- Page 16 ---
 Y 123
@@ -693,8 +658,6 @@ SrSchlagErbſen 70
 
 Nocken | 80,5
 
-600
-n
 
 a Hafer | 129
 [Caf Heu|
@@ -712,7 +675,6 @@ gung der Erbſen) — | — | — |_61,6
 Zur Düngung der] |
 Kartoffeln bleiben] — | -— | — | 6844
 
-AON
 /2° ſind gleich
 e 2te Umlan
 
@@ -721,9 +683,7 @@ e 2te Umlan
 hat zugenommen)
 UM e tei ie
 
-|
 Der Reichthum | |
-|
 l
 
 = wl
@@ -787,9 +747,7 @@ ungleichem Reichthum, der Ertrag ſich verhält
 wie die Quadratwurzel aus dem Reichthum.
 Hiernach würde der Ertrag des Boden von 700 G1
 
-|
 
-RR
 
 aiii
 
@@ -863,7 +821,6 @@ mehr als leßtere.
 
 ‘202,2Gr. Reichthum ſind= 20:
 
-a2
 
 dies macht für 1000 ORuthen. . 9 «= =
 
@@ -929,7 +886,6 @@ mit Hafer beſtellen, dieſen Theil ſucceſſive vergrößern
 und dann, wenn alle Schläge den Normalreichthum er:
 langt haben, den ganzen Schlag Hafer tragen laſſen.
 
-CMT
 
 --- Page 22 ---
 IT| 129
@@ -968,7 +924,6 @@ dieſein Jahre hier, bei dreifurchiger eſtima,
 N, Annal, 19, Jahrg, rſte Hälfte, 9
 
 --- Page 23 ---
-130
 und bei der im Frühjahre durch Nachtfrdſte unter:
 brochenen Vegetation des Buchweizens, mehrere ver
 quefte Stellen; was ſicherlich vermieden worden
@@ -986,7 +941,7 @@ fand zurücfläßt. Weizen nach Buchweizen der mit
 8 Fuder pr. 100 ON. gedüngt war blieb ſtehend,
 während nach reiner Braache, die mit 5 Fuder pr.
 100 OR. gedüngt war, der Weizen ſich faſt ſämmt-
-lich lagerte, Jeht erhält die Braache nur no<
+lich lagerte, Jeht erhält die Braache nur noch
 4 Fuder, der Buchweizen aber fortwährend 8 Fuder
 Dung auf 100 CNuthen,
 
@@ -999,11 +954,7 @@ Zeitraum und auf mehreren Gütern beſtätigen: ſo-iſt
 für ſolche Güter, wo Ueberfluß an Dung iſt, und der
 Weizen ſich häufig lagert, in dem Buchweizenbau
 
-mi
-fei
-lu
 
-a
 
 --- Page 24 ---
 m 131
@@ -1029,7 +980,7 @@ I. H. v. Thünen.
 
 Beantwortung 11.
 
-A4 I. ‘Bei zwe>mäßiger Bewirthſchaftung eines
+A4 I. ‘Bei zweckmäßiger Bewirthſchaftung eines
 Gutes in allen ſeinen Theilen mag durch die Cone
 fumtion ſeiner Producte auf dem Gute, únd durch
 die Zurückgabe der Reſiduen an Aer und Wieſen in
@@ -1039,7 +990,6 @@ jener Producte, ſondern es wird auch wohl noch eine
 Vermehrung Statt finden, in Rückſicht auf Frucht:
 barkeit des Bodens.
 
-o.
 
 --- Page 25 ---
 132 —
@@ -1075,13 +1025,8 @@ führen; denn es foſtet viele Arbeit , den 7ten
 oder leßten Weideſchlag vom Herbſt an bis zum Mai
 des nächſten Jahres zu düngen und hinlänglich vor-
 
-di
-ſel
-fd
-ur
 
 --- Page 26 ---
-tes
 
 — 133
 
@@ -1101,7 +1046,7 @@ und ſonſtige Verhältniſſe nicht genau bekannt ſind.
 
 Ferner if anzunehmen, dafi die proponirte Frucht-
 folge aus reiflicher Ueberlegung hervorgegangen, und
-begnüge ich mich daher in Bezug auf dieſelbe noc<
+begnüge ich mich daher in Bezug auf dieſelbe nocch
 Nachſtehendes hinzu zu fügen.
 
 If der Boden des beſagten Gutes ſo reich , daß
@@ -1117,7 +1062,6 @@ Futter liefert, und als Vorfrucht vor Rocken gleich
 falls nicht zu verwerfen iſt,
 
 --- Page 27 ---
-134
 
 Die Schläge 3, 4 und 5 tragen unmittelbar auf
 einander Halmfrüchte. Ob hier nicht theilweiſe rother

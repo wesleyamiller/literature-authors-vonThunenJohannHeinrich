@@ -10,6 +10,7 @@ source: "M029 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band19_M029_pp527-532_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 19/2. 6pp extracted (8KB)."
 assembled: 2026-03-13T23:11:45Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
@@ -210,5 +211,3 @@ nur ein Wollmarkt ſein, und mit dieſem Markte
 muß an demſelben Orte eine Wollniederlage
 
 verbunden ſein.
-
-——

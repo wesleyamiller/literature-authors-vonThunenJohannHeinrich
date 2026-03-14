@@ -10,6 +10,7 @@ source: "M035 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band24_M035_pp265-287_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 24/1. 23pp extracted (28KB)."
 assembled: 2026-03-13T23:11:45Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
@@ -43,7 +44,6 @@ tines Bos wixd-guf folgende Weiſe beſtimmt:
 N. Aanal. 24. Jahrg. tte Hälfte 18
 
 --- Page 2 ---
-266
 
 Das. Normalgewicht eines Bos, nachdem er ab-
 geſchoren iſt, wird zu 100 Pfd. angenommen. Wiegt
@@ -75,10 +75,9 @@ welcher uach-ber;Stimmenmehrheit der Concurrenten
 für den vorzüglichſten Zuchtwidder in allen Qualitä:
 ten erkannt wirde
 
-Keiner därf vabei für ſeinen eignén Bo> ſtimmen.
+Keiner därf vabei für ſeinen eignén Bock ſtimmen.
 
 --- Page 3 ---
-2
 
 4. ‘Ithrlingsböe ſind von dieſer Wette auögé
 ſchloſſen.
@@ -117,10 +116,8 @@ die Güte gehabt, die Anordnung und Leitung der Ge-
 ſchäfte bei Errichtung des Schafſchoppers und/ der
 
 Placirung der Schafe zu übernehmen, und- haben die
-18%
 
 --- Page 4 ---
-268
 
 Herren Coneurrenten ſi in’ dieſer Angelegenheit an
 denſelben zu wenden.
@@ -147,7 +144,7 @@ jeſi Jahr Wär dagegen, unter Direction
 bd" Herri ‘Domainenraths Denker auf Mirendorf,
 etliuitiger Schafſchuppen érbauet, der allen die-
 ſen Ucbelſtänden abhalf, und durch die Angeimeſſenheit
-uid He>mäßigkeit der Einrichtung, bèn allgemein-
+uid Heckmäßigkeit der Einrichtung, bèn allgemein-
 ſten Beifall erhielt;
 
 Die Schau wurdé damit eröffnet / daß bie Böcke,
@@ -157,7 +154,6 @@ worden. Vor jeden Bock wurde dann das Ergebniſ
 der Unterſuchung der Herren Taratoren in-Leipzig,
 
 --- Page 5 ---
-269
 
 mit Angabe des Vließgewichts im fabrikmäßig gewa:
 ſcheñen Zuſtande, des Sortiments, des Preiſes der
@@ -188,13 +184,11 @@ geſtellt, nämlich:
 --- Page 6 ---
 edin
 
-at
 
 Der Vos erdiett
 
-D
 
-vom’ Heren Botfiſch- Tenſe 1 Bo>, Rochs-
+vom’ Heren Botfiſch- Tenſe 1 Bock, Rochs-
 burger Abſtammung „ll
 Inſp. Wittenberg-Schlieffensberg
 1 Bo, Schwandter Abkunft
@@ -202,7 +196,7 @@ Grafen v. Schlieffen-Schwandt
 1 Bok, Schwandter Zucht .
 Staudinger - Groß Wüſtenfelde
 4 Bock, Toddiner Abkunft
-Nicolai - Paſſentin 1 Bo>, Pôt-
+Nicolai - Paſſentin 1 Bock, Pôt-
 
 niger Abkunft
 Lange - Jürgenshof 1 Bo, Jür-
@@ -212,7 +206,7 @@ Kenzliner Abſtammung, in Ba-
 ſedow gezogen...
 Grafen v. Pleſſen - Ivenaë 1 B,,
 von einer Schweizer Merino-
-Mutter u. einem Kenzliner Bo>
+Mutter u. einem Kenzliner Bock
 Grafen v. Schlieffen - Schwandt
 
 1 Bock, Mögliner Abkunft
@@ -221,7 +215,6 @@ Staudinger - Groß Wüſtenfelde
 1 Bot, Glaſewißer Abſtammung 11
 
 --- Page 7 ---
-EN
 
 vom Herrn Boéfiſch - Tenſe 1 Bo, RoŸhs-
 burger Abſtammung. +. . 12
@@ -251,7 +244,6 @@ lower But nin, M
 hiel
 
 Der Vos ext
-E
 
 vom Herrn Pogge - Noggow 1 Bok, Rog-
 
@@ -268,7 +260,7 @@ lower Zucht n 26
 Boöckfiſch - Tenſe 1 Bo, Nochs-
 burger Abſtammung.
 
-Zuvörderſt wurden von jedem Vo> Wellproben
+Zuvörderſt wurden von jedem Vock Wellproben
 von den Stellen Nro. 1,. Nro. 9 und Nro. 5 (nach
 der Jeppe'ſchen WoUprobencharte) entnommen. Dann
 wurden die Böcke numerirt, gewogen und — um
@@ -280,12 +272,11 @@ Hierauf ‘wurde zur Ermittelung des Siegers
 ? der durch die Stimmenmehrheit ber Concurren-
 #9 ſelbſt zu entſcheidenden. Wette“ geſchritten.
 
-Zu dieſem Zwe> wurden “ Abtheilungen von
+Zu dieſem Zweck wurden “ Abtheilungen von
 
 ° Böen gemacht, jedesmal ‘eine Abtheilung auf
 
 --- Page 9 ---
-2
 
 einen Tiſh" geſtellt, der ‘vorzüglichſte Bo -ausge:
 wählt, und zulegt wurden die Ausgewählten neben
@@ -300,7 +291,7 @@ gleiche Stimmenzahl hatten, wurden für die beſten
 eiflärt.
 
 2. Abtheilung. Die Böe: von Nro. 6 — 10.
-incl.z Boe Nro. 8 aus Ivena> - erhielt die mehr-
+incl.z Boe Nro. 8 aus Ivenack - erhielt die mehr-
 ſten Stimmtn.
 
 3. Abtheilung: Die Böe Nro. 11, Nro. 12,
@@ -311,11 +302,11 @@ Stimmenzahl.
 
 4. Abtheilung. Böe Nro. 17, Nro. 20,
 Nro, 21, Nro, 2 und Nro. 2. Die Stimmer
-mehrheit erhielt der Bo> Nro. 17 aus Roggow.
+mehrheit erhielt der Bock Nro. 17 aus Roggow.
 
 5. Abtheilung. “Böke Nro. 19, Nro. 2,
 Nro. 25, Nro. 26 und Nro. 28. Hierunter er-
-hielt der Bo> Nro. W aus Tellow. die mehrſten
+hielt der Bock Nro. W aus Tellow. die mehrſten
 Stimmen.
 
 Hierauf wurden“ die 7 Böe, welche inden
@@ -323,7 +314,6 @@ einzelnen Abtheilungen “ für die vorzüglichſten er-
 klärt worden waren, ‘nämlich Nro. 2, Nro: 3,
 
 --- Page 10 ---
-274
 
 Nro. ‘8, Nro. 14, Nro. 18, Nro. 17 und Nro: 6,
 
@@ -361,7 +351,6 @@ der Schafzucht fich mehr nähere, und ſomit die. in
 Meélenburg erzeugte Wolle ſpäterhin gleichartiger
 
 --- Page 11 ---
-206
 
 werden wird, was auf ve Preis, der auf einen klei-
 nen, von wenig Käufern beſuchten Markt, gebrachten
@@ -376,7 +365,7 @@ die Seite zu ſtellen. Findet ſich nämlich in einem
 Vließ ein Loth gezwirnte Wolle, ‘ſo ſeht dies den
 Werth des Vließes in der Tare der Wolthändler nur
 um ein Unbedeutendes herab. Iſt aber dies Loth ge-
-zwirnte Wolle auf.dem Wiederrüſt des Bo>s gewach-
+zwirnte Wolle auf.dem Wiederrüſt des Bocks gewach-
 
 ſen, o iſt ein ſolches Thier — weil dieſer Fehler fich
 auf die Nachkommen im wachſenden Maaß ver-
@@ -390,14 +379,13 @@ widders.
 Nach der Entſcheidung dieſer Wette wurdèn die
 Vöee unter ſteter Aufſicht der Coneurrenten kahl ‘ge
 ſchoren, die Vließe einzeln gewogen, in einen Beutel
-geſte>t, und die Beutel vom Hrn. Notarius Holſten
+geſteckt, und die Beutel vom Hrn. Notarius Holſten
 mit dem Notoniatsfiegel verſiegelt.
 
 Die Angabe des Körpetgewichts-der Böcke findet
 ſich in der Anlage C. die des vorigiährigen auf Treu
 
 --- Page 12 ---
-276
 
 und Glauben von den“ Concurrenten atigegebenen
 Schurtages in der Anlage D., und'die bes Feinheits-
@@ -406,7 +394,7 @@ des Hrn. Jeppe, in der Anlage E. verzeichnet.
 
 Am 6. Juni Nahmittags fand die angekündigte
 Bottauction ftatt. Nachdem aber 7 Böcke zu. dem
-Preiſe von 1072 bis 2072 Nthlr. das Stü> verkauft
+Preiſe von 1072 bis 2072 Nthlr. das Stück verkauft
 waren, fand ſich fein Kaufliebhaber mehr, obgleich
 aus den mehrſten ausgezeichneten Stammſchäfercien
 des Landes Böke, und zwar größtentheits ſchr gute
@@ -468,7 +456,6 @@ Von dieſer Anſicht geteitet, haben mehrere Mit-
 glieder des patriotiſchen Vereins, im Sinn und Geiſt
 
 --- Page 14 ---
-278
 
 dieſes Vereins handelnd, fic verpflichtet gefählt, tros
 des ungünſtigen Erfolgs und der Gefahr und Koſten,
@@ -490,7 +477,7 @@ gehoben werde, oder wenn dies nicht zu etreichen ſein
 ſollte, damit diejenigen, welche in der Meinung das
 Nüßliche zu fördern, jährlich Opfer bringen, nicht fer-
 ner dazu veranlaßt werden, und damit endlich das,
-was entweder nicht zwe>mäßig oder nicht zeitgemäß
+was entweder nicht zweckmäßig oder nicht zeitgemäß
 iſt, aufgegeben werde.
 
 Die Beutel, worin die Vließe gelegt waren, hate
@@ -503,7 +490,6 @@ Hrn. Domänenraths Sibeth, des Hin. Kaufmanns,
 Jeppe und des Hrn, Notarius Holſten, ausgelöſcht
 
 --- Page 15 ---
-219
 
 undiandèée Nummern dafür aufgezeichnet: Das sub
 A. liegende Protoeoll;- welches hierüber nähere
@@ -521,7 +507,7 @@ Die Frage: bei welcher Art der Wäſche und bei
 welchern Grade der Reinheit der Wolle der Probucent
 für ‘eine gegebene Wolle den höchſten Geldbetrag er-
 hâlt?e iſt faſt nicht minder wichtig, als die Frage:
->welcher Scfaſſtamm bei gleicher Wäſche den höch-
+ckwelcher Scfaſſtamm bei gleicher Wäſche den höch-
 fen Wollewerth liefert?e
 
 Die Käufer tadeln jebe nicht reine Wolle, und
@@ -539,7 +525,6 @@ höher als bei gewöhnlicher Wäſche, während durch
 die Seifwäſche 10 — 15 pCt. am Schurgewicht ver-
 
 --- Page 16 ---
-280
 
 lôren gégangen waren. Aus der Reinwäſche ging
 aiſo fúr die Producenten ein ſehr etheblicher Verluſt
@@ -548,7 +533,7 @@ dehalb. die reine Wolle nicht angemeſſen bezahlten,
 weil ſie die Seifwäſche nicht kannten und Nachtheile
 für ‘die/Wolle davon fürchteten — und man hoffte
 demnach -auf eine baldige günſtige Aenderuug--des
-Preisverhältniſſes ‘zwiſchen reiner und ſ<mutiger
+Preisverhältniſſes ‘zwiſchen reiner und ſchmutiger
 Wolle: Aber die Erfüllung dieſer Hoffnung wurde
 von Jahr zu Jahr hinausgeſchoben, das Mißoerh
 niſi im Preiſe blieb dauernd, und nachdem man ſich
@@ -573,7 +558,6 @@ dies: nicht geſchehen kann, beim längern Lagern
 Ausſcheidung des Schmuhes und Erhaltung. dés
 
 --- Page 17 ---
-281
 
 Fetts ſcheint demnach bei der Wollwäſche das Ziel
 ſäin zu müſſen, um für eine gegebene Quantität
@@ -582,10 +566,10 @@ iſt aber durch die gewöhnliche Hand- und Shhwemm-
 wäſche nicht zu. erreichen, und in dem Maaße, als
 man das Fett zu erhalten ſucht, bleibt auch ein ge-
 ringerer--oder größerer Theil des unter allen Um-
-fänden \unnüßen und nachtheiligen Sc<hmuges in
+fänden \unnüßen und nachtheiligen Scchmuges in
 der Wolle,
 
-Wenn nun mit jedem -Rü>ſtand des für die
+Wenn nun mit jedem -Rückſtand des für die
 Conſervation der Wolle wichtigen Fetts, zugleich
 tin Rückſtand des — theils durch erſchwerte Fabrik,
 wäſche, theils durch vermehrte Transportkoſten —
@@ -607,7 +591,6 @@ rig, als. daß. ſie von dem Einzelnen zu einem ent-
 N. Annal, 24, Jahrg. Ute Hälfte, 19
 
 --- Page 18 ---
-W2
 
 if deshalb vielinch? Sache des ganzen Vereins.
 Die Direction ver Schafſchäu ‘würde ih, meiner
@@ -616,7 +599,7 @@ Wetten; blos ‘auf vié einträgliche Wöllwäſthe ge
 tichtet, veranlaßife, und' dann bei künftigek Entſchei
 dungen der auf ven! höchſten Vließwerth" gerichteten
 Mette; den Taratoren bie zwiefache Aufgabe" ſtellte 2
-ti die Vlieſe blos na<h’der Güte det Wolle; ohnè
+ti die Vlieſe blos nach’der Güte det Wolle; ohnè
 Rückſicht auf die Wäſche zu tariren, unb“A dié
 Werthöoerſchiedenhäit ‘ber“Vließe, welche, Gleihheit
 bes! Wollhaares vorausſehend/" blos aus“ der’ und
@@ -639,7 +622,6 @@ der Sprite gewaſchene Wolle von einigen Woll
 händlern gelobt und geſucht iſt, wird" ſie von an+
 
 --- Page 19 ---
-283
 
 dern. Käufern getadelt und gemiebèn — und ſg.
 bleibt auch hierüber das. Publicum no in Unge:
@@ -673,16 +655,14 @@ mitzuzuſenden.
 Die Taxe derſelben if auc gleichzeitig mit der
 Taxe der Wolloließe eingegangen, Referent ent-
 
-19°
 
 --- Page 20 ---
-284
 
 hätt es ſi aber, hierauf Schlüſſe und Folgetün-
 gen zu bauen, weil Hr. Pogge ſelbſt die belehre!
 
 den Reſultate, welche ſich daraus ergeben, unſtrei-
-tig! weit beſſer darlegen und entwi>eln kann, als
+tig! weit beſſer darlegen und entwickeln kann, als
 dér Unterzeichnete — welcher deshalb" den Herrn
 Pogge hiedurch erſucht, ſein Verfähren bei dem
 Verſuche und die aus der Taxe gewonnenen Res
@@ -700,7 +680,7 @@ Hiîtna ab, und kamen im Monat Februar 1839 mit
 vein snh B anliegenden, ‘vón dei Herren: Clauß,
 Wollhändler* Wilkéns, Obermeiſter Meiſener und
 Tuchfabrikanten Querner gemeinſchaftlich entworfe-
-tién und untérſchriebénen Tarations-Protokoll zurü>,
+tién und untérſchriebénen Tarations-Protokoll zurück,
 
 Ín dem Tatations-Protocoll fanden ſich aber
 threre Rechnungsfehler, und da hier eine abſolute
@@ -709,7 +689,7 @@ Nichtigkeit erforderlich war, fo hatte Herrr Amts-Se-
 zeichneten die Gefälligkeit, die ganze Berechnung net
 zu formirén.
 
-Beim Abdru> des Protocolls iſ nun dieſe revi-
+Beim Abdruck des Protocolls iſ nun dieſe revi-
 
 --- Page 21 ---
 virte Rechiiung, ſtatt dér urſprünglichen, darin aufge-
@@ -730,7 +710,7 @@ zucht zu einer Verſammlung in Güſtrow.
 
 Dieſe Verſammlung fand am 20. April 1839
 fatt und würd von dem Herrn Grafen von der Öſtén-
-Saen mit einem Vortrag über Zwe> und Bedei-
+Saen mit einem Vortrag über Zweck und Bedei-
 tung der Schafſchau und der damit verbundenen Con:
 currenz zu den Prämien eröffnet.
 
@@ -749,7 +729,7 @@ höchſten Vlieſiwerth;- nämlich 3,9255 Rthlr,
 
 --- Page 22 ---
 (3 Rthlr. 44 fl.) hat, dem Herrn Grafen von
-Pleſſen auf Ivena> gehört.
+Pleſſen auf Ivenack gehört.
 
 . daß ‘ber Bo mit der Vließinimmer 9, wel-
 cher bei 3,7789 Rthle. (3 Rthlr. 37 6l:) Vließ-
@@ -781,7 +761,6 @@ Haupt-Sortimenten keine Unterabtheilungen gemacht
 haben, wodurch-die feinern Unterſchiede in Werth der
 
 --- Page 23 ---
-287
 
 Wollen unbemerkt bleiben, und ſich in der Taxe-nicht
 geltend machen können.

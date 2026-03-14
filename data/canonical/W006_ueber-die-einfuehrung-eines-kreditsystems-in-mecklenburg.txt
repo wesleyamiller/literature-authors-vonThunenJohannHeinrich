@@ -10,6 +10,7 @@ source: "M010 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band04_M010_pp401-544_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 4. 144pp extracted (199KB)."
 assembled: 2026-03-13T23:11:44Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
@@ -19,7 +20,7 @@ Pfandwerths dec Meklenburgiſchen tandgürer,
 
 Vorwort,
 
-Das Bedürfaiß eines fr Me>lenburg paſſenden
+Das Bedürfaiß eines fr Mecklenburg paſſenden
 Kreditſyſterms hat man lange genug gefühlt, Die Bec
 mühungen ſo vieler, dieſes Gegenſtandes kundiger
 Mánner, um die manuigfaltigen, zum Theil ſich kreue
@@ -54,21 +55,21 @@ jeht ſo viele denkende Kdpfe beſchäftigt, anzuwenden,
 Dex Gang ſeiner Ideen iſt auf die beyden Haupt-
 gegenſtände gerichtet
 
-Ein Kreditſyſtem iſt für Me>klen-
+Ein Kreditſyſtem iſt für Meckklen-
 burg nothwendig; um aber dieſe Anſtalt
 nicht auf einen ſ{wankenden Grund zu bayen,
 der über furz oder uber lang, einen gefährlichen
-Einſturz drohen md<bte; muß der Pfands
+Einſturz drohen mdchbte; muß der Pfands
 werth unſrer Landgüter überzeugen-
 der, als es auf dem bisherigen Wege
 möglich war, ausgemittelt werden,
 
 Der unterrichtete Leſer wird dieſe mit ſeltenem
 Stharfblick und genauer Loeal - Kenntniß entworfene
-Abhandlung vi<t unbefriedigt bey Seite legen, Um
+Abhandlung vicht unbefriedigt bey Seite legen, Um
 ſo mehr iſi es zu wünſchen, daß die Prüfung Sachkun-
 diger Vaterlandsfreunde ihr die allgemeine Uufmerk-
-ſamfeit erwe>en mdge, worauf ſie, als ein Wort zu
+ſamfeit erwecken mdge, worauf ſie, als ein Wort zu
 
 --- Page 3 ---
 Af vilte
@@ -85,7 +86,7 @@ ren faſlinz
 
 depen Happ
 
- Me>len
+ Mecklen
 dieſe Loſi
 y zi ba
 a geiihita
@@ -109,7 +110,6 @@ der hier abgehandelten Materien,
 
 Erſter Abſchnitt,
 Nothwendigkeic eines Kredirſyſtems für Mecklenburg.
-S4,
 
 Die legten Zeitereigniſſe machten einen Iudult für
 Medklenburg! nothwendig.
@@ -118,9 +118,7 @@ Schäpliche Folgen des Indults,
 $. 3
 Mittel, wodurch in Zukunft dieſen Uebeln vorgebeugt
 werden muß,
-$4
 Einfährung unab!dslicher Rente,
-$5
 Gerichtliche Eintragung der Renten uno Vermindes
 rung der Unkoſten beym Verkauf eines Guts,
 s ó.
@@ -129,12 +127,9 @@ Ausfährung zu bringen.
 
 Zweiter Abſchnitt,
 Ueber die Ausmittelung des Pfaudwerths der Güter,
-26°
 
 --- Page 4 ---
-— 4
 
-67
 Fehlerhafte Verauſchlagungsmethode nach Kdenern,
 5. 8.
 Führt ein genau ſpecificirter Anſchlag zur richtigen
@@ -155,7 +150,7 @@ $. 12
 Schlußfolge,
 $. 13.
 
-Die Wohlthat eines Kreditvereins iſt \<on durch
+Die Wohlthat eines Kreditvereins iſt \chon durch
 das Pommerſche Kreditſoſtem beſtätigt, das indiſſen
 für Meleuburg nur unter Veſchräukungen zum
 Muſter dienen kann,
@@ -167,14 +162,13 @@ Landesvergleih vorgeſchriebenen Bonitirungs - Regles
 ments eine mdglichſt genau? Annäherung zum rich=
 tigea Reſultat: geben ?
 
-A. Zur Beſtimmung des A>erlandes.
+A. Zur Beſtimmung des Ackerlandes.
 
 --- Page 5 ---
 Kinen,
 
 :tilgn
 
-ſlv
 
 ung és
 mihtal
@@ -270,7 +264,6 @@ egienung it
 
 ny ftt
 
-4
 
 Kapitaliſten nicht mehr als 5 pCt, Zinſen nehmen
 dürfen,
@@ -385,7 +378,7 @@ Geld zurücffodert, ſo gegründet iſt, und da faſt alle
 Kapitaliſten in derſelben Lage find, ihr Geld höher
 nußen zu kbnnen, ſo wird auch die Küudigang der in
 Gütern ſtehenden Kapitalien ſich gleichzeitig faſt auf
-das ganze Land erſtre>en.
+das ganze Land erſtrecken.
 
 Der hier aufgeſtellte Gutóbeſißer mag nun dei
 beſteu Willen haber feinen Gläubiger zu befriedigen,
@@ -417,7 +410,7 @@ den Geldſtoff des Landes ſo zu vermehren, daß das
 Geld nicbt hdber als zu 5 pCr, zu nußen iſt ?
 
 Es bieidt ihr, wenn ſie nicht ihre Geſehe verſpottet-
-und das Glâc> von vielen Familien, deren gauze Erie
+und das Glâcck von vielen Familien, deren gauze Erie
 ſenz im Vertrauen auf dieſes Geſet gebauer iſt, zere
 trümmert ſchen wil, fein andres als das harte und
 hdebſt bedenkliche Mittel: die Schuldner von
@@ -461,7 +454,6 @@ eſ inſo
 
 „unie
 ſenden 1
-id
 n pW
 
 918 >:
@@ -537,7 +529,6 @@ Brrrh
 den Kc
 
 tt dem Bela
-d
 ngen deh
 ſo núteſt
 dj ten 1
@@ -546,7 +537,6 @@ fué des Gal
 intigtr — a
 tinthaju gi
 : uid ardt
-ig
 i miſſtad
 hnungtzttin
 en, Diſe
@@ -557,12 +547,10 @@ n noh tib
 glide Buty
 pe, unt
 
-LA
 ; inne
 
-—
 
-ter Summen die Andern vom Ueberbiethen zurü>-
+ter Summen die Andern vom Ueberbiethen zurück-
 hält, wird das Gut auf dem Termin weit unter ſeinem
 wahren Werth verkauft, Dem Käufer koſtet nun das
 Gut vielleicht o viel als es werth iſt ; aber ein bes
@@ -644,13 +632,11 @@ er Zei, m ti
 incurs verla
 tiger fegt
 
-hau
 h veo 718
 nine veo 718
 uefa nid
 für data!
 n zus
-aas
 
 LE 1 Ue
 
@@ -664,7 +650,7 @@ Schulden hatte.
 Auf dieſe Weiſe ſind in Mecklenburg ungeheure
 Summen verloren gegangen, und eine große Menge
 wohlhabender Familien in die bitterſte Armuth geſtärzt
-worden, und dies würde unſtreitig in no< grbßerrn
+worden, und dies würde unſtreitig in noch grbßerrn
 Maaßte ſtatt gehabt haben, wenn kein Zudult geweſea
 wäre,
 
@@ -713,7 +699,7 @@ kaun, und verdirbt in der ihm unnatürlichen Une
 thâtigfeit,
 
 Die Nachtheile des Indalts werden in dieſem
-Uugenbli> zu lebhaft empfunden und ſind zu lebendig
+Uugenblick zu lebhaft empfunden und ſind zu lebendig
 în der Erinnerung, als daß es udthig ſeyn ſollte, ier
 mehr darüber zu ſagen,
 
@@ -726,7 +712,6 @@ ic tema
 in, und dg
 Kafi chin
 
-ul,
 , diſ dt
 id zu verhin;
 bltbiig nik
@@ -786,7 +771,7 @@ orgebengt
 
 --- Page 18 ---
 — 48
-meiner Meinung auf dieſe vier Gegenſtände zurü>
+meiner Meinung auf dieſe vier Gegenſtände zurück
 führen laſſen :
 
 1, Die Einführung von unabldslichen Rentenzahe
@@ -801,7 +786,6 @@ Reute zur Hypothek dienenden Guts,
 4, Verminderung der Unkoſten beym Verkauf cines
 Guts,
 
-64
 Einführung unuablöslicher NRentei.
 
 Mir wollen nun die Vortheile, die die Einführung
@@ -823,7 +807,6 @@ Gutsbeſiker, der die Rente nicht richtig zahlt, hüten,
 ſo hdebſt ſchädliche Schwanken der Güterpreiſe ſehr
 vermindert,
 
-ne
 
 indes
 
@@ -838,7 +821,6 @@ Renten,
 Lure ds te
 
 Verluf ins
-u
 
 die Einſihm
 jug hat,
@@ -920,7 +902,6 @@ ler übrig und dieſe haben bey dem
 
 --- Page 21 ---
 — 7-
-TN
 eroititer hd
 ſah, ſe di!
 ide gent,
@@ -998,7 +979,7 @@ Als nun die Verhältniſſe ſich änderten, der Zinsfuß
 flieg, die Kornpreiſe fielen, da wanderte der Luxus
 nach den Siädren,
 
-Die ungeheuern Summen, die Me>lenburg bey
+Die ungeheuern Summen, die Mecklenburg bey
 den theurep Kornprtiſen vom Auslande einnahm, ſind
 Auf dieſe Weiſe ale wieder verſchwunden, und haben
 
@@ -1069,7 +1050,7 @@ ganzen Landes ſo ſehr vermindert e als wenn viele
 Güter wegen Mangel an Betriebskapital ſchlecht be-
 
 wirthſchafier werden , und dadurch“ aufhören einen
-reinen Ertrag zu geben, “ Der hiedur< entſtehende
+reinen Ertrag zu geben, “ Der hiedurch entſtehende
 Verluſt triff aber zuleht immer die Kapitaliſten, die
 {hr Geld in dies Gut angeliehen haben, und es wäre
 eine ſehr wohlthätige und gerechte Verfügung, wenn
@@ -1086,7 +1067,7 @@ war der Verkaufpreis einer Hufe im Durchſchnitt
 Ungefähr 20,000 Thaler, Das geſammte Mecklen
 dura enthält incluſive der Domainen und der Stadt-
 Sluer ungefähr 8000 Hufen, Der Kapitalwerth des
-Grundes und Bodens yon Mé>leuburg betrug alſo das
+Grundes und Bodens yon Méckleuburg betrug alſo das
 mals 160 Millionen Thaler,
 
 Im Jahr 1814 und 15, als das Land vom Joche
@@ -1222,7 +1203,7 @@ zahlung dieſes Uebel in ſolche Gränzen beſcbränkt , däß
 zu der Unterſuchung, wie das zweyte Hauptäübel in
 dem Mekenburgſchen Kreditweſen — die Unverkäufo
 lichkeit der Obligationen während des Jndults, —
-ébeùfalls durch eine zwe>mäßige Einrichtung der
+ébeùfalls durch eine zweckmäßige Einrichtung der
 Rentenzahlung gehoben werden kann,
 
 Eine Rente, deren fortdauernde regelmäßige Zaha
@@ -1232,7 +1213,7 @@ tale gleich, und fan nie verkäuflich ſeyn,
 
 Bey der Eiúfährung der Rentenzahlung iſt es des-
 halb eine unerláßfiche und heilige Verpftichtung, daß
-die Rente durch eine überwiegende Hypothek gede>t
+die Rente durch eine überwiegende Hypothek gedeckt
 ſev- deren Einkünfte auch unter den alterungünſtigſten
 Zufälle, die drauf haftende Rente noh bedeutend
 überſteige, Es iſt aber noch niht genug; daſ diefe
@@ -1249,7 +1230,7 @@ heit , bald einen Kapitalwerth und Curs erhalten,
 
 Die Meinung des Publikums — ſie mag nun ge-
 ründet oder ungegründet ſeyn — muß hiebey aber
-auf das allrſtrengſie geſhout und berü>ſichtigt
+auf das allrſtrengſie geſhout und berückſichtigt
 werden, .
 
 Es iſt nun aber wbglich und ſelbſt wahrſcheini-
@@ -1363,7 +1344,7 @@ die. mit, der Adminiſtration eines ſo vielſeitigen Gez
 wage i auch hierüber kein entſcheidendes Urtheil z
 aber es wird mir erlaubt ſeyn, meine Anſichten über
 die Vereinfachung der Adwiniſication erfahrnen Ges
-ſ<äfrömännern zur Prüfung vorzulegen,
+ſchäfrömännern zur Prüfung vorzulegen,
 
 Die Erfahrung aller Zeiten hat es bewieſen, daß
 jedes einer Kommüne gehörige Vermögen nicht ſo
@@ -1396,7 +1377,6 @@ des Unhlj
 Juſtes ite
 rſahrten G0
 
-A
 deoicſs
 jen vidi |
 Ertrag did
@@ -1408,7 +1388,7 @@ Wozu bedarf denn aber auch die Direction des
 Kreditvereins oder die Landſchaft, vie hier als Mite
 telöperſon zwiſchen Gläubiger und Schuldner eintritt,
 eives bedeutenden eigenthümlihen Vermdgens ? Etwa
-um rá>ſtändige Zinſen zu bezahlen ? Hiezu bedürfte
+um ráckſtändige Zinſen zu bezahlen ? Hiezu bedürfte
 es nur eines kleinen baaren Kapi1als, denn die Zinſen
 müſſen mit unerbittlicher Strenge eingetrieben wers
 den, indem jede Nachſicht gegen den Einzelnen zum
@@ -1468,7 +1448,6 @@ Schuldner direct an den Gläubiger bezahlt werden ?
 Jn dem eigentlichen Weſen des Kreditverein's liegt,
 
 --- Page 33 ---
-LTI
 den nd rey
 in andre
 finta ns
@@ -1481,7 +1460,6 @@ furt dlé len
 icher Ung
 y bilden nuf:
 08d zo dis
-an,
 ale einer Die
 Feidgetöfa
 gite mid
@@ -1527,8 +1505,8 @@ N. Annal. ar Zahrg, ate Hälſe: 38
 --- Page 34 ---
 — 44
 
-auch bey einer zurü>geſchlagenen Erndte, der Ertrag
-des Guts hinreichen, dieſe Zinſen zu de>en, wenn auch"
+auch bey einer zurückgeſchlagenen Erndte, der Ertrag
+des Guts hinreichen, dieſe Zinſen zu decken, wenn auch"
 die Ziliſen der Kapitalſchulden, die dèr Guröbeſiter ſonſt
 noch habenmag, in einem ſólchen Jahre nichr. bezahlt
 werden föunen, ‘Damit aber der Gutsbeſißer nicht
@@ -1548,7 +1526,7 @@ einſtoeilen vorſchießen, und der Gutsbeſiger vergütete
 ſcheﬀung des Geldes,
 
 Ich muß hiebeg ‘bemerken, daß die Maſſe von Ur
-gſi>éfállen, die: ein: Gut treffen können, den Kapis
+gſickéfállen, die: ein: Gut treffen können, den Kapis
 nlwerth des Gurs faſt erreichen , und daß alſo ein
 Gut, 1welcdes die Gefahr aller dieſer Unglêcksfälle
 ſelb trägr, faſt gar keinen Pfandwerth hat, Es iſt
@@ -1563,7 +1541,7 @@ Mebilieu - Brandkaſſe und in die Hagelſchlagente
 ſ@ädigungsgeſellſchaft, ſeinen dauernden Kapitalwerth
 geſichert hat,
 
-Zu no< grdſieret Sicherheit des Gläubigers,
+Zu noch grdſieret Sicherheit des Gläubigers,
 tnüſite das Directorium verpflichtet ſeyn, auf die bloße
 Anzeige daß er ſeine Zinſen nicht erhalten hätte,
 ihm dieſe auszuzahlén ; zu welchent Zwe ein kleines
@@ -1592,7 +1570,6 @@ Inhaber, ſondern ſié mſſen auf dei Anleiher lauten,
 uni können danni nur bueh Ceſſion zu einem andert
 Beſitzer übergehen. Meines Bédlnkens kana dies
 
-28°
 
 --- Page 36 ---
 — 436 —
@@ -1641,7 +1618,7 @@ Miglielt, für Mecklenburg ein Kreditſpſtem in Aus-
 führung zu bringen.
 
 Es entſteht nun die Frage, wie ohne Fond und
-bey der gänzlichen Ungewohntheit der Me>lenburgio
+bey der gänzlichen Ungewohntheit der Mecklenburgio
 ſchen Kapitaliſten , nnabldsliche Foderungen zu be-
 figen oder zu faufen, die Einfährang eines ſolchen
 Kreditſyſtems möglich ſey.
@@ -1703,7 +1680,6 @@ werden vielleieht auch. im Lande ſelbſt einen Käufer
 finden ; iſt dies aber nit der Fall, fo müſſen dieſe
 
 --- Page 39 ---
-rh,
 Vainng
 
 ie Pant
@@ -1719,7 +1695,6 @@ qt trnd
 uf die Urt,
 er babe ven
 ee angtlithet
-ude
 15000 Tul
 gttráatlida
 nd für ſit
@@ -1754,7 +1729,7 @@ beträgt ebenfalls 25000 Thaler, o knnen abermals
 Summe aller auégegebenen Pfandbriefe beträgt nun
 ſchon 150009 Thlr,
 
-Dieſe Summe ſcheint zu dem Zwe>, den Pfand-
+Dieſe Summe ſcheint zu dem Zweck, den Pfand-
 briefen einen Curs zu geben- vorläufig hinläuglichzi
 ſeyn, Aus zwey Urſachen“ ninß ſi aber dieſer Curs
 in einem oder’ einigen Jahren bilden ; denn : erſtens
@@ -1773,7 +1748,7 @@ Teit, und durch die daraus enrſtandenen klareren Ans
 
 Vielleicht mſſen ober die Pfandbriefe zuerſt zu
 inem Preiſe verkauft werden, der ihrem wahren Werth
-nict glei iſi ; dann iſt der Uugenbli> gekommen,
+nict glei iſi ; dann iſt der Uugenblick gekommen,
 wo die Landſchaft einige Aufopferungen — die von
 
 allen-Gütern, die jeht ſ{on im Verein find, und
@@ -1781,7 +1756,7 @@ die chm demnäcſt no beytreten , gemeinſchaftlich
 getragen-werden miſſen — vit ſcheuen darf,
 
 Haben nun die P'andbriefe einen Curs erhalten,
-ſo fann_ jeder Gutsbeſiger, der nict mehr ſ<uldig iſt,
+ſo fann_ jeder Gutsbeſiger, der nict mehr ſchuldig iſt,
 als der Pfanowerth ſeines Guts beträgt, “mit ſeinen
 Gläubigern in freyeu Handel darüber treten, wie viel
 Piandbriefe „er ihnen für ihre Forderungen geben
@@ -1801,7 +1776,6 @@ tvürde,
 --- Page 41 ---
 tint ni
 bi tutt
-Ups
 
 e Unete
 n fail
@@ -1952,7 +1926,7 @@ Beſteurung- als der Grund und Boden. Die Farcht
 daß oies, früh oder ſpät - einſt benußt werden mchte,
 kann auch den Kapitaliſten, der“ die jetzigen Abgaben
 von den Zinſen gewiſſenhaft entrichtet, von dem Ans
-Lauf der Pfandbriefe zurückſhre>en.
+Lauf der Pfandbriefe zurückſhrecken.
 
 Eine feyerliche Garantie è daß die Zinſen von
 ¿den Pfaudbriefen nie und unter keinem Vorwand,
@@ -1971,7 +1945,7 @@ digt werden,
 - Man ‘würde alſo vorläufig die Zinſen von den
 Pfandbriefen von der Abgabe befreyen, ſpäterhin dieſe
 Vefreyung auch auf die Zinſen andrer Kapitalien ere
-ſtre>en múſſen, theils um den Pfandbriefen keinen zu
+ſtrecken múſſen, theils um den Pfandbriefen keinen zu
 großen Vorzug! vor den andern Kapitalfoderungen zu
 geben , und hauptſächlich, um eine Abgabe die ſo
 nadtheilig auf die Moralität wirkt, ganz
@@ -1983,7 +1957,7 @@ Das Deficit, was hiedurch in der Staatseinnahme
 AAS \
 
 fommen würde, müßte durch eine ſucceſſive Erhdhung*
-der Hufenſteuer gedec>t werden - und da der Ertrag
+der Hufenſteuer gedecckt werden - und da der Ertrag
 dieſer Abgabe wahrſcheinlich immer ſehr geringfügig
 geweſen iſt : ſo möchte die Erhdhung der Hufenſteuer
 von 4+ bis auf 5 Thaler dazu hiareichend ſeyn,
@@ -2039,7 +2013,7 @@ Nac dieſen/Erdrterungen wende ‘ih mich "jeht!
 au der Unterſuchung è wie der Pfandwerth der Güter
 auszumitteln iſt fi
 
-Zweyter Abf<uitt
+Zweyter Abfchuitt
 Ueder die Ausmittelung des Pfandwerihs bér Gütét,
 $. 7
 Dehlerhafte Veranſchlagüngsniethode nah Körnern,
@@ -2049,7 +2023,6 @@ Um den Werth eines ‘Guts durch einen Anſchlag
 zufinden, bediente man ſic bis auf die neueſte Zeit
 
 --- Page 47 ---
-Mr
 
 dér Methode, daß man von dem oeſamititen Korner-
 trag des Feldes, die Ausſaat ‘zwey bis dreyfach,
@@ -2104,7 +2077,7 @@ ganz in der Willkühr der Tarätoren,
 Wenn dennoch einige Güter nach dieſem Anſchlag
 richtig tarirt ſid, ſo lag es darin, daß die ſawver-
 ſtändigen und unpartheyiſchen Taratoren den Werth
-des Guts nach einem allgemeinen Ueberbli> beſtimm-'
+des Guts nach einem allgemeinen Ueberblick beſtimm-'
 ten, und nun den ſehr biegſamen Anſchlag ſo lange
 änderten, bis er die Summe brachte, die ſie haben
 wollieu,
@@ -2145,7 +2118,6 @@ y reha
 
 tag dd
 
-gue
 
 jui gt
 
@@ -2155,7 +2127,7 @@ des Reſultats genau im Verhältniß mit der Richtigkeir
 aller einzelnen Anſáhe ; anſtatt daß bey der ‘alten
 Form; die Korupreiſe und der Kornertrag unrichtig
 angeſeht werden mußten, wenn das Reſultat des Anz
-ſ<lags — der Reinertrag — richtig werden ſollte.
+ſchlags — der Reinertrag — richtig werden ſollte.
 Die Taratoren/ ind aber auch hiebéy den Feſſeln
 der dffemlichen Meinung untérworfen,
 
@@ -2177,7 +2149,7 @@ auſegen,
 Ich habe einén Anſchlag geſehen, der as der freyen
 Ueberzeugung unterrichteter Männer. hervorgegängen»
 die Kornpreiſe nach einem dreyßlgiährigen Darche
-ſchnitt und die Ausgaben na< der Wahrheit angab 5
+ſchnitt und die Ausgaben nach der Wahrheit angab 5
 und dieſer Anſchlag wurde büter geradelt, weil — dié
 
 N, Canal, ar Jaßrg, 2te Hälfte, 29
@@ -2193,7 +2165,6 @@ nichr. duidet, Glauben verdienen, und kaun das Gee
 ſchäft des Bouitirens, gute Taratoren bilden, wenn die
 Erforſchung der Wahrheit nicht der. höchſte Zwe iſt?
 
-$8.
 Führt ein genau, ſpecificirter Anſchlag: zur richtigen.
 Schätung des Pfandwerths ?
 
@@ -2201,7 +2172,7 @@ Es entſteht nan die Frage ob die aufgeſtellten
 Anſchlagégrundſäue, und die Kenutuiſſe unſerer Bonis
 tbis, hinreichen, den Pfandwerth der Güter mit ſolcher
 Genauigkeit uud Wahrheir darzuſtellen, daß dadurch
-der große Zwec> des Kreditvereins, das unbedingte
+der große Zwecck des Kreditvereins, das unbedingte
 Vertrauen Aller zu gewinnen, erreicht werde ?
 
 Der erfahrne practiſche Landwirth weiß durch eine
@@ -2258,7 +2229,6 @@ fann, als wenn der“ Tazator das Gut ſelbſt kauſen
 oder pachten will ; und weil man fürchtet, er werde,
 durch andre Rückſichren geleitet - ſeine wahre Ueders
 
-299
 
 --- Page 52 ---
 — 450
@@ -2299,7 +2269,6 @@ ide, cine riſs
 1h@ wird ihn
 ien Rinn
 
-n
 cágin Db
 e riel tie
 actoſide
@@ -2318,7 +2287,7 @@ wirth ſelbſt unvortheilhaft wird,
 Ecfahrungen, die ſich im Gedächtniß nicht auf-
 bewahren laſſen/ gehen für den, der feine Rechnung
 fúhrt, verloren, und laſſen“ feine klaren Unſichieu in
-ihin zurü>.
+ihin zurück.
 
 Es iſ auffallend, wie irrig im allgemeinen die An-
 fichten über die Ertragsfähigfeit des Bodens find und.
@@ -2481,7 +2450,6 @@ az viltiht
 tice lunán
 wf diſe fefa
 luvg des Felde
-fn
 
 ſr jalid i!
 en nid dieſe
@@ -2501,7 +2469,7 @@ feſigeſent werden müßten, — Sind, ſte erreichbar? —
 Sind ſie nothwendig.?,
 
 So leicht es iſt, die Mängel dieſes Anſchlags eins
-zuſehen, ſo ſ<wer iſt es doch, ihn durch einen beſſerw
+zuſehen, ſo ſchwer iſt es doch, ihn durch einen beſſerw
 und zweckmäßigern zu erſeßen.
 12+-Die Wiſſeuſchafe ſelbſt hat eine Menge Fragen;
 deren Beantwortung zur vollendeten Darſtellung dex
@@ -2570,7 +2538,7 @@ gemacht wird?
 Dies würde richtig ſeyn, wenn man verſichert ſeyn
 fdunte, daſi’der Jrthum gewiſſe Gränzen nicht übers
 ſchritte, Wie ſehr aber eine unrichtige Inſtruction den
-Zive> verfehlt, davon iſGunſer jehige Hufenſtaud ein
+Ziveck verfehlt, davon iſGunſer jehige Hufenſtaud ein
 redeudes Beyſpiel, “ Das Geſcwäft des Bonitirens iſ
 an ſi ſchon ſo ſchwierig, -daß bie Ansmittelung des
 Gutéêwerths auch dann noc mangelbaft gevug ſey
@@ -2581,7 +2549,7 @@ welche Früchte er früher getragen har¿-doch noc in
 jedein Jahre zweifelhaft it, wie! weit er mit der Weis
 heuſaar gehen faun : ſo ſoll bagegen-der Bonitdr, dex
 dew Ufer uur in e i n e m Zuſtaude/ſieht ,“ ſein Ver?
-halten bey naſſer und bey tro>ner Witterung nicht
+halten bey naſſer und bey trockner Witterung nicht
 beobachten kann, den Untergrund des Bodens nicht
 kennt , der die frühere’ Bebandlung des Ackers und
 die Saaten die er getragen, nicht geſehn har, dieſer
@@ -2625,19 +2593,15 @@ zwiſchen beyden Arten von Gütern als dauerud an-
 ter, die gar feinen Mergel haben, müßten noth-
 wendig viel niedriger tarirt werden, Das Auſſuchen
 
-fn,
 lam 08
 ninni
 gien
 ſem 8
-ud
 tſet
-ida
 
 | fais
 | Meyi
 - eter vit
-Del
 
 --- Page 61 ---
 Vtt tua
@@ -2741,7 +2705,7 @@ nicht zu erſehen, weil die feinen Schafe n0< ſo ſelten
 Veſih eier_ feinen Heerde ſehea kann, ſo lange iſt
 auc der höhere Ertrag eiuer ſolchen Heerde - nicht
 als Bodenrente - ſondern als die Zinſen des in der
-Heerde ſte>enden Kapitals zu betrachten,
+Heerde ſteckenden Kapitals zu betrachten,
 
 --- Page 63 ---
 — nm
@@ -2788,7 +2752,7 @@ wichtigen ‘Gruud „ ‘der vou einer “neueu'Taxation
 gurüfbalieu muß," *ndmifich das * Mißirauén ‘des
 Publikums, 6
 
-Gefegt auch , daß wir, ‘gleichſarû’ bür<h cia
+Gefegt auch , daß wir, ‘gleichſarû’ bürch cia
 MWünder; Taren erhielten, die alle, auc dî ſtrengſten
 Foderungen erfüllten , wie ift das Publikum bavon
 au überzeugen , daß dieſe Taren wirklich ſo richtig
@@ -2845,7 +2809,6 @@ uin iat;
 
 iciga ſud
 vie ganze
-TN
 1 ritis aug
 bſr, de
 ganzen Betnis
@@ -2903,7 +2866,7 @@ eines ſolchen Véreins,
 Der voll:ndete Erfolg des Pommerſchen Vereini
 fann leicht ¡g der Meinung führen : man dürfe die
 Einrichtuvgdeſſelden yur in allen Stücken vachahmen,
-um ia Me>enburg denſelben Erfolg zu haben, Man
+um ia Meckenburg denſelben Erfolg zu haben, Man
 áuſche fich hierin aber nicht, dieſelben Einrichtungen
 fdnnen dieſelben Wirkungen nur dann hervorbringen,
 wenn au die Umſtände ſic gleich ſind ; dieſe ſind
@@ -2912,7 +2875,7 @@ zwey Purkten ſehr weſentlich von einander verſchieden :
 
 Erſtens, In Pommern gab der König zur
 erſten Gründung des Vereins einen ſehr bedeutenden
-Fond hm, wodur< ohne Theilnähme der Kapitaliſten
+Fond hm, wodurch ohne Theilnähme der Kapitaliſten
 die erſlen Pfandbriefe creirt werden konnten, Die
 Landſchaft - oder das Directorium trar hiedurch als
 reiche Mittelsperſon zwiſchen Gläubiger und Schuld-
@@ -2946,7 +2909,7 @@ rum ot
 
 vie ſo gemißbräuht worden. Deshalb fand der
 Krediiverein Vertrauen beym Publikum, anſtatt daß
-er in Me>lenburg überall mit dem Mißtrauen deſe
+er in Mecklenburg überall mit dem Mißtrauen deſe
 ſelben zu kämpfen haben wird. Die Gütertaren bey
 der erſten Einführung des Kreditſyſtems in Pommern
 ſind unſtreitig von der Vollkommenheit weit entfernt ;
@@ -2962,20 +2925,18 @@ Ju Mecklenburg würde aber ein einzelner Fall von
 dieſer Art das ganze Gebdude erſchüttern ; darum
 miſſen die Taren genauer ſyn, und die Willkühr ganz
 éinfernt werden, wenn hier der Kreditverein beſtehen
-ſu.
 
 $. 14.
 Wie fónnte die Befolgung des im Meenburglſchen
 Landebvergleich vorgéſctriebenen Bonitirungs - Reglements
 eine móglichſt genaue Annherung zum richtigen Reſultat
 geben? und zwar:
-A. Zur Beſtimmung des A>kers,
+A. Zur Beſtimmung des Ackkers,
 
 Die ‘vor ungefähr 50 Jahren vorgenommene Boe
 nitirung aller’ rirteeſchafrlichen Güter in Mecklenburg,
 iſ für einen jeßt zu errichtenden Krediiverein ein ún-
 
-30°
 
 --- Page 68 ---
 4“ —
@@ -3052,7 +3013,7 @@ beytragen ſollten,
 
 Die Äbijäbên waren damaks ſv geringe, — unge
 fähr 15 Thaler pér ‘Hife; —* Düß der Wunſch ſich
-‘ibnen zu entziehen, ſ<werlich #® béfüg rege weiden
+‘ibnen zu entziehen, ſchwerlich #® béfüg rege weiden
 fonnte, um einer beſtimmenden Einflüß auf die Boni-
 tbrs auszuñben, Auch trat'diéſem Wunſch das Ji-
 
@@ -3126,7 +3087,7 @@ bouitirt iſt : ſo würde es ſich Higen, daß ein ſölches
 Gut gar feinen Kaufpreis hat, und eine Hufe dieſes
 Bodens ganz ohne Werth ſew.
 
-Die Bonitirung hat alſo ihrén eigentlichen Zwe>
+Die Bonitirung hat alſo ihrén eigentlichen Zweck
 den Werth dèr Güter zu beſtinimen im höchſten Géäde
 verfehlt - unid wan wird dadurch gar zi leicht gentigt-
 fie als ‘ganz unbrauchbar anzüſehn,
@@ -3142,9 +3103,9 @@ Wahrnehmung immer finden, daß die Beſchaffenheit
 des Ackers mit der Zahl der Quadratruthen, die für
 dieſen Acker auf einen Scheffel gerechnet ſind, in einein
 gewiſſen Verhältniß ſteht ; ja man" wird ſtb, näbdem
-man dieſe Vergleichung für einige Aérſtü>e gemächr
+man dieſe Vergleichung für einige Aérſtücke gemächr
 hat, vun aus dem Bonitirungsregiſter allein, eine faſt
-genaue Anſicht von dem A>ér des ganzen Guts bildén
+genaue Anſicht von dem Ackér des ganzen Guts bildén
 können, Alſo liegt ‘die Schuld nicht an dei Bonitdrs,
 
 Wenn dér Boden aller Güter hemiſch unterſucht
@@ -3171,7 +3132,7 @@ Uebergang vom beſten zum ſchlechteſten Boden durch
 225 Grape bezeichnet iſt, Ju dieſer Bonitirung iſt
 aber nicht bloß auf denThovgehalt Rückſicht genommen,
 ſondern der Humusgehalt des Bodens, die Entfernung
-des A>ers vom Hofe und eine Menge anderer weſent
+des Ackers vom Hofe und eine Menge anderer weſent
 licher Umſtände ſind in. dieſer Gradbeſtimmung mit
 berúcfſicbtigt,
 
@@ -3194,7 +3155,7 @@ lbſet werden,
 
 Zu meiner Belehrung verſuchte ich den: Entwurf
 einer Tabelle, in welcher ich den Reinertrag des Ackers
-der»39-80-190, 100 Q. Ruthen u. ſw. bonitirt war>
+der»39-80-190, 100 Q. Ruthen u. ſw. bonitirt warck
 ach den Erfahrungen und Beobachtungeri - die ich
 über-den Werth dieſer verſchiedenen Bodenarten ges
 macht hatte, anſehzte, Die Tabelle ergab eine faſt
@@ -3309,7 +3270,7 @@ Sáhe gebraucht werden. kava, É
 
 Die zu iner ſolchen Berechnung nothwendigen
 Data, waren mir durch eine fünfjährige, zu einem
-andern wiſſenſbaftliden Zwec>- gevou und“ ſpeciell
+andern wiſſenſbaftliden Zwecck- gevou und“ ſpeciell
 geführte Recnuog, größtentheils gegeben ; aber die
 Größe der Arbeit und die Ungewißheit, ob ſie, trot
 alles Strebens dèr Wah heit, ſich. der Beachtung in
@@ -3334,7 +3295,7 @@ Erläuterung. des Vorſiehenden und ndthige Bemerkanzen.
 
 109,090Q-: Ruthen Lckerland geben in der 7 Felder
 Koppelwirthſcbaft beym Kornertrage von
-74 Roſto>er Scheffel -Roen ‘auf
+74 Roſtocker Scheffel -Roen ‘auf
 60 Që Ruthen einen, reinen
 Geſdertrag von =: =“ 191x Thlé,
 
@@ -3364,9 +3325,7 @@ die Endriin,
 
 ige Vemettay,
 wiader7 ji
-m
 
-— L
 
 24 Der' angegebene Geſdertrag iſt“ ganz ‘reiner
 Ertrag des Afeclaudes allein, und die Nußung der
@@ -3429,7 +3388,7 @@ mſidte ‘man; annehwen, daß ein Theil des dritten
 Swlags ſtatt mir Hafer beſer zu-werden, chon zur
 Weide niedergelegt würde ; und dieſer Theil würde
 imuiee gidſee, je ſchlechter der Boden wird,
-I<p-bade hierauf bey der Enzwerfung der obigen
+Ichp-bade hierauf bey der Enzwerfung der obigen
 
 --- Page 79 ---
 biltiint
@@ -3466,7 +3425,7 @@ Grunde liegen, ſind übereinſtimmend mit den Preiſen,
 wofür das Korn auf dem erwähnten Gut in dé 5 Jahs
 ren von Johannis 1810 bis 1815 wirklich verkauft iſt,
 Der Durchſchnittspreis des geſammten-in dieſen 5 Jal
-ren verkauften Korns iſt für eineri auf No>en reduci
+ren verkauften Korns iſt für eineri auf Nocken reduci
 ten Scheffel Korn 46% dl, NZw, Bey der Réduction
 auf Rocken iſt gerechnet:
 
@@ -3516,7 +3475,7 @@ wird,
 triebsfapitals, ſo wie die Abnußung des erſtern, ſind
 auf die verſchiedenen Zweige ‘der Wirthſaft, wofür
 es gehalten wird, ‘repartirf „ und dadurch fl
-A>erbau ſchon in Ausgabe geſehrz der angegebene
+Ackerbau ſchon in Ausgabe geſehrz der angegebene
 Reinertrag gehdrt alfo dem Uerlande allein an.
 
 11,/ Die Adminiſtrationskoſten ſind zuerſt dare
@@ -3555,7 +3514,7 @@ werth6 guf dieſe Zahlenverhdltuiſſe grgránder werden
 fbunten.
 
 Um nun zu erfahren, welcher Kornertrag im allger
-meinen, mit jedem bovitirten Grad des A>ers vere
+meinen, mit jedem bovitirten Grad des Ackers vere
 bunden ift, bedarf es der Zuſammenſtellung und Vere
 
 N, Annal, 4r Jahrg, ate Hilfte, 31
@@ -3593,7 +3552,7 @@ der Bouitirung im Durchſchnitt 02 Q: Ruihen auf |“ pes gu
 Ïa den nächſtfolgenden 7 Jahren iſt der Durch wh
 ſchnittsertrag dieſes Gurs geweſen ? vom Weiten tne u
 
-8 Scheffel, vom: Rocken 7#; Roſte>er Scheffel gian
+8 Scheffel, vom: Rocken 7#; Roſtecker Scheffel gian
 
 auf 60.Q- Ruther, Dis
 
@@ -3631,10 +3590,10 @@ q iſt der Dad
 4B —
 
 nec niſprünglicheu Beſchaffenheit as, und kann ſür
-unſern Zwe> als Baſis dienen,
+unſern Zweck als Baſis dienen,
 
 Der Boden zu 1083 Q. Rathen bouitict gäbs
-502 Scheffel No>en - auf 60 Q. Ruthen, Da’ un
+502 Scheffel Nocken - auf 60 Q. Ruthen, Da’ un
 nac unſerer Annahme die bonitire Quadratruthen-
 zahl ‘das Maaß des rohen Ectrags iſt, und zwar ſo,
 daß ein bonitirter Scheffel, er enthalte ſo viele Quas
@@ -3642,7 +3601,7 @@ drat « Ruthen - als er wolle, immer derſelben rohen
 Kornertrag giebt : ſd láßt ſich aus dieſem einzelnen
 Ecfahrungéſaß, der Korverträg des Acers von jedem
 bonitirten Grad finden, 1 Scheffel des zu 100Q,
-Rathen bonitirten A>ers giebt z. B. eben fo vie! Era
+Rathen bonitirten Ackers giebt z. B. eben fo vie! Era
 trag als 1 Schſl, Acker vou 1082 Q. N, Dex Ertrag
 des leern iſt auf 60 Q. N. 51% Scheffel Noene
 dies macht auf 1082 Q- Ruthen — 10 Scheſfei z
@@ -3657,11 +3616,9 @@ multiplicirt, und nundurch die bonitirte Quadrateuthens
 gahl des Ufers, wofür der Ertrag geſucht wird, dividire
 4: B, 1082 x 57s gier ebenfals 6/2 Schſl,
 
-Ts
 
 Der Weilen ‘gad auf Boden zu $04 Q, Ruthes
 
-zo
 
 --- Page 84 ---
 48. —
@@ -3710,7 +3667,6 @@ then bonitirt, ebenfals ein Ertrag von 84 Scheffel.
 --- Page 85 ---
 — 485 —
 100 x 6k
-T5
 
 Noten zu; denn
 
@@ -3722,7 +3678,7 @@ nach ſeinem bonitirten Grad zufdmuvt, durch dieſelbe
 Formel wie beym Rockenboden ſich berechnen läßt,
 Es ſcheint mir, daß man im allgemeinen annehmen
 fônue, der Weitendoden umfaſſe den Acker, der von
-75 bis-83 Quadratruthen bonitirt iſt, Der Ro>en-
+75 bis-83 Quadratruthen bonitirt iſt, Der Rocken-
 boden von der erſten Klaſſe, zu 83 Q- R, bonitirt-
 liefert ‘von gleicher Fläche wohl noc eine ſo große
 Erudte an Stroh und Maſſe des Korns als der Acker
@@ -3740,7 +3696,6 @@ Keuchr zu beſáen, Nur in dieſer grdßemn Fähigkeit,
 mit Sicherheit Weiten zu erzeugen, liegt der Grund,
 warum man den Aer bis zu 75 Q- R, herunter eine
 
-=
 Schfl, = 75 87
 
 --- Page 86 ---
@@ -3841,15 +3796,14 @@ trag= 7 Sthſl.— 7's Schl. iſt der Reinerirag 1037—
 --- Page 88 ---
 — 48 —
 
-Rathen. 100990 Q. Ruthen dieſes A>ers geben
+Rathen. 100990 Q. Ruthen dieſes Ackers geben
 fiuen Reinertag von 10 x 7F Thaler, 54000 Q. R,
 
 alſo 54 X 1917f = 5; 49,44 Thaler, wofär ich in
-Tos
 
 der Tabelle die ganze 550 ZahlThlr, annehme, File
 einen Scheffel giebt dies $48 = {4 Thaler oder in
-Decimalzahlen ausgedräc>t/ 0,917 Thaler, ®
+Decimalzahlen ausgedräcckt/ 0,917 Thaler, ®
 
 Aus dieſer Berechnung ergicbt ſich nun folgende
 Tabelle:
@@ -3871,9 +3825,9 @@ Eis Berlinér Scheffel ift gl
 
 F Roſtoer
 
-Der Ertrag eines Roſto>er Scheffel? auf 60Q,
+Der Ertrag eines Roſtocker Scheffel? auf 60Q,
 Ruthen beträgt demnach auf einen Morgen :
-H Roſto>er Scheffel,
+H Roſtocker Scheffel,
 
 oder 218 X 5 =_59° Berliner Scheffel,
 Gox7 420
@@ -3957,7 +3911,6 @@ Un die vil
 nir ld
 radgehut
 
-498
 
 einen Werth beyzumeſſen, und da dieſer Punkt für
 die Errichtung des-Kreditvereins von ſo großer Wichs
@@ -4009,7 +3962,7 @@ daß auch ihr Reinertrag zweifelhaft wird, Damals
 hatte das Holz feinen Werth ; die Unterhaltung der
 Gebäude foſtete bloß Arbeitslohn, jezr macht das
 Material den Hauptbeſtandtheil vom Werth der Ges
-bäude aus, Iſt nun ein ſol<hes Gut durch einen ſeiner
+bäude aus, Iſt nun ein ſolches Gut durch einen ſeiner
 Beſißer des eigenen Holzes beraubt worden, ſo kann
 der Ankauf des Holzes allein dea ſonſtigen Reinertrag
 des Guts vernichten ; hat aber das Gut ſelbſt das
@@ -4049,8 +4002,6 @@ nen cſs
 e Gut; 0?
 gigant
 
-wi
-o
 
 prati
 
@@ -4088,7 +4039,6 @@ Eigenthümer vder Pächter hat, genau von dem Kaufe
 oder Pfandwerth dieſes Bodens unterſcheiden , uud.
 
 --- Page 94 ---
-400
 
 nicht von jeiem auf dieſén ſchließen, Der Bewirthe
 ſchafter muſi jedem Boden, deſſen Ertrag die auf ihn
@@ -4101,7 +4051,7 @@ Bodens darnach ſchágen, Von dieſem Ueber ſchuß
 koſtéa und’die Abgaben an den Staat bezahlt werden,
 ‘uud die Sumtne die dann noch bleibt, begründet einen
 Kaufwerth ; bleibt aber wichts übrig, ſo hat der Boden
-weder Kauf- no< Pfandwerth, ſo nüßlich er auch dem
+weder Kauf- noch Pfandwerth, ſo nüßlich er auch dem
 VBewirihſchafter ſegn mog.
 
 Ob ‘tittn der Sandboden in dieſer Verbindung mit
@@ -4120,7 +4070,6 @@ ordnung fr ſich allein bewirthſWafter wird, Liegt er
 Aar ſtüiweiſe mit dem guten Ucker vermiſcht, fo wird
 
 Bech
-fon
 vengile
 veſelica 8
 gii)
@@ -4135,14 +4084,12 @@ joue
 
 af úa
 any u
-umg
 pun fa
 Quik
 itſilea
 Gin d
 din |
 
-Ut
 
 --- Page 95 ---
 «De dais
@@ -4168,7 +4115,6 @@ vod git
 
 mée i
 
-—
 
 ſein Werth in der Regel negativ ; denn : erſtens, kann
 der am Hofe liegeude Saudboden, den Nachtheil, daß
@@ -4192,7 +4138,7 @@ Güter, die einen großen Theil guten Boden hatten,
 gänzlich bis zuin Nullertrag heruntergeſunken,
 
 In den meiſten Verhältaiſſen wird es unſtreitig
-am zwe>mäßigſien ſeyn, dieſen Boden mit Tannen
+am zweckmäßigſien ſeyn, dieſen Boden mit Tannen
 zu beſaamen,
 
 Ein mit großen Tannen beſtandener Sandboden
@@ -4201,12 +4147,11 @@ entſteht nun die Frage, wie dadurch der Pfandwerth
 Und die Bodenrente dieſes Ufers verändert wtrden,
 
 --- Page 96 ---
-400
 
 Der Werth einer mit Tannen beſäeten Fläche
 timmt dadurch fortdauerud zu, daß man das jährliche
 Erzeugniß des Bodens, — den Holzzuwachs, —
-nicht hinwegoimmt, ſondern ſi< anhäufen läßt, und
+nicht hinwegoimmt, ſondern ſich anhäufen läßt, und
 die große Erndte, die dann nach langer Zeit mdglich
 wird, iſi die Entſchädigung fär die Aufopferung der
 jährlichen Erndten,
@@ -4224,8 +4169,8 @@ mung abrechnet, ſo wird ſich bey den jetzigen Holzpreiz
 ſen noch oft ein negativer Werth des zu beſaamenden
 Bodes ergeben, Aber der Preis des Holzes wird in
 Zukunft unſtreitig bis dabia ‘ſteigen, daß dieſer Vers
-luſt mindeſiens gede>t wird ; denn dies iſt der natür-
-liche Preis des Holzes, Indeſſen wird mau {werli<
+luſt mindeſiens gedeckt wird ; denn dies iſt der natür-
+liche Preis des Holzes, Indeſſen wird mau {werlich
 auf ein ſolches Sreigen der Holzpreiſe, daß dadurch
 der ſclete Aer eine bedeutende Bodenreute gäbe,
 rechnen fdnnen, weil wir in Mecklenburg des ſchlechten
@@ -4259,11 +4204,10 @@ pied ma
 reſe 61
 guet?
 
-_
 
 werden braucht, Bloß an“det Steküſtez wo-diè Leichs
 tigkeit des Abſatzes eine Nachfrage hervorbringen kant
-die durch das Erzeugniß des" {le<hten Bödens* allei
+die durch das Erzeugniß des" {lechten Bödens* allei
 vicht mehr befriedigt wird, kanix hiedurch einè Bos:
 denrente entſtehen,
 
@@ -4296,7 +4240,6 @@ darauf ſtehende Holz erhält, \mir“als Pfandiverth au-
 N. Annal. 4r Jahrg. ate Hülfe. 32
 
 --- Page 98 ---
--—
 
 vorans, um zu verhindern. daß der Holzbeſtand nicht
 vermindert würde, Dieſe Aufſicht würde aber eines
@@ -4310,7 +4253,7 @@ Hung.anzunehmen,_ und dieſe für den mir Holz bewächs
 ſenen Boden, darnach: zu beſtimmen : was er als
 Ater oder Wieſe tragen würde,
 
-Der außer dieſer Bodenrente im Holz noch ſte>ende
+Der außer dieſer Bodenrente im Holz noch ſteckende
 Kapitalwerth bliebe dann , vom Pfaudwerth nicht
 ergriffen, für den Privatkredit offen, und in der That
 iſt für eine Hypothek von veränderlichem Werthe, die
@@ -4342,7 +4285,7 @@ darch niedere Kornpreiſe, oder aus -beyden-Urſachea
 zugleich, dem Minimum nähert, Die Abnahme des
 Reinertrags ſteht dann, aber bey guten und ſchlecten
 Gütern, nicht in Verhältniß mit dem frühern Mittel-
-ertrage, Die Hufe des ſ{le<ten Bodens verliert
+ertrage, Die Hufe des ſ{lechten Bodens verliert
 dann von ihrem gEwdhnlichen Ertrage beyvahe ſo viel
 als die Hufe des guten Bodens, und wenn dieſe bis
 auf die Hälfte des Mittelertrags herunter ‘geſunken iſt,
@@ -4352,7 +4295,7 @@ Kreditverein, ſon ſehr bedenklich machen.
 
 Es bedarf wohl kaum der Bemerkung, daß wenn
 nach jener Tabelle der zu 1554 Quadratruthen bonitirte
-A>er keinen Werth mehr hat , dies nicht unter allen
+Acker keinen Werth mehr hat , dies nicht unter allen
 und jeden Verhältniſſen zutreffend ſeyn kann, Wenn
 die Bonitdrs den Aer nicht ſeiner ſandigen Beſchafe
 fenheit wegèn, ſondern wegen ſeiner geringen Dung
@@ -4381,7 +4324,7 @@ fann,
 
 Ich habe im F:6. die Gründe angegeben, warum
 i glaube, daß die durch das Mergeln vermehrtè
-Fenchtbarfeit dés A>ers noch nicht als bäuernd anzue
+Fenchtbarfeit dés Ackers noch nicht als bäuernd anzue
 
 - ſehen ſey, und auf die Beſtimmung des Pfandwerths
 
@@ -4398,7 +4341,6 @@ hbhern Kultur erheben, föndern ſich auch darin erhalten
 werden, und die Beſitéé ‘dieſér Güter weiden es viel
 
 --- Page 101 ---
-N
 itia is
 ofter ud pk
 ter Tabel hi:
@@ -4452,10 +4394,10 @@ der Pfandwerth allein begründet werden darſe geſichert.
 
 Dagegen ſtrebt die Koppelwirthſchäft ‘der Verbeſſe-
 tung, wodurch der Boden- vom niedern Grade zum
-Erirag des A>ers vom hbhern Grade gehoben wird,
+Erirag des Ackers vom hbhern Grade gehoben wird,
 uicht entgegen, Unter günſtigen Verhältviſſen kann
 der zu 100 Q, Ruthen bonitirte Aer, vielleicht zum
-Ectrage des A>ers erſter Klaſſe gebracht werden,
+Ectrage des Ackers erſter Klaſſe gebracht werden,
 
 MWollte man dieſen hôhern Ertrag als dauernd ane
 nehmen, — was ſi jet wohl nur von ſehe wenigen
@@ -4473,7 +4415,7 @@ Dieſes würde den ganzen Verein auflöſen,
 
 Mag der, einem Gute durch ungewöhnliche Kultur
 hinzugefügte größere Werth, eben ſo wie der im über-
-flüſſigen Holz ſte>ende Werth, zur Sicherheit für die
+flüſſigen Holz ſteckende Werth, zur Sicherheit für die
 nach den'Pfandbriefen einzutragenden Kapitalfoderun-
 gen dienen, Bey ihrer Veränderlichkeit können ſie
 eine genügende Sicherheit fär eine fich immer gleiche
@@ -4485,7 +4427,6 @@ witer, fit
 je des Ut
 riagin ùtk
 viébeſher ſn
-N
 
 (halite fi
 ie drin
@@ -4493,7 +4434,6 @@ ehi ſi
 gapialide
 tu tian
 gines
-rT
 
 A Bt
 G18)
@@ -4501,10 +4441,10 @@ B, Die Wieſen.
 
 Der Ertrag! und Werth deé' Wieſen wird aus der
 áltern Bonitiruùg' nicht mit vèr Genauigkeit, wie beym
-A>erlande hérvorgehen knnen, Wénn man bie Wiés
+Ackerlande hérvorgehen knnen, Wénn man bie Wiés
 ſen nicht zur Zeit der Heuetndte, ſondern dant ſicht,
 wenn ſie kahl ſind, ſo bietén ſie weit weniger Mkiiale
-dar, wovon man auf ihren Ertrag ſ<{liéßên känn; als
+dar, wovon man auf ihren Ertrag ſch{liéßên känn; als
 das Ackerland, “Die ltere’ Bonitirung ſo wie“ jede
 neue Schätzung, wird aus dieſet Urſache, Spuren
 des Mangels und’ der Unrichtigkeit an ſich! trägen,
@@ -4519,15 +4459,14 @@ die zwiſchen dem“ jehigen wirklichen Heuerttag der
 Güter und der im Kataſter angegebenen Fudérzähl
 ſtatt findet, als Béweis einer fehlerhaften Bpnitieung
 anſehen, Wo dér Heuertrag jeht bedeutend grdßer iſt,
-da’ ſind in der Regel große Stre>en Bruchweide öder
+da’ ſind in der Regel große Strecken Bruchweide öder
 niedriger Weide, in Wieſen verwandelt ; im umge-
-Fehrten Fall ſind die ehemaligen Wieſen, in A>erland,
+Fehrten Fall ſind die ehemaligen Wieſen, in Ackerland,
 Weideland oder Bruchholz ‘umgeſchaffen. * Die
 Suümme der bonitirten Scheffel kann deswegen noh
 ziemlich mit dem jehigen Ertrag dieſer Fläche in
 
 --- Page 104 ---
-tit
 
 Verhältniß ſtehen, obgleih die Benußungeart ſich
 ganz verändert hat,
@@ -4536,7 +4475,7 @@ Die Geſichtspunkte, wornach der Werth des Heues
 
 beſtimmt werden muß, -ſind-weniger- klar und erlaubén
 Feine. ſolche Beſtimmtheit als beym Ackerland, Der
-Werth-eines Scheffels Ro>en ift gleich groß, er wag
+Werth-eines Scheffels Rocken ift gleich groß, er wag
 auf ¿dieſem „oder, jenem Gute gebauer ; ſeyn, - Der
 Futterwerth- des Heues, -ſo wie: der- Werth des Dún-
 gers, ndert ſich mit dem-Verhäliniſſe --worin der
@@ -4567,12 +4506,9 @@ O Wk
 cinen O
 (erh
 Dude
-heu
 genáhib
 (nut
 nam:
-uh
-u D
 bf B
 faha
 Quetta
@@ -4580,9 +4516,6 @@ u iB
 ute hu
 mite
 fina
-Ei
-Dua
-de
 jegthje
 nun den
 Güte zu
@@ -4656,7 +4589,7 @@ AS e 35
 275 — es ETT
 300 — — *
 
-Utlgäinein ansgedrü>t wären die Werbungskoſten
+Utlgäinein ansgedrückt wären die Werbungskoſten
 für x Fuder Heu auf 100 + * Quádrat - Ruthen gleich
 
 --- Page 107 ---
@@ -4710,7 +4643,6 @@ betragen, fo macht dies für viè Wieſen zu 100 R, Q,
 bonitirt 2457; fl. odeë mit Weglaſſung des Bruchs
 
 --- Page 109 ---
-LE
 
 B22) CES
 ZS# Zl 229
@@ -4733,7 +4665,7 @@ Mit 1 Q. N. ändert ſch —
 bouitirt geben 1000 Fuder à 2 Thlr. 3 þl, reinen Ers
 trag= 20623 Thlr,
 
-100000 Q. R, des beſten U>erszu 75 Q, R, bos
+100000 Q. R, des beſten Uckerszu 75 Q, R, bos
 niit geben reinen Ertrag = 1501 Thlr,
 Y Der Werth dieſer Wieſen ſteht alſo zum Werth die-
 es Ackers im Verhältniß-vou 137 zu 100,
@@ -4743,7 +4675,7 @@ es Ackers im Verhältniß-vou 137 zu 100,
 --- Page 110 ---
 — 510 —
 
-bem Werth des Urs von 52 S<hfl, Ertrag auf 60 Q,
+bem Werth des Urs von 52 Schfl, Ertrag auf 60 Q,
 Ruthen ungefähr gleich kdwmt,
 
 Dieſes Verhältniß ſcheint mir, mit der allgemeinen
@@ -4854,7 +4786,6 @@ fin dei
 tieſinh
 
 --- Page 113 ---
-"d=
 
 den Acfer liefern, einen größen Vorzug vor den eino
 ſürigen Wieſen haben,
@@ -4868,11 +4799,11 @@ Beſtimmtheit ſchließen, ob' ſie einſchürig oder zwey-
 ſchürig ſind, Eine auf dieſe Gradbeſtimmung gegrün-
 dete Rechnivg würde dann für manche Güter den
 Werth dér Wieſen viel höher arigeven, als er in der
-Mirklichfeir iſt. Da dies aber für unſern Zwe> weit
+Mirklichfeir iſt. Da dies aber für unſern Zweck weit
 nactheiliger iſt, als wênn in einzelnen Fällen der
 MWerth durch die Tare nicht vbllig erreicht wird, ſo
 dürfen wir hier auch auf die einzelnen vorzüglichen
-Wieſen feine weitere Rü>ſrcht nehmen,
+Wieſen feine weitere Rückſrcht nehmen,
 
 Die Wieſen haben in Melénburg noh einen
 andern ſehr bebeutendei Werth erhalten, der von ihrer
@@ -4898,7 +4829,7 @@ Unterſchied im Werth des Akers, der in der phyſiſchen
 Beſchaffenheit des Bodens gar nicht begründet war,
 
 Die Abs oder Zunahme der Fruchtbarkeit des
-U>ers hängt lediglich davon: ab : ob die ausſaugenden
+Uckers hängt lediglich davon: ab : ob die ausſaugenden
 te, — Getreideſaaten, — grdßer oder geringer
 
 find, als die erſehenden Kräfte, — Dreeſch und Düne
@@ -4934,8 +4865,6 @@ id, ſa wid
 it daun
 hbejlegn,
 uti, nidi
-dhs
-bi
 in Zſard i
 
 zd deri
@@ -4958,7 +4887,7 @@ war,
 
 Vor ungefähr 50 Jahren, als die Bonitirung ges
 cab, lag ein: großer Theil der Gürer noch in Dreys
-felderwirthſhafe, wobey ein Theil des der Bea>erung
+felderwirthſhafe, wobey ein Theil des der Beackerung
 fähigen Höhebodens und ein Theil des Wieſengrundes
 als beſtändige Weide genubt wurde,
 
@@ -4978,10 +4907,8 @@ Bey der Schähung der Weiden konnten die Boni
 tdes ihre Aufmerkſamkeit nur auf die Stärke des Grass
 wuehſes richten, , Der Graswuchs iſt aber als. das.
 
-38°
 
 --- Page 116 ---
-6 =
 
 Product der phyſiſchen Beſchaffenheit ded Bodens. und
 der Dungkraft des Bodens anzuſehen, und kann eben
@@ -5016,8 +4943,6 @@ einigen Graswuchs hatten, als Weide benüht.
 
 Aus diéſen Gründen wird man, wena man ſich
 
-Hie
-2728
 nir uh
 Ute vi
 Regelei
@@ -5025,8 +4950,6 @@ den, und
 nitddar
 lg ni
 
-Die
-LT
 
 --- Page 117 ---
 hgüdita
@@ -5045,7 +4968,6 @@ vida
 nut ſes
 fait
 
-u
 
 = 57 -
 
@@ -5075,7 +4997,7 @@ Hiedurch würde nun ride, dié zu mehr als
 207 Q N. bouitire iſt, ausgeſchtoſſen, Dies ſcheint
 mir auch durchaus nothwendig zu ſeyn ; denn eine
 Weide von ſo ſchlechter Beſchaffenheit kann in der
-Regel nicht mit Vortheil in A>erland verwandelt wers
+Regel nicht mit Vortheil in Ackerland verwandelt wers
 dev, und die geringe Nußzung, die ſie a]s Weide giebr;
 wird durch die Abgaben, Admiaiſtrationskoſten u, #, w/
 vóllig wieder konſumirt,
@@ -5121,7 +5043,6 @@ Yfandbriefen eine grdßere Sicherheit geben, als dieſe
 fei ud 00
 e rains
 aman ſet
-btb
 vie ips
 
 == 516 =
@@ -5201,7 +5122,7 @@ Werth gegen eine gleiche Fläche Aerlands deſſelben
 haben bey gleicher Fläche, den halben Werth der als
 Wieſen bonitixten Niederungen,
 
-Der Werth des A>erlandes ergiebt ſich, wenn man
+Der Werth des Ackerlandes ergiebt ſich, wenn man
 den ganzen Flächeninhält des Akers dürch die Summe
 der Scheffelzahl, wozu es“ bonirirt iſt, dividirt , und
 für den-hieraus hervorgehenden Grad deri Erêrag bes
@@ -5218,7 +5139,7 @@ durch eine ähnliche Berechnung,
 
 In den mehrſten Fällen wird der jehzige Ertrag des
 ehemaligen Holzgrundes , gleichviel ob dieſer jet als
-A>er, oder Wieſe oder noch zum Hoizauwuchs benußt
+Acker, oder Wieſe oder noch zum Hoizauwuchs benußt
 wird, das hier vorgeſchlagene Marimum erreichen und
 Überſteigen, In dieſem Fall bedarf es keiner eigent-
 lichen Taxation, ſondern nur einer allgemeiven Ueber-
@@ -5228,7 +5149,7 @@ lichen Taxation, ſondern nur einer allgemeiven Ueber-
 — 50
 
 jebige Ertrag das Marimum nicht, ſo tvré es zur
-Erleichterung der Zarätion doc viellrict zwe>mäßig,
+Erleichterung der Zarätion doc viellrict zweckmäßig,
 dieſes zum Grunde zu legen, und den Taratoren ble
 die Beſtimmung zu überlaſſen, ob der Ertrag um Zx,
 e ‘11, ſc w2* geringer ‘wäte-als-'das ‘augenonmene
@@ -5245,7 +5166,7 @@ Koſten des Koraverfahrens , und within den Wérih,
 den das Getreide auf dem Gate ſelbſt har, Meine
 fünfjährigen Rechnungen“ ergeben als Darchſchnit,
 daß die Koſten des Verfahrens für einen Scheffel
-Ro>en pro Meile 1%; 6. betragen haven,
+Rocken pro Meile 1%; 6. betragen haven,
 
 Der Durchſchnittspreis des Nockens war 46,7; 6l.z
 bey der Entfernung von 4 Meilen wäre hiernacy dex
@@ -5259,9 +5180,7 @@ Der Preis des Getreides beſtimmt nicht blog die
 Einnahme, ſondern auch die Koſten der Arbeit, da
 dieſe grèÿteutheits durch Kora’ bezahle wird, Man
 
-|
 
-|
 
 --- Page 123 ---
 18 ven
@@ -5271,7 +5190,6 @@ i deo Véch
 at, ‘Midt
 Darin
 inen Shel
-e
 
 mar4br |
 
@@ -5292,7 +5210,7 @@ Sie wird aber dadurch, daß, wir feine authentiſchen
 Üſten.von den Durchſchnittépreiſen in jeder Stadt bes
 figen, vdllig unmödglich,
 
-Die Stádte Boizenburg, Ddmih, Roſto>
+Die Stádte Boizenburg, Ddmih, Roſtock
 und Wismax geben in der Regel die höchſten
 Preiſe, In Fürſtenberg, Anklam und
 Demmin ſind die Kornpreiſe gewbhulih 10 bis
@@ -5304,7 +5222,7 @@ rungsfoſten ganz unbedeutend ſind, doch feinen hbhern
 Merth als auf den Gütern die 4 bis 5 Meilen von den
 erſten Handelóſtädten liegen: “Die naye béy De ms
 min liegenden Güter fahren ihr Korn doch gewdhn-
-lich nah Roſt o>/* weil die höhen ‘Preiſe die
+lich nah Roſt ock/* weil die höhen ‘Preiſe die
 Transportkoſten überwiegen,
 
 Wollte man nun, weil die Werthsbeſtimnung für
@@ -5379,7 +5297,7 @@ dèn Spaniſchen Schäfereyen der Fall ſeyn,
 Der Vorzug, den der ſüddtliche Theil Mecklenburgs
 dädurch hat, daß der Buttermarkt ihm näher iſt, kaun
 wenig in Betracht kommen , da ein Gut welches
-100 Wagen mit Korn zur Stadt ſchi>r, kaum ſechs
+100 Wagen mit Korn zur Stadt ſchickr, kaum ſechs
 ſchwache Ladungen Butier zu verkaufen hat,
 
 $. 22,
@@ -5392,7 +5310,6 @@ i Kommunion find,“ und der Ucker jedes Banern
 iñlſchmale Streifen getrennt" liegt, bei Ertrag nicht
 
 --- Page 126 ---
-230
 
 geben, den dieſer Aker als Hoffeld geben würde, Will
 man die Bauergüter in-den,Verein, mit aufnehmen, ſo
@@ -5428,19 +5345,12 @@ des ganzen Gurs" abgezogen werden,
 
 / E,
 
-gad
-nru
-a
 
 ſinon
 undo
 | dnb
-mi
-Dad
-rán
 jefe D
 
-UT
 
 --- Page 127 ---
 $. 2%
@@ -5466,7 +5376,7 @@ Bufammenſtellung aler, bier gefundenen Zahlen: Vero
 
 Reiner Ertrag
 
-1 A>erland. ner | eines
+1 Ackerland. ner | eines
 
 Huſe, | Scheffels,
 Thir. | Thle,
@@ -5493,10 +5403,6 @@ Mieſen bonitirt zu 100 Q. N.
 auf 1 Fuder Hen — —
 — 8 120 Q N, auf 1 Fud. Heu
 a e D
-160
-180
-200
-220
 
 EEHETI
 F-1 FT 11:14
@@ -5542,7 +5448,6 @@ Hufe, |Scheffels,
 172 | 0,287
 109 | 0,182
 >46 | 0,077
-0 0
 63 | 0,0105
 
 --- Page 129 ---
@@ -5631,7 +5536,6 @@ Harte Holzweide 32100 Q. R. = Vi
 macht für 1000 Q, R, — 7,02 Thlr,
 
 --- Page 131 ---
-np
 
 50D A
 
@@ -5655,7 +5559,7 @@ des Pfarracers.
 Hofaer 351900 Q.R, — 4150 Schſl.
 1 Scheffel 84,8 Q. R, giebt Ertrag Thaler,
 0,999 Thlr, 4150Schf, à 0,990 Thlr, 4108,50
-Prieſtera>er 27300 Q. R, — 357 Sh,
+Prieſteracker 27300 Q. R, — 357 Sh,
 hat keinen Pfandwerth -_ _
 Wieſen 48600 QR, — 338 Fuder Heu
 1 Jader auf 144 Q-. R. giebt Ertrag
@@ -5699,12 +5603,9 @@ gel an Data nicht beſtimmt angeben fann,
 
 beri
 
-nid
 
 --- Page 133 ---
-950
 
-588
 
 — 533
 
@@ -5741,7 +5642,7 @@ der jegige Werth nicht als dauernd
 
 |. anzuſeben iſt | i
 | 1, Der hôhere Werth, der einem Gute, durch eine Laie
-|| ungewdhnliche, uo< nicht landübliche Kuliur, uw
+|| ungewdhnliche, uoch nicht landübliche Kuliur, uw
 || dur das Mergeln gegeben iſt. | 0
 
 2. Der Ertrag aus dem Holze, in ſo fern die jährliche ud!
@@ -5758,7 +5659,7 @@ find, hat, 1
 b. Gegenſtände, deren ganzer Werth bg
 
 J in der Tare nit enthalten iſ, weil ff
-ſi< dieſer aus dem Bonitirungsre- fea
+ſich dieſer aus dem Bonitirungsre- fea
 giſter uicht 'erkennen läßt, 1
 
 1. Ausgezeichnete Wieſen, inſofern ihr Werth grb- “ſd
@@ -5851,7 +5752,6 @@ haz,
 Vell de
 Beth di
 De |
-Cud
 
 --- Page 137 ---
 — STT
@@ -5887,7 +5787,6 @@ Wir haben bey der Berechnung des Ertrags von
 Grund und Boden alle Gegenſtände, deren Werth nicht
 
 --- Page 138 ---
-Py
 — 1528
 
 dauerrd war, ſorgfältig ausgeſchloſſen, und. es wäre
@@ -5928,9 +5827,8 @@ zee hi,
 D Gew
 tt df
 
-609
 
-wére, Es ſcheint deshalb zwe>mäßiger, für die Ges
+wére, Es ſcheint deshalb zweckmäßiger, für die Ges
 'báude wenn ſie tauglich find, einen Abzug ſtatt finden
 zu fáſſen, als die Gebäude auch daun, wenn ſie gut
 find, allgemein vom Pfandwerth auszuſchließen,
@@ -5938,7 +5836,7 @@ find, allgemein vom Pfandwerth auszuſchließen,
 Die Erfahrung der lehren Zeit har gezeigt , daß
 beym Verkauf mancher Güter, bloß die Gebäude be-
 gahlt ſind, Grund und Boden aber umſonſt zugegeben"
-wurden, Für jeht wird alſo die Rü>ſicht auf die
+wurden, Für jeht wird alſo die Rückſicht auf die
 Beſchaffenheit der Gebäude, nad ein Abzug vom
 Pfandwerth fär den mangelhaften Zuſtand derſelben
 ſtatt finden müſſen ; aber es ift wdglicy uud ſelbſt
@@ -6028,10 +5926,8 @@ dém auf dieſe Weiſe ausgemittelten Pfandwerth, im
 allgemeinen — aber nicht in jedem einzelnen Fall —
 ein Einkommen von 9 pCt, zur Hypothek dient,
 
-ine
 
 --- Page 142 ---
-—
 
 Für das Gür S.
 ergiebt unſere Tare einen Ertrag von 1778 Thlen, Der
@@ -6096,7 +5992,7 @@ Kaufpreiſes, welches mit der Hälfte des jetzigen Kaufe
 
 Nimmt man an daß damals zu6 pCt, gekauft wurde,
 ſo iſt zwiſchen dem Kaufpreis und dem Pfandwerth, der
-imallgeineinen durch 9 pCt, Ertrag gede>t' ſeyn wird,
+imallgeineinen durch 9 pCt, Ertrag gedeckt' ſeyn wird,
 eine genaue Uebereinſtimmung,
 
 Ich habe dieſe Tarprincipien no auf ſechs andre
@@ -6108,7 +6004,7 @@ dern treffen beyde aber ſo genau zuſammen, daß ih
 für fie keinen andern Werth anzugeben wüßte, als
 den, der ausder Zare folgt,
 
-Es iſt unſtreitig in dieſem Augenbli> ein hohes.
+Es iſt unſtreitig in dieſem Augenblick ein hohes.
 Bedürſniß für Mecklenburg, daß Tarationsgrundſäte
 dargeſtellt werden, die
 
@@ -6125,7 +6021,6 @@ Da nun für den Kreis meiner Beobachtungen die
 hier vorgetragenen Grundſäße dieſe Foderungen err
 
 --- Page 144 ---
-—“—
 
 füllen: fo fühlte ich eine innere Verpflichtung meine
 Anſichten der dffenlichen Prüfung zu übergeben und
@@ -6142,7 +6037,7 @@ fahren, ob die Anwendung dieſer Theorie in keiner
 Fall den Pfandwerth eines Guts zu hoch angiebt,
 müßte man Güter wählen, die man für zu hoch bonitirt
 hält, die ſehr ſchlechten Boden, große Strecken niedrige
-Weide, ſchle<te Gebäude u. ﬅ. w. haben und übete
+Weide, ſchlechte Gebäude u. ﬅ. w. haben und übete
 haupt ſolche Güter wählen, die durch viele nachtheilige
 Umſtände, näch Verhältuiß ihres Hufenſtandes den
 geringſten Werth haben,
@@ -6164,15 +6059,6 @@ drop
 miſ @
 mh fim
 Urtita
-jam
-Yar
 idbinl
-9 D
-An
 ſieb
-Wu
 
-Anz
-dn
-
-Run

@@ -10,21 +10,14 @@ source: "M024 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band17_M024_pp401-430_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 17/2. 30pp extracted (41KB)."
 assembled: 2026-03-13T23:11:45Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
-die
 reh-
-An-
 jeht
-ten
-her
 
-fes
-ige
 
-|
-Y
 
 emacs 401
 
@@ -103,27 +96,14 @@ gleich 168 Roſtocker Scheffeln Rocken;
 
 b. 2000 OR, mit Hafer bringen beim Ertrage von
 
-:
-1
 
-E
 
 --- Page 3 ---
-uf
-uf
-en
-r.
 
-1g
 
-n
 
-ie
 
-n
-er
 
-n
 
 m 403
 
@@ -156,7 +136,6 @@ ihm nicht bloß feine Rente, - ſondern foſtet ihm
 hält, werth iſt. Der Acferbürger, welcher 6000 N.
 von dieſem Acker beſit und ſelbſt anbauet, würde
 
-26+
 
 --- Page 4 ---
 alſo, wenn er dieſen Acker verſchenkte, ſein jähr:
@@ -192,19 +171,9 @@ gehörte, iſi nur eine Annahme, und dieſe kann irrig
 und unterrichteten Stadtbewohnern erfahren, nach
 Allem, was mir der Augenſchein gezeigt hat, muß
 
-fü
-de
-ni
-di
-de
-e
 
-eil
-né
-lu
 
 --- Page 5 ---
-e
 
 — 405
 
@@ -273,42 +242,17 @@ der Stadtacker, — wenigſtens in einigen Fällen, —
 nur die halbe Pacht des gleichen Gutsacfers trägt,
 die Annahme nicht hin, daß einzelne Partheien des
 
-4
-|
 
-St
-ma
 
-ad
-inc
-del
 
-al
-ge
-wi
-hä
 
-Zi
 
-be
-El
-mi
 
-in
-ut
 
-be
-ni
 
 --- Page 7 ---
-1e
 
-n
-It
 
-e
-d
-1
 
 — 407
 
@@ -346,7 +290,6 @@ beſteht, — fo inconſequent es jeßt anch ſein mag, —
 nicht ohne Grund entſtanden. Jh erlaube mir hier
 
 --- Page 8 ---
-408
 
 eine Vermuthung, für die ich aber feine hiſtoriſchen
 Data anführen kann, úber den Urſprung des jevigen
@@ -378,8 +321,6 @@ mäßig und verderblich für den Wohlſtand und das
 Anfblühen der Städte geworden; aber die ſtädtiſchen
 Verfaſſungen ſind dem Beharrungszuſtande fo günſtig,
 
-da
-ur
 
 --- Page 9 ---
 — 409
@@ -449,19 +390,8 @@ Acer für die Stadt vortheilhafter iſt, als die An:
 legung von Meiereen.
 
 --- Page 11 ---
-ten
-en
-€,
 
-ſo
-ên
-ie:
-ite
-de
-as
 
-|
-|
 
 —— an
 
@@ -533,22 +463,13 @@ Birkenholz.
 Nach Cott a's Hülfstafeln giebt eine Buchen-
 waldung anf dem beſten Boden beim 100jährigen
 
-Vai
 
-Kul
 
-DS
 
-Ert
 
 “mal
 
-273
 in 3
-KF
-New
-144
-ein
 
 --- Page 13 ---
 = 413
@@ -585,7 +506,6 @@ aus mehreren Gründen, beſonders wegen der frühern
 À Nuhung zweckmäßiger ſein, Schlagholz als Hoche
 
 --- Page 14 ---
-414
 
 wald zu ziehe, alfo einen Birkenwald Y ſtatt eines
 Buchenwaldes anzulegen.
@@ -619,36 +539,17 @@ material durch Torf gedect werde
 nicht éróréert werden, iſ aber der gründlichea Prüfung
 von Seiten der Forſtmänner werth.
 
-ui
 
 --- Page 15 ---
 ines
 
 holz
-125
 
-bei
-aft
 
-von
-un
 
-n
-Zü
-nit
-et,
-da,
-ein
-opf
 
-aſ
 
-in:
 
-er
-he
-ier
-ig
 
 eure 415
 
@@ -718,7 +619,6 @@ menge in den Städten und der Verminderung der
 Hölzungen auf den ſtädtiſchen Feldmarken wird das
 Uebel in der Zukunft fich immer mehr ſteigern, und,
 
-nur
 ſtahl
 
 verle
@@ -730,12 +630,9 @@ firect
 
 Auto
 tägli
-und
 betra
-9
 begin
 
-N.
 
 --- Page 17 ---
 — wenn feine Abhülfe ſtatt findet, — wird es dahin
@@ -762,7 +659,7 @@ bewirken, wenn der fiadl, dieſe Pflanzſchule
 des Laſters, fortbeſteht, wenn das Kind den Befehlen
 feiner Altern, — die für daſſelbe nothwendig eins
 Autorität find, — folgend, die Gebote der Religion
-táglich verleßt , und ſic< o daran gewöhnt, Lehre
+táglich verleßt , und ſicch o daran gewöhnt, Lehre
 
 ud Handlung als unvereinbarlich mit einauder zu
 betrachten.
@@ -813,29 +710,22 @@ wenn man es ihnen nicht freiwillig giebt doch den
 
 ſehr |
 liefert
-E
 
-be
 Nati
 dern
-E
 des G
 wer d
-ui
 weil e
 Preiſe
 zieht.
-G:
 Arbeit
 Erhäli
-Sum
 theile,
 Tagelo
 
 Wäldern entnehmen, ſo geht für das Ganze keine Y Arbeit
 
 --- Page 19 ---
-419
 MY Erſparung an Holz daraus hervor, daß man den
 Y Arbeitern das bendthigte Brennmaterial entzieht.
 ttung M Im Gegentheil kaun der durch den Holzdiebſtahl an-
@@ -873,19 +763,16 @@ theilt, pr. Tag ungefähr 1 |. Beträgt nun der
 Tagelohn in Geld 8 (3, fo foſte dem Landwirth die
 Arbeit eines Tagelöhners, inclusive des Brennmate:
 
-27.
 
 tittel,
 
 le Ar: |
 dann
-n.
 
 rfen, |
 h den
 feine |
 
-|
 
 --- Page 20 ---
 420 nao
@@ -951,14 +838,11 @@ feins
 lbun:
 
 Dieb:
-das
 hrlich
 
 ver: |
 
 iﬀfenz
-nnr
-im
 ages
 einer
 ollem
@@ -1010,7 +894,6 @@ weſentlichen LebenSbedürfaiß Mangel leiden zt laſſen.
 Verlebung des Eigenthums, es iſt vor allem die
 
 --- Page 22 ---
-||
 
 422 —
 
@@ -1040,7 +923,6 @@ déter verſet werde, und daß durch fie niche das |} man
 kelken Zweifel, daß der niedrige Tagelohu der Stadt
 im Ganzen zu Nuten kommt,
 
-ſi
 Holz
 
 Wenn nach den oben gemachten Vorſchlägen der S
@@ -1147,15 +1029,12 @@ eweicerung der beſtehenden, und die Anlegung nener F Angel
 Gewerbe hervorz zugleich fann die herbeigeführte F früher
 
 --- Page 25 ---
-mnt
 jene |
 unit
 e im
 allee |
 erde,
-rad
 rung
-u
 rung
 
 erth.
@@ -1229,7 +1108,7 @@ Stadt dadurch befriedigt wird:- ſo können die nahe
 gelegenen Güter von der fernern Zufuhr nicht anders
 abgehalten werden, als wenn der Preis fo weit ſinkt,
 daß die Koſten der Production und des Transport8
-dadurch nicht urehr gede>t werden. Ed folgt alſo
+dadurch nicht urehr gedeckt werden. Ed folgt alſo
 ſchon hierans, daß die Erweiterung des Kartoffel:
 banes auf dem Stadtfelde mit einem Sinken des
 Preiſes der Kartoffeln verbunden iſt.
@@ -1249,8 +1128,6 @@ Preiſ
 
 auf d
 von 2
-N
-von
 terial
 Dabri
 erford
@@ -1281,7 +1158,6 @@ nahe
 ports
 alfo
 offel:
-des
 
 daß,
 nholz
@@ -1289,7 +1165,6 @@ Meile
 vird
 nung
 
-4 î
 Geſeßt, ein Theil des Holzbedarfs einer Stadt muß >
 aus einer Entfernung von 2 Meilen herbeigeholt wer
 
@@ -1354,36 +1229,24 @@ Y Zwec
 
 V
 Prodi
-dad
 ſich d
-:
-|
 Dieſe
 winn
 größe
-2
 ſolche
 linge
-daß
 liefer
 ders
 viedr
 winn
-vim
 denn!
-E
 
 folge
 
-D 6
-3
-ti
 
 --- Page 29 ---
 Prei:
 ihren |
-wer
-rh
 verbe
 Feld:
 nent |
@@ -1395,7 +1258,6 @@ idem
 , bei
 rung
 derer
-und
 
 == f 429
 
@@ -1426,7 +1288,6 @@ Y viedrigern Preiſe als zuvor verkauft werden; der Gee
 
 , in
 inem
-un:
 ert;
 ſon:
 
@@ -1492,8 +1353,6 @@ uur 8
 Acker
 eiu n
 bedür
-und
-—w
 pweif
 feiler
 Getv

@@ -8,7 +8,7 @@
 - include_influence_graph: false
 
 ## Authority-Cluster Status
-- **Status:** variants_harvested (ready for authority_cluster_locked)
+- **Status:** authority_cluster_locked (2026-03-13)
 - **Person ID:** P001
 - **GND:** 118622366 | **VIAF:** 94496 | **Wikidata:** Q76787 | **LoC:** n85127362 | **ISNI:** 0000000112036754
 - **Name variants ingested:** 14
@@ -125,18 +125,21 @@ BSB has the full "Amtlicher Bericht" series as bsb10228356-bsb10228369 (volumes 
 
 ## Quality Review Findings
 - **W001 (FT-7):** 5/5 — gold-standard DTA transcription, near-perfect
-- **FT-3 files (BSB/GDZ Tesseract):** 3-4/5 — readable with systematic issues:
-  - `ch`/`ck` → `<`/`>` substitution (Tesseract Fraktur ligature confusion) — universal, machine-correctable
+- **FT-3 files (BSB/GDZ Tesseract):** 3-4/5, post-processed to fix:
+  - 936 `ch` + 1,408 `ck` ligature restorations (was `<`/`>`)
+  - 1,175 page-number header bleed lines removed
+  - 1,596 fragment/bleed-through lines removed
+  - 7 library stamp lines removed
   - Long-s (ſ) correctly preserved throughout
-  - Page-number header bleed in GDZ files (lone page numbers as lines)
-  - Fragment/bleed-through lines: 0.9-3.9% of non-blank lines
-  - Library stamps on BSB files (first few pages)
-  - Tabular data significantly garbled (W031 experimental tables)
-  - Conference context contamination in W035 (preceding agenda items)
+  - Remaining issues: tabular data garbled (W031), conference context in W035
 - **Best FT-3:** W028 (4/5) — clean GDZ scan, sparse artifacts
-- **Weakest FT-3:** W031 (3/5) — experimental tables degraded, highest garble rate
+- **Weakest FT-3:** W031 (3/5) — experimental tables degraded
+
+## Post-Processing
+- **Script:** `scripts/postprocess_canonical.py` (rerunnable with `--force`)
+- **Applied:** 2026-03-13 — all 31 FT-3 canonical files post-processed
+- **W001 excluded** (FT-7 gold standard, no processing needed)
 
 ## Next Steps
 1. **Search for 3 remaining unrouted** manifestations (M017, M039, M042)
-2. **Post-processing** — consider regex cleanup of `<`/`>` → `ch`/`ck` substitution across FT-3 files
-3. **Authority cluster lock** — finalize person authority with all 14 name variants
+2. **Commit and push** post-processing and authority lock changes

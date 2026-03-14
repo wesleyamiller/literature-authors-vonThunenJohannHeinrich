@@ -10,6 +10,7 @@ source: "M021 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band16_M021_pp460-465_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 16/2. 6pp extracted (8KB)."
 assembled: 2026-03-13T23:11:45Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
@@ -21,7 +22,7 @@ mich auf's Neue von dem Erfolge in Federow zu
 überzeugen hoffe.
 
 Alte ſaure Wieſen haben in dieſem Jahré dem
-Herrn Lem>e einen Ertrag von 700 Scheffel gr.
+Herrn Lemcke einen Ertrag von 700 Scheffel gr.
 M. Rapps geliefert ; was werden ſolche Wieſen erſt
 thun, wenn ſie zum zweiten Male ſo behandelt
 werden?
@@ -41,21 +42,10 @@ geringerer Wirkſamkeit ſey als in den Koppelwirth-
 ſchaften. Die Erfahrung hat feruer gelehrt, daß
 Ihon-, Lehm: und Saudmergel faſt gleiche Wirkung
 
-âuß
-geh
-auf
-Gr
-Ka!
 glei
 
-me!
-geb
 gelt
-ma
-gel
 
-nu
-ver
 
 --- Page 2 ---
 uſern, und daß der größere oder geringere Kalk-
@@ -121,46 +111,24 @@ andern ihu benachbarten Feldern eine Menge Unter:
 *) Bei einer ſolche Unterſuchung muß die Erde in ei
 Glas geſchüttet mit Waſſer übergoſſen und dann zu
 einem Brei gerührt werden, ehe das Laémudöpapier
-hiuein geſte>t wird.
+hiuein geſteckt wird.
 
 hall
-aus
-gel
 
-mà
-uur
-wu
 geri
-auf
 lege
 
-das
-Ak
 
-uid
 veri
-vou
-der
-Vai
-des
-Pfe
-úbt
-noc
 
 --- Page 4 ---
-dér
-um
-ſo
 ſich
-1es
 ver:
 
 iſt,
 nige
 
-nan
 
-463
 
 haltene'Säure vorgenommen, welche, ſo viel ich-mich
 aus einermündlichen Mittheilung *) erinnere, fol
@@ -228,37 +196,24 @@ Beobachtungen auf Erſcheiningen führen, die ſich
 aus dieſer Eigenſchaft allein nicht befriedigend erklä:
 ren laſſen; allemal aber wird die Neutraliſation der
 
-Sä
 
-run
 
 --- Page 6 ---
-anz
 
-int
-ik:
 
-der
-ſo
 rthé
 lten
 
 rfeit
 
-im
 ücht
-die
 hrer
 inen
 hat.
-ung
 rali:
-enn
 gels
 
-zei
 lich,
-hte
 
 ſich
 rflà:
@@ -286,7 +241,7 @@ Reſultat derſelben durch die Annalen ausführlich
 befannt zu machen, da ſie Fingerzeige geben, welche
 für Praxis und Wiſſenſchaft gleich wichtig erſcheinen,
 
-Es war bewieſen , daß die <emiſche Analyſe der
+Es war bewieſen , daß die chemiſche Analyſe der
 Acferkrumen häufig den Gehalt an vegetabiliſcher,
 gewdhnlich Eſſigſäure erkennen ließen, und ein hier:
 wit verſehener Boden in der Regel unfruchtbar ſey.

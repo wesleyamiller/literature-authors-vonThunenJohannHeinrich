@@ -10,6 +10,7 @@ source: "M032 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band21_M032_pp563-571_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 21/2. 9pp extracted (12KB)."
 assembled: 2026-03-13T23:11:45Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
@@ -28,14 +29,13 @@ F. G. v. Boddien.
 
 Aurich, den 7. Decbr. 1836,
 
-LT.
-Dem Haupt : Directorio des me>lenburgiſchen
+Dem Haupt : Directorio des mecklenburgiſchen
 
 patriotiſchen Vereins iſt das Gutachten des En-
 gern Ausſchuſſes der Celliſchen Landwirthſchafts-
 Geſellſchaft über die Vorſchläge des Herrn Regie-
 rungs-Raths von Boddien, zur Einführung
-me>lenburgiſcher Ackergeräthe, von Leßterem mit
+mecklenburgiſcher Ackergeräthe, von Leßterem mit
 dem Erſuchen zugeſtellt , darüber nähere Auskunſt zu
 geben. Demgemäß werden über die in dem Gutach:
 ten angeregten Gegenſtände nachſtehende Bemerkun-
@@ -47,7 +47,6 @@ vorzüglichſten Eigenſchaften des Hakens, daß er in
 lich geworden iſt, noch eindringt, Die durch das
 Miſtfahren entſtandenen Feldwege, die ſo hart ge-
 
-aT
 
 ca pe merrennn
 
@@ -58,7 +57,7 @@ Haken, obgleich mit großer Anſtrengung des Zug-
 viehes, umgebrochen.
 
 Der Sandboden könnte durch den ſteten Gebrauch
-des Hakens wohl zu loſe und lo>er werden, wenn
+des Hakens wohl zu loſe und locker werden, wenn
 man immer rein abhakte, d. h. keine Balken ſtehen
 ließe. Da man aber mit dem Haken Furchen von
 jeder beliebigen Breite nehmen kann, ſo wird die zu
@@ -78,7 +77,7 @@ loſe Erde, wenn der Pflug zuſammenhängende Schol-
 len liefert, und wenn man ſonſt auh Pflüge neben
 dem Haken braucht, werden dann die Pflüge doch
 immer vom Aer entfernt, Jm vollen Maaße gilt
-dies jedo< nur von dem mit Vordergeſtellen verſehe-
+dies jedoch nur von dem mit Vordergeſtellen verſehe-
 nen Pferdehaken. Bei dem Ochſenhaken, ſo wie dem
 ſogenannten Bauchhaken, geht durch den Tritt-des
 
@@ -133,7 +132,7 @@ blick nicht entſcheidend, ſondern vielmehr ſehr gleich:
 gültig,“ und es gilt hier der Ausſpruch: „an den
 Früchten ſollſt du ihn erkennen“. Nun zeigt aber
 der vortreffliche Zuſtand, worin, ſelbſt nah dem
-Zeugniſſe der Ausländer, der me>lenburgiſche Acker
+Zeugniſſe der Ausländer, der mecklenburgiſche Acker
 ſich am Ende der Braachbearbeitung befindet, daß
 vermittelſt des Hakens der Zweck der Braache, tros
 des unvollkommenen Dreeſchaufbruches, vollkommen
@@ -207,7 +206,7 @@ Tritt des Zugviehes leidet, nicht wieder feſtge-
 treten wird, ſondern ſolches wie ein gegrabenes
 Gartenland wird, denn
 
-. în dieſer Gegend wird au< das Saamenkorn
+. în dieſer Gegend wird auch das Saamenkorn
 an vielen Orten oben auf die Furche geſäet,
 wodurch nach den von dem Herrn Etatsrath
 von Voght, dem ehrenvollen Veteranen der
@@ -268,7 +267,7 @@ zurück iſt, leidet wohl feinen Zweifel. Jedoch wird
 aus dem in Mecklenburg gebaueten Flachs nicht bloß
 grobe Leinewand gemacht , ſondern man findet faſt
 in allen größern Haushaltungen auf dem Lande feinen
-Damaſt, der aus mec>lenburgiſchem Flachs ver:
+Damaſt, der aus meccklenburgiſchem Flachs ver:
 fertiget iſt.
 
 Ad 1V. Da die Pfannen oder Hohlziegel bedeu-
@@ -297,7 +296,7 @@ und die Hohlziegel ſind auf den Ziegeleien faſt nirgends
 zu haben, wenn ſie nicht eigends beſtellt werden,
 
 Marienhof ‘1nd Tellow , im Januar 1837.
-Haupt- Directorium des mé>lenburgiſchen pa-
+Haupt- Directorium des mécklenburgiſchen pa-
 triotiſchen Vereins für Ackerbau, Jnduſtrie
 und ſittliche Cultur 2c.
 
@@ -305,7 +304,7 @@ und ſittliche Cultur 2c.
 erſter Haupt + Director.
 (L. $.) Dr. Y. H. von Thünen,
 ¿weiter Haupt- Director,
-Sr. Hochwohlgeboren dem Großherzogl. Me>-
+Sr. Hochwohlgeboren dem Großherzogl. Meck-
 lenburgiſchen Geheimen Domainenrathe uud
 Königl. Großibrittanaiſch:Hannöverſchen Ree
 gierungörathe Herrn v. Boddïen in Aurich,

@@ -10,6 +10,7 @@ source: "M034 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band23_M034_pp687-698_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 23/2. 12pp extracted (15KB)."
 assembled: 2026-03-13T23:11:45Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
@@ -48,10 +49,9 @@ von Intereſſe ift. Beſonders intereſſant wird derſelbe durch
 bie angehängten ſchägbaren Reflexionen des Hrn. Dr, v, Thünen.
 
 --- Page 2 ---
-688
 
 incl. find vom Hrn. Hauptmann Carr auf Tüſchen-
-be> geſtellt.
+beck geſtellt.
 
 8) Die Alban'ſche Sämaſchine.
 
@@ -76,7 +76,7 @@ Saatpflug oder Saatdecker.
 
 18) Eine Kartoffelſchneidem
 
-19) Eine Hä>ſelſchneidemaſchine mit Schwungrad.
+19) Eine Häckſelſchneidemaſchine mit Schwungrad.
 
 Dem Heren Domänenrath Denker auf Mieren-
 dorf und dem Unterzeichneten war in dieſem Jahre
@@ -85,7 +85,7 @@ Directorio des medlenburgiſchen patriotiſchen Ver-
 eins übertragen.
 
 Die Carr'ſchen Inſtrumente und der Werth-
-heimer'ſhe Saatde>er wurden zuerſt in Wirkſam-
+heimer'ſhe Saatdecker wurden zuerſt in Wirkſam-
 keit geſcht.
 
 Der Boden des Feldes, auf welchem die Prü-
@@ -93,7 +93,6 @@ fung ſtattfand, war milde, und dur eine früher
 erhaltene Bearbeitung ſchon geloctert.
 
 --- Page 3 ---
-689
 
 Der ſchottiſche Pflug lUeferte eine treffliche Ar-
 beit, tiefe und flache, breite und“ ſchmale Furchen
@@ -117,7 +116,7 @@ den Nang ſtreitig machen. Da“ wir nun“ hoffen
 dürfen, iù dieſem Jahr einen richtig conftruirten
 belgiſchen Pflug zu erhalten, ſo wird es bei der
 nächſtiähtigen Prüfung ſehr inſtructio ſein, die
-Pflüge, welche von den beiden im A>erbau am
+Pflüge, welche von den beiden im Ackerbau am
 höchſten ſtehenden Nationen für die vorzüglichſten
 gehalten werden, neben einander wirken zu ſehen
 und zu vergleichen.
@@ -126,7 +125,6 @@ Die Carr’ſchen Meſſereggen find von ungemei-
 ner Wirkſamkeit: ſie zerhaen und durchwühlen die
 
 --- Page 4 ---
-690
 
 Oberfläche des Bodens o, daß ‘faſt jede Partikel
 deſſelben davon berührt wird.
@@ -140,7 +138,7 @@ Die ſchottiſchen Saateggen find Lebtern ähnlich,
 tur ſtehen die Zinken noch enger, ſo daß die Striche
 der Zinken nur ungefähr 2 Zoll von einander ent
 fernt find, und der Aker das Anſehen erhält, als
-wenn er geha>t wäre:
+wenn er gehackt wäre:
 
 Dieſe drei Arten'Eggen haben durch ihre Rhom-
 boibalform und dadurch, daß immer zwei Eggen
@@ -155,14 +153,13 @@ und mürben Boden läßt ſich zwar noh nicht auf
 die Wirkſamkeit dieſer Eggen ‘auf ‘anvere Boden-
 arten in verſchiedenen Zuſtänden ſchließen; aber ‘ber
 Werth dieſer Eggen iſt längſt entſchieden, und ſie
-haben ih von Tüſchenbe> ‘aus bereits mit allge-
+haben ih von Tüſchenbeck ‘aus bereits mit allge-
 meinem Beifall über einen Theil des weſtlichen
 Melenburgs verbreitet, Auch ſollen Steine, wenn
 
 ſe nur „nicht in zu großer Menge vorhanden ſind,
 
 --- Page 5 ---
-691
 
 fein abſolutes Hinderniß ihrer Anwendung ſein, wie
 mir von Hr. Schwarz auf Steinhagen, welcher dieſe.
@@ -171,13 +168,13 @@ Eggen ſchon eit längerer Zeit gebraucht hat, ver-
 
 Ob der Pflug mit doppelten beweglichen Streich
 brettern zum Behäufen der Kartoffeln vor Unſerin,
-zu dieſem Gebrauch ſehr zwe>mäßigen Haken einen
+zu dieſem Gebrauch ſehr zweckmäßigen Haken einen
 Vorzug hat, ſcheint mir zweifelhaft zu ſein, - und
 fann wohl erſt durch eine längere vergleichende An-
 wendung beider Inſtrumente entſchieden werden.
 
 Der Dreiſchaar zum Reinigen der Kartoffeln
-dürfte vagegen dem Flottbe>er Schälpflug vorzu-
+dürfte vagegen dem Flottbecker Schälpflug vorzu-
 
 n ſein.
 
@@ -198,7 +195,6 @@ Vorpflüger mit nah Güſtrow gebracht, und da-
 durch zwei für ſeine eigene Wirthſchaft faſt unent-
 
 --- Page 6 ---
-692
 
 behrliche Perſonen auf längere Zeit ſeinem Gute
 entzogen.
@@ -231,7 +227,6 @@ früher nicht zu’ exreichen war — und in einem wich-
 tigen Zweig der Landwirthſchaft, für welthen bis
 
 --- Page 7 ---
-693
 
 vor wenig Jahren die Aufmerkſamkeit noh ſchlum-
 merte, begimit eine neue Aera.
@@ -248,7 +243,7 @@ ein Scheffel Korn, oder ein Pfund Kleeſamen aus-
 geſäet wird.
 
 Durch eine andere Kurbel kann der Säemecha-
-nismus augenbli>lih außer Verbindung mit dem
+nismus augenblicklih außer Verbindung mit dem
 umlaufenden Rade geſeht werden, ſo daß beim
 Fortgang ‘der Maſchine kein Samen mehr ausge-
 ſtreuet wird.
@@ -269,13 +264,12 @@ abgedrut.
 Ucberall finden wir, daß das Vollkommene nie,
 
 --- Page 8 ---
-694
 
 oder, höchſt ſelten, auf einmal entſteht, ſondern daß
 Mittelglieder und Stufen langſam dahin führen.
 
 Herrn Domainenrath Sibeth bleibt für immer
-das Verdienſt, in Me>lenburg der erſte Erfinder
+das Verdienſt, in Mecklenburg der erſte Erfinder
 in dieſem Fache geweſen zu ſein — und was be-
 ſonders wichtig iſt, durch ſeine Erfindung iſt dieſem
 Fache des Wiſſens die Aufmerkſamkeit zuge-
@@ -285,7 +279,7 @@ rungen und weitern Erfindungen gegeben.
 Einer rühmlichen Erwähnung verdient noch die
 Hane ſche Säemaſchine. Herr Fabrikant Hane hat
 näm vor 5 Jahren die für feine Säme-
-reien eingerichtete engliſche Bürſtenmaſchine ſo zwed>-
+reien eingerichtete engliſche Bürſtenmaſchine ſo zwedck-
 mäßig modificirt, daß damit je6t alle Kornarten
 geſäet werden können, und in Folge dieſer Verbeſ-
 ſerung iſ die Maſchine fowohl in Pommern als
@@ -296,14 +290,13 @@ Von der Hauptverſammlung des patriotiſchen
 Vereins wurden dem Heren Dr. Alban und dem
 Herrn Domainenrath Sibeth für ihre Erfindungen
 die goldne Medaille, und dem Herrn Fabrikantén
-Hane für die zwe>mäßige Modification der. engli-
+Hane für die zweckmäßige Modification der. engli-
 ſchen Säemaſchine die ſilberne Medaille, als Zeichen
 der Anerkennung ihrer Verdienſte zuerkannt.
 
 Der Wertheimer ſche Saatpflug, ein durchaus
 
 --- Page 9 ---
-695
 
 neues und originelles Juſtrumént, iſ zum flachen
 Unterbringei ‘der Saat beſtimmt.
@@ -312,7 +305,7 @@ Unſer Häkett iſt bei allen ſonſtigen Vorzügen,
 ¿um Uiitétbringen der Sommerſaat doch ein fehr
 mängelhaftes Inſtrument; denn einestheils bebet
 derſelbe die Saat 3—4", Zoll hoh mit Erde,
-währenb eine Béde>ung ‘von 1— 2 Zoll dem Ge
+währenb eine Bédeckung ‘von 1— 2 Zoll dem Ge
 deihen“ der Pflanzen in den meiſten Fällen weit zu-
 tüiglither iſ, und anderntheils wird die Kraft von
 2 Zugthieren verwendet, wo bey_ einer Furchentiefe
@@ -320,7 +313,7 @@ von 2 Zoll eine halbe Pferdekraft ‘ausreichen würde.
 Hier if alfo mangelhafte Arbeit gleichzeitig mit
 Keaftverſchwendung verbunden, Mit der ſteigenden
 Cültut“ und famentlich nah Hinwegräumung der
-Steine wird eln zwe>mäßiger Saatpflug ein immer
+Steine wird eln zweckmäßiger Saatpflug ein immer
 größeres Bebürfnißi. Herr Dr. Werthheimer wird
 fich deshälb cin' Verbienſt erwerben, wenn er di
 ſem Gegenſtande feine ferneré Aufmérkſamkeit wid-
@@ -337,13 +330,12 @@ fertig? geworden, und es. leidet keinen Zweifel, vaß
 N, Annal, 23. Jahrg. 2te Hälfte. 45
 
 --- Page 10 ---
-69
 
 es dem Heren Etfiader gelingen wird, die, erforder
 liche Zugkraft noch bedeutend zu. vermindern.
 Der ſchottiſche Doppelpflug, hat zwei Strei
 
-bretter, wovon bas cine in der Luft ſ<webt, wähe
+bretter, wovon bas cine in der Luft ſchwebt, wähe
 rend das andere in der: Erde geht. Am Ende der
 Furche wechſeln dann beide Streichbretter ihre Be-
 ſtimmung, wodurch es möglich wird, mit dem Pfluge
@@ -370,14 +362,13 @@ nicht neben einandey--gehen“fönnen, „ſondern
 »vor einander: geſpannt, beide. -in-der-Funchs
 
 --- Page 11 ---
-697
 
 »gehen müſſen, und auf folchen Hügeln wird
 pdieſer Doppelpflug angewandt.c
 
 In Melenburg würde der Anbau ſo jäher
 Hügel mit großem Verluſt verbunden ſein, und
-wenn in England ſolcher A>er noch culturfähig iſt,
+wenn in England ſolcher Acker noch culturfähig iſt,
 ſo giebt uns dies ein anſchauliches Bild von der
 Wirkung der engliſchen Kornbill, welche durch hoch
 geſteigerte Kornpreiſe den Anbau der jähen Hügel,
@@ -387,7 +378,7 @@ macht.
 
 Andererſeits erkennen wir daraus auch, daß nach-
 dem dieſer Zuſtand in England eininal beſteht, ein
-völlig freier Kornhandel ganze Stre>en angebauten
+völlig freier Kornhandel ganze Strecken angebauten
 Landes wieder in Oeden verwandeln, und Tauſende
 von Familien brodlos machen würdez daß wir alfo
 auch niemals eine zollfreie Einfuhr des Getreides
@@ -400,11 +391,10 @@ hem Jahren aufgeſtellt geweſen ſind, in Wirkſam-
 keit zu ſeven, und fie einer gleichen Prüfung zu
 unterwerfen,
 
-Die Ausſtellung und Prüfung der A>erwerk-
+Die Ausſtellung und Prüfung der Ackerwerk-
 zeuge erregte dieömal allgemeines Intereſſe, und die
 Verſammlung, welche derſelben beiwohnte, war zahl-
 
-45+
 
 --- Page 12 ---
 reich und glänzend. Beſonders erfreuend und

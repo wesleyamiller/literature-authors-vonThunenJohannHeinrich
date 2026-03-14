@@ -10,6 +10,7 @@ source: "M012 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band17_M012_pp001-010_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 17. 10pp extracted (13KB)."
 assembled: 2026-03-13T23:11:44Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
@@ -60,10 +61,9 @@ Indem ich nun der in dieſem Sinne von dem
 Hochverehrlichen Haupt -Directorinm an. mich ergan-
 genen geneigten Anweiſung gehorſamſt Folge leiſten
 werde, beeile ich mich, das beſprochene Pro Memoria
-des Herrn von Thünen auf Tellow hier dur<
-den Druc> zur allgemeinen Kunde zu bringen,
+des Herrn von Thünen auf Tellow hier durch
+den Drucck zur allgemeinen Kunde zu bringen,
 
-F.
 
 P. AL
 In der Schrift:
@@ -79,11 +79,7 @@ Thalern verſchaffen.
 
 li
 
-be
 
-z
-è
-|
 
 --- Page 3 ---
 tzu |
@@ -94,17 +90,10 @@ gabe
 hlen |
 lage
 
-deu
 
-en
 
-rh
 
-in
 
-de
-r:
-1d
 
 aman
 
@@ -116,7 +105,6 @@ Der Ausführung dieſes Plans ſtehen" aber die
 beiden Schwierigkeit
 
 1) das Nachmachen der Banknoten zu verhüten,
-und
 2) den Unterſchleif bei der Verwaltung des Bank:
 fonds zu vermeiden,
 entgegen. Da aber dieſe Schwierigkeiten in andern
@@ -136,14 +124,12 @@ Ausführung komme.
 Um nun die Stimme des gattzett Landes hierüber
 zut vernehmen, und eine vielſeitige Prüfung der in
 dieſer Schrift ausgeſprochenen Jdeen zu veranlaſſen,
-ſcheint es mir zwec>Emäßig, dieſen Gegenſtand in ällen
+ſcheint es mir zwecckEmäßig, dieſen Gegenſtand in ällen
 Diſtrikten des Mecklenb/ Patriotiſchen Vereins zur
 Berathung zu bringen, und ich erlaube mir deshalb
 
-1%
 
 --- Page 4 ---
-4 —
 
 den Vorſchlag, bei dem hochverehrlichen Haupt Die
 rectorio des Vereins darauf anzutragen:
@@ -177,7 +163,6 @@ von Landesſchulden verwandt würde.
 Denn ſo wie auf einem einzelnen Gute das auf
 zwectmäßige Verbeſſerungen, z. B. auf das Mergeln,
 
-E
 
 --- Page 5 ---
 are 5
@@ -247,10 +232,7 @@ Da der Herr Verfaſſer obiger Schrift einen Vor:
 zug, den die Banknoten in Zeiten einer feindlichen
 Occupation vor dem Metallgelde haben, — welches
 
-\
-|
 
-AE.
 
 --- Page 7 ---
 —— 7
@@ -286,7 +268,6 @@ Die Urſachen dieſer Erſcheinung ſiud folgeude:
 In deu gewöhnliches friedlichen Verhältniſſen iſt der
 
 --- Page 8 ---
-8 A
 
 Gebrauch8werth eines zum wirklichen Verkehr benus-
 ten Geldfapitals mit der Nubung der in Ackerbau
@@ -316,10 +297,9 @@ Immobilien, und ſo wird aus der Abweichung des
 Geldzinſes von der Nußung des productiv angelegten.
 Kapitals die ſonſt räthfelhafte Erſcheinung erklärlich,
 wie, bei faſt unvermindertem Nationalvermögen, der
-verminderte Geldſto> allein ein Sinken des Preiſes
+verminderte Geldſtock allein ein Sinken des Preiſes
 
 --- Page 9 ---
-y 9
 
 der Güter bis auf die Hälfte bewirken, und dadurch
 Undlück über viele Familien bringen kann.
@@ -370,12 +350,10 @@ Minderung der oben angeführten Uebel weſentlich
 beitragen.
 
 Bleibt aber die Bank eite reine Depoſita : Zettel:
-bank, und läßt ſe — was mir zwe>mäßig erſcheint,
+bank, und läßt ſe — was mir zweckmäßig erſcheint,
 ſich auf das Discontiren von Wechſeln gar nicht ein:
 ſo wird die aus der Einrichtung der Bank hervor:
 gehende Gewißheit, daß die Banknoten nach deur
 Kriege ihren vollen Nennwerth wieder erhalten wer-
 den, den Cours dieſer Papiere, auch während des
 Krieges, nicht tief ſinken laſſen.
-
-e

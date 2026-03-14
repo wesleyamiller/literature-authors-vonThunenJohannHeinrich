@@ -10,6 +10,7 @@ source: "M027 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band18_M027_pp274-282_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 18/2. 9pp extracted (12KB)."
 assembled: 2026-03-13T23:11:45Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
@@ -83,7 +84,6 @@ Wolimeſſer zu übernehmen, überliefert.
 Der Vorſchrift des Programs $, 5.:
 „Dem mit der Meſſung der Wolle beauftragten
 „¡Mitgliede des Vereins muß unbekannt bleiben,
-18*
 
 --- Page 3 ---
 276 —
@@ -123,13 +123,12 @@ men. Obgleich nun die Wolle hier on minder fein
 , als auf den Normalſiellen , dieſe Proben alſo
 
 --- Page 4 ---
-ez|
 
 — 27
 
 nicht zu Gunſten des Thiers genommen waren : ſo
 glaubte das Comité, ſich ſtrenge an den Buchſtaben
-des Programms Haltend ; dieſen Boc> doch von der
+des Programms Haltend ; dieſen Bocck doch von der
 Coneurrenz ausſchließen zu müſſen.“ Die“ genome:
 en Wollproben wurden jedoch dem Herrn Jeppe
 zur Meſſung übetgeben-
@@ -141,7 +140,7 @@ das in der Anlage A- enthaltene Verzeichnißi.
 Dem Neſultate der Meſſung zu Folge, wurde, —
 da der Bock Nr. 2 aus den angeführten Gründen von
 der Concurrenz au8geſchloſſen war, — dem Bo Nr. 7,
-welcher dem Herrn Eagelbre<t-zu Glaſewiß ge-
+welcher dem Herrn Eagelbrecht-zu Glaſewiß ge-
 höre, der Preis zuerkannt.
 
 Der Preis, den der Beſiher des ſiegenden Bocks
@@ -199,10 +198,7 @@ werden; ob aber die Stapelung der Wolle ſi will:
 führtich ändern laſſe, bleibt ein ‘Probleu, deſſett |
 
 --- Page 6 ---
-it
 
-r
-te
 
 ———_ 279
 
@@ -211,7 +207,7 @@ te
 lieſi des Siegers wird zur Vergleichung bis zum
 nächſten Jahre aufgehoben werden.
 
-Das Körpergewicht des Siegers betrug 702 F>
+Das Körpergewicht des Siegers betrug 702 Fck
 das Gewicht der andern zur Preisbewerbung geſtellten
 Böcke varüirte von 69 bis 105 S. “Unter dieſen
 Böcken fanden ſich mehrere, die mit einer bedeuten-
@@ -224,7 +220,7 @@ Ausgeglichenheit, der Geſchloſſenheit des Fließies und
 der gleichen Höhe aller Stapel. Dem Vernehmen
 nach ſoll dieſer Bock längere Zeit mit einer Decke be
 fleidet geweſen ſein.“ Sehr zu wünſchen wäre es,
-daß dieſer Bock im nächſten Jahre unbedec>t bliebe,
+daß dieſer Bock im nächſten Jahre unbedecckt bliebe,
 und im fünftigén Jahre wieder zur Schau geſtellt
 würde. Es würde ſich dann ergeben, welchen Antheil
 

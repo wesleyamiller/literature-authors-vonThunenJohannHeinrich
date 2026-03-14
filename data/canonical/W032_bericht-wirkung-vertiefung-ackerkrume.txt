@@ -10,6 +10,7 @@ source: "M037 (GDZ Tesseract Fraktur)"
 source_files: "neue-annalen_band28_M037_pp113-145_tesseract-fraktur.txt"
 notes: "Neue Annalen Vol 28/1. 33pp extracted (37KB)."
 assembled: 2026-03-13T23:11:45Z
+postprocessed: "ch/ck ligature restoration, stamp/fragment removal"
 ---
 
 --- Page 1 ---
@@ -44,7 +45,6 @@ werden in 2 Abtheilungen, in Kammwoll - und
 M. Annalen 2, Jahrg. lte Hälfte. 8
 
 --- Page 2 ---
-114
 
 Tuchwoll-Böe gebracht, und zwar ſollen Böe,
 deren Wolle auf der Stelle Nr. 9 der Jeppe-
@@ -61,7 +61,7 @@ Prámie von 10 Thlr. Gold gezahlt.
 
 Die Auswahl und Entſcheidung erfolgt durch
 bie Stimmenmehrheit der cóncurrirenden Schaaf-
-züchter, wovon Keiner auf ſeinen eigenen Bo>
+züchter, wovon Keiner auf ſeinen eigenen Bock
 ſtimmen darf.
 
 Für dieſe Concurrenz find aber niht mehr als
@@ -72,13 +72,12 @@ gewählt und mit einer Prämie belohnt werden.
 Nachdem ſolchergeſtalt die Sieger aus jeder
 der beiden Abtheilungen ermittelt ſind, werden
 dieſe Sieger zuſammengeſtellt und aus“ jeder
-Abtheilung der beſte Bo> ausgewählt. Jeder
+Abtheilung der beſte Bock ausgewählt. Jeder
 der beiden Hauptſieger erhält eine Prämie von
 20 Thlr. Gold. Die Entſcheidung erfolgt wie
 in Nro, 1. dur die Concurrenten,
 
 --- Page 3 ---
-115
 
 3. Alsdann werden beide Hauptſieger zuſammen
 aufgeſtellt und für denjenigen Zuchtwidder, wel-
@@ -95,13 +94,13 @@ Das normirende Körpergewicht wird dadurch
 gefunden, daß man dem Gewicht des Bos
 nach der Schur 106: Pfd. hinzufügt und dieſe
 Summe durch zwei dividirt. Das normirende
-Körpergewicht eines Bo>s von 120 Pfund iſt
+Körpergewicht eines Bocks von 120 Pfund iſt
 hiemach 120 + 100 = 110 Yfd.
 
-und das eines Bo>s von 70 Pfund Gewicht
+und das eines Bocks von 70 Pfund Gewicht
 85 Pfund. Bei dieſem Ver-
 
-fahren kömmt das, was der Bo> mehr oder
+fahren kömmt das, was der Bock mehr oder
 weniger als 100 Pfd. wiegt, nur zur Hälfte
 in Anrechnung.
 
@@ -112,7 +111,6 @@ nigen Bo, der auf der Stelle Numero 9
 (Zeppeſche Wollproben-Charte) na der Meſ-
 fung mit dem Köhlerſchen Wollmeſſer die
 
-8°
 
 --- Page 4 ---
 feinſte Wolle hat. Vei“ gleichem Feinheits-
@@ -121,7 +119,7 @@ grad entſcheidet die Wollmengez
 . eine Prämie von 10 Thr. Gold für denje-
 nigen Bo, deſſen einjähriges Vließ im un-
 gewaſchenen Zuſtande das höchſte Gewicht
-hat, ohne Nüe>ſicht auf Raçe, Feinheit und
+hat, ohne Nüeckſicht auf Raçe, Feinheit und
 Körpergewichtz
 
 eine Prámie von 10 rl. Gold für das Thier,
@@ -140,11 +138,11 @@ Prämie concurriren ſoll, zahlt der Beſißer deſ-
 « Jeder Schafzüchter hat das Necht, zur Concur-
 
 renz um die Prämien 4 Böe zu ſtellen.
-Nur diejenigen Bö>e werden zur Concurrenz
+Nur diejenigen Böcke werden zur Concurrenz
 zugelaſſen, welche im vorigen Jahre auf der
 Schaafſchau zu Güſtrow geſchoren und geſtem-
 pelt find. Eine Ausnahine hiervon findet nur
-bei Nr. 5a. und Nr. 5c. ſtatt. Jährlingsböc>e
+bei Nr. 5a. und Nr. 5c. ſtatt. Jährlingsböccke
 find von der Concurrenz ganz ausgeſchloſſen,
 
 . Die Böe, welche im vorigen Jahre zu der
@@ -153,7 +151,6 @@ Bewerbung um die Prämien geſtellt find, müſ-
 welche in dieſem Jahre concurriren, auf die
 
 --- Page 5 ---
-117
 
 fünftigiährige Sthaafſchau gebracht und zur
 Schau geſtellt werden.
@@ -225,7 +222,6 @@ Sieger findet ſich in dem suh a. anliegenden Pro-
 tocollauszug.
 
 --- Page 7 ---
-119
 
 Bei dem, am Tage der Schaafſchau vom frühen
 Morgen bis gegen Mittag hin, unaufhörlich her-
@@ -238,33 +234,33 @@ des Regeriwetters die Zahl der Theilnehmer ſehr
 beſchränft, und ſelbſt mehrere der Hrn. Concurren-
 ten fanden ſi erſt am Schluß des Geſchäfts ein.
 Geſtellt wurden: mit der eingebrannten Nummer,
-vom Hern Buſh Blieſekow 1 Bo> Nro, 2.
+vom Hern Buſh Blieſekow 1 Bock Nro, 2.
 dto. dto. Nro. 8.
-v. Hrn. Pogge auf Noggow 1 Bo> Nro. 5.
+v. Hrn. Pogge auf Noggow 1 Bock Nro. 5.
 dto. dto. Nro. 32.
 dto. dto. Nro. 33.
 vom Herrn Grafen von Shwerin Wulfshagen
-1 Bo> Nro. 19,
+1 Bock Nro. 19,
 dio. Nro. 2.
 dto. Nro. 38.
 bto. Nro. 39.
-vom Hrn. v. Thünen Tellow 1 Bo> Nro. 35.
+vom Hrn. v. Thünen Tellow 1 Bock Nro. 35.
 dto. dto, Nro 36,
 vom Herrn Hofrath von Wedemeyer Langhagen
-1 Bo> Nro, 17.
+1 Bock Nro, 17.
 dto. Nro, 1.
 dto. Nro. W.
 
 --- Page 8 ---
-v. Herrn Staudinger auf Gr.-Wüſtenfelde 1 Bo>
+v. Herrn Staudinger auf Gr.-Wüſtenfelde 1 Bock
 
 Nro. 18.
 dto. Nro. 23.
-von Herrn Hillmann Scharſtorf 1 Bo> Nro, 30.
+von Herrn Hillmann Scharſtorf 1 Bock Nro, 30.
 dto. 34,
 
-v. Hrn. Stavenhagen Paſſee 1 Bo> Nro. 26.
-v. Hrn. Held Kl.-Noge 1 Bo> Nro. 10.
+v. Hrn. Stavenhagen Paſſee 1 Bock Nro. 26.
+v. Hrn. Held Kl.-Noge 1 Bock Nro. 10.
 
 Es wurde nun zuerſt zur Entſcheidung der
 Augenſcheinwette geſchritten, und zwar wurden auf-
@@ -297,7 +293,6 @@ Buſch Blieſekow.
 Nog.
 
 --- Page 9 ---
-121
 
 3. Hr. Ludwigs für Hrn. Hillmann Scharſtorf.
 4. Hr. Schafmeiſter Pagel für den Hern Grafen
@@ -329,12 +324,12 @@ zuerkannt.
 Bei der Auswahl des vorzüglichſten Boes
 unter den 4 Siegern erhielt :
 
-der Bo> Nr. W 5 Stimmen.
+der Bock Nr. W 5 Stimmen.
 
 onc toric Wiſkaiiras
 APA Sites
 
-Der demHin. Stavenhagen Paſſee gehörende Bo>
+Der demHin. Stavenhagen Paſſee gehörende Bock
 Nr. 2 iſt mithin als Sieger erkannt und demſel-
 ben die Prämie von 20 1l. Gold zugeſprochen.
 
@@ -346,11 +341,10 @@ Nr. 35 2 Stimmen.
 4286:2:
 
 --- Page 10 ---
-122
 
 Nr. 5, 33, 23 und 18 jeder eine Stimme.
 
-Den beiden Bö>en Nr, 35 u. 36 wurde hier-
+Den beiden Böcken Nr, 35 u. 36 wurde hier-
 nah die Prämie von 10 rl. Gold. zugeſprochen.
 
 Bei der Zuſammenſtellung der beiden Sieger
@@ -360,13 +354,13 @@ Nr, 35 2 Stimmen.
 
 Nr, 36 1 Stimme.
 
-Demnach wurde dem Bo> Nr. 35 der Vorzug
+Demnach wurde dem Bock Nr. 35 der Vorzug
 gegeben und demſelben die Prämie von W rl. G.
 zuerkannt.
 
 Endlich wurden die beiden Hauptſieger Nr. 26
 und Nr, 35. zuſammengeſtellt, um aus ihnen den
-werthvollſten Bo> auszuwählen.
+werthvollſten Bock auszuwählen.
 
 Der Bo Nt, erhielt 6 Stimmen.
 CE E A
@@ -390,9 +384,8 @@ konnte jedoch, da einige Vüieße feuchter als andere.
 waren, nict zur Richtſchnur dienen, und die Vließe
 
 --- Page 11 ---
-123
 
-ſind im“ abgetro>aeten Zuſtande von den Herrn
+ſind im“ abgetrockaeten Zuſtande von den Herrn
 Tarxatoren nochmals gewogen.
 
 Das Ergebuiß der lehten Wiegung der Vlieſe
@@ -418,7 +411,7 @@ Prâmie und 6 Thlr 16 ſl. Tagelohn ausbezahlt.
 Da hier Wetteifer und Ausſiht auf Belohnung
 gleichzeitig dazu anſpornen gute Arbeit zu liefern,
 ſo fann dieſe Eimichtung eine Schule zur Bildung
-geſchi>ter Scheerer werden, die dann wieder die
+geſchickter Scheerer werden, die dann wieder die
 Lehrer anderer werden können — wenn die Schee-
 rer niht von einem einzelnen Gut, ſondern von
 vielen Gütern geſtellt werden.
@@ -426,7 +419,6 @@ vielen Gütern geſtellt werden.
 Die Vließe wurden dann dem Hrn. Kaufmann
 
 --- Page 12 ---
-124
 
 Jeppe und dem Hrn. Fabrikinſpector Mantius über-
 geben, welche Herren die Güte gehabt haben, die
@@ -449,7 +441,7 @@ Dieſe Tabelle zeigt nun als Sieger:
 
 1. im Körpergewicht:
 
-den Bo> Nr, 19 mit 139 Pfd. Körpergew.
+den Bock Nr, 19 mit 139 Pfd. Körpergew.
 dem Hrn. Grafen von Schwerin auf Wulfs-
 hagen geh
 
@@ -463,15 +455,14 @@ dinger Gr.-Wüſtenfelde gehörig.
 
 mirendes Körpergewicht.
 a, erſter Sieger : der dem Herrn Hofrath von
-MWedemeier auf Langhagen gehörende Bo>
+MWedemeier auf Langhagen gehörende Bock
 
 --- Page 13 ---
-125
 
 Nr." 28 init 4 Thaler’ 18,03 Silber Gr.
 Viieſiwerth.
 zweiter Sieger: ‘des Herrn Pogge ‘auf
-Roggow 'Bo> Nro: 33'mit 4 Thaler
+Roggow 'Bock Nro: 33'mit 4 Thaler
 14,29 Sgr. Vlieſwerthz
 
 und es find dieſen Böcken die ‘entſprechenden Prá-
@@ -483,25 +474,24 @@ A. Vor etwa 12 Jahren wurde eine Prämie
 auf den wollreichſten Bot, der ohne Rüſicht auf
 Rage und Wollfeinheit — in ‘365 Tagen 5 Pfd.
 reine Wolle trüge, geſeht. Die Prämie ſchien leicht
-zu gewinnew da man von vielen Böen in Me>-
+zu gewinnew da man von vielen Böen in Meck-
 lenburg hörte, die 8 — 10 Pfd ‘gewaſchene Wölle
 trugen. Unerwartet blieben aber alle geſtellten
 Böe, ſelbſt aûs den anerkannt wolreichſten Schä-
-fereien weit hinter dem geſtellten Ziel zurü>. Als
+fereien weit hinter dem geſtellten Ziel zurück. Als
 es ſi nun entſchieden gezeigt ‘hätte, daß es in
 Melenburg keinen Bo ‘gab, ber 5 Pfund reine
 Wolle trug, wurde das Normalgewicht von 5 auf
 4/2 Pfund reine Wolle heräbgefeht. Auch hier
 ſcheiterten noh manche Bemühungen zur Erlangung
-der Prämie, bis endlich“ ei Bö>* mit grober
+der Prämie, bis endlich“ ei Böck* mit grober
 Quartawolle auftrat, der einige Loth über 4/2 Pf.
 Wolle hatte.
 Wer hätte damals ahnen könnén', daß kaum
 
 --- Page 14 ---
-126
 
-ein! Decennium ſpäter auf der Thierſchau ein Bo>
+ein! Decennium ſpäter auf der Thierſchau ein Bock
 erſcheinen werde, der bei 2% ® mittlerer Feinheit
 und dem Sortiment 1 Prima in“ 361 Tagen
 4 pſd. 7,05 Loth im vollen Jahr alſo 4'/, Pfund
@@ -519,40 +509,39 @@ gewünſchten Eigenſchaften, als gute Stapelung u.
 ſ.w. verbindet, fo iſt es ſehr auffallend, daß in der
 Augenſcheinswette bei der Bewerbung | um die
 Prämie von 2 Thlen. der BoE Nr. W nur eine
-Stimme, der Bo> Numero 2 aber 5 Stimmen
+Stimme, der Bock Numero 2 aber 5 Stimmen
 erhielt.
 
-Die Concurrenten gaben alſo dem Bo> Nr, 6
+Die Concurrenten gaben alſo dem Bock Nr, 6
 entſchieden den Vorzug und Referent muß geſtehen,
 daß er dieſe Entſcheidung für richtig hielt, und. daß
 er ebenſo geſtimmt haben würde, wenn er Cone
 rent geweſen wäre, Refer, ſprach aber gleichzeitig
-die Anſicht aus, -daß-der Bo> Nro. 28 im Vlieſe
+die Anſicht aus, -daß-der Bock Nro. 28 im Vlieſe
 werth Sieger ſein würde, und war Zeuge, wie der
 Beſiher des Bos Nr. 2 eine ihm vom Beſißer
 des Bos Nro. 28 angebotene Wette über den
 
 --- Page 15 ---
-127
 
 höchſten Vlieſiwerth ablehnte. Das Ergebniß der
 Tare hat dieſe Vorausſicht völlig beſtätigt, wein
 nách Anlage D. ‘der Bö Nro. "2W einen Vliéf
-werth von 4 Thlr. 18,03 Sgr., der Bo> Nr. 'W
+werth von 4 Thlr. 18,03 Sgr., der Bock Nr. 'W
 aber einen Vlieſwerth von 4 Thlr. 9,37 Silbergr.
 prò 100 Pfund normirendes Körpergewicht beſiht.
-Noch auffallender iſt der Vorzug des Bo>d'Nu-
-mero W’ vor dein Bo> Nro. 26 in Bezug ‘auf
+Noch auffallender iſt der Vorzug des Bockd'Nu-
+mero W’ vor dein Bock Nro. 26 in Bezug ‘auf
 den Feinheitsgrad der Wolle, indem bie" mittlere
-Wollfeinheit bes eiſen Bo>s 219, die des Áen
+Wollfeinheit bes eiſen Bocks 219, die des Áen
 Bos aber 31 ® beträgt.
 
 Wenn wir nun éinerſeits den durch Sachkun-
 dige ermittelten höchſten Vließwerth als das ent-
 ſcheidende Moment bei der Prämienvertheilimg
-betrachten und andererſeits" boch einem Bo> von
+betrachten und andererſeits" boch einem Bock von
 tninderem Vließwerth den Vorzug geben, # ſcheint
-hiérin ‘ein Widerſpru<h zu liegen. Einen ſolchen
+hiérin ‘ein Widerſpruch zu liegen. Einen ſolchen
 Widerſpruch follte man aber nie in ſich dulden,
 ſondern fich die Gründe, woräuf derſelbe beruht,
 zur Klarheit und zum" Béwußiſein- bringen.
@@ -561,16 +550,15 @@ Ich ‘erlaube mir beshalb “folgende ‘Frage zur
 
 Berathung auf der nächſtiährigen Schaafſchau? vor-
 zuſchlagen und zu empfehlen.
-1. Aus welchen Gründen wird dem Bo> Nr. W
+1. Aus welchen Gründen wird dem Bock Nr. W
 vor dem Bo Nro. 28 von den Schaafzüchtern der
 Vorzug gegeben?
 
-2. Obgleich der Bo> Nr. W gut geſtapelt iſt,
+2. Obgleich der Bock Nr. W gut geſtapelt iſt,
 
 --- Page 16 ---
-128
 
-ſo- feht. er doch in dieſer Beziehung dem Bo> Nr.
+ſo- feht. er doch in dieſer Beziehung dem Bock Nr.
 26 nah, welcher im Verhältniß der Länge
 der Wolle einen ausgezeichneten Wollſtapel
 hat.
@@ -602,7 +590,6 @@ die Leichtigkeit und Bequemlichkeit einer
 ſolchen Beurtheilung uns verleitet , dem
 
 --- Page 17 ---
-129
 
 Stapelbau / einen zu großen Werth bei-
 aulegen ?
@@ -638,17 +625,16 @@ hnliche Fragen zu löſen,
 R. Annal. 28. Jahrg, Ute Hälfte. 9
 
 --- Page 18 ---
-130
 
 Dâzu giebt ‘es ‘aber fáſt kein anderes Mittel,
 als die Nealiſation des ſchon vor vielen! Jahren
 von Hetrn Pogge Roggow gemachten Vöiſchlägs,
 die Bö näch" ihren Leiſtungen, d, i, nach ihren
 Nachkönimén" zu“ beurtheilén, und die Prämien-
-vértheilurig! äuf- dieſe zu erſtte>en.
+vértheilurig! äuf- dieſe zu erſttecken.
 
 3. Die“ Herrn Taratoten geben in ihrer Be-
-urtheilung dem /Bo> Nx. 28 das Prädicat >Zur
+urtheilung dem /Bock Nx. 28 das Prädicat ckZur
 Beachtungz« dem Bo Nr. 2 aber bas Prä-
 dícat »zur beſondern Beachtung, ſtellen hier
 alſo den leger höher als beit“ erſteren.
@@ -675,7 +661,6 @@ Menin e8'aber factiſh iſt, daß ſi bei'verſchié
 denen Sprungböen im Werth ihres Vließes ein
 
 --- Page 19 ---
-131
 
 Unterſchied ‘von 1 —2 Thlr. findet, ‘wenn ſich
 beim fortgeſehten Gebrauch dieſer “Böcke -in der
@@ -736,11 +721,10 @@ digen Wollhändlern und Sortirern nohmals eine
 Beſichtigung, und Prüfung in allen ihren Wollei-
 genſchaften unterworfen würden.
 
-Zu dem vorliegenden Zwe> möchte es rathſam
+Zu dem vorliegenden Zweck möchte es rathſam
 ſein, mit der Ankündigung der Schaafſchau zugleich
 
 --- Page 21 ---
-133
 
 eiñige der zu verhandelnden Fragen tekannt zu
 machen, denen dann jeder Theilnehmer an der Ver-
@@ -755,7 +739,7 @@ vom lehten Jahre ihrer Tare zum Grunde gelegt,
 angenommenen Preiſe, als ſich dem Durchſchnitts-
 preiſe nähernd, beibehalten. Dies iſ gewiß richti-
 ger als das frühere Verfahren, bei welchem die
-augenbli>liche , höchſt veränderliche Conjunktur
+augenblickliche , höchſt veränderliche Conjunktur
 Maaßſtab der Entſcheidung war, Indeſſen dürfen
 doch diéſe angenommenen Preiſe in der Zukunft
 niht dauernd zum Maaßſtab genommen ‘werden,
@@ -764,7 +748,7 @@ verſchiedenen Wollſorten dem Wandel unterworfen
 iſt. Vielleicht wäre es am zutreffendſten, wenn wiß
 fünftig für die verſchiedenen Wollſorten den Dur:
 ſchnitt der Preiſe der vorhergehenden 5 Jahre zum
-Grande [legten. Datur< würden wenigſtens die
+Grande [legten. Daturch würden wenigſtens die
 beiden Nachtheile, daß das lette Jahr entweder als
 allein normirend , oder als gar kein Gewicht in
 die Wagſchaale legend, betrachtet wird, vermieden
@@ -773,7 +757,6 @@ werden.
 Immer erhalten wir auf dieſe Weiſe doh nur
 
 --- Page 22 ---
-134
 
 Auskunft darüber, welche Schaafrace, welches In-
 dividuum derſelben am werthvoUſien in der Ver-
@@ -811,7 +794,6 @@ grasreichen und zur Schafweide geeigneten Bodens,
 und in“ dieſen Ländern find die Productionskoſten
 
 --- Page 23 ---
-135
 
 der Wolle aus nachſtehenden Thatſachen ſehr viel
 geringer als hier:
@@ -849,7 +831,6 @@ niedrigèn Preis unſere Wolle von denſelben ver-
 drängen,
 
 --- Page 24 ---
-136
 
 Damit wäre denn unſerer Schafzucht und ſomit
 einer der wichtigſten Erwerbsquellen des Landes
@@ -883,7 +864,6 @@ iſchung mit europäiſcher Wolle.
 Demnach wird nicht die Tuchwolle, ſondern
 
 --- Page 25 ---
-137
 
 nur die Kamimwolle dur die Concurrenz der Co-
 lonialwolle bedroht.
@@ -892,7 +872,7 @@ Nun hat die Mehrzahl der Melenburgiſchen
 Shhaafzüchter ſich der Production der Kammwolle
 und zwar bi8her mit großem Vortheil zugewandt.
 
-Liegt es alſo nicht im Intereſſe der me>lenb,
+Liegt es alſo nicht im Intereſſe der mecklenb,
 Schafzüchter, dieſe Bahn freiwillig zu verlaſſen,
 ehe ſie durch vicljährige Verluſte dazu gezwungen
 werden?
@@ -901,12 +881,12 @@ Um dieſe Frage bejahend beantworten zu kön-
 nen, müßte zuvor eine andere Frage zur Entſchei»
 dung gebracht werden.
 
-Die me>lenb. Kammwolle zeichnet fi durch
+Die mecklenb. Kammwolle zeichnet fi durch
 Kraft und Stärke aus , beſiht alſo grade die Ei-
 genſchaften, die der Colonialwolle fehlen; wird nun
-nicht aus dieſem Grunde die me>lenb. Kammwolle
+nicht aus dieſem Grunde die mecklenb. Kammwolle
 ſelbſt bei einer Ucberfülle von Colonialwolle unent-
-behrlic< bleiben, und einen angemeſſenen Preis
+behrlicch bleiben, und einen angemeſſenen Preis
 behalten , wie tief auh der Preis der Colonial-
 wolle ſinken mag?
 
@@ -920,7 +900,6 @@ Mein Vorſchlag geht deshalb dahin: aus der
 Thierſchaw-Kaſſe jährlich eine gewiſſe Summe zu
 
 --- Page 26 ---
-138
 
 bewilligen zur Einziehung von Nachrichten über
 den angegebenen Punkt, über den Gang des Wolle
@@ -983,7 +962,6 @@ Prämie von 40 rl. Gold erhalten ſoll.
 Die Ausmittelung geſchieht ganz ſo, wie bei
 
 --- Page 28 ---
-140
 
 der Prämie von 100 Thalern sub 4 der Bekannt-
 macung.
@@ -995,15 +973,15 @@ dieſe Böe aber zu der Prämie von hundert
 Thalern und resp. 40 rl. Gold nicht con-
 curtiren ſollten.
 Herr Stavenhagen auf Paſſe erklärte :
-daß ſein Bo> Nr, 26 freilich ferner zu den
+daß ſein Bock Nr, 26 freilich ferner zu den
 Prämien von reſp. 100 und 40 rl. coneur-
 tiren ſolle, nicht aber zu den übrigen sub 5
 der Bekanntmachung beſtimmten Prämien.
 Um für das nächſte Jahr concurriren zu kön-
 nen, haben ſcheeren und einbrennen laſfen :
-Herr Buſch Blieſekow 1 Bo> Nr. 40.
+Herr Buſch Blieſekow 1 Bock Nr. 40.
 „ Krogmann auf
-Schwasdorf 1 Bo> Nr. 41.
+Schwasdorf 1 Bock Nr. 41.
 /- v. Thünen Tellow 1, 42, (Klauen-
 Brand.)
 
@@ -1015,14 +993,13 @@ Wüſtenfelde 4 Böe Nr, 44, 45, 46,58.
 wovon Nr, 46 die Jahreszahl und Nummer
 
 --- Page 29 ---
-141
 
 auf dem Ohr das Zeichen aber auf der Klaue
 erhalten hat,
-Stavenhagen Paſſee 3 Bö>e Nr. 50, 54, 55.
+Stavenhagen Paſſee 3 Böcke Nr. 50, 54, 55.
 Pogge Noggow 1 Bo Nr. 51.
 Held Kl.-Roge 2 Nr. 52, 18/v, 1841.
-Stallmeiſter Nuſt Demzin 3 Bö>e Numero53,
+Stallmeiſter Nuſt Demzin 3 Böcke Numero53,
 Nr, 57, 58.
 Graf von Schlieſſen Schwandt 5 Böcke Nro.
 56, 59, 61, 62, 63.
@@ -1064,10 +1041,10 @@ nommen. Dieſe zu ciner richtigen Ermitte-
 lung höchſt nothwendige Procedur hatte die
 gewöhnliche Folge, daß die naß geweſenen
 Vieße in dieſem gereinigten Zuſtande am
-Gewicht verloren, einige tro>en gebliebene
+Gewicht verloren, einige trocken gebliebene
 dagegen noch. etwas gewonnen hatten.
 
-Noſto> im Juli F. W. Jeppe.
+Noſtock im Juli F. W. Jeppe.
 1843.
 
 --- Page 31 ---
@@ -1079,7 +1056,7 @@ gehalten im Locale des Schießhauſes in Güſtrow
 am 7ten Juni, Nachmittags 3 Uhr,
 in Gegenwart
 des Herrn A- Mantius aus Plau,
-- a C. F. W. Jeppe aus: Noſto>
+- a C. F. W. Jeppe aus: Noſtock
 und des Mitunterzeichneten.
 
 Nachdem obige Herren“ und der Director der
@@ -1107,7 +1084,6 @@ Norm nahm.
 Die Vließe wurden einzig und allein, wie ſie
 
 --- Page 32 ---
-144
 
 vorlagen, beurtheilt- und. nicht der Zuchtwerth der
 Thiere ermittelt, ſondern nur der Fabrifwerth der
@@ -1150,7 +1126,6 @@ Mr, 35. Tellow, 1 Electa 110 tl. ausgeglichen;
 gut geſtapelt.
 
 --- Page 33 ---
-145
 
 Nr. 30, Scharsdorf, Il Electa 95 tl. etwas mar-
 firt, ziemlich ausgeglichen und edel,
