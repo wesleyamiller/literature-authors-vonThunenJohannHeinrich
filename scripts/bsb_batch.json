@@ -1,0 +1,17 @@
+[
+  {
+    "manifest_url": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10388647/manifest",
+    "output": "thuenen_w002_e003_m003_1850_der-isolirte-staat_part2-1_bsb.pdf",
+    "description": "1850 Part 2 Section 1 (R035)"
+  },
+  {
+    "manifest_url": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10388648/manifest",
+    "output": "thuenen_w003_e004_m004_1863_der-isolirte-staat_part2-2_bsb.pdf",
+    "description": "1863 Part 2 Section 2 posthumous (R036)"
+  },
+  {
+    "manifest_url": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10388649/manifest",
+    "output": "thuenen_w004_e005_m005_1863_der-isolirte-staat_part3_bsb.pdf",
+    "description": "1863 Part 3 posthumous (R037)"
+  }
+]

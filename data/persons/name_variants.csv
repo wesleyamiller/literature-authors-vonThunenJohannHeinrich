@@ -1,0 +1,15 @@
+variant_id,person_id,name_raw,name_normalized,script,language,variant_type,source,search_priority,notes
+NV001,P001,"Johann Heinrich von Thünen","Johann Heinrich von Thuenen",Latin,de,preferred,GND,1,Preferred authorized form
+NV002,P001,"Thünen, Johann Heinrich von","Thuenen Johann Heinrich von",Latin,de,inverted,GND,1,Inverted catalog form
+NV003,P001,"Johann Heinrich v. Thünen","Johann Heinrich v. Thuenen",Latin,de,abbreviated,Deutsche Biographie,2,Common abbreviated form
+NV004,P001,"Johann H. von Thünen","Johann H. von Thuenen",Latin,de,abbreviated,catalogs,3,Initial-abbreviated
+NV005,P001,"Joh. Heinr. von Thünen","Joh. Heinr. von Thuenen",Latin,de,abbreviated,historical,3,Period-abbreviated form
+NV006,P001,"J. H. von Thünen","J. H. von Thuenen",Latin,de,abbreviated,catalogs,2,Initials form
+NV007,P001,"J.H. von Thünen","J.H. von Thuenen",Latin,de,abbreviated,catalogs,2,Initials no space
+NV008,P001,"Thuenen, Johann Heinrich von","Thuenen Johann Heinrich von",Latin,de,transliterated,ASCII systems,2,ASCII transliteration
+NV009,P001,"Henri de Thünen","Henri de Thuenen",Latin,fr,foreign,EntityFacts,4,French form
+NV010,P001,"Johann von Thünen","Johann von Thuenen",Latin,de,shortened,EntityFacts,3,Shortened form
+NV011,P001,"Johann Heinrich von Thünen-Tellow","Johann Heinrich von Thuenen-Tellow",Latin,de,extended,EntityFacts,4,Extended form with estate name
+NV012,P001,"Thünen, Heinrich","Thuenen Heinrich",Latin,de,shortened,Deutsche Biographie,3,Short inverted form
+NV013,P001,"Thünen, Johann H. von","Thuenen Johann H. von",Latin,de,abbreviated_inverted,catalogs,3,Abbreviated inverted
+NV014,P001,"Thünen, J.H. von","Thuenen J.H. von",Latin,de,abbreviated_inverted,catalogs,3,Initials inverted

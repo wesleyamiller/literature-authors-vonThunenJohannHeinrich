@@ -1,0 +1,1 @@
+exception_id,person_id,work_id,expression_id,manifestation_id,archive_unit_id,exception_class,severity,opened_at,current_status,safest_interpretation,next_recovery_step,owner,notes

@@ -1,0 +1,38 @@
+[
+  {
+    "comment": "M012 / W008: Deposital-Zettelbank, Band 17, pp. 1-10 (Vol 17/1)",
+    "ppn": "PPN1742174043_0017",
+    "manifestation_id": "M012",
+    "work_id": "W008",
+    "page_start": 1,
+    "page_end": 10,
+    "output": "neue-annalen_band17_M012_pp001-010.pdf"
+  },
+  {
+    "comment": "M023 / W018: Landwirthschaftliches Institut, Band 17, pp. 282-322 (Vol 17/1)",
+    "ppn": "PPN1742174043_0017",
+    "manifestation_id": "M023",
+    "work_id": "W018",
+    "page_start": 282,
+    "page_end": 322,
+    "output": "neue-annalen_band17_M023_pp282-322.pdf"
+  },
+  {
+    "comment": "M025 / W020: Alkoholmeter, Band 18, pp. 1-4 (Vol 18/1)",
+    "ppn": "PPN1742174043_0018",
+    "manifestation_id": "M025",
+    "work_id": "W020",
+    "page_start": 1,
+    "page_end": 4,
+    "output": "neue-annalen_band18_M025_pp001-004.pdf"
+  },
+  {
+    "comment": "M026 / W021: Andenken Finanzrath Vogge, Band 18, pp. 123-141 (Vol 18/1)",
+    "ppn": "PPN1742174043_0018",
+    "manifestation_id": "M026",
+    "work_id": "W021",
+    "page_start": 123,
+    "page_end": 141,
+    "output": "neue-annalen_band18_M026_pp123-141.pdf"
+  }
+]

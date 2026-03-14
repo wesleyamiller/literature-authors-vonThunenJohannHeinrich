@@ -1,0 +1,32 @@
+# Large binary facsimiles (912MB+ of PDFs from BSB, GDZ, Gallica, IA, GBooks)
+data/acquisitions/facsimiles/
+
+# Raw downloaded PDFs
+data/acquisitions/raw/
+
+# DTA structured files (12MB TEI XML + TCF)
+data/acquisitions/structured/
+
+# IA ABBYY OCR files (4MB, re-downloadable)
+data/acquisitions/ocr/
+
+# Temporary page images during IIIF download
+data/acquisitions/tmp_pages/
+
+# Logs
+logs/
+
+# Tesseract trained data models (30MB, downloadable)
+tools/tessdata/
+
+# Claude Code settings
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db

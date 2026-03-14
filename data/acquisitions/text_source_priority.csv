@@ -1,0 +1,38 @@
+work_id,work_title_short,best_text_source,best_text_tier,alternative_source,alternative_tier,fraktur_ocr_needed,notes
+W001,Der isolirte Staat Part 1,M009 (DTA 1826 TEI),FT-7,M002 (1842 2nd ed GBooks OCR) / M007 (1910 Waentig),FT-4,false,DTA TEI XML is definitive for Part 1. 1842 2nd ed embedded OCR now available (FT-4). 1910 Waentig covers all parts.
+W002,Der isolirte Staat Part 2.1,M007 (1910 Waentig IA OCR),FT-4,M003 (1850 BSB Tesseract Fraktur),FT-3,false,Waentig covers Part 2.1. BSB 1850 original now has Tesseract Fraktur extraction (453KB).
+W003,Der isolirte Staat Part 2.2,M007 (1910 Waentig IA OCR),FT-4,M004 (1863 BSB Tesseract Fraktur),FT-3,false,Waentig covers Part 2.2. BSB 1863 original now has Tesseract Fraktur extraction (646KB).
+W004,Der isolirte Staat Part 3,M007 (1910 Waentig IA OCR),FT-4,M005 (1863 BSB Tesseract Fraktur),FT-3,false,Waentig covers Part 3. BSB 1863 original has Tesseract Fraktur extraction (206KB).
+W005,Beschreibung der Landwirthschaft,none,FT-0,,,true,1803 essay. No digitized source found.
+W006,Kreditsystem in Mecklenburg,M010 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 4. 144pp extracted (199KB).
+W007,Quantitative Wirkung des Dungs,M011 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 8. 56pp extracted (71KB).
+W008,Deposital-Zettelbank,M012 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 17. 10pp extracted (13KB).
+W009,Statik des Landbaus,M013 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 19/1. 27pp extracted from GDZ Band 19 (32KB).
+W010,Bestimmungsgruende Arbeitslohn,M003 (absorbed into 1850 Part 2.1),FT-3,,,false,1848 fragment incorporated into Part 2.1. Content in M003 Tesseract extraction.
+W011,Extirpator-Versuche,M016 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 1/2. 2pp extracted (3KB).
+W012,Kosten des Mergelns,none,FT-0,,,true,Landw. Calender 1818. No digitized source (M017 discovered).
+W013,Einfluss Nahrungsmittel Wolle,M018 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 6/1. 9pp extracted (11KB).
+W014,Englische Korn-Acte,M019 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 6/2. 6pp extracted (7KB).
+W015,Handelsgewaechse,M020 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 10/1. 12pp extracted (16KB).
+W016,Bildung des Mergels,M021 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 16/2. 6pp extracted (8KB).
+W017,Unterhaltungskosten Pferde,M022 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 16/2. 35pp extracted (42KB).
+W018,Landwirthschaftliches Institut,M023 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 17/1. 41pp extracted (60KB).
+W019,Ackerbau der Staedte,M024 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 17/2. 30pp extracted (41KB).
+W020,Alkoholmeter,M025 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 18/1. 4pp extracted (5KB).
+W021,Andenken Finanzrath Vogge,M026 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 18/1. 19pp extracted (31KB).
+W022,Gebrannter Mergel,M027 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 18/2. 9pp extracted (12KB).
+W023,Fragen Schafzucht,M028 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 19/1. 31pp extracted from GDZ Band 19 (32KB).
+W024,Poa annua,M029 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 19/2. 6pp extracted (8KB).
+W025,Wollmarkt,M030 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 19/2. 5pp extracted (7KB).
+W026,Central-Wollmarkt,M031 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 19/2. 18pp extracted (21KB).
+W027,Gebrauch des Latens,M032 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 21/2. 9pp extracted (12KB).
+W028,Mecklenburgische Haefen,M033 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 21/2. 54pp extracted (76KB).
+W029,Hafen-Pflug,M034 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 23/2. 12pp extracted (15KB).
+W030,Pruefung Maschinen,M035 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 24/1. 23pp extracted (28KB).
+W031,Vertiefung Ackerkrume,M036 (GDZ Tesseract Fraktur),FT-3,,,false,Multi-part across Bands 25+26. 20pp extracted in 3 parts (22KB total).
+W032,Wirkung Vertiefung Ackerkrume,M037 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 28/1. 33pp extracted (37KB).
+W033,Fuetterung Pferde Kartoffeln,M038 (GDZ Tesseract Fraktur),FT-3,,,false,Neue Annalen Vol 28/1. 2pp extracted (2KB).
+W034,Steuerreform,none,FT-0,,,true,Schweriner Anzeblatt. No digitized source (M039 discovered).
+W035,Befahren Moorwiesen,M040 (BSB Tesseract Fraktur),FT-3,,,false,Doberan 1841 pp. 66-71. Downloaded from BSB bsb10228360. 6pp extracted (19KB).
+W036,Kornertrag Tellow,M041 (BSB Tesseract Fraktur),FT-3,,,false,Doberan 1841 pp. 213-216. Downloaded from BSB bsb10228360. 4pp extracted (9KB).
+W037,Relativer Futterwerth,none,FT-0,,,true,Landw. Annalen 1846. No digitized source (M042 discovered).

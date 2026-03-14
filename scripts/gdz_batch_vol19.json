@@ -1,0 +1,20 @@
+[
+  {
+    "comment": "M028 / W023: Fragen Schafzucht, Band 19, pp. 30-60 (Vol 19/1)",
+    "ppn": "PPN1742174043_0019",
+    "manifestation_id": "M028",
+    "work_id": "W023",
+    "page_start": 30,
+    "page_end": 60,
+    "output": "neue-annalen_band19_M028_pp030-060.pdf"
+  },
+  {
+    "comment": "M013 / W009: Statik des Landbaus, Band 19, pp. 108-134 (Vol 19/1)",
+    "ppn": "PPN1742174043_0019",
+    "manifestation_id": "M013",
+    "work_id": "W009",
+    "page_start": 108,
+    "page_end": 134,
+    "output": "neue-annalen_band19_M013_pp108-134.pdf"
+  }
+]

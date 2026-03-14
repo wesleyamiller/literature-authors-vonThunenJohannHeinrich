@@ -1,0 +1,2 @@
+person_id,preferred_name,birth_year,death_year,gnd_id,viaf_id,wikidata_id,loc_id,primary_authority_source,authority_status,notes
+P001,"Thünen, Johann Heinrich von",1783,1850,118622366,94496,Q76787,n85127362,GND,authority_record_verified,"Born 1783-06-24 Canarienhausen (Jeverland); died 1850-09-22 Tellow (Mecklenburg). ISNI: 0000000112036754. Agrarwissenschaftler, Landwirt, Gutsherr, Volkswirt."

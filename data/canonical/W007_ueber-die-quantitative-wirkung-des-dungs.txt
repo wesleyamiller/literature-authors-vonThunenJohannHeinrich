@@ -1,0 +1,2569 @@
+---
+work_id: W007
+title: "Ueber die quantitative Wirkung des Dungs"
+title_normalized: "Ueber die quantitative Wirkung des Dungs"
+publication_date: 1821
+work_type: periodical_article
+language: de
+text_tier: FT-3
+source: "M011 (GDZ Tesseract Fraktur)"
+source_files: "neue-annalen_band08_M011_pp166-221_tesseract-fraktur.txt"
+notes: "Neue Annalen Vol 8. 56pp extracted (71KB)."
+assembled: 2026-03-13T23:11:44Z
+---
+
+--- Page 1 ---
+— 166 —
+
+Ueber die quantitative Wirkung des Dungs und
+über die Ausſaugungskraft der Gewächſe.
+
+Vorwort.
+Da dieſer erſte Abſchnitt einer Schrift — die ich
+vielleicht erſt nach eiñigen Jahren vollenden kana —
+gewiſſerniaßen ein für ſich abgeſchloſſenes Ganze
+ausmacht: ſo erlaube i< es mir, den Leſern der
+Annalen dieſes Bruchſück zur Prüfang und zur
+Beurtheilung vorzulegen.
+
+Erſter Abſchnitt,
+
+Allgemeine Grundſáge und Anſihten,
+$ 1.
+Die Erfahrung aller Zeiten und aller Länder
+_ lehrt, daß das Getreide mehrete Jahre hinter ein-
+ander auf derſelben Stelle gebauet, von, Jahr zu
+Jahr im Ertrage abninuitz daß aber dieſer Acker,
+wenn er nun gedüngt wird, dadurch wiederzu ſeiner
+erſten Fruchtbarkeit gelangt.
+Wir müſſen hieraus ſchließen:
+1) daß-der Dung dem Getreide zur Nahrung dient;
+2) daÿ dem Boden durch die Hervorbringung einer
+Getreideſaat ein Theil ſeines Dunggehalrs ent-
+zogen wird, und daß alſo dieſe Gewächſe das
+Vermögen haven den Boden auszuſaugen, d. h,
+ihn ſeines náhrenden Stoffes zu berauben,
+
+--- Page 2 ---
+uder
+eine
+r zu
+er,
+iner
+
+ent;
+iner
+ente
+das
+d. hy
+
+_— R
+
+Seve
+
+Wenn für zwei Getreidefelder, von gleicher phye
+ſiſchen Beſchaffenheit des Bodens und mit einerlei
+Kornart beſáet , alle auf die Vegetation einwirkene-
+den Kräfte und Umſtände gleich ſind, und bloß der
+Danggehalt der Felder ungleich iſi: ſo fan die
+Verſchiedenheit des Ertrags beider Felder nur von
+der Verſchiedenheit ihres Dunggehalts herrühren,
+Der grôßere Ertrag des einen Feldes iſt die Wire
+fung ſeines größern Dunggehalts; und wenn man
+dieſen in Zahlen angeben fann, ſo iſt dadurch die
+quantitative Wirkung des Dungs beſtimmbar.
+
+Wenn z. B. ein Stück Acker von 200 Quadrate
+Rurhen, welches ganz gleichen Boden hat, in zwei
+gleiche Theile getheilt wird, uúd man nun die eine
+Hälfte mit 5 Fuder Kuhdung à 2000 Pfand befährt,
+die andre Hälfte aber ungedüngt läßt, dann beide
+Theile gleichförmig und gleichzeitig beaert und bee
+ſáet: ſo iſt der grôßere Ertrag des gedüngten Stücks -
+die Wirkung von 5 Fuder Dung.
+
+Geſeßt nun, die mehrere Jahre fortgeführten
+Verſuche hätten das Reſultat gegeben, daß der Ei
+trag des ungedüngten Stücks ium Durchſchnitt 6,
+der des gedüngten Stücks aber 9 Berliner Scheffel
+Rocken wäre: ſo würden wir ſagen: 5 Fuder Dung
+bringen auf dieſem Boden und bei dieſer Behande
+
+lung des Ackers, 3 Berliner Schl. Rocken hervor,’
+
+--- Page 3 ---
+— 168 —
+
+Da nun das ungedüngte 6 Schſl. getragen hat,
+Und da zur Produktion von 3 Schfl. 5 Fuder Dung
+erfordert werden: ſo fann man ferner ſchließen,
+daß der im Boden ſelbſt enthaltene Nahrungsſtoff
+gleich 10 Fuder Dung ſep, und wir können nun
+die Dungkraft ‘des Bodens in Zahlen ausſprechen,
+
+Der Ausdruck dieſer Boden enthält 10 Fuder
+Dung“ darf aber nicht buchſtäblich genommen wer-
+den. Wenn man durch irgend eine chemiſche Ope-
+ration den Humus von der Erde genau trennte und
+wäge; fo würde ſein Gewicht ganz anders ſeyn,
+als wir es hier annehmen. Der Dung iſ fein
+Körper der ſich lange gleich bleibe; der Prozeß der
+Gáhrung, das Ausftoßen einiger Gasarten, das
+Anziehen anderer, dauert ununterbrochen fort ;
+zudein iſ der Dung eines verſchiedenen Grades von
+Keuchtigkeit fähig, und es läßt ſich gar nicht erwar-
+ten daß das Verhältniß der feſten Theile zum
+Waſſer in dem Humus eben fo ſeyn ſollte, als im
+friſch aufgefahrnen Dung. Dieſer Boden enthält
+in 100 Quadrat Nuthen x0 Fuder Dung *), heißt:
+die Wirfung des im Boden ſie>enden
+Humus, iſt der Wirkunz vou 10 Fuder
+Dung gleich.
+
+*) Ein Magdeburger Morgen ift glei 118 Meetlenbutgi-
+heu Qugdratratt A‘ d, Verf.
+
+--- Page 4 ---
+uder
+wer
+Ope
+und
+ſeyn,
+fein
+6 der
+das
+fort;
+ vott
+war-
+zum
+s im
+châle
+
+utgi-
+
+ROO tem
+
+Li 2
+
+Der wie vieltſte Theil des im Boden befindlichen
+Düngers durch eine Frucht verzehrt wird, und wie
+groß die Quantität iſt, die dieſe Frucht zu ihrer
+Ausbildung gebraucht hat, geht aus der Abnahme
+des Ertrags der auf ſie folgenden Frucht hervor.
+
+Wenn dieſelbe Frucht, z. B. Hafer, zwei Jahre
+hinter einander auf derſelben Stelle gebauet wird,
+ſo iſt, — wenn Witterung, Beſtellung und die
+andern Einivirkungen in beiden Jahren gleich ſind
+— der geringere Ertrag des zweiten Hafers, die
+Folge der Erſcheinung, die der Boden durch die
+Produkrion des erſten Hafers erlitten hat, Jm
+einer Koppelwirthſchaft, die zweimal hinter ein-
+ander Hafer bauer, würde man durch eine genaue
+Trennung des erſten vom zweiten Hafers finden
+fönnen, wie groß die Ausſaugungsfraft des Hafers
+ſey. Eine Dreifelderwirthſchaft, die alle 6 Jahr
+einmal dúngt, und alſo eine gedüngte und eine
+ungedüngte Braache hat, würde durch die Vere
+gleichung des in der ungedüngten Braache gebaueten
+Rockens, mit dem vor 3 Jahren auf dieſer Stelle
+in der ungedüngten Braache geerndteten Rockens,
+ergeben: wie groß die durch den erſten Nocken und
+den erſten Hafer bewirkte Ausſaugung zuſammen ſey,
+
+Geſebt man htte nun auf dieſe Weiſe gefunde/
+daß die Produftion einer Rockenerdte dem Boden
+
+--- Page 5 ---
+2 ſeiner Dungfraft foſte, oder daf die Ausfaugig
+des Rockens gleich + der im Boden befindlichen
+Kraft ſey: ſo láße fib hieraus, in Verbindung mit
+dén vorigen Sägen, beſiunmen, wie viel Dung eine
+Rockenerndte von gegebener Größe verzehrt hat.
+
+Wenn nach 5. 2 der Boden , welcher 9 Berliner
+Scheffel Rockenertrag liefert, eine Dungkrafe von
+x5 Fuder beſigt," und nnn die Produktion des
+Rockens dem Boden 4 ſeiner Kraft, hier alſo 3 Fu-
+der; foſtet: fo haben 9 Schfl, Rocken 3 FuderDuug
+fonſumirt, und in einem-Fuder Dung iſ alſo Nahe
+rungsſtoff für z Berliner Schel. Rocken enthalten,
+
+$. 4.
+
+Da ſowohl die Beobachtungen, als die, zur
+forſchung dieſer Geſebe eigens angeſtellten Verſucke/
+nicht in einem Jahre gemacht werden können: ſo
+fann die auf die Vegetation #9 mächtig einwirkende
+Witterung, den Beobachtungen und Verſuchen y in
+verſchiedenen Jahren, ein ganz verſchiedenes Ne-
+fultat geben. Der Einfluß der Witterung iſt ſo
+unbeſtändig, daß z.B. der Nocken in der ungedüng,
+ten Braache einen hôhern Ertrag geben fann, als
+der vor 3 Jahren auf dieſer Stelle in gedüngter
+Braache ſtehende Roen gegeben hat.
+
+Bei der immerwährenden Mitwirkung einer ſo
+unbeſtändigen Kraft, könnte man leicht verſucht
+werden zu glauben es ſey eine vergebliche Arbeit,
+
+di
+be
+
+lie
+ei
+
+E
+
+--- Page 6 ---
+jung
+chen
+mit
+eine
+t.
+liner
+von
+des
+Fu
+ung
+
+die Geſeße, wodurch ‘die Größe der Kornerndten
+bedingt wird, aufſuchen zu wollen.
+
+Die große Unregelmäßigkeit der Witterung ver-
+liert ſich aber/ wenn wir längere Zeiträume mit
+einander vergleichen.
+
+So wie die Einwirkuitg der Witterung in der
+Vergangenheit war, ſo wird ſie auch in der Zukunft
+ſeyn, iſt ein Grundſas der allen Kauf- Pacht- und
+Ercragéanſchlägen ſtillſchweigend zum Grunde liegt,
+utid ohne welchen feine Werthſchähang eines Guts
+möglich wäre.
+
+Wenn die Verſuche über die Wirkung des Dungs
+und über das Maaß der Ausſaugung eine lange
+Neihe vön Jahren fortgeſegt ſind: o har das Re-
+ſultat, was aus dem Durchſchnitt dieſer Verſuche
+hervorgeht, den Grad von Gewißheit erreicht, deſſen
+die Landwirthſchaft überall fähig ift,
+
+Aim Verfolg dieſer Schrift wird nun die Witte-
+ring niche nach ihrem Einfluß auf ein einzelnes
+Jahr, ſondern ‘nac dein Geſammt- Eiuſluß, den
+fie auf eine lange Reihe Jahre ausúbr , in Betracht
+dezogenz ſie wird dadurch zu einer beſiäudigen; ſich
+gleichbleibenden Kraft, wodurch allein eine wiſſen-
+ſchafcliche Behaudlung dér Landwirthſchaft möge
+
+lih wird;
+Ls.
+Die in ihrer ganzen Sceuftur ib hnlichen
+
+--- Page 7 ---
+R e
+
+Extreidearten , Weizen, Rocken, Gerſte und Hafer,
+werden, der Analogie uad der Beobachtungen nache
+bei gleicher Maſſe der Erndten den Boden, im
+Verhältaiß ihrer Nahrhaftigkeit gegen einander,
+ausſaugen. Dieſes Verhältniß der Nahrhaftigfeit
+wird durch die Durchſchniétspreiſe der Getreide:
+arten — womit die chemiſchen Analyſen und die
+Verſuche beim Branntweinbrennen. ziemlich genau
+übereinſtimmen — angezeigt.
+
+Wean man die Preiſe von mehreren Orten und
+von längerer Zeit zuſammenſtellt, ſo nähern ſie
+ſich folgendem Verhältniſſe:
+
+fár: Nocken eien leis ax
+
+e ¿Weizens e ue H
+
++ zweizeilige Gerſle «+.
+Demnach wird der Acker durch die Produktion von
+100 Schfl, Weizen eben ſo ſehr erſchöpft, als durch
+die Erzeugung von 1337 Schſl, Rocfenz 100 Schfl.
+Gerſte ſind in der bewirften Ausſaugung gleich
+75 Schfl. Nocken und 100 Schfl, Hafer gleich
+50 Schfl. Nocken,
+
+$. 6.
+
+Das Verhältniß, in welcher die Ausſaugungs-
+fraſe, oder das Vermdgen ſich einen Theil des
+im Boden befindlichen Dungs zu bemächtigen, dei
+
+--- Page 8 ---
+ache
+in
+nder,
+igfeit
+reide:
+d die
+enau
+
+¡und
+n ſie
+
+PE
+
+den verſchiedenen Getreidearten gegen einander
+ſteht ergiebt ſich :
+
+3) aus der Grôße des Ertrags, den ein Boden,
+von gegebener Dungfraft, von jeder Getreide-
+art hervorbringt; und.
+
+2) aus dem relativen Werth der Kornart.
+
+Man theile eine Ackerfläche, die ſicb ſowohl durch
+ihre phyſiſche Beſchafenheit , als durch die Vor-
+frucht und vorhergegangene Bearbeitung, zur Proe
+duftion von Weizen - Noen, Gerſte und Hafer
+gleich gue eignet, in vier an Größe und Güte gleiche
+heile, und beſtelle nun jeden Theil mit einer dex
+genannten Getreidearten: ſo wird der Ertrag, —
+wenn dieſer Verſuch mehrere Jahre fortgeführt iſt
+— zeigen, wie viel dieſelbe Dungmaſſe von jeder
+Kornart producirt.
+
+Geſeßt , aus dieſen Verſuchen hätte ſich folgen-
+der Durchſchnittsertrag ergeben:
+
+Weizen «+ 100Schfl.
+
+Mocken tee x 100: +
+
+Gerſie) 24 UR ie: n20 le
+
+Hafer a iriie is ie IRS
+ſo iſt der Werth des Ertrags auf Rocken reducirt :
+100 Schfl, Weizen à 12 ſtndgleich 133 Schil. Rocken
+100 ‘+ Non — o
+120 + GerſeâJ — 90 e
+375 + Haſe à — 871
+
+--- Page 9 ---
+TA =>
+
+Fâr einen Boden, der durch die Produktion
+einer Rockenerndre { oder 20 pCt. ſeines Dungge-
+halts verliert" iſt hiernach die ausſaugende Kraft
+
+13:
+des Weizens
+
+Y 9
+der Gerſie —s 18 pCt.
+
+87
+des Hafers — TZ” >< 20 = 173 pCt,
+
+CT
+
+Wenn man in einer Wirthſchaft das geerndtete
+Korn und das Stroh, woraus dieſes Korn gedre
+ſen iſt, jedes für ſic wiegt, und dies mehrere
+Jahre fortſe6t: ſo kann wan in der Folge nachdem
+Durchſchnitt, den dieſe Abwägungen gegeben. haben,
+
+8 dem Körnerertrag den Strohgewinn berechnen,
+
+Ein ſolches Verhälcuiß iſt erſt in neuern Zeiten,
+von dem verſtorbenen Oberkommiſſair Meyer und
+dem Attsräth Karbe, — aber nurinatheinzelnen
+Verſuchen, — angegeben worden. Karbe fand,
+daß auf einen Berliner Scheffel Rocken 152 Pfund
+Stroh kommen.
+
+$8.
+
+Dém Oberkommiſſair Meyer verdanken wir
+ebenfalls die erſten Angaben über die Quanticät
+Dung, die aus den Fällen erfolgt, wenn es vom
+Vieh verzehit wird.
+
+--- Page 10 ---
+uftion
+ungge:
+Kraft
+
+ndtete
+gedroi
+ehrere
+þ dem
+abet,
+hnen.
+eiten,
+e7und
+elnen
+
+fand,
+
+Pfund
+
+1 wir
+iticät
+vou
+
+SL
+
+Nach ſeinen Verſuchen und Beobachtungen
+erfolgen auê x Pfund Stroh 27 Pfand Dung;
+nnd. AnS 2 2/27 Dewi Us iet E
+
+Thaer nimmt die Gewichtsvermehrung úe
+Heu und Stroh gleich hoch an, und ¿war zu 2
+
+So mannigfaltig nun auch das Verhältniß zwi-
+ſchen Korn und Stroh dur< Boden und Wirthe
+ſchaftsform modificirt wird, und ſo ſehr das Ver-
+hältniß zwiſchen Futter und Dung durch die Art
+des Viehes, dur die Stärke der Einſtreuung und.
+durch die Zeit der Abfuhr des Dunges verändere
+wird: ſo muß doch nothwendig für jede Lokalicät
+ein folches Verhältniß ſtatt finden, weil überall
+der Gewinn an Korn, au Stroh und an Dun ſich
+in Zahlen anſprechen läßt, und in dieſer Angabe
+ſelbſt iſ ſchon das Verhältniß begründet.
+
+$. 9.
+
+Die Ansfaugung/ welche der Boden durch die
+Produktion einer Halmfrucht erleidet, fann durch
+das Stroh dieſer Frucht, weun es in Dung vere
+wandelt dem Acker zurückgegeben wird, nicht er-
+ſegt werden.
+
+Den Beweis für dieſen Sah liefert die Dreifels
+derwirthſchaft, die, ſo lange ſe ſcon betrieben und
+ſo weit ſe verbreitet it, doch an feinem Ore und
+¿u feiner Zeit durch-den aus dem Stroh gewonte-
+neu Dung hat beſtehen d, h, ſich forcwährend in
+
+--- Page 11 ---
+— 176 —
+
+gleicher Dungfraft erhalten fönnenz ſondern im
+Gegentheil immer eiaen äußern Dungzuſchuß durch
+das Weidevieh und durch die Wieſen bedarf, um
+das Gleichgewicht zwiſchèn Ausfaugung und Etſaß
+herzuſtellen,
+
+Ans dieſem Saß der von allgemeiner Gültige
+feit iſt, folge:
+
+1) daß man fein Stroh gewinnen kann, ohne
+den Acker ſtärker zu erſchöpfen , als das Stroh
+zu erſehen vermagz
+
+9) daß in einer bisher beſtehenden Wirthſchaft eine
+eine vergrôfierce Kornausſaat und dadurch vere
+mehrter Strohgewinn — tros der ſtärfern
+Düngung und des erhöhten Körnerertrags in
+den erſten Jahren — doch unvermeidlich zut
+Erſchöpfung des Bodens führen muß.
+
+Der Zweck unſrer Unterſuchung ift aber darauf
+gérichtet , dieſen allgemeinen Sas näher zu beſtim-
+men, und ſowohl von der Ausſaugung, als von
+dem Erſaß, das Maaſß anzugeben.
+
+Wenden wir die hisher als Beiſpiel gebrauchten
+Zahlenverhältaiſſe auch hier an, ſo können wir aus
+dem Vorhergehenden, wenigſtens für eine Frucht-
+den Rocken , dieſes Maaß angeben.
+
+Nach $. 3 verliert der Boden durch die Pro-
+duktion von 300 Berliner Schfl, Nocken 100 Fuder
+Dung.
+
+--- Page 12 ---
+— 7 —
+
+Nath $. 7 wird niſt einem Scheffel! Rocken 192
+Pfund Stroh gewonnen, mit 300 Scheffel aiſo
+57600 Pfand Stroh.
+
+Rach $. 8 bringt 1 Pſund Stroh durch Verfut-
+terung 2); Pfund Dung, welches für 57600 Pfund
+Stroh 132480 Pfand Dung gibt. Da wir nun
+das Fuder Dung zu 2000 Pfund angenommen habe,
+fo betrágt der Erſaß.aus dem Stroh 66,74; Fuder.
+Die Ausſaugung ift 100 Fuder; alſo verliert der
+Afer, wenn ihm der'Dung aus dem Stroh zurück-
+gegeben wird, durch die Produktion von 300 Schfl,
+Nocken doch no< 33 Fuder,
+
+Ueber den Werth uad die Bedeutung der hier
+gebrauchten Zahlen glaube ic hier eine Erklärung
+ſchuldig zu ſeyn.
+
+Die Erforſchung der Geſege, wornach die Natur
+handelt , und die Darſtellung derſelben , muß nothe
+wendig der Beſtimmung ihrer Wirkung auf einzelne
+Kâlle vorangehen. Das Zahlenverhäleniß, — die
+Größe der Wirfung für einen beſtimmten Fall —
+iſt durch die Kenntniß der Naturgeſeße im allge-_
+meinen, noch nicht gegeben, fondern muß erſt
+aus der Wirklichkeit ſelbſt gefunden und entwickelt
+werden, ehe es practiſche Gültigfeit hat.
+
+Ich würde deshalb in dieſem, der Darſtellung
+der Grundfähe gewidmeten Abſchnitt, alle Angaben
+in Zahlen bermieden haben, wenn ic nicht geglaubt
+
+N, Unual, n Jaht, 16e Hälfte, x2
+
+--- Page 13 ---
+EE ES
+
+hâtte, daß dies zur Erläuterung und Verſinnlichung
+der Ideen nôthig wäre.
+
+z 6. 10.
+
+Erfahrungsſag.
+
+Wenn ein Acker, der biéher Korn getragen hat,
+tun mit Klee und Gras beſaamet, zum Dreeſch oder
+zur Weide für das Vieh niedergelegt wird: ſo hat
+dieſer Acker, wenn er nach einem oder einigen Jahe
+ren wieder zum Kornbau aufgebrochen wird, eine
+Hóhere Fruchtbarkeit als er bim Niederlegen hatte.
+
+Wir müſſen hieraus ſchließen : daß die Ausſau-
+gung, die der Acker durch die Produktion des Graſes
+und des Weidéklees erleidet , nicht ſo groß ift als
+der Erſas, den der Aer eines Theils durch die auf
+der Weide gewachſenen Gräſer und Kräuter, welche
+vom Vich verzehrt als Dung zurückgegeben werden,
+und andern Theils durch die im Boden zurückblei
+benden Gra8- und Kleewurzeln, erhält.
+
+Die Erfahrung lehrt ferner, daß die Erhöhung
+der Fruchtbarkeit durch Dreeſchliegen um ſo größer
+iſt, je größer der Gras- und Kleè-Ertrag des
+Dreeſches war, da nun für einen gegebenen Boden
+und bei’ übrigens gleichen Umſtänden, der Gras
+und Klee- Ertrag ſ< aber ſowohl als der Korn-
+Ertrag nach der im Boden befindlichen Dungkraft
+richtet, ſo dúrfen wir annehmen; daß die Er-
+höhung der Dungkrafe, welche das
+
+--- Page 14 ---
+Forn
+fraft
+Er-
+das
+
++ 299
+
+Dreeſchliegen bewirkt, im Verhältnis
+ſieht mit der Größe der Dungfraft,
+worin der Aer beim Niederlegen zur
+Weide war.
+
+Um den Grasertrag, den ein Feld liefert, zu
+erfahren, muß man erf dur< Verſuche ausmitéeln,
+wie viel Gras eine Kuh täglich verzehrt, und dann
+bemetfen wie viele Tage die Kuh auf dem Dreeſch
+Nahrung findet.
+
+Aus dem auf dieſe Weiſe gefandenen Grasertrag
+läſt ſi uun auch die Quantitäc Dung berechnen,
+welche der Dreeſch durch die Beweidung erhält.
+
+In einer Koppelwirthſchaft auf Höheboden liefert
+die mit Klee und Gras beſaamte Weide, im erſten
+Dreeſchjahr in der Negel den höchſten Grasertrag;
+im zweiten Dreeſchjahr nimmt der Graswuchs ſchon
+etwas ab, und’ dieſer wird fortſchreitend geringer
+im zten und 4ten Jahr. Eitte Ausnahme von dieſer
+Negel findet nur dann ſtatt, wenn der eingeſáece
+Saamen nicht aufgelaufen iſt, und der Boden der
+natürlichen Beraſung überlaſſen it, in welcheur
+Fall die ſpätern Dreeſchjahre den Vorzug vor dent
+erſten haben, N
+
+Daß nun hier bei fortſchreitend ſteigender Dunge
+fraft des Bodens, die Größe des Ertrags doch mit
+jedem Jahr mehr abnimmt, rührt hauptſächlich von
+den beiden folgenden Urſachen her:
+
+12
+
+--- Page 15 ---
+— 180 —-
+
+x) Der beim Niederlegen des Ackers zur Weide
+im Boden befiadliche auflöslicde Humus wird
+ſucceſſive von den Pflanzen eingeſogen , uid zur
+Vildung ihrer Wurzeln und Halme verwandt;
+der Prozeß, wodurch der unaufgelöste, d. h.
+
+“der zur Nahrung für dié Pflanzen noch nicht
+zubereitete Humus, aufldslih gemacht wird,
+fann wegen der Auésſchließung von der äußern
+Luft , entweder gar nicht, oder doch nur un-
+vollkommen von ſlatten gehen, und ſo muß in
+den ſgâtern Dreeſihjahren, in dem Maaße/ wie
+der auflôsliche Humus des Bodens abnimmt,
+auch der Graswuchs abnehmen. Durch eine
+mehrjährige Weide kann wahrſcheinlich der auf-
+lösliche Humus, der anfangs im Boden war,
+faſt ganz fonſumirt werden; aber dies iſt mehr
+eine Verwandlung des Humus als eine wirkliche
+Erſchópfung, indem die ganze Ackerkrume nun
+mit einem Gewebe von Graswurzeln durchdrun-
+gen iſt, welche, wenn ſe dur< Umbruch des
+Akers zur Fäulniß gebracht ſind, wiederum
+eine vortreffliche Nahrung für alle Gewächſe
+abgeben.
+
+#) Je älter eine Weide wird, deſto dichter und feſter
+ſenfkc ſi< die A>erkrume zuſammen und deſto.
+undurcblaſſender wird ſte für die Feuchtigkeit,
+Die alten Dreeſche leiden deshalb gêwöhnlich an
+
+--- Page 16 ---
+tide
+ird
+zue
+ide;
+Sh.
+icht
+ird,
+ern
+un
+in
+wie
+mt,
+eine
+auf
+par;
+ehr
+iche
+nu
+une
+
+des
+um
+ſe
+
+ſter
+eſto
+eit,
+an
+
+<— agr —
+
+Lrocfnißi, Und es gehört ein ſehr anhaltetder
+
+Regen dazu, ehe ſie bis zur Tiefe der Ackerkrume
+
+durchnäßt werden, Ein Plagregen, der die
+
+aufgeloerte Krume des Ackerlandes durch
+dringt , läuft von der feſten und ebnen Ober-
+fláché des alten Dreeſches herunter , ohne die
+
+Graswurzeln zu befeuchten. Auch gibt wahr-
+
+ſcheinlich der ſehr feſte Boden keinen günſtigen
+
+Standpunkt für die edlern Gräſer und für die
+
+Klecarten ab. > è
+
+Für unſern Zweck iſt nun die Beantwortung
+der Frage: „um wie viel die Dangfraft des Ackers
+1durch das Niederlegen zur Weide vermehrt wird?
+vorzüglich wichtig. Zu dieſer Kenntniß können_wir
+gelangen, wenn wir dutch Verſuche, oder in deren
+Ermangelung, durch vtelfeitige Beobachtungen die
+Größe der Erndren, die der Acfer vor dem Niedere
+legen zur Weide gab, mit denen vergleichen die er
+nach dem Aufbruch des Dreeſches gibt.
+
+Nach meinen Beobachtungen und nach den Er-
+fahrungen die mir von andern mitgetheilt ſiad/
+habe ich nun folgenden Saß angenommeù:
+
+Die Auéfaugung/ die der Aer durch
+die Produftion des Graſes und des
+Klees erleidet, wird durc die im Acer
+zurübleibenden Klee- und Graswur-
+zeln erſegt und fompeuſirtz aller
+
+--- Page 17 ---
+—_ 182 —
+
+Dungaber, der aus den auf dem Dreeſc<h
+gewachſenen Pflanzen, dur Abwei-
+dung vom Vieh entſteht, if reiner
+Gewinn und erhöht die Dungkraft
+des Bodens.
+
+Da aber der Humus des Bodens vor dem Nie-
+derlegen zur Weide, und nach dem Aufbruch des
+Dreeſches niche mehr in demſelben Zuſtand iſt, und
+alſo auch in eixem verſchiedenen Verhältniß in die
+Bilanzen übergehen kann: fo ſind Beobachtungen
+dieſer Art marichen Täuſchungen unterworfen; und.
+wir múſſen deshalb dieſen Sab ſo lange als proble-
+matiſch anſehen, bis wir durch Anwendung der,
+für eine Koppelwirthſchaft gefundenen Zahlenver-
+
+Häctniſſe, auf die Dreifelderwirthſchafc, die Richtige
+keit dieſes Sages prufen, und die obige Frage ent-
+ſcheidend beantworten fönnen.
+
+$. (074,
+
+Der Einfluß, deu die Braache auf die Dungkraft
+des Bodens ausûbt , muß aus zwei weſentlich ver-
+ſchiedenen Geſichtöspunften betrachtet werden : ere
+fiens, inſofern die Braache eine wirkliche Dung-
+vermehrung bewirft; zweitens, inſofern ſte den
+ſchon im Boden befindlichen Humus zu einer höhern
+Wirkſamkeit bringt.
+
+Eine Vermehrung der Dungfcaft findet ſtatt,
+indem während des Braachjahrs Gras und Un-
+
+--- Page 18 ---
+— 183 —
+
+feâuter auf deim Acer warhſen , welche durch das
+Unterpflügen oder dur das Abweiden dem Acker
+mehr wieder geben als ſte ihm genommen haben,
+
+Dieſe Vermehrung. muß nothwendig nach dee
+Behandlung des Akers, nach der Verſchiedenheit
+der Acferweikzeuge, nach der Zeit der Abfuhr des
+Dungs, und nach der größern oder geringern
+Neinheit des Ackers von Unkrautſaamen - ſehr vere
+ſchieden ſeyn.
+
+Wird zum Umbruch des Dreeſches im Herbſt
+der Pflug gebraucht, fo iſt der Graswuchs in der
+Braache höchſt unbedeutend; geſchieht der Umbruch
+aber durch den Hafen, ſo bleibt ein Theil dex Dreeſch-
+narbe an der Luft und vegetirt ungeſtört fort , bis
+die Eggen auf dies Feld fommen. Ju lebtern Fall
+wird ſi, unter übrigens gleichen Umſtänden, der
+Graswuchs in der Braache und die Vermehrung
+der Dungkraft, nach dem Graswuchs des voranger
+gangenen Weidejahrs richten.
+
+‘Man theile ein Feld, welches: Hafer getragen:
+hat, in zwei gleiche Theile; die eine Hälfte werde,
+nachdem der Hafer eingeeradtet iſt, dreimal gehaft
+und daun noc in demſelben Herbſt mit Nocken
+beſäetz die andre Hälfte bieibe zur Braache liegen,
+und werde im nächſten Sommer ebenfalls dreimal
+gehaft, aber nicht gedüngt, und hierauf mit Rocken
+beſäer: ſo wird der Ertrag des Braachroens den
+
+--- Page 19 ---
+— 184 —
+
+des Stoppelro>ens bedeutend, vielleicht um 2 Schſl
+auf 100 Quadrat - Ruthen , überſteigen. Wollte
+man nun, wie in 5 2, aus dem Ertrag auf die
+Daungfcafe ſchließen und ſagen: die Braache ver-
+thehrt die Dungfeafc des Bodens in dem Maaße,
+das 2 Schfl. Rocken mehr wachſen — wozu nach
+$. 2 eine Düngung vou 3} Fuder gehört — ſo
+würde man in einen großen Irrthum verfallen,
+Wäre nemlich die Dungfraft des. Bodens durch
+die Braache ſo bedeutend erhöht, ſo müßte nun
+auch der Hafer, der ſowohl nach dem Brachrocen
+als nach dem Stoppelrocfen geſäet wird y “dieſes
+anzeigen; aber der Hafer — bei.dem nun, weil die
+andern Umſtände gleich ſind, der Schluß von dem
+Ertrag anf die Daugkraft ſeine Anwendung findet
+— wird (vorausgeſeht daß die Braache nicht wegen
+Verwilderang des Ackers nothwendig war) ergeben,
+daß das gebraachre Srûck in der Dungkraft keinen
+Vorzug vor dem andera hat,
+
+Indem wir nun ſehea , daß dieſelbe Dungmaſſe
+im Boden, größere oder geringere Erudten hervor-
+bringt, je nach dem die vorhergegangene Bearbei-
+tung des Bodens war, müſſen wir annehmen, das
+der Dung eines verſchiedenen“Grades von Wirk-
+famfeit fähig ſey.
+
+Unter allen Vorbereitungen zum Winterkorn
+bewirft die Braache die höchſte Wirkſamkeit des
+
+in
+de
+de
+vi
+li
+
+di
+fel
+di
+du
+
+fol
+
+--- Page 20 ---
+df
+olite
+f die
+vere
+ae,
+nach
+Zp
+llen,
+ur<
+vun
+en
+eſes
+l die
+dem
+udet
+egen.
+ben,
+inen
+
+taſſe
+vor-
+rhei
+
+i TBS
+
+Dungs, und wenn z.B. der Dung nach der Braache
+in den Zuſtand verſe6t i, daß der fünfce Theil
+davon in den Nocken übergehen fann, ſo fann bei
+der Bearbeitung / welche der Stoppelrocken erhält,
+vielleicht nur der ſiebente Theil des im Boden befind-
+liche Dungs von dem Rocken eingeſogen werden.
+
+Nach Thaers Lehren enthälc zwar der Humus
+die Nahrung fúr die Pflanzen, aber der Humus
+ſelbſt fann im feſten Zuſtande nicht unmittelbar in
+die Gewächſe übergehen; ſondern es werden erſt
+durch die Verbindung, welche er mit dem Sauer-
+fioff eingeht , die direft nährenden Subſtanzen,
+kohlenſaures Gas und Extractivſiof, aus ihm'ent-
+wilt, welche im Waſſer auflöslich ſind, und von
+den Pflanzenwurzeln eingeſogen werden,
+
+Hieraus laſſen ſich nun die Erſcheinungen,
+welche die Braache darbietet, ſehr gut erflären,
+Der Humus fann nur darn, wenn er in unmittele
+barer Berührung mit der atmosvhäriſchen Lufe gee
+ſebt wird, ſich*mit dem Sauerſtoff verbinden. Die
+Erzeugung des Extraftivſioffs wird alſo um ſo volle
+Eommner und in ſo grôßerm Maafße ſtatt finden,
+je länger der gelocerte Boden der Luft ausgeſett
+ity und je mehr dies in der warmen Jahrözeit die
+den <emiſcheu Prozeß befördert , geſchieht.
+
+Wahrſcheinlich wird der größte Theil des im
+Boden befindlichen Extraftivſtofîs durc die Pro-
+
+--- Page 21 ---
+— 180. —
+
+duktion einer Frucht erſchôvft , und es muß dann
+erſt durch eine erneuerte Bearbeitung ans dem vor-
+räthigen Humus wieder Extraftivtoff gebildet were
+den, ehe eine zweite Saat auf dieſer Stelle gedeihet.
+Für die Größe der nächſten Erndte iſt alſo die
+Quantität des entwickelten Excraktioftoffs weit ente
+ſcheidender, als der Humusgehalt des Bodens.
+
+Es ſcheint hiernach daf wir um den Grad der
+Fruchtbarkeit eines Bodens zu bezeichnen, ſeinen
+Gehalt an Extraftivſtoff und nicht den Gehalt an
+Humus angeben müßten.
+
+Für ein gegebenes Wirthſchaftäſyſem if aber
+die Bearbeitung des Bodens ſelbſt ſcon beſtimmt,
+und nicht als wilführlich zu betrachten; es wird
+alſo auch fúr dieſes Syñem ein beſtimmtes, unver:
+ändertes Verhältniß zwiſchen' der Quantität des
+Humus und des Extraktioftoffs ſtatt finden, und
+wenn tir jene dem Grad nach bezeichnen iſt auch
+dieſe dadurch gegeben,
+
+Für ein andres Wirthſchaftefyſtem , welches
+feine reine Braache hâlr, ändert ſich aber unſtreitig
+das quantitative Verhältnis zwiſchen Humus und
+Extraftivſtoﬀ. Das Winterkorn wird hier, von
+demſetben Dunggehalt des Boden, einen geringern
+Erträg geben. Für das Sommerkorn kaun abet/
+durch eine tüchtige Bearbeitung des Bodens der
+Dung, bei jedem Wirthſchaftsſyſten, gleich wirkſam
+
+geit
+als
+terf
+
+mu
+hen
+deit
+eit
+
+Ext
+nid
+die
+
+gto
+tun
+mò
+EN:
+bal
+int
+und
+wo
+
+wer
+
+das
+im
+
+and
+
+Ve
+
+--- Page 22 ---
+aun
+vor:
+were
+ihet.
+die
+ente
+
+der
+inen
+tan
+
+aber
+unt,
+wird
+vere
+
+des
+und
+auch
+
+ches
+eitig
+und
+von
+pern
+bete
+
+der
+fſam
+
+E TL
+
+gemacht werden; wahrſcheinlich eben ſo wirkſam,
+als dies dur die Braachbearbeitung für das Win-
+terforn geſchieht.
+
+Ich muß noch bemerken, daß ih nur den Hue
+mus vor Augen habe, der aus dem Rúckſtand früe
+herer Düngungen, und durch Naſenfäulniß auf
+dem Aer, der ſeit Jahrhunderten fultivirt wird,
+entſtanden iſt.
+
+Auf die mehrere oder mindere Erzeugutig des
+Extrafcivſtoffs aus dem Humus, hat nun aber
+nicht bloß das Wirthſchafesſgſtem, ſondern auch
+die phyſiſche Beſchaffenheit des Bodens und eine
+große Menge audrer Umſtände — deren Betrach-
+tung wir bis zu einem andern Ort verſchieben
+müſſen — einen bedeutenden Einfluß, . Es kann
+¿:B, im Thonboden, der oft in Kluten (Erdklöfe)
+ballt, die gegen die Einwirkung der Luft verſchloſſen
+find, die Bildung des Extrafriſtoffs nicht ſo gut
+und ſo ſchnell von ſtatten gehen, als im Sandboden,
+wo jede Partifel mit der Luft in Berührung geſet
+werden fann.
+
+In der Natur wirkt keine Kraft iſolirt, ſondern
+das Produfke, was ſie hervorzubringen ſirebt , wird
+immer durc die Gegenwirfung oder Mitwirkung
+anderer Naturfráfte modificirt.
+
+Wollen wir den Einfluß der einen Kraft durch
+Verſache beſtimmen y ſo müſſen wir alle anderen
+
+--- Page 23 ---
+TRS =
+
+einwirfenden Potenzen unverändert laſſeny “jete
+Einè aber dem Grade nah vermehren oder ver
+mindern: das Produfs, was wir erhalten, bleibt
+immer ein gemeinſchaſtliches Produkt aller influ
+renden Kräfte; aber die Nenderung, die in dem
+Produkt vorgeht / it dann alleſn der Uenderung
+jener Kraft zuzuſcbreiben, und die Größe ihrer
+Wirkung wird uns dadurch erfennbar.
+
+Ju der Landwirthſchaft iſi die Gröfe der Erndte
+das gemeinſchafcliche Produkt einer ehr großen
+Menge von Faktoren. Will man nun die Einwir
+fung des einen Faktors, z: B. der Dungfraft des
+Bodens fennen lernea: ſo muß man nothwendig
+die andern Fafcoren als unverändert betrachten,
+und die Aenderung der Größe der Erndte iſt daun
+die Folge von der Aenderung der Dungfraft. Auf
+eben dieſe Weiſe könnte man einen andern Faktor,
+z-B. die Einwirkung dés Bodens, zum Gegenſtand“
+der Uncerſachung wählen, und man müßte dann
+alle andern Faftoren, alſo auch die Dungfraft des
+Bodens als beſtändige Grösen anſehen.
+
+Wenn wir, im Vetfolg diefer Schrift, die Dung-
+fraft, anſcheinend als allein entſcheidend über die
+Größe der Erndten, betrachten: fo geſchieht dies
+nicbt, weil wir die Einwirkung der andern Potenzen
+verfenienz ſondern weil wir ſie als ruhend, oder
+
+--- Page 24 ---
+jene
+r ver
+bleibt
+influ
+1 deit
+derung
+ihrer
+
+Frndte
+proßen
+inwir
+fr des
+vendig
+hten
+| dant
+
+Auf
+jaftor,
+nſtand
+dant
+ft des
+
+Dung
+er die
+t dies
+tenzen
+y odeé
+
+= 289 = ,
+vielmehr als gleichmäßig fortwirkend aaſehen , und
+nun die Wirkung der Dungfkraft allein in Betracht
+fommen-fann,
+
+Wenn wir andern Theils die Größe der Wir-
+fung des Dungs in Zahlen ausfprechen, und nun
+dieſem Zahlenverhältniß allein für den beſtimmten
+Fall Gültigfeic beimeſſen; ſo rührt dies feineswegs
+daher, daß wir die Geſeße, wornach die Dungkfraft
+wirft, als auf dieſen Fall beſchränkt, anſehen. Im
+Gegentheil iſt die Tèndenz dieſer Kraft überall die:
+ſelbe, da ſie aber nur unter der Mitwirkung andrer
+Kräfte ein Produfe zu Stande bringen fana, ſo
+wird bei veränderter Mitwirkung, das Produkt
+auch nicht daſſelbe bleiben können.
+
+$. x2.
+
+Nach den bisher dargeſtellten Sägen würde
+man nun, ſobald das Zahlenvèrhäleniß gefunden
+iſt, der Ertrag, die Ausſaugung, die Dungfraft
+des Bodens und den Erſas für jeden einzelnen
+Schlag berechnen, und dies für einen ganzen
+Umlauf, in nachfolgendem Schema, zuſammei-
+fielen fônnen,
+
+--- Page 25 ---
+— 199 —
+
+Sieben-Felder- Koppel-|Ertrag| Aus: [Buns
+wirthſcbaft, auf 1000] fan: | aedale|
+Quadrac- Nuthen in| gung ¡deeBe
+
+jedem Schlag.
+
+Schſl, | Fuder | Fuder
+
+x. Schlag. Braache ent
+hält im Herbſt
+2. Schlag. Rocken
+gibt Ertrag nach 5.2
+die Ausſaugung be-
+rrágt nac $. 3
+es bleibt im Acker
+zurück
+der Erfas durch
+Strohgewinn, 6. 9
+ter Schlag, Gerſte
+ater Schlag. Hafer
+ster Schlag. Weide
+óter Schlag. Weide
+ter Schlag. Weide
+
+Im Boden ſind zurück
+geblieben
+
+Der Erſah beträgt im
+Ganzen
+
+Die Braache fann alſo|
+gedüngt werden mic
+
+Die Braache ſelbſt ver-|
+mehrt die Dungfraft
+um
+
+AmEndedesUmlaufs iſt
+
+alſo die Dungfrafc des
+Bodens
+
+--- Page 26 ---
+Wenn man nun für ein beſtimmtes Lokal das
+Zahlenverhältniß gefunden hat, und das obige
+Schema ausfüllen fann: fo i dadurch nicht bloß
+die Ueberſicht der beſtehenden Wirthſchaft gegeben z
+ſondern man fann nun auch den Erfolg einer Wirth-
+ſchaftsveränderung, 3, B. wenn man eine Kornſaat
+mehr oder weniger nimmt, oder ſtatt der Braache
+den Nachſchlag düngt, im Voraus berechnen , und
+der Ertrag, womit der zweite Umlauf beginnen
+wird, angeben.
+
+In den bisherigen Berechnungen iſt, um die
+Fruchtbarkeit des Bodens anzugeben und gleichſam
+zu meſſen, das Fuder Dung à 2000 Pfund zur Ein-
+heit angenommen. Man fann aber ſtatt deſſen
+auc die Quanticät Nahrung, welche dem Boden
+durch die Produftion eines Berliner Scheffels
+Nocken entzogen wird, zur Einheit annehmen.
+Dies iſt nun zwar, wie fich weiterhin ergeben wird,
+feine Seſtändige Größe; aber die Rechung und
+die Ueberſicht wird durch dieſe Bezeichnung unge-
+mein erleichtert und ich nehme ſie um ſo lieber an,
+da ſe ſchon von dem Herrn von Wulffen vorgee
+lagen und eingeführt ift,
+
+Wenn wir nun dieſe Einheit, mit dem Herr
+Staatsrath Thaer, Grad! nennen und ſte
+durch 1° ausdrâcfen, ſo würde in obigem Schema,
+die Dungfraft des Bodens in der Lraache, ſtatt
+
+--- Page 27 ---
+—t02
+
+dute izo Fuder mit 450° bezeichnet ; und die Aus-
+ſaugung wäre daau = 90°.
+
+$. 13.
+
+Um die Ueberſicht der bisher mitgethellten Sägt
+nicht zu erſchweren, habe ich ſe ohne Unterbrechung
+auf einander folgen laſſen; ich füge jezt noch einigt
+Bemerkungen hinzu , und werde die Einwürfe, dit
+ſich mir zuerſ aufdrängten zu beautworten ſuchen,
+
+1.
+Gegen die Annahme, daß die Ausſangung des
+Bodens von der Größe der darauf gewonnenen
+Erndte abhänge, kaun man folgenden Einwurf
+machen: La
+„Wenn eine größere Kornerndte den Boden ſtär
+fer erſchöpfte als eine \{wache, ſo múßte die
+¡mach der größern Erndte folgende Frucht ſchlech
+fer werden, als die nac der geringer Erndte;
+„wir bauen aber in der Negel beſſere Gerſte, wenn
+adas vorhergegangene Winterkorn gut gerathen,
+%als wenn es mißrathen war,
+
+Iu der That habe i auf die Frage, ob dit
+Gerſte nach einer ßarfen Winterkornerndte beſſer
+gerathe, als nach einer ſchwachen , faſt immer eine
+bejahende Antwort erhalten, und nur zwei Laud-
+wirthe haben inir eine eutgegengeſehte Erfahrung
+mitgetheilt.
+
+zum
+unge
+nen
+
+2
+
+--- Page 28 ---
+Sâgt
+echung
+einige
+fe, dit
+uchen,
+
+1g des
+nenen
+uwurf
+
+n ſtär
+ite dit
+cle
+endte;
+wenn
+athen,
+
+ob die
+beſſer
+r eint
+Land/
+hun
+
+= 203
+
+Dieſe Frage muß aber zergliedert werden, um
+ſie richtig aufzufaſſen, s
+
+Das Land, was in der Regel beſſeres Winter-
+forn trágt, hat auh mchr Dungfraft. Wenn ein
+Feld 150 Fuder, ein aùderes 190 Fuder Dung
+enthält, ſo entzieht der Rocfen dem erſten Felde 30,
+dem zweiten 20 Fuder Dung. Ungeachtet der
+größern Ausziehung bleibt dem erſten Felde alſo
+noch ein Ueberſhuß von 40 Fuder Dung, und es
+iſt ſehr begreiflich, daß dieſes nun im Sommerkorn
+einen großeu Vorzug hat, In dieſem Sinn beante
+worten aber die meiſten Landwirthe die Frage.
+
+Wenn aber durch eine ſchlechte Beſtellung , oder
+durch eine ſehr ungünſtige Witterung, ein Bodens
+der die Dungfraft enthält, um in der Regel 9 Schff.
+Nocken zu producireti, jeht nur 6 Schfl. gibt, wird
+dann die darauf folgende Gerſte beſſer werden, als
+wenn der Noen 9 Schfl. gegeben hätte?
+
+Jc glaube, aller Analogie nach, dieſes bejahen
+zn müſſen; folgende zwei Fälle fönnen indeſſen,
+ungeachtet der Richtigkeit des Sabes im allgemei-
+neu ein andres Reſultat geben:
+
+1) Ein Boden der ſehr voll Unfrautſaamen licat,
+trágt gewöhnlich an den -Srellen, wo der
+Nocken fehlt , audre Gewächſe, Anſtatt daß
+fonſi-der Ro>en hier den Dung kouſumirt
+hâte, geſchieht dies jeßt durch das Unkraut,
+
+N, Annal, gn Jahrg, rite Húlfte, 33
+
+--- Page 29 ---
+O RS
+
+und die folgende Saat kann durch das Miß
+
+rathen des Rocfens nicht gewinnen.
+
+2) Je ſtärker und dichter eine Saat ſieht, deſto
+weniger fann der Acker verqueken, und um ſo
+vorzüglicher wird die Beſtellung der folgenden
+Saat werden, Vielleicht iſt auch die Einwir-
+fung der Arhmosphäre auf einen folchen dicht
+beſchatteten Boden ſtärker; der Humus fann
+fich dann vielleicht beſſer mit dem Sauerſiof
+verbinden, und dadurch die Erzeugung des
+Extraftioſtoffs befördert werden.
+
+Wenn dieſer Fall auf einem ſehr reihen Bodet,
+der z. B. 200 Fuder Dung auf 1000 Quadrat
+Muthen enthält eintritt , ſo kann die ſärkere Er:
+ſ<dpfung durch die höhere Wirkſamkeit des übrig
+bleibenden Humus überwogen werden.
+
+Geſeht dies Feld gebe anſtatt ſeines gewöhn-
+lichen — der Dungfraft angemeſſonen — Mittele
+ertrags von 120 Schl. - jeht 150 Schl. Rocken, ſo
+werden dem Acfer ſtat 40, jeht 50 Fuder Dung
+entzogen; es bleiben alſo im Acfer 150 Fuder,
+Wenn nun durch eine der angeführten Urſachen die
+Wirkſamfeit des Dungs um 4 erhöht wird: ſo if
+die darauf folgende Erndte ſo groß - als wenn der
+Acker 180 Fuder Dung enthalten hätte.
+
+Die Erſchöufung des Bodens kann alſo ſtärker
+ſeyn 7 wenn auch die unmittelbar folgenden Saaten
+
+--- Page 30 ---
+Miß
+
+deſto
+um ſo
+nden
+nivire
+dicht
+fann
+rſicﬀ
+des
+
+odeit,
+idrat-
+e
+
+übrig
+
+vöhn-
+dittele
+n, ſo
+Dung
+uder,
+n die
+ſo ift
+n der
+
+ärfer
+aten
+
+— 05
+
+das Gegentheil zu beweiſen ſcheinen. Die Wirkung
+der Erſchöpfung zeigt ſich ſpäter, daun aber auch
+deſto auffallender.
+
+11,
+
+¡Man ſtecke zwei Körner Weizen, oder pflanze
+wei Kartoffeln, die den Auſchein nach von gleicher
+1-Güte find, zu derſelben Zeit neben einander in
+„einem völlig gleichen Boden. Das eine Saamene
+fora fann eine üppige, das andre eine fümmerliche
+Pflanze liefern ; beide genießen gleiche Witterung
+„und gleiche Nahrung, und doc bringt die eine
+„Pflanze vielleicht dreimal ſo viel Körner, als die
+andre. Es iſt mit den Pflanzen wie mit den Thie-
+„ren: ein Individuum gedeihet, das andre verkrúps
+pelt bei derſelben Nahrung. So wie bei ‘dieſer,
+eine Nace das Futter beſſer bezahlt als die andre:
+ſo wird auch eine Abart von Planzen, — z, B.
+o„Haſſelburger Nocken — von derſelben Dungkrafe
+„des Bodens mehr Ertrag geben als die andre —
+4: B. Meeklenburgiſcher Sandrocken —, Da nun
+«der Wachóthum der Pflanze ven der Organiſation
+des Saameaforns abhängt, ſo fannt die Nahrungs:
+amaſſe keinen Maaßſiab für das Gedeihen der Ges
+uivächſe begründen. //
+
+I antworte hierauf?
+
+Der Haſſelburger Rocken gibt von derſelben
+Ráhrungömaſſe im Boden einen größern Ertrags
+
+13
+
+--- Page 31 ---
+AO
+
+aber dieſer Ertrag ſteht wieder in Verhältniß mit
+der Dungfrafe, Ein Boden von 150 Fuder Dunge
+gehalt wird 12 Mal ſo viel Ertrag geben, als der
+von 100 Fuder; aber ein Fuder Dung producirt
+ehr Korn vou dieſer Gattung als von jener. Wenn
+3. B. ein Fuder Dung ſtatt } Schl. Haſſelburger
+Rocken yur 3 Schſl. Sandrocken producirt: ſo
+ſc{ließen wir daß ein Feld, welches 90 Schſl.
+Sandrocken liefert ; nicht 150, ſondern 180-Fuder
+Dung enthält.
+
+Es werden alſo die Zahlen geändert, aber die
+Geſehe bleiben ſich gleich,
+
+HL.
+
+Bei einem ſehr großen Reichthum des Bodens
+an Humus kaun das Verhältniß zwiſchen der Dunge
+feaſt und dem Ertrage nicht mehr ſo ſeyn» wie auf
+einem Boden don mittlerer Fruchtbarkeit.
+
+Wenn eine ſehr fonzentrivte Dungmaſſe noch in
+eben dem Verhältniß Korn trúge, ſo múßre man
+auf einein Miſihaufen o viel Kora bauen können,
+als auf einer großen Fläche, in welchex dieſe Dung-
+maſſe vertheilt wäre, Zum Wachsthum der Pflanzen
+ift aber, neben der Nahrung, ein angemeſſener
+Standÿunfkt erforderlich; ein Boden, der zu viel
+Humus enthält, iſt für die meiſten Pflauzen zu
+loer/ und der Humus wird dann nicht bloß une
+wirkſau/ ſondern auch nachtheilig,
+
+--- Page 32 ---
+mit
+unge
+der
+teirt
+enn
+rgee
+
+ſo
+ſl.
+uder
+
+die
+
+— 19 =
+
+Jede Pflanze hat ferner ein gewiſſes Maaß von
+Größe oder Stärke, welches ſie auch, beim Ueber-
+flus an Nahrung und bei den übrigen günſtigſten
+Umſtänden, nicht überſchreiten kann, Für jedes
+Gewächs wird alſo eine gewiſſe Menge Humus
+erfordert, um die ſeiner Natur nach mögliche Volí-
+fommenheit zu erreichen. Vermehrt man nun noch
+die Dungkraft des Bodens, den dieſe Quantität
+Humus ſchon beſit : ſo wird die Düngung gar
+nicht auf den Ertrag wirken, indem die Gewächſe,
+fchon vor der Düngung, fo viele Nahrung fanden;
+als ſie ur einſaugen fonnten.
+
+Der Ertrag der Halmfrüchte wird aber auch
+ſchon dadurch auf einen gewiſſen Punkt beſchränkt,
+
+daß ſie bei einem ſehr üppigen Wachöthum nicht
+aufrecht ſtehen bleiben, ſondern ſic lagern. „Die
+Vegetation hôrt zwar nach dem Lagern nicht ganz
+auf; aber die Körner ſchzumpfea dann zuſammen,
+und der Ertrag des Lagerforu wird dadurch gerin-
+ger, als der des ſtehenden Korns auf Boden von
+niederer Dungkraft,
+
+Kohl, Kartoffeln, Rapps und ‘einige andre
+Geivächſe, die dem Lagern nicht unterworfen ſiud,
+erfordern, um den hôchſ möglichen Ertrag zu geben,
+
+it größere Dungfraft des Bodens, als die
+früchte ertragen fönnen,
+
+--- Page 33 ---
+n 1086 =
+
+Aus den beiden Gründen: daß erſtens das
+Einſaugungsvermögen der Pflanzen beſchränkt iſt
+und daß zweitens, bei einem zu üppigen Wathse
+thum die Halmfrüchte ſich lagern, faun alſo die in
+einen ſehr reichen Boden aufgehäufte Dungmaſſe
+keinen ſo großen Kornertrag liefern , als ivenn die
+ſelbe Quantität Dung auf einer größern Fläche
+vertheilt wäre,
+
+Dagegen if für einen Boden , der noch nicht die
+Frucbtbarfeic erreicht har, daß das Korn ſich dar
+auf lagert / die Dungfraft allein entſcheidend über
+den Ertrag, d. h. der Kornertrag bteidr fich gleich,
+dieſelbe Dungfraft mag auf einer größern oder
+kleinern Fläche — auf 1000 oder auf 2000 Quadrate
+Ruthen — vertheilt feyn.
+
+Um die Richtigkeit dieſes Sages — den ich vor
+fanfzehn Jahren hypothetiſch annahm, und der
+allerdings der Beſtätigung durch die Erfahrung
+bedurfte — zu prüfen, habe ich ſeitdem, mit unaus-
+geſebter Aufmerkſamkeit die Erſcheinungen in der
+Matur, in dieſer Hinſicht beobachtet, und dieſe
+Beobachtungen haben wich immer mehr von der
+Uebereinſtimmung dieſes Saßes mit der Wirklichfeit
+Éberzeugt. Ich habe aber auch verſucht , die Er-
+ſcheinungen, welche die Erfahrung mir darbot, auf
+eine andre Weiſe zu erflären: ich entwarf eine
+Formel, nach welcher der Dung um ſo ſtärfer von
+
+ſows
+nich
+
+--- Page 34 ---
+leich,
+oder
+drate
+
+) vor
+
+der
+rung.
+qué
+| der
+dieſe
+der
+hfeit
+: Er-
+auf
+eine
+von
+
+—199 —
+
+den Pflanzen ausgeſogen ward, je weniger“ davon
+im Boden enthalten war; aber ih fand, daß dieſe
+Formel in ihrer Anwendung zu Widerſprüchen mic
+der Wirflichfeit
+
+Der Grad von Fruchtbarkeit , bei welcher der
+Acker anfängt Lagerkorn hervorzubringen, liegt aber
+nice ſo nahe als man ſi gewöhnlich denkt, Man
+findet zwar in naſſen Jahren auf Feldern von ge-
+ringem Mittelertrag einzelne Lagerſtellen ; aber dieſe
+Lagerſiellen ſind dann immer in den Niederungen,
+die entweder eine viel größere Dungfrafc als der
+umgebende Boden haben, und für ſi geerndtet
+einen viel größern Mittelertrag geben würden, odex
+die aus einem ſ<wammigen Wieſcuboden beſteheite
+in welchem die Pflanzen feine Haltung haben.
+Hier iſt aber nur von einem feſten, in ſeiner Textur
+ganz gleichförmigen und auf jeder Stelle in gleicher
+Dungkraft ich befindenden Boden , die Nede y der-
+wenn er einmal zu der Frucbtbarfeit gelangt ift
+daß das Korn ſich darauf lagert, nun auch auf
+ſeiner ganzen Fläche Lage:forn hervorbringt.
+
+Der Nocken , welcher einen Mittelertrag von
+6 bis 7 Schl. auf 100 Quadrat - Ruthen liefert,
+fann zwar durch Hagel, Piabregen oder Sturm
+niedergeworfen werden; aber dies trift dann eben
+ſowohl den Nocken von 3 Schfl. Ertrag, und rührt
+nict von einem zu üppigen Wachsrhum her.
+
+--- Page 35 ---
+Als ich im Jahr 1806 zuerſt die Jdee auffaßte,
+den Dunggehalt des Bodens und die Ausſaugung
+durch die Gewächſe, in Zahlen auSzuſprecen, folgte
+ich faſt ganz den Grundſäben , die in dem Vorher-
+gehenden dargeſtelle ind.
+
+Durch eine funfzehnjährige Ptüfang ſnd nun—
+wie ſich ans dem, was ih damals niederſchrieb,
+ergibt — die Grundzge ſelbſt nicht weſentlich ver-
+ndert; - deſto mehr aber das Zahlenverhältnis,
+welches ih augenommen hatte, und die Anſicht
+welche ich über den Werth und die allgemeine Aue
+wendbarfect deſſelben hatte.
+
+Unt das Zahlenverhältniß zu, finden, gibt es
+einen doppelten Weg: man nimmt entweder die
+Zahlen hypotheciſh an, und verſucht , wie ſie bei
+
+e Anwendung auf eine gegebene Wirthſchaft zue
+
+0, td ándert ſie dann ſo lange, bis man die
+Erſcheinutigen dieſer und mehrerer anderer Wirth-
+ſchafren damit in Uebereinfimmung bringen fann;
+oder zweitens, man ſtellt ſie aus den Erfahrungen
+und den Datis dar, die die Bewirthſchaftung eines
+Gurs tn einem längera Zeitraum liefert,
+
+Da es mir damals ganz ay eigener Erfahrung
+fehlte, fo blieb mir nichts anders übrig, als den
+erſten Weg zu wählen, und die Zahlen hypothetiſch
+anzunehmen, Ich durfte zwar nicht erwarten, eine
+
+dll
+erre
+
+Kor
+
+um
+erh
+mei
+ih
+der
+mu
+mei
+geni
+wäh
+auf
+Ric
+une
+pra
+mid
+eher
+die
+prü
+fahr
+
+--- Page 36 ---
+— 201
+
+völlige Uebereinſtimmung mit der Wirklichkeit zu
+erreichen z, aber i hoffte doch, durch fortgeſeßte
+Korreftionen dieſem Ziel immer näher zu kommen.
+
+Aber ich hatte die Schwikrigkeit, genaue und
+Umfaſſende Data von andern Wirthſchaften zw
+erhalcen, überſehen, und ſo ſah ih mich bald in
+meiner Hoffnung getäuſcht, Im Jahr 1810 verließ
+ih nun dieſen Weg ganz, und betrat den zweiten,
+der zwar fangſam, aber doch ſicherer zum Ziel führen
+mußte, Da ich nun aber auch gefuuden hatte, daf
+meine hypothetiſch gewählten Zahlen feine genüe
+gende Uebereinſtimmung mit der Wirklichkeit ge-
+währen, welches fich beſonders bei der Anwendung
+auf die Dreifelderwirthſchafe zeigte, — und ich die
+Richtigkeit des Zahlenverhältniſſes für ein ganz
+unentbehrliches Erfordernis hielt, wenn dieſe Theorie
+praftiſch brauchbar werden ſoltte, — fo entſ6loß ic
+mich, dem Publikum von dieſen Anſichten nichts
+eher mitzutheilen, als bis ich die Gruridſähe durch
+die direfte Anweudung auf meine Wirthſchaft gee
+prüft, und das Zablenverhältniß aus eigener Ere
+fahrung dargeſtellt hätte.
+
+Der Plan zur Bewirthſchaftung des Guts
+Tellow, — welches ich im Jahr 1810 antrat, —
+ong ganz aus dieſer Theorie hervor; und dies
+gewährte mir den Bortheil, dasjenige, was die
+
+--- Page 37 ---
+Theorie verſprach, mit dem was die Wirklichkeit
+leiſtete, ſers vergleichen zu fönren.
+
+Der Erfolg dieſer Wirthſchafe hat mich nun
+och feſter überzeugt, daß dieſe theoretiſchen Anſich
+ten von einem ſehr weſentlichen Nugen für die
+praktiſche Landwirthſchaft ſeyn können.
+
+In Hinſicht des Zahlenverhältniſſes ſind meine
+Rechnungen ¿ während 10 Jahre, ſtets darauf
+gérichtet geweſen, dasjenige aufzuzeichnen was zut
+Kenntniß deſſelben führen konnte, Die Natur
+macht dies aber durch ihre große Vielſeitigkeit ſehr
+ſchwierig, und in einer Wirthſchaft, die niht Expe-
+timentalwirthſchaft ſey darf, fann manche Belehs
+rung, die die Natur gibt, nicht aufgefaßt und
+benußt werden,
+
+Das Neſultat dieſer Unterſuchungen fann des-
+halb — tros alles ernſten Strebens nach Vollſtän-
+digfeit und Genauigkeit und aller darauf verwandten
+Mühe — doch den Foderungen, welche die Wiſſen-
+ſchafe machen muß, nicht genügen; aber fär eine
+bedeutende Annäherung zur Wahrheit darf ich es
+halten.
+
+Da meine Zeit es mir nicht erlaubt , die Rech-
+nungen in dem bisherigen Umfang noch länger
+forczuführen, und da ich überhaupt wenig Hoffnung
+habe, von meinem individuellen Standpunkte aus,
+das Zahlenverhältuiß weiter vervolfounnuen zu
+
+tönt
+das
+
+fern
+Nus
+
+gegel
+Zahl
+zung
+darb
+benu
+einig
+
+--- Page 38 ---
+feit
+
+uu
+iche
+die
+
+ine
+auf
+zue
+tut
+ehr
+pes
+ehe
+ind
+
+es
+âw
+ten
+en
+
+—.203
+
+fóntten, und ſomit das bisher Geleiſiete, auc ſcon
+das für mic Erreichbare enthält : ſo würde ein
+ferneres Aufſchieben der Bekanntmachung auch ohne
+Nugeu ſeyn. E
+
+Ich werde nun im 2ten Abſchnitt das für ein
+gegebenes Lofal — das Gut Tell ow — gefundene
+Jahlenvezhälcniß darſtellen. Um aber die Erfahe
+tungen / welche die Bewiethſchaftung eines Guts
+darbietet, benugen und für unſern Zwe richtig
+beugen zu fönnen, bedürfen wir der Kenntniß
+einiger Säge, welche ich hier nun noch mittheile,
+
+$ 15.
+Grundſäge.
+
+1) Wenn auf einem Gute, während einer ſehr
+langen Reihe von Jahren — in welcher die Witterung
+als eine beſtändige Größe anzuſehen iſt — die Wirth-
+ſbafe in der Feucbtfolge, in der Beackerung und
+in jeder andern Beziehung ganz gleich geblieben iſt
+und wenn nun auf dieſem Gute der Ertrag von
+Umlauf zu Umlauf immer geringer wird: ſo fann
+dies nur von einer Verminderung der Dungfraft
+des Bodens herrühren, welche dadurch bewirke
+wurde daß die Ausſaugung mehr betrug als dex
+Erſag, den der Acfer wieder erhielt.
+
+2) Steigt aber, im entgegengeſeßten Fall, der
+Ertrag mit jedem Umlauf, ſo wird der Erſaß durch
+die auóſaugenden Gewächſe niche ganz fonſumictz
+
+--- Page 39 ---
+—_ 24 —
+
+ein Theil deſſelben blieb im Boden zurü> und be-
+wirkte die ſteigenden Erndten.
+
+3) Bleibt aber auf einem ſolchen Gute der Er-
+trag fortwährend gleich: ſo ſind hier Erſaß und
+Ausfaugung im Gleichgewicht, und die geerndtete
+Geteeidemaſſe hat — wenn das Getreide das einzige
+ausſaugende Gewächs war — grade ſo viel Pflan
+nahrung fonſumirt/ als der Erſag / den der Ucker
+wieder erhielt , betrug.
+
+Drückt man die Grôße der ausſaugenden Kräfte
+— die Quantität“ des geerndceten Getreides — in
+Scheffel Nocken , und“ die Größe der erſehenden
+Kräfte — Dúnguúg, Weide, Braache — in Fuder
+Dung, aus: ſo ergibt ſich hieraus , wie viel Dung
+durch die Produftion eines Scheffels Nocken kon
+ſumirt und dem Acer entzogen iſt,
+
+$. 16.
+Le h'r°fah.
+
+Eine Wirthſchaft, deren Fruchtfolge an ſ<
+ausſaugend iſt, d. h. die in ſ< ſelbſt uicht ſo viel
+Dung erzeugt , als die ausſaugeuden Kräfte konſuw-
+niiren, die daun aber dur Wieſenheu einen jähr
+lichen Dungzuſchuß von beſtimmter Größe erhält, —
+eine ſolche Wirthſchaft nähert ſich im Ertrage und
+
+__ in dex Dungfraſt einem gewiſſen Punke , der durch
+die Grôße des Dungzuſchuſſes bedingt wird, und
+bleibt, wenn dieſer Punkt eimal erreicht iſt in
+
+mit |
+
+Anfay
+aſien
+ten
+aten
+aten
+ten
++1
+
+--- Page 40 ---
+d be
+
+t Er-
+
+und
+dtete
+nzige
+flan
+ticker
+
+râfte
+— in
+nden
+Guder
+Dung
+fow
+
+° — 2095 —
+
+einem beharrendent, der Veränderung nicht weiter
+unterworfenen Zuſtand,
+
+Veweit,
+
+Die Dungfkraft des Bodens ſey beim Anfang
+des erſten Umlaufs, in der Braache = x Fuder.
+Die Wirkung der ausſaugendea Fruchtfolge ſey die,
+daf die Dunsfraft in einem Umlauf von # bis zu
+7x Fuder heruncerſinkt — wo 7 dann ein Bruch
+ſeyn muß —, Der unveränderliche Duugzuſchüß
+ſeo gleich a Fuder,
+
+Der zweite Umlauf beginnt alfo mit 7x + a;
+die Dungfraft zu Anfang des Umlaufs verhält ſic
+zu der am Ende des Umlaufs wie zu 7x oder wie
+x zu 7, Der zweite Umlauf, welcher mit ræ +
+beginnt, wird alſo am Ende deſſelben (70 + a)
+7 =/x+7a enthalten. Hiezu fönmmt nun wieder
+der Zuſchuß a, und der dritte Umlauf fängt alſo.
+mit x + ra + a an.
+
+Man findet auf dieſe Weiſe die Dungkraft im
+Anfang des
+xfienUmlaufs
+
+re +a
+
+rx + rada
+
+Px +ra+tra+a
+
+Prix pr2a4rSa, rata
+nuten — 1x bra hrza itratai
+
+--- Page 41 ---
+Erſter Fall; wenn x = rx >>,
+Alsdann wird die Dungfraft mit jedem Umlauf
+geringer; und may findet die Größe des Berluſies,
+der bewirft wied durch den
+ſten Umlauf: -a Gir)e-a
+aten — Sx r(0#-a)
+rx-re-ra = T( (rn) &-a)
+
+gten —
+
+nuten — Sr-rg-rEa=r((1-7)x-a)
+
+Weil (r=1) «= eine voſitive Größe iſt:
+ſo wird auch mit jedem Umlauf die Dungfkraft det
+Bodens vermindert; da aber 7 ein eigentlicher
+Bruch iſt und jede höhere Potenz eines Bruchs eine
+immer fleinere Größe gibt, ſo nimmt auch die
+Größe des Verluſtes mit jedem folgenden Umlauf
+immer mehr und zwar in einer geometriſchen Pro
+gteſſion ab. Es frágt ſicb nun: wie weit die Dung-
+frafr des Bodens durch dieſe Fruchtfolge vermindert
+werden fanny und ob es überall für dieſe Dermin-
+derung eine Grenze gibt ? Die hôchſte Abnahme
+der Dungfrafr, die durch dieſe Frucbtfolge hervor
+gebracht werden fann, findet dann flatt weni wir 1
+oder die Zahl der Umläufe = 05 annehmen,
+
+Für a= iſ aber 77-1 = 0, weil 7 ein
+Brach iſt; folglich iſ auch der Verluſt, den der
+ten Umlauf hervorbringt oder:
+
+--- Page 42 ---
+mlauf
+uſte,
+
+a)
+x-a)
+
+x-a)
+
+e iſt
+e ded
+licher
+8 eint
+H die
+inlauf
+Pro
+Dung
+indert
+rmine
+tame
+erver!
+wir ny
+
+Eine ins unendliche fortgeſeßte Anwendung der
+ausfaugenden Fruchtfolge faun alfo die Dungkrafe
+des Bodens nur bis zu Fuder vermindern ;
+und für dieſe Kraft wird der Verluſt durch die
+Fruchtfolge = 0, d. h. die Wirchſchaft bleibt nun
+in einem beharrenden Zuſtand,
+
+Zweiter Fallz wenn & - 1x < a.
+
+Alsdann nimmt die Dungfraft mit jedem Ümlanf
+
+zu. Die Zunahme ift daun für den
+«+a-% = (r-1) x+a
+ntenUmſ.= 18-40 “((r-1) 4a)
+Bür a= iſ "(+a = o
+alſo (7-1) x+a o
+
+Die Grenze der möglichen Zunahme der Dung-
+feaft iſt alſo eben ſo wie die Grenze der Abnahme
+Fuder,
+
+--- Page 43 ---
+— 208
+
+Beiſpiel
+Die Dungfkraft des Bodens ſey in der Braache
+gleich 150 Fuder auf 1000 Quadrat - Ruthe, Die
+Fruchtfolge y ſich ſelbſt überlaſſen, verliere in einem
+Umlauf 2 der Kraft womit ſie anfing.
+
+Der Dungzuſchuß betrage 10 Fuder für jede
+1000 Quadrat- Ruch?n Braache.
+Der 1ſte Umlanf beginnt mit x50 Fuder,
+der Verluſt iſ 5e alſo __15
+i bleiben 135
+Hiezu der Dungzuſchuß mit 10.
+
+afe Umlauf beginnt alſo mit "745
+Verluſt 2 145
+bleiben 1305
+Dungzuſchuß
+
+ate Umlauf beginne mit
+Verluſt 7
+bleiben 12615
+Zuſcuß 0
+
+ate Umtauf beginnt mit 3365
+Verluſt 336
+
+bleiben 122,9
+
+Dungjuſchuß 10
+Der 5te Umlauf beginne mit 332,9
+
+Det
+
+die
+ſcr
+tel
+Dui
+Vi
+ſelb
+
+--- Page 44 ---
+nache
+Die
+inem
+
+jede
+
+uder,
+
+lac
+
+Weittt man die Rechnung auf dieſe Weiſe fort-
+ſedt, ſo wird ſich eine immer mehr verminderte
+Dungkraft ergeben.
+
+If nun aber die Kraft einmal bis zu 100 Fuder
+vermindert, ſo iſt der Verluſt von 25 = 10
+
+bleiben 90
+Hiezu der Dungzuſcuß von 10
+Der folgende Umlauf beginnt wieder mie 100,
+
+In dieſem Fall iſ alfo 100 die Grenze, der ſi
+die Dungfraft immerfort nähert ; und die nie über-
+ſchritten werden fann, Man findet dieſe Grenze
+wenn man den Dungzuſchuß, — hier 10,— durch den-
+Dungverluſt der Fruchtfolge, — hier 75, — dividirt.
+Bâre aber bei derſelben Fruchtfolge und bei deme
+
+ſeiben Dungzuſchuß die Kraft des Bodens nur
+= 80 Fuder, ſo würde dieſe mit jedem Umlauf zu-
+nehmen und ſ{ unaufhörlich der Grenze = 100
+nähern:
+
+Anwendungen.
+1, Wie geht es zu, daß die ſo ausfau-
+gende Dreifelderwirrhſchaft auf Gü-
+tern, die einen geringen Heugewinn
+haben, doch feit Jahrhunderten be-
+fanden hac und no fortdauernd
+beſteht?
+Die Dreifelderwirthfchaft l3ſet dies Probleux
+dadurch, daß ſie den Koruertrag bis zu dem Grade
+N, Annal, gn Jahrg, ſie Hálſte,
+
+--- Page 45 ---
+— 210 —
+
+vermindert, wo dér Verluſt, den die Frucbtfolae
+Yervor bringt, durch den geringen Dungzuſchuß
+erſegt wird.
+
+Wenn wir z. B. für einen gewiſſen Boden
+gefunden hätten, daß die Dreifelderwirthſcaft in
+jedem Umlauf 7 ihrer Dungfkrafe verliert; und
+dann den Dungzuſchuß, durch Außenweide und
+durch Wieſenheu , für jede 1000 Quadrat - Ruthe
+Braache nur 5 Fuder betrüge: ſo muß dieſe Wirth
+ſchaft in der Dungfraft bis zu 50 Fuder auf 1000
+Quadrat -Nuthen oder bis zu dem Ertrage von
+5 Körner (3 Berliner Scheffel auf 100 Q. N.) her
+unterſinfenz aber eininal bis zu dieſem Punkt ge
+langt, wird ſie, Jahrhunderte hindurch, in ihrem
+Ertrage unverändert bleiben,
+
+Dagegeit würde eine Dreifelderwirthſchaft vou
+9 Körnerertrag einen Dungzuſchuß von 15 Fuder
+auf jede 1000 Quadrat - Rathen Braache bedürfen,
+um ſich auf derſelben Höhe des Ertrags zu erhalten,
+
+11, Bis auf die neueſte Zeit, — wo durch dex
+‘Mergel eine gänzliche Umwandlung hervorgebracht
+ifi, — waren in Mecklenburg nur diejenigen Güter,
+die eineii großen Heugewinn hatten, in hoher Kultur,
+Man fonnte, mit wenigen Ausnahmen, aus dem
+Verhältniß des Heugewinn's zur Größe des Acker-
+landes auf den Körnerertrag des Ackers ſchließen,
+
+--- Page 46 ---
+tfolge
+ſchuß
+
+Boden
+if in
+
+und
+und
+uthen
+Birthe
+1000
+e von
+) hei
+ft go
+ihrem
+
+t vou
+Fuder
+ürfen,
+alten,
+b den
+bracht
+uter,
+ultur,
+; dem
+ler
+eſe,
+
+—_ 201 —
+
+und alfo die Wieſen zum Maaßſtab für die
+Fruchtbarkeit des Bodeus annehmen, Es frägt
+ſich nun:
+wie der Heuertrag eines Guts ſo
+entſcheidend für die Dungfrafr des
+Bodens werden konnte?
+
+Dieſe Erſcheinung läßt ſich vollkommen aus der
+Gleichförmigfeit der Wirchſchaften erklären. Man
+hat gewöhnlich bei der Schlageintheilung nur die
+Güte des Bodens berückſichtigt, und ſehr ofr das
+Gut mit wenigem Heu in eben die ausſaugende
+Fruchtfolge gelegt, wie das Gut mit vielem Heu.
+
+Gefegt nun, man hätte fr einen gegebenen
+Boden geſunden , daß eine Sechsfelder - Koppel-
+wirthſchaft mit drei Koruſaaten in einem Umlauf
+x der Dungfraft, die ſe zu Anfang hatte, verliert:
+ſo wird das Gut mit 6 Fuder Dungzuſchuß auf
+6 >< 15 = 90/Fuder in 1000 Quadrat - Nuthen,
+oder auf dem Körnerertrag von 57 Schfl. ſehen
+bleiben, während das Gue von demſelben Boden,
+welches aber 10 Fuder Dungzuſchus hat, ſich bis
+zur Kraft von 10 >< 15 = 150 Fuder erhebt,
+und dann éinen Ertrag von 9 Körner liefert.
+
+Die Hôhe des Ertrags und der Dungfraft, bis
+in welchem’ ein Gut ſteigt, wird allein durc< das
+Verhältniß, welches in der Fruchtfolge zwiſchen
+den ausfaugenden und den erſegenden Kräfcey ſict
+
+14+
+
+--- Page 47 ---
+findet, bedingt. Da wir nun durch Verminderung
+der Kornausſaat und durch Vermehrung des Dre
+ſches den erſegenden Kräften, in jeder Wirthſchaft,
+das Uebergewicht geben können: o i auc auf
+jedem Gut, welches wenig oder gar feit-Wiefevheu
+hat, die hôchfe Kultur des Ackers zu erreichen;
+wern dies gleich mit mehrern Schwierigkeiten und
+größern Koſten verknupft ift / als auf den Gütern
+die viel Wieſeuhen beſiben.
+
+Ui, Welches ſiud die Folgen des Mere
+gelns, wenn wir die dur< den Mer-
+get bewirkte Erhöhung: der Frucht-
+barkeit fo anſehen, als fey dieſe
+durc eine neu hinzugekommene
+Düngung entſtanden?
+
+Unter allen úber die Wirkung des Mergels auf
+geſtellten Hypotheſen, gewährt wohl diéjetige, welche
+dem Mergel eine düngende Kraft- beimiſcht , die
+mehrſie Beruhigung über die Folgen des Mergelus.
+
+Wenn wir nun — da es an einer Theorie, die
+die allgemeine Zuſtimmung erhalten hat, und die
+alle Wirkungen des Mergels genügeud erklärt, noch
+fehlt — dieſer Hypotheſe unſere Unterſuchungen zum
+Grunde legen, und daun aus obigem Lehrſaß die
+künftigen Erfolge des Mergelns entwickeln: ſo fö
+uen wir verſichert ſeyn / daß wenn ſelbſt nach dieſer
+dem Mergeln ſo günſtigen Hypotheſe doch noch grofe
+
+--- Page 48 ---
+erung
+Drez-
+haft,
+h auf
+enheu
+chen;
+1 und
+ütern
+
+Ner
+Ner-
+ut
+
+dieſt.
+nene
+
+s aufe
+velche
+7 die
+jelus.
+die
+d die
+“noh
+1 zum
+6 die
+o fö
+dieſer
+große
+
+Vorſicht ndthig iſt; dann bey dev Annahme eiter
+andern Hypotheſe dieſe Vorſicht nicht übérflüſſig iſ,
+fondern noch vermehrt werden muß.
+
+Obgleich wir hier die Wirkung des erſten Mere
+gelns als eine Erhöhung der Dungfkraft des Bodets
+anſehen, fo muſſen wir doch, wie die Erfahrung
+lehrt7 zwiſchen Dung und Mergel deu weſentlichen
+Unterſchièd feſtſeßen : daß eine wiederholte Düngung
+immer dieſelbe günſtige Wirkung auf die Fruchtbar«
+feit des Bodens äußert, während der Mergel nur
+einmal, — oder wenigſtens doch nur nach einen ſehr
+fangen Zeitranm zum zweiten Malz — die Frucht-
+barfeit des Bodeps zu erhöhen vermag, Es fanny,
+alſo ein einmal gemergeltes uud nachher ausgeſogee
+
+yes Feld nicht durch ein zweites Mergeln, ſondern.
+nur durch verſtäcfte Düngungen wieder in Kraft.
+geſeßt werden.
+
+Geſeht nun, eine Wirthſcbaft, deren Dungfraft
+= 100 Fuder in 1000 Q. N, iſt, deren Fruchtfolge
+in jedem Umlauf 2; ihrer Dungfcaft verliert , die
+auf jede 1050 Q, R. Braache einen Dungzuſchuß
+von 63 Fuder hat , und einen Körnerertrag von
+6 Schl, gibt, werde durch das Mergeln bis zum
+Etrtrag von 9 Körnern gebracht, welches eine Dung-
+fraft von 150 Fuder voraus ſet — wie werden hier
+die Foigen des Mergelns ſeyn?
+
+--- Page 49 ---
+= ARE =
+
+Erfier Fall, wenn die Frueßtfolge nach dent
+Mergelu nicht geändert wird.
+
+Der erſte Umlauf beginnt mit eincr Dungfraft
+
+POR e e > «2.0 ISEFnder.
+Der Vetluſt beträgt
+
+bleiben 140
+Der Dungztſchuß beträgt 62 -
+
+Dungfraft zu Anfang des 2teu Umlaufs 1462
+Hier zeigt ſich dieſelbé Erſcheinung wie in dem oben
+gegeberen Beyſpiel : die Dungkrafc nintint mic jedem
+Umlauf ab, fann aber nicht tiefer als bis zu
+15 >< 62 = 100 Fuder ſinken, Dieſe Wirthſchafe
+geht alfo allmáhlig bis zu dem Ertrag zurü, den
+fe bor dem Mergeln gab.
+
+Ehe hier'géinérgelt wurde, war die Wirthſchaft
+in einem beharrenden Zuſtande; nach dem Mergelu
+ſtuft ſie zurück, weil der Dungzuſchuß wohl für den
+Körtierertrag von 6, aber nicht für den von 9 Schfl.
+hinreiche, Um den erhöhten Ertrag fortwährend
+beyzubehalten, hätte zugleich der regelmäßige Dung-
+äuſchuß von 63 bis auf 10 Fuder vermehrt werden
+müſſen.
+
+Zweiter Fall, man- beſtellt zwar nach demn
+Mergeln dieſelbe"Fläche mit Korn, bauet
+nun aber Weizen ſtatt des Nockens.
+
+Da der Weizen deu Boden ſtärker erſchöpft als
+
+der Rocca / fo wird uyy die Summe der ansſaut
+
+--- Page 50 ---
+“dent
+
+fraft
+uder.
+
+oben
+jeden
+8 zu
+ſchaft
+den
+
+ſchaft
+rgeli
+r den
+Zchfl
+jrend
+dunige
+erden
+
+dei
+bauet
+
+tals
+ſaut
+
+AACS: un
+
+genden Kräfte vergrößert ; die erſeßenden Kräfte
+werden dagegen eher vermindert als vermehrt.
+Die Fruchtfolge wird alſo ausſaugender, als ſie
+vorher war,
+
+Wenn man nun z. B. gefunden hätte, daß
+durch die Einführung des Weizenbaues der Verluſt
+in einem Umlauf von /; bis zu y*e vermehrt wäre:
+ſo iſ die Dungfrafce im Anfang des erſten
+Umlaufs . . . «150 Fuder
+der Verluſt xe e a 325
+
+bleiben 137,5
+der Dung 67
+
+Der zweite Umlauf beginnt mit. 14472
+Die Grenze des Sinfens iſt hier aber nicht bey 100,
+
+ſondern bey 12 >< 62 = 80; und erſt dann, wenn
+die Dungfraft des Bodens bis zu 80 Fuder abge-
+nommen hat, gelangt die Wirthſchafc zu einem
+beharrenden Zuſtand.
+
+Dritter Fall, man vergrößert na dem Mer-
+geln die Kornausfaat, wodurch eine Vere
+mehrung der ausſaugeden und eine Bermin-
+derung der erſegenden Kräfte entſteht.
+
+Durch dieſe Veränderung ſey die Ausſaugung,
+welche die Fruchtfolge in einem Umlauf erleidet, bis
+iu 7s geſtiegen,
+
+--- Page 51 ---
+— 216 —
+
+Die Dungkraft des Bodens if nach dem
+Mergeln . +/+ 150 Fudet
+
+der Verluſt LEL A i:
+bleiben 135
+der Dung OT
+
+Der zweite Umlauf beginnt mit. 141,7
+
+Went dieſe ausfaugende Wirthſchaft fortgeſegt
+wird, ſo fann ihr Sinfen nicht bey 100, ſondern
+erſt bei 10 ><63=663 Fuder, oder béi dem Ertrage
+von 4 Körner, ein Ende nehinen,
+
+Inu denjenigen Dreifelderwirthſchaften,, die wach
+Verhältniß der Größe des Ackerlandes tur wenig
+Wieſen haben, bleibt gewshnlich aus Mangel an Dung
+der entferntere Aer jedes Sehlages unbeſtellt liegen,
+und trágt dann in 3, 6 oder 9 Jahren nur eine
+Kornſaat. Sobald nun in einer ſolchen Wirthſchaft
+durch ds Mergeln die Stroherndten größer werden,
+und alſo auch die Dungmaſſe zunimmt, wird ein
+Theil des eutferntern Aers, der bloß aus Mange!
+an Dung liegen blied, auch gedüngt und mit in
+den regelmäßigen Turnus gezogen. Die vergrößerte
+Ki usſaat vermehrt nun abermals deu Stroh-
+Und Dunggewinn, und ſo fann durch das Mergela
+alles bisherige Außenland verſchwinden, und die
+ganze Ackerfläche der regelniäßigen Dreifelderwirch-
+ſchaft unterworfen werden.
+
+--- Page 52 ---
+Fuder
+
+7
+
+geſest
+ndern
+rtrage
+
+enah
+wenig
+Dung
+iegen,
+eine
+ſchaft
+erden,
+fd ein
+
+ANE
+
+Dieſe vergrößerte Kornausſaat erklärt nun znr
+Genñge/ warum das Mergely der Dreifelderwirthe
+ſchaften in der Regel ſo verderblich geworden ift;
+warum wir ſo viele Sagen vom Ausmergeln
+der Felder haben; und woher das Sprächwort :
+ader Mergel macht reiche Väter, aber arme Söhne‘
+entſtanden ift,
+
+Went mat aber / anſtatt den Mergel aufzufahe
+ren, ſo vielen Dung angekauft hátte, daß nun das
+ganze Feld eine nea hinzukommende Düngung von
+5 Fuder auf 100 Quadrat -Ruthen erhielte, und.
+man dann die Kornausſaat für immmer vergrößerte:
+ſo würde nach vielen Umläufen das Feld ebenfals
+ausgéſogen oder ausgemergelt ſepn. Man braucht
+alſo in dem Mergel feine eigenthümliche Kraft,
+wodurch das Ausmergeln bewirkt wird, za ſuchen;
+ſondern dies Ausſaugen oder Ausmergeln — welches
+fowohl beim Anfauf von Dung, als beim Mergel-
+fahren ſtate findén fann — wird allein durch ein
+infonſequentes Verfahren hervorgebracht.
+
+Vierter Fall, man vermindert na dem
+Mergeln die Kornauófaat wud vergrößert
+die Weide,
+
+Geſest / man hätte dadurc< die Ansſaugung ſo
+bermindert, daß der Verlyſt in einem Umlauf
+fatt 7 nur F beträgt: ſo iſi fr eiue Dunge
+
+--- Page 53 ---
+feaſt von 150 Fuder
+
+der Verluſt “rSE
+bleiben 1434
+
+der DungzuſchÄ È
+
+Der zweite Umlauf fängt wieder an mit 150 Fud.
+
+In dieſem Fall wrde der Ertrag immerwährend
+gleich bleiben, und man hätte nun durch Aufopfee
+rung eines Theils der Kernansſaat , die durch den
+Mergel bewirke Erhöhung der Fruchtbarkeit, für
+immer im Acker fundirt, -
+
+$. 17.
+Erſahrungsſas.
+
+Auf dem Gute Tellow, — und im mindern
+Grade faſt auf jedem Gute, — finden ſich in einem
+Boden, - deſſen Mittelertrag vor dem Mergeln
+8 Körner war, einzelne Stellen von einer ſchlechten
+phyfiſcden Beſchaffenheit und mit einem fehr durch-
+faſſenden Untergrund, deren Mittelertrag höchſtens
+48drner. betrug, Dieſe Stellen müſſen wegen ihrer
+Lage, zwiſchen dem andern Acker, und wegen ihrer
+geringen Ausdehnung, von jeher dieſelbe Düngung
+Und dieſelbe Beſtellung wie dex ringebeude gute
+Acker erhalten haben.
+
+Da nun das Gut Tellow bis zum Jahr 1800
+eine ſehr ausſaugende Wirthſchaft — die Vierfel-
+derwiethſchafe mit 3 Kornſaaten — gehabt hat, und
+da nach ‘dem Lehrſaß im vorigen $, jeder Boden,
+
+--- Page 54 ---
+ndert
+inem
+rgeln
+ten
+urch?
+ſtens
+
+ihrer
+
+ihrer
+gu
+
+gute
+
+=: BEG:
+
+der einer ausſangenden Fruchtfolge unterworfen iſt
+zulegt zum beharrenden Zuſtand gelangt : ſo müſſen
+auch-hier, ſowohl der gute Acfer als die ſchlechten
+Stellen / dieſem Zuſtand ſehr nabe gekommen ſeyn:
+
+Nach 5. 15 finden wir die Quantität Dung, die
+durch die Produktion eines Scheffels Rocken ver:
+gchré wird/ wenn wir, in einer ſich in gleicher Kraft
+erhaltenden Wirthſchaft , die Summe der ausſan-
+venden Kräfte gleich der Summe der erſegenden
+Kräfte ſegen.
+
+Wenden wir nun dieſe Rechnung auf den gegen-
+wärtigen Fall an, ſo ſind die Düngung und der
+Erſa aus Weide und Braache/ auf dém guten
+
+Boden, durch. die Nocfenerndte von 8 Körner und
+durch die beiden nacfolgenden Sommerſaaten —
+deren Ertrag ſich nach der Gróße der Winterkorni
+rute richtet — fonſumirt worden. Aus der ſpe
+ziellen Berechnung ergibt i dann, daß auf dieſem
+Boden durch die Produktion von 3, 1 Berliner
+Scheffel Rocken ein uder Dung verzehrt i. Auf
+den ſchlechten Stellen iſt dieſelbe Düngung und der
+Erſag aus Weide und Braache — der hier aber nur
+die Hälfte von dem, was der gute Acker gibt,
+beträgt — durch die Hälfte der Kornproduftion des
+guten Akers verzehrt worden, Aus der ſpeziellen
+Verechnung finden wir dann, daß auf dieſen Stellen
+
+--- Page 55 ---
+ein Fuder Dung nur zue Nahrung für 2 Scheffel
+Rocken hitigereicht hat.
+
+Ans dieſer Erfahrung ergibt ſ< nun das merk-
+würdige Faftum: daß auf dem einen Boden dieſelbe
+Kornerndte mehr Dung verzehrt als auf dem andern,
+und daß der eine Boden, durch die Hingabe ciner
+gleichen Dungmaſſe an die Pflanzen, mehr Korn
+liefert als der andre Boden.
+
+Die Eigenſchaf des Bodens von derſelben an
+die Pflanzen hingegebenen Dungmaſſe eine größ
+oder geringere Erndte zu liefern, nenne ich
+Qualität des Bodens, und bezeichne den Grad
+derſelben durc die Zahl der Berliner Schfl. Nocken,
+welche auf dieſem Boden durch die Ausſaugung
+von einem Fuder Dung erzeugt werden. So legen
+wir im vorliegenden Fall dem guten Acker eine
+Qualität von 3,1°, den ſchlechten Stellen eine
+Qualität von 2° bei.
+
+Die Verſchiedenheit in der Qualität des Bodens
+zeigt ſich, wenn auch nicht in einer ſo ſchroffen At-
+ſtuffang, doch nicht minder entſchieden, bei dec
+Vergleichung ganzer Güter. Das Gut, welches
+einen ſandigen Nockenboden hat wird bei gleicher
+Fruchtfolge und gleichem Dungzuſchuß ſc nie ¡u
+dem Körnerertrag erheben , den das Gut mit einen
+<dnen Gerſtenboden erlangt, Derſelbe Dungzu-
+ſchuß wird dort von einer geringern , hier von einer
+
+grö
+bezel
+dens
+fúr
+viell
+liegt
+lice
+Sod
+in ei
+der
+gena
+Feni
+ſeyn
+mal
+gebu
+uud
+seha
+jeder
+
+ein |
+
+daß
+Bod
+rung
+Chet
+uns
+wel
+heco
+Te
+
+--- Page 56 ---
+ieſelbe
+ndern,
+‘einer
+
+Korn
+
+en an
+rôfiere
+ch die
+Grad
+ofert
+ugunz
+legett
+eint
+1 eint
+
+oden
+n Abe
+ti dec
+elches
+leicher
+hie zu
+einen
+ingzue
+i einer
+
+größern Kornerndte konfamirtz und grade dies
+bezeichnet den Unterſchied in der Qualität des Bo-
+dens. Für den Flugſaud. i die Qualilät = 0°,
+fár den ſ{öanſlen Weizenboden auf der Höhe 3,3°—
+vielleicht 3,5°; zwiſchen dieſen beiden Endpunkten
+liegt nun in unzähligen Abſtufungen der gewöhne
+liche Ackerboden; ich zweiſle aber, ob man den
+Boden, deſſen Qualität nicht über 2° iſt, wenn er
+in einer zuſammenhängenden Fläche liegt, irgendwo
+der Kultur werth hält. Zu einer wiſſenſchafclich
+genauen Abſchähung des Bodens ſcheint mir die
+Fenutniß der Qualität deſfelben unentbehrlich zu
+ſeyn; aber es wird ſehr ſchwierig ſeyn, die Merke
+inale aufzufinden, woran die Qualität des Bodetis
+óebunden und zu erfennen iſt. Bey gleicher Lage
+und gleichem Untergrund ſcheint ſie mic dem Thon-
+gehalt am mehrſien in Verbindung zu ſichen. Auf
+jeden Fall bleibr hier für füuftige Forſchungea noch
+ein weites Feld ofen.
+
+Die Erklärung der intereſſanten Erſcheinung,
+daß dieſetbe Pflanze nach der Verſchiedenheit des
+Bodens eine größere oder geringere Quancitäc Nahe
+rung zu ihrer Ausbildung bedarf, mi
+Chemikern und Phyſifern überlaſſen; wir halten
+uns an die Thatſache ſelbſt und ſuchen die Reſultate,
+welche daraus für die praftiſche Landwirthſchaft
+hervorgehen, zu entwicfeln,
+
+Tellow im Februar 1821.
+
+I. Hv, Thünen.
